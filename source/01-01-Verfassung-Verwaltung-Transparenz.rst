@@ -24,26 +24,26 @@ Verfassungsstaat auf der Höhe der Zeit
 
 * Auf Grundlage bisheriger Vorarbeiten fortgesetzte Verhandlung über weitere Kompetenzbereinigungen zwischen Bund, Ländern und Gemeinden
 
-    * Weitere Reduktion der Doppelgleisigkeiten zwischen Grundsatzgesetzgebung und Ausführungsgesetzgebung
-    * Schaffung klarerer Regelungs- und Verantwortungsstrukturen zwischen den Gebietskörperschaften, um einen fairen Finanzausgleich zu ermöglichen
-    * Schaffung einer verfassungsrechtlichen Grundlage, damit Amtssachverständige auch in anderen Bundesländern tätig werden können
+  * Weitere Reduktion der Doppelgleisigkeiten zwischen Grundsatzgesetzgebung und Ausführungsgesetzgebung
+  * Schaffung klarerer Regelungs- und Verantwortungsstrukturen zwischen den Gebietskörperschaften, um einen fairen Finanzausgleich zu ermöglichen
+  * Schaffung einer verfassungsrechtlichen Grundlage, damit Amtssachverständige auch in anderen Bundesländern tätig werden können
 
 * Gemeinsame Prüfung und Ausarbeitung eines zeitgemäßen Kompetenzrahmens (einschließlich der Möglichkeit von Art. 15a B-VG-Vereinbarungen) zur Erreichung der Klimaziele
 
 * Steigerung der Effizienz und Transparenz von Art.-15a-Vereinbarungen zwischen Bund, Ländern und Gemeinden
 
-    * Auslotung der Möglichkeiten der Reduktion von Art.-15a-Vereinbarungen sowie mögliche Integration bestehender Art.-15a-Vereinbarungen in den nächsten Finanzausgleich
-    * Systematische Erfassung von finanziellen Mitteln und Abbildung im Haushalt
-    * Bestehende Vereinbarungen müssen in Hinblick auf Mischfinanzierungen und Kompetenzverschiebungen hinterfragt werden.
-    * Einführung von Benchmarks unter vergleichbaren Grundlagen, damit Vergleichsmöglichkeiten der jeweiligen Gebietskörperschaften (Bundesländer-Vergleiche, Gemeinde-Vergleiche etc.) gegeben sind
-    * Prüfung der Vertragsfähigkeit von Städten, Gemeinden und Gemeindeverbänden für Art.-15a-B-VG-Vereinbarungen
+  * Auslotung der Möglichkeiten der Reduktion von Art.-15a-Vereinbarungen sowie mögliche Integration bestehender Art.-15a-Vereinbarungen in den nächsten Finanzausgleich
+  * Systematische Erfassung von finanziellen Mitteln und Abbildung im Haushalt
+  * Bestehende Vereinbarungen müssen in Hinblick auf Mischfinanzierungen und Kompetenzverschiebungen hinterfragt werden.
+  * Einführung von Benchmarks unter vergleichbaren Grundlagen, damit Vergleichsmöglichkeiten der jeweiligen Gebietskörperschaften (Bundesländer-Vergleiche, Gemeinde-Vergleiche etc.) gegeben sind
+  * Prüfung der Vertragsfähigkeit von Städten, Gemeinden und Gemeindeverbänden für Art.-15a-B-VG-Vereinbarungen
 
 * Verwaltung/Kommunale Dienstleistungen.
 
-    * Deshalb werden die Zuständigkeiten bei den Gebietskörperschaften klar zugeordnet.
-    * Effizienz- und Qualitätsvorteile von Kooperationen zwischen Gemeinden werden stärker genutzt (Abschaffung der Umsatzsteuerpflicht).
-    * Schutz der kommunalen Grundversorgung
-    * Transparente (Veröffentlichungen aller Verordnungen im RIS)
+  * Deshalb werden die Zuständigkeiten bei den Gebietskörperschaften klar zugeordnet.
+  * Effizienz- und Qualitätsvorteile von Kooperationen zwischen Gemeinden werden stärker genutzt (Abschaffung der Umsatzsteuerpflicht).
+  * Schutz der kommunalen Grundversorgung
+  * Transparente (Veröffentlichungen aller Verordnungen im RIS)
 
 * Bekenntnis zum Erhalt des Bargelds im Rahmen der geltenden Geldwäschebestimmungen
 
@@ -53,41 +53,41 @@ Verfassungsstaat auf der Höhe der Zeit
 
 * Verstärkte Schaffung von auch Gebietskörperschaften übergreifender One-Stop-Shops für Bürgerinnen bzw. Bürger und Unternehmerinnen bzw. Unternehmer
 
-    * Forcierung der Vollkonzentration bei Anlagengenehmigungen unter Wahrung der materienrechtlichen Parteienrechte sowie Genehmigungskriterien und Gemeindeautonomie
-    * Vollkonzentration des UVP-Verfahrens nach dem 3. Abschnitt des UVP-G 2000 (Bundesstraßen und Hochleistungsstrecken) nach dem Vorbild der Regelungen des 2. Abschnitts des UVP-G 2000.
+  * Forcierung der Vollkonzentration bei Anlagengenehmigungen unter Wahrung der materienrechtlichen Parteienrechte sowie Genehmigungskriterien und Gemeindeautonomie
+  * Vollkonzentration des UVP-Verfahrens nach dem 3. Abschnitt des UVP-G 2000 (Bundesstraßen und Hochleistungsstrecken) nach dem Vorbild der Regelungen des 2. Abschnitts des UVP-G 2000.
 
 * Pauschalierter ideeller Schadenersatz bei Grundrechtsverletzungen.
 
 * Volksanwaltschaft:
 
-	* Stärkung der Volksanwaltschaft und Ausstattung mit bedarfsgerechten Ressourcen hinsichtlich der Abwicklung der Heimopferrentenregelung
+  * Stärkung der Volksanwaltschaft und Ausstattung mit bedarfsgerechten Ressourcen hinsichtlich der Abwicklung der Heimopferrentenregelung
 
 * Weiterentwicklung des datenschutzrechtlichen Grundrechtschutzes
 
-    * Ausweitung der Vertretungsrechte nach §28 DSG auf Verfahren nach § 29 DSG für Unternehmen mit einer Unternehmensgröße analog der Regelung in der österreichischen Digitalsteuer
+  * Ausweitung der Vertretungsrechte nach §28 DSG auf Verfahren nach § 29 DSG für Unternehmen mit einer Unternehmensgröße analog der Regelung in der österreichischen Digitalsteuer
 
 Ein neuer Finanzausgleich
 -------------------------
 
 * Bekenntnis zum Finanzausgleichs-Paktum/neuer Finanzausgleich
 
-    * FAG zielorientiert entlang strategischer Ziele erarbeiten
-    * Bestmögliche Zusammenführung der Zuständigkeiten bezüglich Verantwortung und Finanzierung; Regeln und Kriterien für Entscheidungs- und Vollziehungspraxis
-    * Bundesweite Planungs- und Steuerungsmechanismen, Festlegung einheitlicher Wirkungsziele und im Einklang damit Maßnahmen und Indikatoren (z.B. soziodemographische, geographische, topographische) zu deren Messung
-    * Kooperationsbereite Gemeinden sollen aufgrund höherer finanzieller Erfordernisse (z.B. Lage, Betreuungsbedarfs, Siedlungsstruktur etc.) aber auch zentraler und überörtlicher Funktionen mehr Mittel aus dem FAG bekommen.
-    * Die Mittel aus dem FAG sind zudem an die Einhaltung der Klimaziele gekoppelt.
-    * Konkrete Zuordnung und damit Verantwortung für die Ergebnisse zu den jeweiligen Gebietskörperschaften (Aufgabenentflechtung)
-    * Schaffung klarer Verantwortlichkeiten sowie Prüfung einer Stärkung der Steuerautonomie für Länder und Gemeinden
-    * Reduktion der Transferströme, wichtig ist dabei vor allem, dass Wechselwirkungen im Finanzausgleich beachtet werden.
+  * FAG zielorientiert entlang strategischer Ziele erarbeiten
+  * Bestmögliche Zusammenführung der Zuständigkeiten bezüglich Verantwortung und Finanzierung; Regeln und Kriterien für Entscheidungs- und Vollziehungspraxis
+  * Bundesweite Planungs- und Steuerungsmechanismen, Festlegung einheitlicher Wirkungsziele und im Einklang damit Maßnahmen und Indikatoren (z.B. soziodemographische, geographische, topographische) zu deren Messung
+  * Kooperationsbereite Gemeinden sollen aufgrund höherer finanzieller Erfordernisse (z.B. Lage, Betreuungsbedarfs, Siedlungsstruktur etc.) aber auch zentraler und überörtlicher Funktionen mehr Mittel aus dem FAG bekommen.
+  * Die Mittel aus dem FAG sind zudem an die Einhaltung der Klimaziele gekoppelt.
+  * Konkrete Zuordnung und damit Verantwortung für die Ergebnisse zu den jeweiligen Gebietskörperschaften (Aufgabenentflechtung)
+  * Schaffung klarer Verantwortlichkeiten sowie Prüfung einer Stärkung der Steuerautonomie für Länder und Gemeinden
+  * Reduktion der Transferströme, wichtig ist dabei vor allem, dass Wechselwirkungen im Finanzausgleich beachtet werden.
 
 * Die Erreichung der Klimaziele als gemeinsame Aufgabe
 
-    * Prüfung eines Finanzverantwortlichkeitsmechanismus in Bezug auf die von der EU vorgegebenen Klimaschutzziele (z.B. stärkere Leistungsorientierung beim ÖPNV, Ökologisierung der Wohnbauförderung und Dekarbonisierung des Wohnbaus).
+  * Prüfung eines Finanzverantwortlichkeitsmechanismus in Bezug auf die von der EU vorgegebenen Klimaschutzziele (z.B. stärkere Leistungsorientierung beim ÖPNV, Ökologisierung der Wohnbauförderung und Dekarbonisierung des Wohnbaus).
 
 * Finanzen
 
-    * Stärkung des Eigenanteils der Finanzierung der Gemeinden
-    * Prüfung einer Reform der gemeinderelevanten Steuern hinsichtlich Strukturen, Wirksamkeit und Bemessungsgrundlagen
+  * Stärkung des Eigenanteils der Finanzierung der Gemeinden
+  * Prüfung einer Reform der gemeinderelevanten Steuern hinsichtlich Strukturen, Wirksamkeit und Bemessungsgrundlagen
 
 * Prüfung von Möglichkeiten für Sanktionen im Rahmen des Finanzausgleichs bei Nichtbefüllung der Transparenz-Datenbanken gegenüber den Bundesländern
 
@@ -118,14 +118,14 @@ Volksgruppen
 
 * Zweisprachige Bezirksgerichtsbarkeit der Volksgruppen
 
-    * Absicherung der zweisprachigen Bezirksgerichtsbarkeit im Siedlungsgebiet; bei Zusammenlegungen von Bezirksgerichten im zweisprachigen Gebiet ist sicherzustellen, dass in den Volksgruppensprachen ein gleichberechtigter und leistungsfähiger Teil der österreichischen Justiz bleibt 
+    * Absicherung der zweisprachigen Bezirksgerichtsbarkeit im Siedlungsgebiet; bei Zusammenlegungen von Bezirksgerichten im zweisprachigen Gebiet ist sicherzustellen, dass in den Volksgruppensprachen ein gleichberechtigter und leistungsfähiger Teil der österreichischen Justiz bleibt
 
 * Prüfung der Annerkung der jenischen Volksgruppe
 
 Stärkung der Grund- und Menschenrechte
 --------------------------------------
 
-* Wiederaufnahme der Allparteienverhandlungen zur Erarbeitung eines umfassenden österreichischen Grundrechtskatalogs und Prüfung einer allfälligen Erweiterung des Grundrechtsschutzes sowie Erarbeitung eines einheitlichen Katalogs von Staatszielbestimmungen 
+* Wiederaufnahme der Allparteienverhandlungen zur Erarbeitung eines umfassenden österreichischen Grundrechtskatalogs und Prüfung einer allfälligen Erweiterung des Grundrechtsschutzes sowie Erarbeitung eines einheitlichen Katalogs von Staatszielbestimmungen
 
 * Verankerung der Menschenwürde
 
@@ -148,7 +148,7 @@ Verwaltung in die Zukunft führen
 
 * Einrichtung einer interministeriellen Arbeitsgruppe, die Deregulierungspotentiale erhebt und für die Umsetzung verantwortlich ist, einschließlich des Verwaltungsstrafrechtes
 
-* Einführung einer Bürokratiebremse, damit Regulierung kein Selbstzweck ist 
+* Einführung einer Bürokratiebremse, damit Regulierung kein Selbstzweck ist
 
 	* Informations-, Melde- und Aushangpflichten sollen evaluiert werden mit dem Ziel, sie, falls notwendig und zweckmäßig, zu reduzieren.
 
@@ -246,7 +246,7 @@ Wahlrechtsreform
 
 * Drei Wochen vor einer Wahl müssen Wahlberechtigte die Möglichkeit haben, die Briefwahl persönlich zu beantragen und unmittelbar im Anschluss auch auf der Gemeinde ihre Stimme abzugeben.
 
-    * Dafür ist es notwendig, sich an die Lebensrealität der Bürgerinnen und Bürger anzupassen und beispielsweise auch Abendtermine zu ermöglichen. 
+    * Dafür ist es notwendig, sich an die Lebensrealität der Bürgerinnen und Bürger anzupassen und beispielsweise auch Abendtermine zu ermöglichen.
     * Den Wahlberechtigten, die selbstverständlich einen Identitätsnachweis liefern müssen, sind adäquate Rahmenbedingungen zu bieten (getrennter Raum, Wahlzelle, ausreichend Zeit). Die Verwahrung der Stimmen liegt in der Verantwortung der Gemeinde und muss durch eine versiegelte Urne sichergestellt werden.
     * Bestehende Regelungen zur Mitnahme von Briefwahlkarten sowie deren Versand bleiben aufrecht.
     * Die Regelung bzgl. der Abgabe der Stimme mittels Briefwahlkarte in einem fremden Wahllokal bleibt bestehen. Wie bisher zählt die Bezirkswahlkommission diese Stimmen aus.
@@ -270,7 +270,7 @@ Wahlrechtsreform
 
 * Prüfung der Kammerwahlordnungen unter Einbeziehung der betroffenen Kammern, um Wahlen transparenter, für die Wahlberechtigten serviceorientierter zu gestalten und Missbrauch hintanzuhalten
 
-* Prüfung einer einheitlichen Abgeltung von Wahlbeisitzerinnen und Wahlbeisitzer 
+* Prüfung einer einheitlichen Abgeltung von Wahlbeisitzerinnen und Wahlbeisitzer
 
 * Prüfung der Einrichtung eines Pools für Bürgerinnen und Bürger zur Beschickung der Wahlkommissionen hinsichtlich der von den Parteien nicht besetzten Beiratspositionen.
 
@@ -415,7 +415,7 @@ Wahlwerbungskosten
 
 Sponsoring und Inserate
 
-* Jeweils gesonderter Ausweis von Einnahmen aus Sponsoring und Inseraten bei den einzelnen Organisationseinheiten entsprechend der Rechenschaftsberichte 
+* Jeweils gesonderter Ausweis von Einnahmen aus Sponsoring und Inseraten bei den einzelnen Organisationseinheiten entsprechend der Rechenschaftsberichte
 
 * Erfassung von Inseraten in Medien, deren Medieninhaber eine nahestehende Organisation oder eine Gliederung der Partei ist
 
