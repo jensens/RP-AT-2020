@@ -3,406 +3,148 @@ Pflege
 ------
 
 .. todo::
-   Formatieren, Überarbeiten, Original gegenchecken
+  Formatieren, Überarbeiten, Original gegenchecken
 
-bestehenden
+Pflegebedürftigkeit ist eines der großen unberechenbaren Risiken des Lebens wie Unfall, Krankheit oder Arbeitslosigkeit. Mehr als 460.000 Menschen beziehen in Österreich Pflegegeld und mehr als 950.000 Menschen pflegen ihre Angehörigen. Die demographischen Entwicklungen lassen diese Zahlen in den nächsten Jahren deutlich ansteigen. Die Bündelung und der Ausbau der bestehenden Finanzierungsströme (Pflegeversicherung) seitens des Bundes werden dazu beitragen, diese Herausforderungen zu meistern.
 
-Pflegebedürftigkeit
-ist  eines  der  großen
-unberechenbaren  Risiken  des  Lebens  wie
-Unfall,  Krankheit  oder  Arbeitslosigkeit.
-Mehr  als  460.000  Menschen  beziehen  in
-Österreich  Pflegegeld  und  mehr  als  950.000
-Menschen  pflegen  ihre  Angehörigen.  Die
-demographischen  Entwicklungen
-lassen
-diese Zahlen in den nächsten Jahren deutlich
-ansteigen.  Die  Bündelung  und  der  Ausbau
-der
-Finanzierungsströme
-(Pflegeversicherung)  seitens  des  Bundes
-werden  dazu  beitragen,  diese  Heraus-
-forderungen zu meistern.
-Qualitätsvolle  Pflege  ermöglicht  ein  Leben
-in  Würde.  Daher  soll  jeder  Mensch,  der  sie
-benötigt,  die  bestmögliche  Pflege  erhalten.
-Die  neue  Bundesregierung  erkennt  die
-großartige Arbeit, die bereits jetzt in diesem
-Bereich, sowohl von engagierten Pflegerinnen
-und  Pflegern  als  auch
-im  Rahmen  der
-Familienarbeit, in der Regel von Frauen, mit
-großer  Sorgfalt  und  Zuwendung  geleistet
-wird,  an.  Der  Staat  Österreich  darf  die
-Verantwortung dafür aber nicht allein auf die
-Schultern  der  Angehörigen  laden,  sondern
-hat  seine  wichtige  Aufgabe  wahrnehmen.
-Das
-Zusammenspiel
-zwischen  der  professionellen  Pflege,  den
+Qualitätsvolle Pflege ermöglicht ein Leben in Würde. Daher soll jeder Mensch, der sie benötigt, die bestmögliche Pflege erhalten. Die neue Bundesregierung erkennt die großartige Arbeit, die bereits jetzt in diesem Bereich, sowohl von engagierten Pflegerinnen und Pflegern als auch im Rahmen der Familienarbeit, in der Regel von Frauen, mit großer Sorgfalt und Zuwendung geleistet wird, an. Der Staat Österreich darf die Verantwortung dafür aber nicht allein auf die Schultern der Angehörigen laden, sondern hat seine wichtige Aufgabe wahrnehmen. Das bestmögliche Zusammenspiel zwischen der professionellen Pflege, den Unterstützungsstrukturen und der Betreuung zu Hause gilt es, politisch auszuloten.
 
-Unterstützungsstrukturen und der Betreuung
-zu Hause gilt es, politisch auszuloten.
-Es
-ist  deshalb  unsere  Aufgabe,  pflege-
-bedürftigen älteren Menschen Hilfe zu leisten,
-die wegen der Schwere der Pflegebedürftig-
-keit  auf  solidarische  Unterstützung  an-
-gewiesen  sind.  Es
-ist  daher  notwendig,
-in  Abstimmung  mit  den
-zuständigen
-Bundesländern  eine  grundlegende  Reform
-der Pflege sicherzustellen. Wir werden einen
-Fokus  auf  die  bestmögliche  Unterstützung
-von  betreuungs-  und  pflegebedürftigen
-Menschen  sowie  ihrer  An-  und  Zugehörigen
-und  Pflegenden  legen.  Dazu  zählt  neben
-mehr  Wertschätzung  auch  die  Möglichkeit,
-durch  präventive  Maßnahmen  persönliche,
-gesundheitliche  oder  gar  finanzielle  Folgen
-im  Alter  abzufedern.  Gerade  sog.  „young
-carers“  (pflegende  Kinder  und  Jugendliche)
-sind verstärkt präventiv zu entlasten.
-Um  Menschen  zu  ermöglichen,  weiterhin  in
-ihrem  Zuhause  betreut  zu  werden,  wird  zur
-Entlastung  der  pflegenden  Angehörigen
-die  mobile
-Betreuung
-ausgebaut  und  weiterentwickelt.  Ziel  ist  es,
-Entlastungsangebote,  wie  zum  Beispiel  eine
-Ersatzpflege und die Möglichkeit, einmal pro
+Es ist deshalb unsere Aufgabe, pflegebedürftigen älteren Menschen Hilfe zu leisten, die wegen der Schwere der Pflegebedürftigkeit auf solidarische Unterstützung angewiesen sind. Es ist daher notwendig, in Abstimmung mit den zuständigen Bundesländern eine grundlegende Reform der Pflege sicherzustellen. Wir werden einen Fokus auf die bestmögliche Unterstützung von betreuungs- und pflegebedürftigen Menschen sowie ihrer An- und Zugehörigen und Pflegenden legen. Dazu zählt neben mehr Wertschätzung auch die Möglichkeit, durch präventive Maßnahmen persönliche, gesundheitliche oder gar finanzielle Folgen im Alter abzufedern. Gerade sog. „young carers“ (pflegende Kinder und Jugendliche) sind verstärkt präventiv zu entlasten.
 
-bestmögliche
+Um Menschen zu ermöglichen, weiterhin in ihrem Zuhause betreut zu werden, wird zur Entlastung der pflegenden Angehörigen die mobile Pflege und Betreuung ausgebaut und weiterentwickelt. Ziel ist es, Entlastungsangebote, wie zum Beispiel eine Ersatzpflege und die Möglichkeit, einmal pr  * Monat einen pflegefreien Tag zu bekommen, zu schaffen. Die Pflege eines bzw. einer Angehörigen soll möglich und mit dem Beruf vereinbar sein, wenn sie gebraucht wird. Durch ein ausgeweitetes Angebot an Beratung und Information sollen Pflegende zusätzlich in ihrer Arbeit unterstützt werden.
 
-Pflege
+Ziel der neuen Bundesregierung ist es, qualitätsvolle Pflege auch in Zukunft zu sichern. Eine Personaloffensive sowie eine Erweiterung und Flexibilisierung des Ausbildungsangebots werden dem Pflegekräftemangel entgegengesetzt. Um die vorhandenen finanziellen, personellen und fachlichen Ressourcen und Mittel bestmöglich einzusetzen und die zukünftigen Versorgungsstrukturen zu planen, wird es eine neue, engere und strukturierte Zusammenarbeit zwischen allen Akteurinnen und Akteuren geben.
 
-und
+Eine besondere Form der Pflege stellt die Palliativ- und Hospizpflege dar. Diese versucht, Menschen mit unheilbaren Krankheiten ein Lebensende in Würde zu ermöglichen. Diese Form der Pflege hat in Österreich oftmals durch das Engagement von vielen Freiwilligen funktioniert. Gerade in dieser schwierigen Zeit braucht es aber eine unkomplizierte und vor allem sichere Stütze für pflegebedürftige Menschen und ihre Angehörigen. In dieser Legislaturperiode wird die Finanzierung der Palliativpflege und des Hospizes auf sichere Beine gestellt.
 
-Seite 242
+Weiters ist es wichtig, den Gesundheits- sowie Pflegebereich stets gesamthaft zu betrachten. Ziel muss es sein, durch Prävention und Rehabilitation den Anteil an gesunden Jahren zu erhöhen und somit Pflegebedürftigkeit s  * lange wie möglich zu vermeiden.
 
-Regierungsprogramm 2020 – 2024Fahne ÖsterreichEine
-
-Erweiterung
-
-Personaloffensive
-
-Monat einen pflegefreien Tag zu bekommen,
-zu  schaffen.  Die  Pflege  eines  bzw.  einer
-Angehörigen soll möglich und mit dem Beruf
-vereinbar sein, wenn sie gebraucht wird. Durch
-ein ausgeweitetes Angebot an Beratung und
-Information  sollen  Pflegende  zusätzlich  in
-ihrer Arbeit unterstützt werden.
-Ziel  der  neuen  Bundesregierung  ist    es,
-in  Zukunft  zu
-qualitätsvolle  Pflege  auch
-sichern.
-sowie
-eine
-und
-Flexibilisierung
-des  Ausbildungsangebots  werden  dem
-Pflegekräftemangel  entgegengesetzt.  Um
-die  vorhandenen  finanziellen,  personellen
-und
-fachlichen  Ressourcen  und  Mittel
-bestmöglich einzusetzen und die zukünftigen
-Versorgungsstrukturen
-zu  planen,  wird
-es  eine  neue,  engere  und  strukturierte
-Zusammenarbeit  zwischen  allen  Akteurinnen
-und Akteuren geben.
 Grundprinzipien
-•  Die  Unterstützung  von  betreuungs-  und
-pflegebedürftigen  Menschen  und
-ihrer
-An- und Zugehörigen ist nicht nur Aufgabe
-der  Familien  selbst,  sondern  ein  gesamt-
-gesellschaftlicher Auftrag
-•  Schwerpunkt  rechtzeitige  Prävention,  bei
-Pflegebedürftigen,  pflegenden  Angehöri-
-gen und Pflegekräften
-•  So viel wie möglich daheim und ambulant –
-so viel wie nötig stationär
-•  Wohnortnahe und dezentrale Angebote
-•  Personaloffensive
+---------------
 
-vielen
+- Die Unterstützung von betreuungs- und pflegebedürftigen Menschen und ihrer An- und Zugehörigen ist nicht nur Aufgabe der Familien selbst, sondern ein gesamtgesellschaftlicher Auftrag
 
-Freiwilligen
+- Schwerpunkt rechtzeitige Prävention, bei Pflegebedürftigen, pflegenden Angehörigen und Pflegekräften 
 
-Eine  besondere  Form  der  Pflege  stellt
-die  Palliativ-  und  Hospizpflege  dar.  Diese
-versucht,  Menschen  mit
-unheilbaren
-Krankheiten  ein  Lebensende  in  Würde  zu
-ermöglichen. Diese Form der Pflege hat in
-Österreich  oftmals  durch  das  Engagement
-von
-funktioniert.
-Gerade  in  dieser  schwierigen  Zeit  braucht
-es  aber  eine  unkomplizierte  und  vor
-allem  sichere  Stütze  für  pflegebedürftige
-Menschen und ihre Angehörigen. In dieser
-Legislaturperiode wird die Finanzierung der
-Palliativpflege und des Hospizes auf sichere
-Beine gestellt.
-Weiters ist es wichtig, den Gesundheits- sowie
-Pflegebereich stets gesamthaft zu betrachten.
-Ziel  muss  es  sein,  durch  Prävention  und
-Rehabilitation den Anteil an gesunden Jahren
-zu erhöhen und somit Pflegebedürftigkeit so
-lange wie möglich zu vermeiden.
+- S  * viel wie möglich daheim und ambulant – s  * viel wie nötig stationär
 
-•  Weiterentwicklung
-bestehenden
-des
-Systems  der  Pflegesicherung  und  Sicher-
-stellung der Finanzierung
-•  Betreuung  und  Pflege  sind  weiblich  –
-entsprechenden Fokus setzen
-•  Pflegebedürftigkeit  vermeiden  bzw.  den
-Anteil  an  gesunden  Jahren  im  Lebenslauf
-erhöhen
-•  Präventive Entlastung für pflegende Ange-
-hörige,  insbesondere  der  „young  carers“
-(pflegende Kinder und Jugendliche)
+- Wohnortnahe und dezentrale Angebote
+
+- Personaloffensive
+
+- Weiterentwicklung bestehenden des Systems der Pflegesicherung und Sicherstellung der Finanzierung
+
+- Betreuung und Pflege sind weiblich – entsprechenden Fokus setzen
+
+- Pflegebedürftigkeit vermeiden bzw. den Anteil an gesunden Jahren im Lebenslauf erhöhen
+
+- Präventive Entlastung für pflegende Angehörige, insbesondere der „young carers“ (pflegende Kinder und Jugendliche)
 
 Unterstützung pflegender Angehöriger
-•  Die Rahmenbedingungen der selbstständig
-•  Ziel  ist  die  Einführung  eines  Pflege-Da-
-Erwerbstätigen beim Pflegekarenzgeld wer-
-heim-Bonus für pflegende Angehörige
-den  im  Sinne  der  Vereinbarkeit  von  Pflege
-und Beruf verbessert.
-•  In  Zusammenarbeit  mit  den  Ländern:  Aus-
-bau  der  kostenlosen  und  wohnortnahen
-•  Pflegende  Angehörige  von  an  Demenz  er-
-Beratung zu Pflege und Betreuung für pfle-
-krankten  Menschen  unterstützen:  In  der
-gebedürftige  Menschen  und  deren  Ange-
-Demenzstrategie  wird  eine  Reihe  von
-hörige  bzw.  Case  Management  in  Fragen
-Handlungsempfehlungen beschrieben. Wir
-zu Unterstützungsangeboten, Finanzierung,
-setzen einen Schwerpunkt auf Maßnahmen
-Rechtsfragen;  zur  Gestaltung  von  individu-
-zur Entlastung und Begleitung von pflegen-
-ellen Pflege- und Betreuungsarrangements
-den Angehörigen. Sie werden über speziell
-geschultes  Personal  bzw.  ambulante  ge-
-•  Stärkung der Selbsthilfe und Zivilgesellschaft
-rontopsychiatrische  Dienste  und  adäquate
-sowie  des  ehrenamtlichen  Engagements:
-Betreuungsangebote  sowie  Tagesbetreu-
-Stärkere Förderung von Angehörigengrup-
-ungen mit gerontopsychiatrischem Schwer-
-pen,  Besuchsdiensten  und  Koordination
-punkt unterstützt.
-von Freiwilligen
-•  Demenzstrategie
-österreichweit
-•  Pflegefreier  Tag  als  Unterstützung  für  pfle-
-rollen und mit Ressourcen versehen
-gende Angehörige und Burn-out-Prophyla-
-xe: Ziel ist es, dass Angehörige, die die Pfle-
-•  Projekt  Community  Nurses
-500
-in
-ge und Betreuung übernehmen, das Recht
-Ge meinden: Angehörige erhalten professi-
-auf einen pflegefreien Tag pro Monat erhal-
-onelle  Unterstützung  von  Community  Nur-
-ten
-ses  als  zentrale  Ansprechpersonen  für  die
-zu Pflegenden, die Angehörigen, zur Koor-
-•  Unterstützung  von  Kindern  und  Jugendli-
-dination  von  mobilen  Pflege-  und  Betreu-
-chen als pflegende und betreuende Ange-
-ungsdiensten,  medizinischen  und  sozialen
-hörige: erhöhte Aufmerksamkeit gegenüber
-Leistungen sowie zur Koordination von The-
-dieser  Gruppe  und  Erarbeitung  zielgrup-
-rapien. Community Nurses haben eine zent-
-penorientierter  und  innovativer  Unterstüt-
-rale Bedeutung im Präventionsbereich, also
-zungsangebote
-VOR Eintreten der Pflegebedürftigkeit (prä-
-ventive  Hausbesuche  ab  dem  75.  Lebens-
-•  Verbesserung  der  Vereinbarkeit  von  Pflege
-jahr, Ernährung, Mobilität etc.)
-und  Beruf:  Bei  Arbeitgeberinnen  und  Ar-
-beitgebern  ist  verstärkt  das  Bewusstsein
-für  die  Lebenssituation  pflegender  Ange-
-höriger  zu  schaffen,  die  Pflegeteilzeit  oder
--karenz  beanspruchen  (wollen).  Es  werden
-Rahmenbedingungen  gefordert,  die  es  er-
-möglichen, individuelle und flexible Arbeits-
-arrangements  zu  vereinbaren  (z.B.  Arbeits-
-zeit, Teleworking ...)
+------------------------------------
 
-aus-
+- Ziel ist die Einführung eines Pflege-Daheim-Bonus für pflegende Angehörige
 
-Seite 243
+- In Zusammenarbeit mit den Ländern: Ausbau der kostenlosen und wohnortnahen Beratung zu Pflege und Betreuung für pflegebedürftige Menschen und deren Angehörige bzw. Case Management in Fragen zu Unterstützungsangeboten, Finanzierung, Rechtsfragen; zur Gestaltung von individuellen Pflege- und Betreuungsarrangements
 
-Seite 244
+- Stärkung der Selbsthilfe und Zivilgesellschaft sowie des ehrenamtlichen Engagements: Stärkere Förderung von Angehörigengruppen, Besuchsdiensten und Koordination von Freiwilligen
 
-Regierungsprogramm 2020 – 2024Regierungsprogramm 2020 – 2024Fahne ÖsterreichFahne Österreich•  Rechtssicherheit für Eltern von Kindern mit
-chronischer  Krankheit  bze.  Behinderung  in
-Abstimmung  mit  den  Ländern:  Kinder  mit
-chronischen  Erkrankungen  oder  einer  Be-
-hinderung brauchen Sicherheit für ihr wei-
-teres, selbstbestimmtes und abgesichertes
-Leben  nach  dem  Tod  der  sie  pflegenden
-Eltern, auch wenn diese Kinder im Erwach-
-senenalter  sind.  Dazu  gilt  es,  Wohn-  und
-Arbeitsmodelle zu erarbeiten und zur Ver-
-fügung zu stellen.
+- Pflegefreier Tag als Unterstützung für pflegende Angehörige und Burn-out-Prophylaxe: Ziel ist es, dass Angehörige, die die Pflege und Betreuung übernehmen, das Recht auf einen pflegefreien Tag pr  * Monat erhalten 
+
+- Unterstützung von Kindern und Jugendlichen als pflegende und betreuende Angehörige: erhöhte Aufmerksamkeit gegenüber dieser Gruppe und Erarbeitung zielgruppenorientierter und innovativer Unterstützungsangebote 
+
+- Verbesserung der Vereinbarkeit von Pflege und Beruf: Bei Arbeitgeberinnen und Arbeitgebern ist verstärkt das Bewusstsein für die Lebenssituation pflegender Angehöriger zu schaffen, die Pflegeteilzeit oder -karenz beanspruchen (wollen). Es werden Rahmenbedingungen gefordert, die es ermöglichen, individuelle und flexible Arbeitsarrangements zu vereinbaren (z.B. Arbeitszeit, Teleworking ...)
+
+- Die Rahmenbedingungen der selbstständig Erwerbstätigen beim Pflegekarenzgeld werden im Sinne der Vereinbarkeit von Pflege und Beruf verbessert. 
+
+- Pflegende Angehörige von an Demenz erkrankten Menschen unterstützen: In der Demenzstrategie wird eine Reihe von Handlungsempfehlungen beschrieben. Wir setzen einen Schwerpunkt auf Maßnahmen zur Entlastung und Begleitung von pflegenden Angehörigen. Sie werden über speziell geschultes Personal bzw. ambulante gerontopsychiatrische Dienste und adäquate Betreuungsangebote sowie Tagesbetreuungen mit gerontopsychiatrischem Schwerpunkt unterstützt.
+
+- Demenzstrategie österreichweit ausrollen und mit Ressourcen versehen
+
+- Projekt Community Nurses in 500 Gemeinden: Angehörige erhalten professionelle Unterstützung von Community Nurses als zentrale Ansprechpersonen für die zu Pflegenden, die Angehörigen, zur Koordination von mobilen Pflege- und Betreuungsdiensten, medizinischen und sozialen Leistungen sowie zur Koordination von Therapien. Community Nurses haben eine zentrale Bedeutung im Präventionsbereich, als  * VOR Eintreten der Pflegebedürftigkeit (präventive Hausbesuche ab dem 75. Lebensjahr, Ernährung, Mobilität etc.)
+
+- Rechtssicherheit für Eltern von Kindern mit chronischer Krankheit bze. Behinderung in Abstimmung mit den Ländern: Kinder mit chronischen Erkrankungen oder einer Behinderung brauchen Sicherheit für ihr weiteres, selbstbestimmtes und abgesichertes Leben nach dem Tod der sie pflegenden Eltern, auch wenn diese Kinder im Erwachsenenalter sind. Dazu gilt es, Wohn- und Arbeitsmodelle zu erarbeiten und zur Verfügung zu stellen.
+
+- Ausweitung der Möglichkeit der Selbst- und Weiterversicherung als pflegende Angehörige: Die Geltendmachung dieser Versicherung soll auch länger als 3 Jahre rückwirkend möglich werden. Mit der Pflegegeldzuerkennung soll eine automatische Information über die Pensionsversicherungsmöglichkeiten für pflegende Angehörige erfolgen. 
+
+  * Anspruch auf Pensionsversicherung auch ohne vorangegangene Erwerbszeiten 
+
 Finanzierung
-•  Palliativpflege und Hospiz in die Regelfinan-
-zierung überführen
-•  Weiterentwicklung der Aufgaben der AUVA
-unter  Berücksichtigung  von  Vorsorge,  Ge-
-sundheit und Pflege
-•  Pflegeversicherung  –  Bündelung  und  Aus-
-bau  der  bestehenden  Finanzierungsströ-
-me  aus  dem  Bundesbudget  unter  Be-
-rücksichtigung  der  demografischen  und
-qualitativen Entwicklungen (z.B. Pflegegeld,
-Pflegefonds, Hospizausbau, Zweckzuschuss
-Regress,  Förderung  24-Stunden-Betreu-
-Ersatz-
-ung,
+------------
 
-Pflegekarenz/Teilzeitgeld,
+- Palliativpflege und Hospiz in die Regelfinanzierung überführen
 
-•  Ausweitung der Möglichkeit der Selbst- und
-Weiterversicherung als pflegende Angehö-
-rige: Die Geltendmachung dieser Versiche-
-rung soll auch länger als 3 Jahre rückwirkend
-möglich  werden.  Mit  der  Pflegegeldzuer-
-kennung soll eine automatische Information
-über die Pensionsversicherungsmöglichkei-
-ten für pflegende Angehörige erfolgen.
-o  Anspruch  auf  Pensionsversicherung  auch
-ohne vorangegangene Erwerbszeiten
+- Weiterentwicklung der Aufgaben der AUVA unter Berücksichtigung von Vorsorge, Gesundheit und Pflege
 
-pflege,  SV  pflegender  Angehöriger  etc.),
-Einrichtung  einer  Taskforce  „Pflegevor-
-sorge“ – Bund-Länder-Zielsteuerungskom-
-mission  zur  Zielsteuerung,  Abstimmung
-und  Koordination  aller  Stakeholder  unter
-anderem zur gemeinsamen Steuerung der
-Angebots-  und  Bedarfsplanung,  Evaluie-
-rung Best-Practice-Beispiele, Ergebnisqua-
-litätssicherung in den Bereichen häuslicher
-und  stationärer  Pflege  und  alternativer
-Wohnformen
-o  U.a. bessere Absicherung von Krisenpfle-
-geeltern  sowie  Pflegeeltern  und  deren
-Pflegekinder
+- Pflegeversicherung – Bündelung und Ausbau der bestehenden Finanzierungsströme aus dem Bundesbudget unter Berücksichtigung der demografischen und qualitativen Entwicklungen (z.B. Pflegegeld, Pflegefonds, Hospizausbau, Zweckzuschuss Regress, Förderung 24-Stunden-Betreuung, Pflegekarenz/Teilzeitgeld, Ersatzpflege, SV pflegender Angehöriger etc.), Einrichtung einer Taskforce „Pflegevorsorge“ – Bund-Länder-Zielsteuerungskommission zur Zielsteuerung, Abstimmung und Koordination aller Stakeholder unter anderem zur gemeinsamen Steuerung der Angebots- und Bedarfsplanung, Evaluierung Best-Practice-Beispiele, Ergebnisqualitätssicherung in den Bereichen häuslicher und stationärer Pflege und alternativer Wohnformen
+
+  * U.a. bessere Absicherung von Krisenpflegeeltern sowie Pflegeeltern und deren Pflegekinder
 
 Weiterentwicklung des Pflegegeldes
-•  Entwicklung  eines  Pflegegeldsystems,  in
-•  Neubewertung  der  Einstufung  nach  betreu-
-dem alle Bedarfe berücksichtigt sind
-endem,  pflegerischem  und  medizinischem
-Bedarf unter besonderer Berücksichtigung der
-Bedürfnisse von Menschen mit Behinderung
-•  Weiterentwicklung  des  Pflegegeld-Einstu-
-fungsprozesses (Mehr-Augen-Prinzip)
-•  Verbesserung der Demenzbewertung
+----------------------------------
+
+- Neubewertung der Einstufung nach betreuendem, pflegerischem und medizinischem Bedarf unter besonderer Berücksichtigung der Bedürfnisse von Menschen mit Behinderung
+
+- Verbesserung der Demenzbewertung
+
+- Entwicklung eines Pflegegeldsystems, in dem alle Bedarfe berücksichtigt sind 
+
+- Weiterentwicklung des Pflegegeld-Einstufungsprozesses (Mehr-Augen-Prinzip)
+
 Personal und Ausbildung
-•  Prüfung der Etablierung eines Ausbildungs-
-fonds
-•  Ansprechen von neuen Zielgruppen (zweiter
-und  dritter  Bildungsweg,  Angehörige  mit
-Pflegeerfahrung)
-•  Fachkräftestipendien,  Bildungskonto,
-placementstiftung
-•  Vereinfachung von Nostrifizierungen
-•  Berufsbegleitende Ausbildungseinrichtungen
-•  Vorbereitungslehrgänge  nach  der  Pflicht-
-schule  an  Schulen  für  Sozialbetreuungsbe-
-rufe – Überbrückung
-•  Implementierung  der  PFA-Ausbildung  in
-BHS und der PA-Ausbildung in BMS
-•  Aufnahme aller Pflegeberufe in die Mangel-
-berufsliste; Zuwanderinnen und Zuwanderer
-unterstützen (Migrants-Care-Programme)
-•  GuKG-Novelle  zur  Kompetenzausweitung
-für Pflegekräfte: Pflegefachassistenz
-•  GuKG-Novelle  zur  Kompetenzausweitung
-für DGKS
+-----------------------
 
-•  Einführung einer Pflegelehre PFA unter Be-
-rücksichtigung eines altersspezifischen Cur-
-riculums
-•  Durchlässigkeit  zwischen  allen  Pflege-,  Be-
-treuungs-  und  Sozialberufen  –  Anrechen-
-barkeit  von  Vorkenntnissen  –  kein  Ausbil-
-dungsabschluss ohne beruflichen Anschluss
-•  Ausweitung  von  Qualifizierungsprogram-
-men  für  Menschen  mit  Migrationshinter-
-grund (z.B. Sprache)
-•  Imagekampagne – Berufsberatung vor Ort,
-Attraktivierung des Berufsbildes
-•  Ausbau und Flexibilisierung von ambulanten
-Diensten im Bereich Pflege und Betreuung;
-Ersatz- und Entlastungspflege für pflegende
-Angehörige  (z.B.  im  Krankheitsfall):  Sicher-
-stellung von finanzieller Unterstützung
-•  Weiterentwicklung des bestehenden Quali-
-tätszertifikats ÖQ24 unter Berücksichtigung
-der  Bedingungen  von  Betroffenen  sowie
-Betreuerinnen und Betreuern
-•  Schaffung  einer  Möglichkeit  zur  Beschäfti-
-gung einer 24h-Betreuung für mehrere Kun-
-dinnen und Kunden
+- Prüfung der Etablierung eines Ausbildungsfonds
 
-Im-
+- Ansprechen von neuen Zielgruppen (zweiter und dritter Bildungsweg, Angehörige mit Pflegeerfahrung)
 
-Seite 245
+- Fachkräftestipendien, Bildungskonto, Implacementstiftung
 
-Seite 246
+- Vereinfachung von Nostrifizierungen
 
-Regierungsprogramm 2020 – 2024Regierungsprogramm 2020 – 2024Fahne ÖsterreichFahne Österreich•  Prüfung  der  Reduktionsmöglichkeiten  von
-Dokumentations-  und  Bürokratieverpflich-
-tungen (Entbürokratisierung, u.a. auch OP-
-CAT), Abbau von Doppelgleisigkeiten
-•  Überprüfung der Wirkungsorientierung der
-Dokumentationsverpflichtungen  unter  be-
-sonderer Berücksichtigung der OPCAT
-•  Entbürokratisierung des Zugangs zu Heilbe-
-helfen und Hilfsmitteln
+- Berufsbegleitende Ausbildungseinrichtungen
 
-24-Stunden-
-•  Qualitätssicherung  der
-Betreuung: Ziel: verpflichtendes Qualitäts-
-zertifikat für Agenturen
-o  Weiterentwicklung  des  Qualitätszertifikats
-für Agenturen, Mindesttarif, erhöhter Anreiz
-für  Anstellungen  und  Arbeitsbedingungen
-des  Betreuungspersonals;  Qualitätssiche-
-rung  durch  Verschränkung  mit  regionalen,
-ambulanten Pflegestrukturen
+- Vorbereitungslehrgänge nach der Pflichtschule an Schulen für Sozialbetreuungsberufe – Überbrückung
+
+- Implementierung der PFA-Ausbildung in BHS und der PA-Ausbildung in BMS
+
+- Aufnahme aller Pflegeberufe in die Mangelberufsliste; Zuwanderinnen und Zuwanderer unterstützen (Migrants-Care-Programme)
+
+- GuKG-Novelle zur Kompetenzausweitung für Pflegekräfte: Pflegefachassistenz
+
+- GuKG-Novelle zur Kompetenzausweitung für DGKS
+
+- Einführung einer Pflegelehre PFA unter Berücksichtigung eines altersspezifischen Curriculums
+
+- Durchlässigkeit zwischen allen Pflege-, Betreuungs- und Sozialberufen – Anrechenbarkeit von Vorkenntnissen – kein Ausbildungsabschluss ohne beruflichen Anschluss
+
+- Ausweitung von Qualifizierungsprogrammen für Menschen mit Migrationshintergrund (z.B. Sprache)
+
+- Imagekampagne – Berufsberatung vor Ort, Attraktivierung des Berufsbildes
+
+- Ausbau und Flexibilisierung von ambulanten Diensten im Bereich Pflege und Betreuung; Ersatz- und Entlastungspflege für pflegende Angehörige (z.B. im Krankheitsfall): Sicherstellung von finanzieller Unterstützung 
+
+- Weiterentwicklung des bestehenden Qualitätszertifikats ÖQ24 unter Berücksichtigung der Bedingungen von Betroffenen sowie Betreuerinnen und Betreuern 
+
+- Schaffung einer Möglichkeit zur Beschäftigung einer 24h-Betreuung für mehrere Kundinnen und Kunden
+
+- Prüfung der Reduktionsmöglichkeiten von Dokumentations- und Bürokratieverpflichtungen (Entbürokratisierung, u.a. auch OPCAT), Abbau von Doppelgleisigkeiten 
+
+- Überprüfung der Wirkungsorientierung der Dokumentationsverpflichtungen unter besonderer Berücksichtigung der OPCAT
+
+- Entbürokratisierung des Zugangs zu Heilbehelfen und Hilfsmitteln
+
+- Qualitätssicherung der 24-Stunden-Betreuung: Ziel: verpflichtendes Qualitätszertifikat für Agenturen
+
+  * Weiterentwicklung des Qualitätszertifikats für Agenturen, Mindesttarif, erhöhter Anreiz für Anstellungen und Arbeitsbedingungen des Betreuungspersonals; Qualitätssicherung durch Verschränkung mit regionalen, ambulanten Pflegestrukturen
 
 Chancen der Digitalisierung
-•  Arbeitsalltagserleichterung
-•  Prüfung  der  Nutzung  des  bestehenden
-E-Card-Systems für Pflegeleistungen
-•  Möglichkeit zur anonymisierten Nutzung von
-Pflegedaten  zu  wissenschaftlichen  Zwecken
-und  zur  Weiterentwicklung  des  Pflege-
-systems unter Berücksichtigung des Daten-
-schutzes
+---------------------------
 
-•  Etablierung  einer  umfassenden  Informa-
-tionsplattform  für  Betroffene  und  Ange-
-hörige:  Informationen  sollen  besser  zur
-Verfügung gestellt werden
+- Arbeitsalltagserleichterung
 
-Seite 247
+- Prüfung der Nutzung des bestehenden E-Card-Systems für Pflegeleistungen
 
-Regierungsprogramm 2020 – 2024Fahne Österreich
+- Möglichkeit zur anonymisierten Nutzung von Pflegedaten zu wissenschaftlichen Zwecken und zur Weiterentwicklung des Pflegesystems unter Berücksichtigung des Datenschutzes
+
+- Etablierung einer umfassenden Informationsplattform für Betroffene und Angehörige: Informationen sollen besser zur Verfügung gestellt werden
