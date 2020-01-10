@@ -7,6 +7,8 @@
 Inoffizielles PDF-befreites östereichisches Regierungsprogramm 2020-2014
 ========================================================================
 
+:download:`Quelle ist dieses Original PDF <../original/RP2020.pdf>`.
+
 .. toctree::
    :maxdepth: 3
    :caption: Inhalt:

@@ -1,6 +1,8 @@
 Präambel
 ========
 
+:download:`Kapitel als PDF <../split/00-0-Praeambel.pdf>` (Teil des :download:`Originals <../original/RP2020.pdf>`).
+
 Österreich
 ist  ein  wunderbares  Land.
 Geprägt  von  Natur  und  Landschaft

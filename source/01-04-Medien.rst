@@ -2,6 +2,8 @@
 Medien
 ------
 
+:download:`Kapitel als PDF <../split/01-04-Medien.pdf>` (Teil des :download:`Originals <../original/RP2020.pdf>`).
+
 .. todo::
    Formatieren, Überarbeiten, Original gegenchecken
 

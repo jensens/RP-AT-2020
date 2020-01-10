@@ -2,6 +2,8 @@
 Justiz &  Konsumentenschutz
 ---------------------------
 
+:download:`Kapitel als PDF <../split/01-02-Justiz-Konsumentenschutz.pdf>` (Teil des :download:`Originals <../original/RP2020.pdf>`).
+
 .. todo::
    Formatieren, Überarbeiten, Original gegenchecken
 

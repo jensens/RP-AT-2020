@@ -2,6 +2,8 @@
 Sport
 -----
 
+:download:`Kapitel als PDF <../split/01-05-Sport.pdf>` (Teil des :download:`Originals <../original/RP2020.pdf>`).
+
 .. todo::
    Formatieren, Überarbeiten, Original gegenchecken
 

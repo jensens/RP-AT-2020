@@ -2,6 +2,8 @@
 Finanzen & Budget
 -----------------
 
+:download:`Kapitel als PDF <../split/02-01-Finanzen-Budget.pdf>` (Teil des :download:`Originals <../original/RP2020.pdf>`).
+
 .. todo::
    Formatieren, Überarbeiten, Original gegenchecken
 

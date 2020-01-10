@@ -2,6 +2,8 @@
 Kunst & Kultur
 --------------
 
+:download:`Kapitel als PDF <../split/01-03-Kunst-Kultur.pdf>` (Teil des :download:`Originals <../original/RP2020.pdf>`).
+
 .. todo::
    Formatieren, Überarbeiten, Original gegenchecken
 

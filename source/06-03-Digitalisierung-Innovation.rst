@@ -2,6 +2,8 @@
 Digitalisierung & Innovation
 ----------------------------
 
+:download:`Kapitel als PDF <../split/06-03-Digitalisierung-Innovation.pdf>` (Teil des :download:`Originals <../original/RP2020.pdf>`).
+
 .. todo::
    Formatieren, Überarbeiten, Original gegenchecken
 
