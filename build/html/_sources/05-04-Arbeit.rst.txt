@@ -1,0 +1,425 @@
+------
+Arbeit
+------
+
+.. todo::
+   Formatieren, Überarbeiten, Original gegenchecken
+
+Wir  als  Bundesregierung  werden  alles  tun,
+damit ein gutes Leben für alle in unserem Land
+erhalten  bleibt  und  von  Herausforderungen
+wie  der  fortschreitenden  Digitalisierung  und
+Klimakrise  nicht  gefährdet  wird.  Wir  werden
+einen breiten gesellschaftlichen Dialog unter
+Einbindung  aller  relevanten  Stakeholder
+(Sozialpartner,  Zivilgesellschaft  etc.)  über
+die  Zukunft  der  Arbeit  und  dabei  vor  allem
+der  Aspekte  Digitalisierung,  Vereinbarkeit
+von  Familie  und  Beruf,  Arbeits-  und
+Lebensqualität führen.
+Die  Bundesregierung  hat
+sich  daher
+zum  Ziel  gesetzt,  Umwelt,  Wirtschaft
+und
+dieser
+Herausforderungen  gemeinsam  zu  denken
+und  für  eine  sozial  verträgliche  Bewältigung
+der  Herausforderungen  (Just  Transition)  zu
+sorgen. Das umfasst, dass Erwerbseinkommen
+auch vor Armut schützen. Verstärkter Einsatz
+in  den  Bereichen  Bildung,  Weiterbildung,
+nachhaltige  Qualifikation  und  berufliche
+Umorientierung  sollen  sicherstellen,  dass
+auch in Zukunft ausreichend gut ausgebildete
+und  motivierte  Fachkräfte  zur  Verfügung
+stehen.  Gerade  Branchen  und  Betriebe,  bei
+denen die Digitalisierung oder die Klimakrise
+eine besondere Rolle spielt, sollen aktiv dabei
+unterstützt werden, zukunftsfit zu werden.
+
+Arbeitswelt
+
+angesichts
+
+Die  Arbeitsmarktsituation  hat  sich  in  den
+letzten  Jahren  positiv  entwickelt.  Einige
+Gruppen  konnten  davon  jedoch  weniger
+profitieren.  Genau  für  jene  Gruppen  wollen
+wir  gezielte  Maßnahmen
+setzen,  dazu
+Unterstützungsangebote
+zählen
+sowie
+Maßnahmenpakete,  um  Perspektiven  zu
+geben  und  den  Wiedereinstieg
+in  die
+Erwerbsarbeit zu ermöglichen. Dabei spielen
+auch  gemeinnützige,
+sozialökonomische
+Betriebe  und  Beschäftigung  eine  wichtige
+Rolle.
+Ziel  ist  es,  dass  Österreich  wieder  zu  einem
+der Länder mit der geringsten Arbeitslosigkeit
+im  EU-Vergleich  wird.  Zur  Attraktivierung
+der  Beschäftigung  in  Österreich  wird  eine
+zielgerichtete  Arbeitsmarktpolitik  verfolgt,
+die  positive  Beschäftigungsanreize  schafft,
+betriebsnahe  Qualifizierung  fördert  sowie
+eine passende Vermittlung ermöglicht.
+Die  neue  Bundesregierung  wird  dem
+Fachkräftemangel
+aktiv  entgegenwirken.
+Dazu haben wir mit dem System der dualen
+Ausbildung ausgezeichnete Voraussetzungen.
+Deshalb wollen wir den Stellenwert der Lehre
+aufwerten  und  die  Durchlässigkeit  zwischen
+höherer Schul- und Berufsausbildung erhöhen.
+Es  geht  dabei  auch  um  die  Unterstützung
+
+Seite 256
+
+Regierungsprogramm 2020 – 2024Fahne Österreichder  Lehre  als  zweiten  Bildungsweg  und  die
+Förderung  von  Mädchen  in  technischen  Be-
+rufen. Gleichzeitig wollen wir durch die Moder-
+nisierung  der  Curricula  und  die  Schaffung
+neuer Lehrberufe, unter anderem im Digital-,
+Klima- und Umweltbereich, den Lehrberuf fit
+für  die  Anforderungen  des  21.  Jahrhunderts
+machen.
+Unser  Ziel  als  Bundesregierung
+ist  es,
+in  ein
+so  viele  Menschen  wie  möglich
+nachhaltiges  Beschäftigungsverhältnis  zu
+bringen,  auch  weil  Erwerbsarbeit  eine  der
+besten  Maßnahmen  gegen  Armut  ist.  Für
+das  Arbeitsmarktservice  (AMS)  muss  in  der
+Arbeit  ein  klarer  Fokus  darauf  liegen,  so
+viele  Menschen  wie  möglich  in  nachhaltige
+Arbeitsverhältnisse zu vermitteln.
+Arbeit mit einem Einkommen, von dem man
+leben  kann,  ist  ein  wesentlicher  Schlüssel
+der  Armutsbekämpfung.  Es  gibt  derzeit
+Bereiche  in  der  österreichischen  Wirtschaft,
+in  denen  Löhne  gezahlt  werden,  die  unter
+den  niedrigsten  Kollektivvertragslöhnen  der
+gewerblichen Wirtschaft liegen. Diese Lücke
+
+soll  unter  Einbindung  der  Sozialpartner  mit
+geeigneten  Mitteln  geschlossen  werden.
+Erforderlichenfalls kann dieser Lückenschluss
+auch  auf  anderem  Wege  erfolgen
+(z.B.
+durch  das  Bundeseinigungsamt).  Auch  im
+Bereich  der  bestehenden  Kollektivverträge
+gibt es Fälle, in denen die Löhne bereits seit
+mehreren Jahrzehnten nicht mehr angehoben
+wurden.  Wenn  eine  sozialpartnerschaftliche
+Einigung
+zur  Lösung  dieses  Problems
+nicht  zustande  kommt,  soll  die  Möglichkeit
+geschaffen werden, eine Entscheidung durch
+das Bundeseinigungsamt herbeizuführen.
+Die  Bundesregierung  setzt  sich  zusätzlich
+das Ziel, die finanzielle Eigenständigkeit und
+ökonomische Unabhängigkeit von Frauen zu
+stärken.  Zu  guter  Arbeit  und  einem  guten
+Leben  gehört  eine  gute  Vereinbarkeit  von
+Freizeit, Familie, Erholung und Beruf. Durch
+Maßnahmen  wie  u.a.  die  Überprüfung
+von
+der
+Elternteilzeit  und  Pensionssplittingmodelle
+wollen  wir  Familien  ermöglichen,  eine
+partnerschaftliche  Aufteilung  von  Familien
+und Betreuungsarbeit zu fördern.
+
+partnerschaftlichen
+
+Formen
+
+Fachkräftebedarf sichern –
+betriebliche Lehrausbildung stärken
+o  Bessere  Durchlässigkeit  zwischen  Lehre
+•  Schaffung  neuer  Lehrberufe  und  Berufs-
+und anderen Bildungswegen
+bilder  im  Umwelt-  und  Klimaschutzbereich
+und Curricula bestehender Lehrberufe lau-
+fend modernisieren
+o  Bereitstellung  von  Maßnahmen
+zur
+Qualifizierung, Beratung, Betreuung und
+Vermittlung  zur  raschestmöglichen  Inte-
+•  Aufwertung der Lehre
+gration in den Arbeitsmarkt von Asylbe-
+rechtigten  und  subsidiär  Schutzberech-
+o  Lehre nach Matura fördern
+tigten
+o  Unterstützung der 2. Lehre
+o  Anspruch auf Berufsorientierung und be-
+gleitende  Unterstützung  bei  Entwicklung
+o  Lehrlingscoaching absichern
+und Umsetzung eines Berufsausbildungs-
+plans für Schulabbrecherinnen und Schul-
+o  Ausreichende Finanzierung der ÜBA, inkl.
+abbrecher
+Unterstützungsmaßnahmen  für  Jugendli-
+che mit besonderem Förderungsbedarf
+o  Unterstützung  von  jungen  Menschen  bei
+Schulabbruch  in  Produktionsschulen  und
+o  Unterstützungsmaßnahmen für Lehrlings-
+vergleichbaren Einrichtungen
+ausbildung  in  Betrieben  für  Jugendliche
+mit besonderem Förderungsbedarf
+o  Modularisierung  der  Berufsausbildung
+vorantreiben
+o  Prüfung  der  Weiterentwicklung  der
+Lehrberufsausbildung,
+insbesondere
+o  Förderung  der  Mädchen
+unter folgenden Gesichtspunkten
+berufen
+-  Förderung  betrieblicher  Lehrstellen  mit
+o  Meister- und Befähigungsprüfungen durch
+integrierter Qualitätssicherung
+ein Bonus-/Prämiensystem unterstützen
+-  Verpflichtende  Weiterbildung  für  Lehr-
+o  Querfinanzierungen  zwischen  Arbeits-
+lingsausbilderinnen und -ausbilder
+marktpolitik  und  IEF  überprüfen/verbes-
+sern in Zusammenhang mit Lehrlingsaus-
+-  Wiedereinführung  der  Ausbildungs-
+bildung
+fort schrittskontrolle
+zur  Mitte  der
+Ausbildung
+o  Weiterführung  der  Förderung  der  Lehre
+18 plus
+o  Unterstützung und Forcierung von Ausbil-
+dungsverbünden
+o  Prüfung  des  Vorarlberger  Modells  zur
+Lehrlingsfinanzierung
+
+in  Technik-
+
+Seite 257
+
+Seite 258
+
+Regierungsprogramm 2020 – 2024Regierungsprogramm 2020 – 2024Fahne ÖsterreichFahne ÖsterreichSchnittstelle Arbeitsmarkt /
+Digitalisierung / Klimaschutz /
+Zukunftsherausforderungen
+•  Auf  Basis  einer  Sozialpartnereinigung  Ein-
+führung  eines  Bildungskontos:  berufliche
+Umorientierung,  Aus-  und  Weiterbildung
+sozial abgesichert
+•  Weiterentwicklung von Kurzarbeit mit Qua-
+lifikation:  Möglichkeit  von  Kurzarbeit  nicht
+nur  bei  wirtschaftlichen  Schwierigkeiten,
+sondern  auch  bei  der  Umstellung  von  Be-
+trieben  auf  ökologische  und  klimafreundli-
+che  Produktionsweisen  bzw.  digitaler  Um-
+rüstung zur Sicherung von Beschäftigung
+•  Kreislaufwirtschaftsentwicklungspaket:  So-
+zialökonomische Betriebe mit Kreislaufwirt-
+schaft (ökologisch und sozial) fördern. Ziel-
+gruppe: Langzeitarbeitslose, Menschen mit
+Vermittlungshindernissen
+AMS
+•  Effizienz und Ausrichtung des AMS
+o  Arbeitsmarktziele auf nachhaltige Senkung
+der Arbeitslosigkeit fokussieren
+o  Überprüfung und Überarbeitung der Inst-
+rumente im Hinblick auf Effizienz, Beschäf-
+tigungsanreize und Reintegration in nach-
+haltige Beschäftigung
+o  Überprüfung  der  regionalen  Organisati-
+onsstrukturen  im  Lichte  aktueller  arbeits-
+marktpolitischer Rahmenbedingungen
+
+•  Förderung von Frauen in technischen Berufen
+sowie von Männern in pädagogischen und
+Care-Berufen u.a. im Rahmen von Maßnah-
+men  zur  beruflichen  Umorientierung  und
+Qualifikation
+
+•  Ausbau konkreter Beschäftigungsangebote
+für Menschen mit Behinderungen sowie so-
+zial benachteiligte Menschen über die Ein-
+gliederungsbeihilfe
+•  Ausbau konkreter alternsgerechter Beschäf-
+tigungsangebote  für  Menschen  über  50
+über die Eingliederungsbeihilfe
+•  Regionale und branchenspezifische Arbeits-
+stiftungen  im  vom  ökologischen  Umbau
+und der Digitalisierung besonders betroffe-
+nen Branchen und Regionen bei Bedarf
+
+•  Evidenzbasierte  und  gerechte  Verteilung
+der  Fördermittel  im  AMS  auf  Frauen  und
+Männer
+•  Sicherung der Mittel für SÖB und gemein-
+nützige  Betriebe
+im  Arbeitsmarktpolitik-
+finanzierungsgesetz (AMPFG)
+•  Arbeitsplatznahe  Qualifizierung
+(AQUA):
+Schulungen  verstärkt  in  Kooperation  mit
+den Unternehmen
+•  Weiterentwicklung  des  Arbeitslosengeldes
+mit  Anreizen,  damit  arbeitslose  Menschen
+wieder  schneller  ins  Erwerbsleben  zurück-
+kehren können.
+•  Evaluierung,  Adaptierung  und  Weiterent-
+wicklung des AMS-Algorithmus
+
+für
+•  One-Stop-Shop:  eine  Anlaufstelle
+Arbeitssuchende  unter  Effizienzsteigerung
+der  bestehenden  Strukturen  mit  Beratung
+und Begleitung
+•  Fallkonferenzen: Kooperation zwischen AMS
+und Ländern unter Einbeziehung von Exper-
+tinnen  und  Experten  stärken,  um  sicherzu-
+stellen,  dass  bei  arbeitsfähigen  Menschen,
+die auf Geldleistungen von Bundesländern
+angewiesen  sind,  eine  abgestimmte  Vor-
+gangsweise
+in  Betreuung,  Zuerkennung
+
+und Aberkennung von Geldleistungen und
+Förderung  zur  effektivsten  Integration  am
+Arbeitsmarkt geschaffen wird
+•  Zumutbarkeitsbestimmungen reformieren
+o  Erhöhung  der  Mindestverfügbarkeit  von
+16 auf 20 Stunden (Übergang 3 Jahre) bei
+Vorhandensein  von  adäquaten  Kinder-
+betreuungsmöglichkeiten
+
+Schnittstelle Arbeitsmarkt / Menschen mit Behinderung
+•  Maßnahmen  zur  längerfristigen  Beschäfti-
+gung von Menschen mit Behinderung
+o  Vermittlung(-sbestrebungen)  in  den  ers-
+ten  Arbeitsmarkt  durch  Eingliederungs-
+hilfen und Lohnkostenfördermaßnahmen
+
+o  in  den  zweiten  Arbeitsmarkt  (durch  z.B.
+sozialökonomische Betriebe)
+
+•  Keine automatische Arbeitsunfähigkeitsfest-
+stellung bei Jugendlichen unter 24 Jahren
+
+Schnittstelle Arbeitsmarkt / Gesundheit
+•  Angebote niederschwelliger Beschäftigung
+für  Menschen  mit  gesundheitlichen  Beein-
+
+trächtigungen kombiniert mit Gesundheits-
+angeboten und Therapien
+
+Schnittstelle Arbeitsmarkt / Integration
+•  Integrationsangebote des AMS für Schwer-
+punktgruppen mit Migrationshintergrund
+
+•  Stärkung der Deutschangebote
+
+Faktor Arbeit entlasten
+•  Prüfung der Potenziale zur Senkung der Lohnnebenkosten ohne Leistungsreduktion
+
+Seite 259
+
+Seite 260
+
+Regierungsprogramm 2020 – 2024Regierungsprogramm 2020 – 2024Fahne ÖsterreichFahne ÖsterreichArbeitnehmerinnenschutz
+•  Modernisierung der Berufskrankheitenliste
+
+Tourismus
+• Förderung hochwertiger Unterkünfte für Tourismusbeschäftigte
+
+Praxisgerechte Entsenderegelungen und Lohn- und
+Sozialdumpingbekämpfung
+•  Evaluierung  der  Handlungsbedarfe  auf-
+grund der EuGH-Urteile zum LSD-BG
+
+•  Lösungsansatz:
+men mit den Nachbarstaaten
+
+Verwaltungsübereinkom-
+
+Entbürokratisierung (von Arbeitsinspektorat und Arbeitnehmerinnen-
+schutzvorschriften)
+•  Interministerielle  Arbeitsgruppe  unter  Bei-
+ziehung der Sozialpartner
+
+•  Grundprinzip „Beraten vor bestrafen“
+
+Modernisierung des Arbeitsrechts
+•  Breiter  gesellschaftlicher  Dialog  der  Bun-
+desregierung  unter  Einbindung  aller  rele-
+vanten Stakeholder (Sozialpartner, Zivilge-
+sellschaft etc.) über die Zukunft der Arbeit,
+vor allem der Aspekte Digitalisierung, Ver-
+einbarkeit von Familie und Beruf, Arbeits-
+und Lebensqualität
+•  Sozialarbeit: Ziel der Erarbeitung eines bun-
+deseinheitlichen  Berufsgesetzes  für  soziale
+Arbeit in Zusammenarbeit mit den Ländern
+•  Auf Basis einer Sozialpartner-Einigung:
+o  Einführung  eines  Zeitwertkontos  mit
+dem  Ziel,  auf  freiwilliger  Basis  längere
+Auszeiten zu ermöglichen
+
+•  Überprüfung aller modernen und aktuellen
+land-  und  forstwirtschaftlichen  Beschäfti-
+gungsformen,  um  eine  sachgerechte  Zu-
+ordnung  dieser  Arbeitnehmerinnen  und
+Arbeitnehmer  zu  den  jeweiligen  gesetzli-
+chen  Interessenvertretungen  der  Arbeit-
+nehmerinnen  und  Arbeitnehmer  zu  ge-
+währleisten  und  damit  den  arbeits-  und
+kollektivvertraglichen,  berufsausbildungs-
+mäßigen  und  persönlichen  Arbeitnehmer-
+schutz zu sichern
+•  Entgeltfortzahlung evaluieren
+o  Evaluierung  der  Entgeltfortzahlung  im
+Zusammenhang  mit  dem  vorzeitigen  Be-
+schäftigungsverbot  bei  Schwangerschaft,
+Zivildiener
+
+•  Evaluierung  der  Finanzierungsmodelle  der
+wiederholten Entgeltfortzahlung im langen
+Krankheitsfall nicht zu Lasten der Arbeitneh-
+merinnen und Arbeitnehmer
+•  Es  gibt  derzeit  Bereiche  in  der  österreichi-
+schen  Wirtschaft,  in  denen  Löhne  gezahlt
+werden, die unter den niedrigsten Kollektiv-
+vertragslöhnen der gewerblichen Wirtschaft
+liegen.  Diese  Lücke  soll  unter  Einbindung
+der  Sozialpartner  mit  geeigneten  Mitteln
+geschlossen  werden.  Erforderlichenfalls
+kann  dieser  Lückenschluss  auch  auf  ande-
+rem Wege erfolgen (z.B. durch das Bundes-
+einigungsamt).
+•  Auch  im  Bereich  der  bestehenden  Kollek-
+tivverträge gibt es Fälle, in denen die Löh-
+ne bereits seit mehreren Jahrzehnten nicht
+mehr  angehoben  wurden.  Wenn  eine  so-
+zialpartnerschaftliche  Einigung  zur  Lösung
+dieses Problems nicht zustande kommt, soll
+die  Möglichkeit  geschaffen  werden,  eine
+Entscheidung  durch  das  Bundeseinigungs-
+amt herbeizuführen.
+•  Anreize  setzen  zu  einer  partnerschaftliche-
+ren Aufteilung der Familienarbeit
+o  Prüfung eines Zeitkorridor-Modells in Ver-
+bindung mit Anreizen, wenn beide Eltern-
+teile  Familienarbeit  und  Erwerbsarbeit
+partnerschaftlich vereinbaren wollen
+
+•  Prüfung von Sabbatical-Modellen in Verbindung
+mit aufschiebender Wirkung für die Pension
+
+Seite 261
+
+Seite 262
+
+Regierungsprogramm 2020 – 2024Regierungsprogramm 2020 – 2024Fahne ÖsterreichFahne Österreich
