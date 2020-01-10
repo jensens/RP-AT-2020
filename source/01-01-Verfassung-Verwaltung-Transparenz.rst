@@ -3,30 +3,8 @@ Verfassung, Verwaltung & Transparenz
 ------------------------------------
 
 .. todo::
-   Formatieren, Überarbeiten, Original gegenchecken
 
-Wesentlich  für  dieses  öffentliche  Vertrauen
-sind  Rechtssicherheit,  Bürgernähe  und
-Transparenz. Das gilt für die Aufgabenteilung
-im  Staat,
-für  Finanzflüsse  zwischen  den
-staatlichen  Ebenen,  für  das  Förderwesen  –
-und es gilt für staatliches Handeln insgesamt.
-Wir wollen keine gläsernen Bürgerinnen und
-Bürger,  sondern  einen  gläsernen  Staat.  Und
-dafür sind wir bereit, alte Wege zu verlassen
-und neue zeitgemäße Lösungen umzusetzen.
-Transparenz  ist  ein  entscheidender  Faktor
-eines
-demokratischen  Gemeinwesens.
-Daher  werden  wir  das  Wahlrecht  zeitgemäß
-modernisieren  und  vollständige  Transparenz
-der  Parteien  und  vor  allem  im  Bereich  der
-Parteienfinanzierung herstellen. Damit wollen
-wir  das  Vertrauen  in  die  Politik  stärken  und
-das  politische  Engagement  fördern.  Beides
-bildet  die  Grundlage  der  funktionierenden
-Demokratie unserer Republik.
+   Formatieren, Überarbeiten, Original gegenchecken
 
 Staatliches Handeln ist in Österreich aufgrund
 der  Bundesverfassung  gegeben,  die  gerade
@@ -42,6 +20,7 @@ Grundlage für unser Land, für unsere Umwelt
 und
 für  die  Arbeit  der  österreichischen
 Verwaltung sind.
+
 Diese Verwaltung ist im Dienste der Bevölkerung
 sowie  der  Unternehmen  in  unserem  Land
 tätig.  Wir  setzen  uns  als  Bundesregierung
@@ -57,6 +36,7 @@ Leistungen  den  Bürgerinnen  und  Bürgern
 auch  künftig  niederschwellig  zur  Verfügung
 gestellt  sowie  Bürokratie  serviceorientiert
 weiter vereinfacht werden kann.
+
 So  bürgernah  wie  möglich,  so  effizient  wie
 nötig  –  diesem  Grundprinzip  fühlen  wir  uns
 verpflichtet.  Im  modernen  Föderalismus  ist
@@ -66,25 +46,46 @@ für  das
 Funktionieren unseres Staates und damit für
 das Vertrauen der Bürgerinnen und Bürger.
 
+Wesentlich  für  dieses  öffentliche  Vertrauen
+sind  Rechtssicherheit,  Bürgernähe  und
+Transparenz. Das gilt für die Aufgabenteilung
+im  Staat,
+für  Finanzflüsse  zwischen  den
+staatlichen  Ebenen,  für  das  Förderwesen  –
+und es gilt für staatliches Handeln insgesamt.
+Wir wollen keine gläsernen Bürgerinnen und
+Bürger,  sondern  einen  gläsernen  Staat.  Und
+dafür sind wir bereit, alte Wege zu verlassen
+und neue zeitgemäße Lösungen umzusetzen.
+
+Transparenz  ist  ein  entscheidender  Faktor
+eines
+demokratischen  Gemeinwesens.
+Daher  werden  wir  das  Wahlrecht  zeitgemäß
+modernisieren  und  vollständige  Transparenz
+der  Parteien  und  vor  allem  im  Bereich  der
+Parteienfinanzierung herstellen. Damit wollen
+wir  das  Vertrauen  in  die  Politik  stärken  und
+das  politische  Engagement  fördern.  Beides
+bildet  die  Grundlage  der  funktionierenden
+Demokratie unserer Republik.
+
 Verfassungsstaat auf der Höhe der Zeit
 --------------------------------------
 
-•  Auf Grundlage bisheriger Vorarbeiten fort-
-gesetzte Verhandlung über weitere Kompe-
-tenzbereinigungen zwischen Bund, Ländern
-und Gemeinden
-o  Weitere  Reduktion  der  Doppelgleisig-
-keiten  zwischen  Grundsatzgesetzgebung
-und Ausführungsgesetzgebung
-o  Schaffung  klarerer  Regelungs-  und  Ver-
-antwortungsstrukturen
-zwischen  den
-Gebietskörperschaften,  um  einen  fairen
-Finanzausgleich zu ermöglichen
-o  Schaffung  einer  verfassungsrechtlichen
-Grundlage,  damit  Amtssachverständi-
-ge  auch  in  anderen  Bundesländern  tätig
-werden können
+* Auf Grundlage bisheriger Vorarbeiten fortgesetzte Verhandlung über weitere Kompetenzbereinigungen zwischen Bund, Ländern und Gemeinden
+
+    * Weitere  Reduktion  der  Doppelgleisigkeiten  zwischen  Grundsatzgesetzgebung und Ausführungsgesetzgebung
+    * Schaffung  klarerer  Regelungs-  und  Verantwortungsstrukturen zwischen  den  Gebietskörperschaften,  um  einen  fairen  Finanzausgleich zu ermöglichen
+    * Schaffung  einer  verfassungsrechtlichen  Grundlage,  damit  Amtssachverständige  auch  in  anderen  Bundesländern  tätig  werden können
+
+* Gemeinsame  Prüfung  und  Ausarbeitung eines zeitgemäßen  Kompetenzrahmens (einschließlich der Möglichkeit von Art. 15a B-VG-Vereinbarungen)  zur  Erreichung  der Klimaziele
+
+* Steigerung  der  Effizienz  und  Transparenz von  Art.-15a-Vereinbarungen zwischen Bund, Ländern und Gemeinden
+
+    * Auslotung  der  Möglichkeiten  der  Reduktion  von  Art.-15a-Vereinbarungen  sowie  mögliche Integration  bestehender  Art.-15a-Vereinbarungen in den nächsten Finanzausgleich
+    * Systematische  Erfassung  von  finanziellen Mitteln und Abbildung im Haushalt
+    * Bestehende  Vereinbarungen  müssen  in Hinblick  auf  Mischfinanzierungen  und Kompetenzverschiebungen hinterfragt werden.
 
 o  Einführung  von  Benchmarks  unter  ver-
 gleichbaren  Grundlagen,  damit  Ver-
@@ -129,29 +130,7 @@ perschaften übergreifender One-Stop-Shops
 für  Bürgerinnen  bzw.  Bürger  und  Unterneh-
 merinnen bzw. Unternehmer
 
-•  Gemeinsame  Prüfung  und  Ausarbeitung
-eines
-zeitgemäßen  Kompetenzrahmens
-(einschließlich der Möglichkeit von Art. 15a
-B-VG-Vereinbarungen)  zur  Erreichung  der
-Klimaziele
-•  Steigerung  der  Effizienz  und  Transparenz
-von  Art.-15a-Vereinbarungen
-zwischen
-Bund, Ländern und Gemeinden
-o  Auslotung  der  Möglichkeiten  der  Reduk-
-tion  von  Art.-15a-Vereinbarungen  so-
-wie  mögliche
-Integration  bestehender
-Art.-15a-Vereinbarungen in den nächsten
-Finanzausgleich
-o  Systematische  Erfassung  von  finanziellen
-Mitteln und Abbildung im Haushalt
-o  Bestehende  Vereinbarungen  müssen  in
-Hinblick  auf  Mischfinanzierungen  und
-Kompetenzverschiebungen
-hinterfragt
-werden.
+
 
 o  Forcierung  der  Vollkonzentration  bei
 Anlagengenehmigungen  unter  Wahrung
