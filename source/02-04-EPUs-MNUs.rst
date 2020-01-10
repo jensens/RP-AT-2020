@@ -3,301 +3,81 @@ EPUs & KMUs
 -----------
 
 .. todo::
-   Formatieren, Überarbeiten, Original gegenchecken
+  Formatieren, Überarbeiten, Original gegenchecken
 
-Mehr als 99% der heimischen Unternehmen
-sind  kleine  und  mittlere  Unternehmen
-(KMUs),  die
-für  den  Großteil  der
-Arbeitsplätze  in  Österreich  verantwortlich
-sind  –  sie  bilden  das  Rückgrat  unserer
-Wirtschaft
-unseres  Wohlstands.
-Die  Bundesregierung
-verbessert  die
-Rahmenbedingungen
-und
-für  KMUs
-Ein-Personen-Unternehmen  (EPUs),  indem
-steuerliche  Vereinfachungen  umgesetzt
-werden,  die  Verwaltung  moderne  digitale
-Services  anbietet  und  Bürokratie  ab-
-gebaut wird.
+Mehr als 99% der heimischen Unternehmen sind kleine und mittlere Unternehmen (KMUs), die für den Großteil der Arbeitsplätze in Österreich verantwortlich sind – sie bilden das Rückgrat unserer Wirtschaft und unseres Wohlstands. Die Bundesregierung verbessert die Rahmenbedingungen für KMUs und Ein-Personen-Unternehmen (EPUs), indem steuerliche Vereinfachungen umgesetzt werden, die Verwaltung moderne digitale Services anbietet und Bürokratie abgebaut wird.
 
-Die  Bundesregierung  bekennt  sich  dazu,
-die  Rechtssicherheit  für  EPUs  und  KMUs  zu
-erhöhen  und  sie  auch  spürbar  zu  entlasten.
-Weiters  soll  der  heimische  Kapitalmarkt
-ausgebaut werden, um innovative KMUs und
-Start-ups in ihrem Wachstum zu unterstützen
-–  hierfür  braucht  es  verbesserte  Anreize  für
-privates  Risikokapital  und  eine  Stärkung  des
-öffentlichen  Risikokapitalmarktes.  Die  Rolle
-von „Social Entrepreneurs“, die mit innovativen
-Geschäftsmodellen  gesellschaftlichen  Heraus-
-forderungen  neu  begegnen,  soll  dabei
-besonders berücksichtigt werden.
+Die Bundesregierung bekennt sich dazu, die Rechtssicherheit für EPUs und KMUs zu erhöhen und sie auch spürbar zu entlasten. Weiters soll der heimische Kapitalmarkt ausgebaut werden, um innovative KMUs und Start-ups in ihrem Wachstum zu unterstützen – hierfür braucht es verbesserte Anreize für privates Risikokapital und eine Stärkung des öffentlichen Risikokapitalmarktes. Die Rolle von „Social Entrepreneurs“, die mit innovativen Geschäftsmodellen gesellschaftlichen Herausforderungen neu begegnen, soll dabei besonders berücksichtigt werden.
 
-und
+Rechtssicherheit und Entlastung für Selbstständige und KMUs
+-----------------------------------------------------------
 
-Seite 94
+- Das GmbH-Mindeststammkapital auf 10.000 Eur  * senken.
 
-Regierungsprogramm 2020 – 2024Fahne Österreichausgebaut
+- Evaluierung einer Verbesserung der sozialen Absicherung der Gruppe der Selbstständigen (ehem. SVA-Versicherte) im Rahmen der Zusammenführung der Träger SVA und SVB zu SVS
 
-•  Die  Bundesregierung  bekennt  sich  grund-
-sätzlich  zur  Förderung  der  Weiterbildung
-der  Unternehmerinnen  und  Unternehmer,
-vor allem EPU und KMU, durch steuerliche
-oder andere Maßnahmen.
-•  Kleinunternehmer-Steuererklärungen    ver-
-einfachen:  Besonders  für  Einnahmen-Aus-
-gaben-Rechner  sollen  bürokratische  Ver-
-einfachungen  durch
-intuitive  Online-
-Eingabemasken
-werden
-(„Steuer-App“).
-•  Die Bundesregierung bekennt sich zur Stär-
-kung der Rolle von Frauen in der Unterneh-
-merschaft und damit zu spezifischen Förder-
-programmen in der Gründungssituation.
-•  Einführung  eines  Qualifizierungsschecks
-für Wiedereinsteigerinnen und – einsteiger
-sowie Langzeitarbeitslose, damit Unterneh-
-men  punktgenau  Schulungen  und  Fortbil-
-dungen finanzieren können
-•  Die Bundesregierung bekennt sich zur Stär-
-kung  wirtschaftlicher  Kooperationsmodelle
-in der Rechtsform der Genossenschaft. Wir
-wollen  Genossenschaften  als  nachhaltige
+- Regelmäßige und frühzeitige Informationsverpflichtung der SVS bzgl. der Nachbemessung nach dem 3. Jahr und bzgl. der freiwilligen Höherversicherung – „opt-in“ bzw. Verbesserung der Information zur freiwilligen Arbeitslosenversicherung 
 
-und  krisenfeste  Unternehmensform  in  den
-unterschiedlichsten  Wirtschaftsbereichen
-stärken, um folgende Ziele zu erreichen:
-o  Unterstützung der kleinen und mittelstän-
-dischen Unternehmen in den Regionen im
-Wettbewerb, z.B. durch gemeinsame Pro-
-jekte der Digitalisierung
-o  Gründung  und  Etablierung  von  lokalen
-und nationalen Initiativen im Bereich des
-kooperativen  Wirtschaftens  und  Sharing
-Economy als Alternative zu den Angebo-
-ten internationaler Konzerne
-o  Ausbau  und  Absicherung  der  kommuna-
-len Infrastruktur in den ländlichen Regio-
-nen unter Einbeziehung von bürgerlichem
-Engagement
-o  Ausbau der Versorgungssicherheit für die
-Bürgerinnen  und  Bürger  durch  Koopera-
-tionen insbesondere im Bereich Gesund-
-heit, Pflege und Energie.
+- Rechtssicherheit in der Abgrenzung von Selbstständigkeit und Dienstverhältnissen: Der Dienstnehmerbegriff soll im Sozialversicherungs- sowie Steuerrecht vereinheitlicht und klarer umschrieben werden, um Rechtssicherheit zu schaffen. Dabei ist sowohl auf die Privatautonomie (bzw. Entscheidungsfreiheit, „Recht auf Selbstständigkeit“) als auch auf Missbrauchsfälle im Bereich der Scheinselbstständigkeit ein besonderes Augenmerk zu legen. Hierbei sind im Besonderen die Mehrfachversicherung und damit in Zusammenhang stehende Probleme zu evaluieren. 
 
-Rechtssicherheit und Entlastung
-für Selbstständige und KMUs
-•  Das GmbH-Mindeststammkapital auf 10.000
-Euro senken.
-•  Evaluierung  einer  Verbesserung  der  sozi-
-alen  Absicherung  der  Gruppe  der  Selbst-
-ständigen (ehem. SVA-Versicherte) im Rah-
-men der Zusammenführung der Träger SVA
-und SVB zu SVS
-•  Regelmäßige und frühzeitige Informations-
-verpflichtung  der  SVS  bzgl.  der  Nachbe-
-messung  nach  dem  3.  Jahr  und  bzgl.  der
-freiwilligen  Höherversicherung  –  „opt-in“
-bzw. Verbesserung der Information zur frei-
-willigen Arbeitslosenversicherung
-•  Rechtssicherheit  in  der  Abgrenzung  von
-Selbstständigkeit  und  Dienstverhältnissen:
-Der Dienstnehmerbegriff soll im Sozialversi-
-cherungs- sowie Steuerrecht vereinheitlicht
-und klarer umschrieben werden, um Rechts-
-sicherheit zu schaffen. Dabei ist sowohl auf
-die  Privatautonomie  (bzw.  Entscheidungs-
-freiheit,  „Recht  auf  Selbstständigkeit“)
-als  auch  auf  Missbrauchsfälle  im  Bereich
-der  Scheinselbstständigkeit  ein  besonde-
-res  Augenmerk  zu  legen.  Hierbei  sind  im
-Besonderen die Mehrfachversicherung und
-damit in Zusammenhang stehende Probleme
-zu evaluieren.
-•  Evaluierung  eines  Modells,  um  die  soziale
-Absicherung  in  der  Startphase  der  Unter-
-nehmertätigkeit sicherzustellen
-•  Leichtere  Absetzbarkeit  von  Arbeitszim-
-mern: Die steuerliche Absetzbarkeit von Ar-
-beitszimmern zuhause (anteilig am Gesamt-
-wohnraum) soll ausgeweitet werden, indem
-analysiert  wird,  ob  die  Voraussetzungen
-„ausschließliche,  berufliche  Nutzung“  und
-„Mittelpunkt  der  Erwerbstätigkeit“  noch
-zeitgemäß  sind  bzw.  wie  diese  Regelung
+- Evaluierung eines Modells, um die soziale Absicherung in der Startphase der Unternehmertätigkeit sicherzustellen
 
-vereinfacht  und  der  heutigen  Arbeitswelt
-angepasst  werden  kann.  Eine  Pauschalie-
-rung soll angestrebt werden.
-•  Erhöhung der Freigrenze für geringwertige
-Wirtschaftsgüter  (GWG)  auf  1.000  Euro,
-mit Ziel einer weiteren Erhöhung auf 1.500
-Euro  für  GWG  mit  besonderer  Energieeffi-
-zienzklasse  (mit  minimalem  bürokratischen
-Aufwand)
-•  Vereinfachung  ausgewählter  sonstiger  Be-
-züge  (z.B.  Vergleiche,  Kündigungsentschä-
-digungen  etc.)  mit  dem  Ziel,  die  Komple-
-xität  zu  reduzieren.  Daher  soll  durch  eine
-einheitliche  Besteuerung  mittels  pauscha-
-len  Steuersatzes  eine  Vereinfachung  er-
-reicht werden.
-•  Modernisierung der Gewinnermittlung, z.B.
-die „Unternehmensgesetzbuch-Bilanz“ und
-die  „Steuerbilanz“  sollen  stärker  zusam-
-mengeführt  werden  („Einheitsbilanz“)  (u.a.
-abweichendes Wirtschaftsjahr für alle Bilan-
-zierer,  Harmonisierung  der  Firmenwertab-
-schreibung)
-•  Förderung  des  Prinzips  „Reparieren  statt
-wegwerfen“ durch steuerliche oder andere
-Anreizmaßnahmen  zur  gleichzeitigen  Stär-
-kung von Gewerbe und Handwerk
-•  Erleichterungen für Betriebsübergaben:
-o  Unternehmensübergaben  in  der  Familie
-sollen erleichtert werden.
-o  Weiters  soll  eine  zweijährige  „grace  pe-
-riod“  eingeführt  werden,  in  der  nur  die
-nötigsten betrieblichen Kontrollen durch-
-geführt  werden  und  an  deren  Ende  der
-Übertritt in das Regelregime stattfindet.
+- Leichtere Absetzbarkeit von Arbeitszimmern: Die steuerliche Absetzbarkeit von Arbeitszimmern zuhause (anteilig am Gesamtwohnraum) soll ausgeweitet werden, indem analysiert wird, ob die Voraussetzungen „ausschließliche, berufliche Nutzung“ und „Mittelpunkt der Erwerbstätigkeit“ noch zeitgemäß sind bzw. wie diese Regelung vereinfacht und der heutigen Arbeitswelt angepasst werden kann. Eine Pauschalierung soll angestrebt werden. - Erhöhung der Freigrenze für geringwertige Wirtschaftsgüter (GWG) auf 1.000 Euro, mit Ziel einer weiteren Erhöhung auf 1.500 Eur  * für GWG mit besonderer Energieeffizienzklasse (mit minimalem bürokratischen Aufwand) 
 
-Seite 95
+- Vereinfachung ausgewählter sonstiger Bezüge (z.B. Vergleiche, Kündigungsentschädigungen etc.) mit dem Ziel, die Komplexität zu reduzieren. Daher soll durch eine einheitliche Besteuerung mittels pauschalen Steuersatzes eine Vereinfachung erreicht werden. 
 
-Seite 96
+- Modernisierung der Gewinnermittlung, z.B. die „Unternehmensgesetzbuch-Bilanz“ und die „Steuerbilanz“ sollen stärker zusammengeführt werden („Einheitsbilanz“) (u.a. abweichendes Wirtschaftsjahr für alle Bilanzierer, Harmonisierung der Firmenwertabschreibung) - Förderung des Prinzips „Reparieren statt wegwerfen“ durch steuerliche oder andere Anreizmaßnahmen zur gleichzeitigen Stärkung von Gewerbe und Handwerk
 
-Regierungsprogramm 2020 – 2024Regierungsprogramm 2020 – 2024Fahne ÖsterreichFahne Österreicho  Verstärkte  Koordinierung  und  mögliche
-Zusammenführung der Finanzierungsakti-
-vitäten von aws und FFG
-o  Verbesserte  Governance  der  österrei-
-chischen  Förderlandschaft/Risikokapital-
-struktur, zur Vermeidung von Doppelglei-
-sigkeiten
+- Erleichterungen für Betriebsübergaben:
 
-Investments
+  * Unternehmensübergaben in der Familie sollen erleichtert werden.
+  * Weiters soll eine zweijährige „grace period“ eingeführt werden, in der nur die nötigsten betrieblichen Kontrollen durchgeführt werden und an deren Ende der Übertritt in das Regelregime stattfindet.
 
-•  Stärkere  Nutzung  von  European  Fund  for
-Strategic
-(EFSI)  durch  eine
-zentrale  Förderstelle  bzw.  einen  zentralen
-Ansprechpartner in Österreich sowie durch
-Standardisierung  und  Bündelung  von  Pro-
-jekten, um Fördergelder optimal abzuholen
-und einzusetzen
+- Die Bundesregierung bekennt sich grundsätzlich zur Förderung der Weiterbildung der Unternehmerinnen und Unternehmer, vor allem EPU und KMU, durch steuerliche oder andere Maßnahmen.
 
-•  Neue  Finanzierungsmodelle  für  Unterneh-
-men fördern
-o  Überführung  des  Pilotprogramms  „aws
-Garantiepromesse“
-(zuerst  zur  aws,
-dann Bank) in ein Regelprogramm: Das
-derzeitige aws Pilotprogramm für Vorab-
-garantien für KMU soll dauerhaft weiter-
-geführt werden.
-o  Weiterentwicklung  der  Garantiemöglich-
-keiten im Rahmen von KMU-Fördergesetz
-und  Garantiegesetz  (adäquate  Risikoan-
-teile und Garantiequoten bei nicht inves-
-tiven  Maßnahmen,  Flexibilisierung  der
-Entgelte)
+- Kleinunternehmer-Steuererklärungen vereinfachen: Besonders für Einnahmen-Ausgaben- Rechner sollen bürokratische Vereinfachungen durch intuitive Online- Eingabemasken ausgebaut werden („Steuer-App“).
+
+- Die Bundesregierung bekennt sich zur Stärkung der Rolle von Frauen in der Unternehmerschaft und damit zu spezifischen Förderprogrammen in der Gründungssituation. 
+
+- Einführung eines Qualifizierungsschecks für Wiedereinsteigerinnen und – einsteiger sowie Langzeitarbeitslose, damit Unternehmen punktgenau Schulungen und Fortbildungen finanzieren können 
+
+- Die Bundesregierung bekennt sich zur Stärkung wirtschaftlicher Kooperationsmodelle in der Rechtsform der Genossenschaft. Wir wollen Genossenschaften als nachhaltige und krisenfeste Unternehmensform in den unterschiedlichsten Wirtschaftsbereichen stärken, um folgende Ziele zu erreichen:
+
+  * Unterstützung der kleinen und mittelständischen Unternehmen in den Regionen im Wettbewerb, z.B. durch gemeinsame Projekte der Digitalisierung 
+  * Gründung und Etablierung von lokalen und nationalen Initiativen im Bereich des kooperativen Wirtschaftens und Sharing Economy als Alternative zu den Angeboten internationaler Konzerne
+  * Ausbau und Absicherung der kommunalen Infrastruktur in den ländlichen Regionen unter Einbeziehung von bürgerlichem Engagement
+  * Ausbau der Versorgungssicherheit für die Bürgerinnen und Bürger durch Kooperationen insbesondere im Bereich Gesundheit, Pflege und Energie.
+
+Innovation durch Risikokapital ermöglichen
+------------------------------------------
+
+- Verbesserte Anreize für privates Risikokapital für innovative Start-ups und KMUs   * Start-up und KMU-Finanzierung: Um den österreichischen Standort und vor allem die Gründung neuer Unternehmen mit innovativen Ideen (inkl. Social Entrepreneurship) und deren Wachstum zu fördern soll privates Risikokapital mobilisiert werden, z.B. durch die Einführung und Lockerung der Verlustverrechnungsmöglichkeit bei Einkünften aus Kapitalvermögen. Aktuell können private Investorinnen und Investoren Verluste aus der Beteiligung an Start-ups nur mit bestimmten positiven Kapitaleinkünften und nur im gleichen Jahr ausgleichen – zukünftig soll die Verlustverrechnung auch über mehrere Jahre hinweg erfolgen können.
+
+  * Prüfung einer steuerlichen Absetzbarkeit von Anschub- und Wachstumsfinanzierung für innovative Start-ups und KMUs mit Obergrenze pr  * Investment (z.B. € 100.000 über 5 Jahre absetzbar) und einer Gesamtdeckelung - nach Vorbild des erfolgreichen (Seed) Enterprise Investment Scheme (SEIS/EIS) in Großbritannien.
+  * Institutionelle Investoren, wie Pensionskassen, Vorsorgekassen und Versicherungen sollen in langfristige, innovative Anlageformen (inkl. ökologischem und Social Impact) investieren dürfen (z.B. Seed-Finanzierung für Start-Ups und KMUs). Die zugrundeliegenden Kataloge zulässiger Veranlagungen sollen entsprechend angepasst werden (in Einklang mit EU-Recht).
+  * Die Bundesregierung bekennt sich zur Stärkung bestehender Mikrokreditprogramme und zur besseren Bekanntmachung der Möglichkeit der Social Impact Bond Finanzierung. 
+  * Gesellschaftsform für den alternativen Investmentfonds nach Vorbild SICAV (Société d’investissiment a capital variable) mit variablem Kapital ermöglichen. Dabei werden hohe Transparenzstandards sowie der Anlegerschutz berücksichtigt.
+
+- Vereinheitlichung und Stärkung des öffentlichen Risikokapitals
+
+  * Verstärkte Kooperation des Bundes mit der Österreichischen Kontrollbank (OeKB)
+  * Vergabeprozess der Österreichischen Entwicklungsbank AG (OeB) weniger bürokratisch gestalten, um zügigere Entscheidungen zu ermöglichen, z.B. Genehmigungsverfahren für Afrika-Fazilität
+  * Ausbau der Verfügbarkeit von Wachstumskapital für Start-Ups und KMUs (Finanzierungsvolumen € 2 Mio. bis € 20 Mio.) in Zusammenarbeit mit privaten Investorinnen und Investoren. Mögliche internationale Beispiele wären z.B. Modell Schweiz (Corporate Venture Fund unter Einbindung österreichischer Leitbetriebe) oder Modell Dänemark (Dachfonds/Fund of Funds Lösung). 
+  * Verstärkte Zusammenarbeit des Bundes mit der Kommunalkredit Public Consulting (KPC) zur zielorientierten Förderung von Klima- und Umweltschutzprojekten
+  * Verstärkte Koordinierung und mögliche Zusammenführung der Finanzierungsaktivitäten von aws und FFG 
+  * Verbesserte Governance der österreichischen Förderlandschaft/Risikokapitalstruktur, zur Vermeidung von Doppelgleisigkeiten
+
+- Stärkere Nutzung von European Fund for Strategic Investments (EFSI) durch eine zentrale Förderstelle bzw. einen zentralen Ansprechpartner in Österreich sowie durch Standardisierung und Bündelung von Projekten, um Fördergelder optimal abzuholen und einzusetzen
+
+- Neue Finanzierungsmodelle für Unternehmen fördern
+
+  * Überführung des Pilotprogramms „aws Garantiepromesse“ (zuerst zur aws, dann Bank) in ein Regelprogramm: Das derzeitige aws Pilotprogramm für Vorabgarantien für KMU soll dauerhaft weitergeführt werden.
+  * Weiterentwicklung der Garantiemöglichkeiten im Rahmen von KMU-Fördergesetz und Garantiegesetz (adäquate Risikoanteile und Garantiequoten bei nicht investiven Maßnahmen, Flexibilisierung der Entgelte)
 
 Social Entrepreneurship
-•  Zielgruppenspezifische  öffentliche  Finan-
-zierungsinstrumente  bzw.  Ausweitung  und
-Öffnung  bestehender  Finanzierungspro-
-gramme für Social Entrepreneurs
-•  Die Bundesregierung bekennt sich zur steu-
-erlichen Begünstigung der gemeinnützigen
 
-Aktivitäten  von  Stiftungen  und  prüft  die
-weitere Förderung sozialer Innovationen.
-•  Prüfung  einer  Reform  der  Gemeinnützig-
-keitsbestimmung  durch  Ausweitung  auf
-Social Entrepreneurs
+- Zielgruppenspezifische öffentliche Finanzierungsinstrumente bzw. Ausweitung und Öffnung bestehender Finanzierungsprogramme für Social Entrepreneurs
 
-o  Die  Bundesregierung  bekennt  sich  zur
-Stärkung  bestehender  Mikrokreditpro-
-gramme  und  zur  besseren  Bekanntma-
-chung der Möglichkeit der Social Impact
-Bond Finanzierung.
-o  Gesellschaftsform für den alternativen In-
-vestmentfonds  nach  Vorbild  SICAV  (So-
-ciété  d’investissiment  a  capital  variable)
-mit variablem Kapital ermöglichen. Dabei
-werden hohe Transparenzstandards sowie
-der Anlegerschutz berücksichtigt.
+- Die Bundesregierung bekennt sich zur steuerlichen Begünstigung der gemeinnützigen Aktivitäten von Stiftungen und prüft die weitere Förderung sozialer Innovationen. 
 
-Innovation durch Risikokapital
-ermöglichen
-•  Verbesserte  Anreize  für  privates  Risiko-
-kapital für innovative Start-ups und KMUs
-o  Start-up und KMU-Finanzierung: Um den
-österreichischen  Standort  und  vor  allem
-die  Gründung  neuer  Unternehmen  mit
-innovativen  Ideen  (inkl.  Social  Entrepre-
-neurship) und deren Wachstum zu fördern
-soll privates Risikokapital mobilisiert wer-
-den, z.B. durch die Einführung und Locke-
-rung  der  Verlustverrechnungsmöglichkeit
-bei  Einkünften  aus  Kapitalvermögen.  Ak-
-tuell können private Investorinnen und In-
-vestoren  Verluste  aus  der  Beteiligung  an
-Start-ups  nur  mit  bestimmten  positiven
-Kapitaleinkünften  und  nur  im  gleichen
-Jahr ausgleichen – zukünftig soll die Ver-
-lustverrechnung auch über mehrere Jahre
-hinweg erfolgen können.
-o  Prüfung  einer  steuerlichen  Absetzbarkeit
-von  Anschub-  und  Wachstumsfinanzie-
-rung  für  innovative  Start-ups  und  KMUs
-mit  Obergrenze  pro  Investment  (z.B.  €
-100.000 über 5 Jahre absetzbar) und einer
-Gesamtdeckelung  -  nach  Vorbild  des  er-
-folgreichen  (Seed)  Enterprise  Investment
-Scheme (SEIS/EIS) in Großbritannien.
-o  Institutionelle  Investoren,  wie  Pensions-
-kassen,  Vorsorgekassen  und  Versicherun-
-gen sollen in langfristige, innovative Anla-
-geformen  (inkl.  ökologischem  und  Social
-Impact)  investieren  dürfen  (z.B.  Seed-Fi-
-nanzierung  für  Start-Ups  und  KMUs).  Die
-zugrundeliegenden  Kataloge  zulässiger
-Veranlagungen sollen entsprechend ange-
-passt werden (in Einklang mit EU-Recht).
-
-•  Vereinheitlichung und Stärkung des öffentli-
-chen Risikokapitals
-o  Verstärkte  Kooperation  des  Bundes  mit
-der Österreichischen Kontrollbank (OeKB)
-o  Vergabeprozess  der  Österreichischen
-Entwicklungsbank AG (OeB) weniger bü-
-rokratisch  gestalten,  um  zügigere  Ent-
-scheidungen zu ermöglichen, z.B. Geneh-
-migungsverfahren für Afrika-Fazilität
-o  Ausbau  der  Verfügbarkeit  von  Wachs-
-tumskapital  für  Start-Ups  und  KMUs  (Fi-
-nanzierungsvolumen  €  2  Mio.  bis  €  20
-Mio.) in Zusammenarbeit mit privaten In-
-vestorinnen und Investoren. Mögliche in-
-ternationale  Beispiele  wären  z.B.  Modell
-Schweiz  (Corporate  Venture  Fund  unter
-Einbindung österreichischer Leitbetriebe)
-oder Modell Dänemark (Dachfonds/Fund
-of Funds Lösung).
-o  Verstärkte  Zusammenarbeit  des  Bundes
-mit  der  Kommunalkredit  Public  Consul-
-ting  (KPC)  zur  zielorientierten  Förderung
-von Klima- und Umweltschutzprojekten
-
-Seite 97
-
-Seite 98
-
-Regierungsprogramm 2020 – 2024Regierungsprogramm 2020 – 2024Fahne ÖsterreichFahne Österreich
+- Prüfung einer Reform der Gemeinnützigkeitsbestimmung durch Ausweitung aufSocial Entrepreneurs
