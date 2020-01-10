@@ -1,0 +1,201 @@
+------
+Frauen
+------
+
+.. todo::
+   Formatieren, Überarbeiten, Original gegenchecken
+
+umfasst
+
+Frauenpolitik  ist  Gleichstellungspolitik.  Sie
+rückt die Chancengleichheit von Frauen jeden
+Alters auf allen Ebenen des gesellschaftlichen,
+beruflichen und familiären Lebens in den Fokus.
+Das  Ziel  ist  es,  dass  Frauen  selbstbestimmt,
+ökonomisch unabhängig und frei von Gewalt
+oder Angst vor Diskriminierung leben.
+im
+die  Gleichstellung
+Das
+Erwerbsleben in Bezug auf gleiche Löhne für
+gleiche  Arbeit,  eine  bessere  Verteilung  von
+bezahlter  und  unbezahlter  Arbeit  zwischen
+Frauen  und  Männern  und  die
+(Alters-)
+Armut  zu  reduzieren.  Rollenbilder  müssen
+weiter  aufgebrochen  und  der  Frauenanteil
+in  Führungspositionen  erhöht  werden.  Um
+Frauen den Wiedereinstieg in den Beruf und
+gleiche  Chancen  zu  ermöglichen,  werden
+die Fördermittel im AMS evidenzbasiert und
+gerecht  auf  Frauen  und  Männer  verteilt.
+Kinderbetreuung
+flächendeckend
+ausgebaut.
+Die angelernten Rollen und Rollenverhältnisse
+von Frauen und Männer müssen aufgegriffen
+werden. Frauen wie Männer brauchen mehr
+Gestaltungsfreiraum in ihrem Leben. Anreize
+für  Männer,  mehr  unbezahlte  Arbeit  zu
+
+wird
+
+übernehmen,  in  Väterkarenz  zu  gehen  oder
+den  Papamonat  in  Anspruch  zu  nehmen,
+tragen  zu  einer  gerechteren  Verteilung
+von  Erwerbs-,  Familien-,  Pflege-  und
+ehrenamtlichen  Arbeit  zwischen  Männern
+und  Frauen  bei.  Um  die  Fortschritte  der
+Gleichberechtigung  betrachten  zu  können,
+nimmt  Österreich  an  der  europaweiten
+Zeitverwendungserhebung teil.
+Immer  noch  ist  eine  von  fünf  Frauen  im
+Laufe  ihres  Lebens  von  Gewalt  betroffen.
+Frauen  müssen  selbst  über  ihr  Leben  und
+ihren  Körper  bestimmen  können.  Im  Zuge
+eines  umfassenden  Nationalen  Aktionsplans
+Gewaltschutz sollen Opferschutzeinrichtungen
+und  Beratungsstellen
+und
+Justiz,  Polizei  und  Multiplikatorinnen  bzw.
+Multiplikatoren
+sensibilisiert
+werden.  Um  Frauen  einen  Weg  aus
+gewalttätigen  Beziehungen  zu  ermöglichen,
+müssen  mehr  Kapazitäten  in  Frauenhäusern,
+Start-
+in
+Kooperation  mit
+Bundesländern
+ausgebaut  werden.  Zusätzlich  zum  Schutz
+von  betroffenen  Frauen  bedarf  es  mehr
+Gewaltpräventionsprogramme für Gefährder,
+um Gewalt vorzubeugen.
+
+Übergangswohnungen
+
+für  Gewalt
+
+ausgebaut
+
+und
+
+den
+
+Seite 272
+
+Regierungsprogramm 2020 – 2024Fahne ÖsterreichGewaltschutz
+•  Nationaler  Aktionsplan  (Sicherstellung  der
+Finanzierung)
+o  Bestmögliche  Umsetzung  der
+bul-Konvention
+o  Ausbau  der  Opferschutzeinrichtungen,
+Gewaltschutzzentren  und  Interventions-
+stellen
+o  Sensibilisierung  von  Justiz,  Polizei  und
+Multiplikatorinnen bzw. Multiplikatoren
+o  Gewaltpräventionsprogramme für Gefähr-
+der
+
+Istan-
+
+•  Ausbau der Frauenberatungsstellen
+•  15a-Vereinbarung  zu  bundeslandübergrei-
+fenden Frauenhausplätzen
+•  Verbot von Zwangsheirat, Frauenhandel
+
+•  15a-Vereinbarung  zur  Bereitstellung  von
+Start- und Übergangswohnungen
+•  Sensibilisierungskampagne  zu  Gewalt  ge-
+gen Frauen und Kinder
+•  Up-Skirting-Verbot
+•  Multiinstitutionelle  Einberufung  von  Fall-
+konferenzen bei Hochrisikofällen
+•  Präzisierung  der  Kriterien  im  Zusammen-
+hang mit der Anzeigepflicht
+•  Zugang  zu  Frauenhäusern  für  alle  Frauen,
+die den Schutz brauchen
+•  Substanzielle  Aufstockung  des  Frauen-
+budgets
+für  Gewaltschutz,
+Frauen-  und  Familienberatungsstellen
+sowie  Notwohnungen  und  andere  Opfer-
+schutz-Maßnahmen)
+
+(vor  allem
+
+Gleichstellung von Frauen
+am Arbeitsmarkt
+•  Chancen  für  Frauen  im  ländlichen  Raum
+erhöhen (Stichwort Digitalisierung)
+•  Aus- und Weiterbildungsmöglichkeiten
+•  Einkommensbericht:  Interne  Informationen
+an  MA  zeitgleich  mit  Legung  des  Einkom-
+mensberichtes in adäquater Form
+•  Handlungsanleitungen für Unternehmen zur
+Sicherstellung von Equal Pay
+•  Equal-Pay-Siegel (Kriterienkatalog)
+•  40%  Frauenquote  in  jedem  einzelnen  Auf-
+sichtsrat  von  Unternehmen  in  öffentlicher
+Hand (mehr als 50% Beteiligung): Der Bund
+geht  mit  gutem  Beispiel  für  die  Privatwirt-
+schaft voran
+•  Prüfung  von  Maßnahmen  zur  Erhöhung  der
+Frauenquote in börsennotierten Unternehmen
+
+•  Info-Kampagne/Sensibilisierung:  Auswir-
+kungen  von  Teilzeit  auf  die  soziale  Ab-
+sicherung  in  Arbeitslosigkeit  und  Alter,
+Weiterbildungsmaßnahmen  von  MA
+in
+Teilzeit, Führen in Teilzeit, Teilzeitrechner,
+Elternteilzeit
+•  Zeitverwendungsstudie:  bezahlte  vs.  un-
+bezahlte  Arbeit,  Aufteilung  Familienarbeit,
+Familienkosten/Kinderkosten
+•  Studie zu Stadt-/Landflucht
+•  Karenzmanagement: ausführliche Informati-
+onen im Vorfeld der Karenz
+•  Ausbau  und  Stärkung  der  Ausbildung  von
+Journalistinnen
+
+Seite 273
+
+Seite 274
+
+Regierungsprogramm 2020 – 2024Regierungsprogramm 2020 – 2024Fahne ÖsterreichFahne ÖsterreichGleichstellung und Selbstbestimmung,
+Frauengesundheit
+•  Forcierung  der  im  NAP  Frauengesundheit
+vorgesehenen Maßnahmen
+•  Umsetzung des VfGH-Urteils G 77/2018
+•  Gleichbehandlungsanwaltschaft
+stärken
+und  niederschwellige  Angebote  für  An-
+ti-Diskriminierung schaffen
+•  Stärkung  der  Schutzmöglichkeiten  gegen
+Diskriminierung  in  den  unterschiedlichen
+Lebensbereichen
+•  Entwicklung von speziellen Mentoring-Pro-
+grammen in der Kunst, speziell für Frauen
+•  Gleichstellung und Frauenförderung
+
+o  Bei  der  Fördervergabe  ist  jedenfalls  auf
+Geschlechtergerechtigkeit zu achten und
+diese umzusetzen.
+o  Förderungen  und  Basissubventionen  nur
+bei gleicher Bezahlung von Männern und
+Frauen für gleiche Arbeit
+o  Schritt
+für  Schritt  Reduzierung  des
+Gender-Pay-Gap  in  Kunst-  und  Kultur-
+organisationen
+-  Interkulturelle  und  Gleichbehandlungs-
+kompetenzen müssen in allen pädagogi-
+schen Ausbildungen als Pflichtlehrveran-
+staltungen enthalten sein.
+
+Seite 275
+
+Seite 276
+
+Regierungsprogramm 2020 – 2024Regierungsprogramm 2020 – 2024Fahne ÖsterreichFahne Österreich

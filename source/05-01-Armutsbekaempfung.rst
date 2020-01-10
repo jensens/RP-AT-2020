@@ -1,0 +1,403 @@
+----------------
+Armutsbekämpfung
+----------------
+
+.. todo::
+   Formatieren, Überarbeiten, Original gegenchecken
+
+
+soll  unter  Einbindung  der  Sozialpartner  mit
+Es ist unsere gesellschaftliche Verantwortung
+geeigneten  Mitteln  geschlossen  werden.
+und  Aufgabe  der  Sozialpolitik,  eine
+Erforderlichenfalls kann dieser Lückenschluss
+Existenzsicherung  zu  gewährleisten,  am
+auch  auf  anderem  Wege  erfolgen.  (z.B.
+besten über eine Teilhabe am Erwerbsleben.
+durch  das  Bundeseinigungsamt).  Auch  im
+Das  umfasst  auch  die  Verantwortung,
+Bereich  der  bestehenden  Kollektivverträge
+Armut,  die  oftmals  von  Ausgrenzung  und
+gibt es Fälle, in denen die Löhne bereits seit
+Scham begleitet wird, weiter zu bekämpfen.
+mehreren Jahrzehnten nicht mehr angehoben
+Wir  haben  uns  deshalb  zum  Ziel  gesetzt,
+wurden.  Wenn  eine  sozialpartnerschaftliche
+durch  verschiedene  Maßnahmen
+in  der
+Einigung  zur  Lösung  dieses  Problems  nicht
+kommenden  Legislaturperiode  den  Anteil
+zustande  kommt,  soll  die  Möglichkeit
+von armutsgefährdeten Menschen im ersten
+geschaffen werden, eine Entscheidung durch
+Schritt zu halbieren.
+das Bundeseinigungsamt herbeizuführen.
+Die  Bundesregierung  bekennt  sich  zum
+Österreich zeichnet sich durch ein Sozialsystem
+Prinzip  der  Armutsbekämpfung  und  nimmt
+aus,  auf  das  sich  die  Menschen  in  der
+ihre Verantwortung wahr, die Möglichkeiten
+Vergangenheit verlassen konnten, aber auch
+zu  schaffen,  ein  eigenständiges  und  wirt-
+in  Zukunft  verlassen  können,  welches  sie  in
+schaft lich  unabhängiges  Erwerbsleben  führen
+Notlagen  existenziell  absichert,  bestmöglich
+zu  können.  Denn  existenzsichernde  Arbeit,
+vor  Armut  schützt  sowie  die  Chance  bietet,
+an gemessene  Löhne  und  entsprechende
+neue Perspektiven zu entwickeln, anzustreben
+Pensionen  haben  eine  präventive  Wirkung:
+und zu erreichen. Das Sozialsystem ist daher
+Sie  verhindern,  dass  Menschen  überhaupt
+als  Schutzsystem  zu  begreifen  und  soll
+erst in Armut geraten. Ein gerechter Lohn ist
+Erwerbsteilhabe  fördern  und  unterstützen.
+die  Basis,  dass  Menschen  ein  gutes  Leben
+Ziel
+ist  sowohl  die  soziale  Absicherung
+führen  können.  Es  gibt  derzeit  Bereiche  in
+von  durch  Armut  betroffenen  Menschen
+der  österreichischen  Wirtschaft,  in  denen
+als  auch  die  Möglichkeit  der  Teilhabe  am
+Löhne  gezahlt  werden,  die  unter  den
+gesellschaftlichen und kulturellen Leben ohne
+niedrigsten  Kollektivvertragslöhnen  der
+Ausgrenzung und Diskriminierung.
+gewerblichen Wirtschaft liegen. Diese Lücke
+
+Seite 234
+
+Regierungsprogramm 2020 – 2024Fahne Österreichwerden.
+
+Deshalb
+
+legt  die
+Ein  besonderes  Augenmerk
+Bundesregierung  auf  die  Bekämpfung  von
+Kinderarmut.  Kein  Kind  darf  in  Österreich
+zurückgelassen
+Besonders
+Alleinerziehende  sind  Mehrfachbelastungen
+ausgesetzt, die ihren Familienalltag erschweren,
+und  können  so  leichter  in  armutsgefährdete
+Lebenslagen
+sind
+bestehende  Lücken  im  Unterhaltsvorschuss
+zu  schließen.  Wo  Familien  nicht  selbst  (z.B.
+durch  Erwerbsbeteiligung)  für  die  finanzielle
+Absicherung sorgen können, wird diese durch
+Sozialleistungen
+sichergestellt.  Außerdem
+wird der Kindermehrbetrag des Familienbonus
+erhöht  und  allen  Erwerbstätigen  mit  Kindern
+als Negativsteuer ausbezahlt.
+
+geraten.
+
+liegt
+
+Altersarmut  kann  aber  nicht  nur  im  Alter
+verhindert  werden.  Ein  wichtiger  Schlüssel
+dazu
+in  der  Erwerbsphase.  Die
+Bundesregierung  wird  daher
+zahlreiche
+Maßnahmen  setzen,  um  Fraueneinkommen
+zu  erhöhen.
+In  der  Pension  kommen
+besonders  auf  Frauen  oft  finanziell  sehr
+große  Herausforderungen  zu.  Mit  gezielten
+Maßnahmen für diese Gruppe wollen wir die
+Frauenaltersarmut  mindern.  Um  Altersarmut
+v.a. von Frauen zu bekämpfen, überprüfen wir
+partnerschaftliche  Formen  der  Elternteilzeit
+und Pensionssplittingmodelle.
+
+Paket zur Armutsbekämpfung
+•  Stärkung  von  Familien  mit  niedrigen  Ein-
+kommen im Zuge der Steuerreform durch
+die Senkung des Eingangsteuersatzes bei
+der  Einkommensteuer  von  25%  auf  20%
+sowie der Erhöhung der Untergrenze des
+Familienbonus  von  250  auf  350  Euro  pro
+Kind  und  des  Gesamtbetrages  von  1.500
+auf 1.750 Euro pro Kind
+•  One-Stop-Shop
+Ausbau  der  aktivierenden  Hilfe
+Management)
+
+•  Abschluss  einer  15a-Vereinbarung  für  die
+Betreuung  von  Sozialhilfebezieherinnen
+und -bezieher im Regelpensionsalter sowie
+Menschen  mit  Behinderungen  durch  die
+Pensionsversicherungsanstalt/das  Sozialmi-
+nisteriumservice – Kostentragung wie bisher
+durch die Bundesländer
+•  Energieeffizienzgesetz  –  Maßnahmen
+in
+Form von Sachleistungen (Beratung, Sanie-
+rung, Geräte tauschen), Frühwarnsystem
+•  Einführung eines bundesweiten, praxistaug-
+lichen Kältetelefons
+
+für  Erwerbsfähige  und
+(Case-
+
+Bedarfsgerechte Ressourcen für unsere Schulen
+•  Bereitstellung von Supportpersonal: Schuli-
+sches Unterstützungspersonal (administrativ
+und psychosozial) bedarfsgerecht aufstocken,
+damit  sich  Pädagoginnen  und  Pädagogen
+auf bestmöglichen Unterricht konzentrieren
+können
+o  Mehr Support durch unterstützendes Per-
+sonal (z.B. Schulsozialarbeit, Schulpsycho-
+logie, Assistenz, administratives Personal);
+klare  Aufgabenteilung  und  Konsolidie-
+rung unterschiedlicher Aufgaben (und Ti-
+tel) des Unterstützungspersonals
+o  Unterstützendes  Personal  ist  dienstrecht-
+lich bei den Bildungsdirektionen anzudo-
+cken, soll aber als Teil des pädagogischen
+Teams  an  den  Schulen  agieren.  Prüfung
+einer  Verwaltungsvereinfachung  durch
+Anstellung  des  neuen  Supportpersonals
+bei einer Personalagentur des Bundes
+o  Langfristige  Absicherung  der  Finanzie-
+rung über den FAG und gesetzliche Vor-
+gaben über den Bund
+
+•  Schulen  mit  besonderen  Herausforderun-
+gen  stützen  –  Pilotprogramm  an  100  aus-
+gewählten  Schulen  in  ganz  Österreich  um-
+setzen, die anhand eines zu entwickelnden
+Chancen-  und  Entwicklungsindex  grund-
+sätzlich infrage kommen:
+o  Ursachenanalyse  am  Standort  unter  Ein-
+beziehung  aller  Schulpartner;  betroffene
+Schulen müssen ihre spezifischen Heraus-
+forderungen,  Lösungsvorschläge,  finanzi-
+ellen Erfordernisse und angestrebten Bil-
+dungserfolge darstellen
+
+o  Zusätzliche  Ressourcen  (Personal,  Finan-
+zierung)  werden  anhand  klarer  Kriterien
+an  die  ausgewählten  Schulen  vergeben,
+aufbauend auf einem individuellen Schul-
+entwicklungsplan mit maßgeschneiderter
+Unterstützung
+o  Autonome Umsetzung durch die Schullei-
+tung, Begleitung durch Bildungsdirektion
+sowie wissenschaftliche Analyse
+o  Prüfung
+bedarfsorientierten
+einer
+Mittelzuteilung  auf  Basis  der  Ergebnisse
+des Pilotprogramms
+
+•  Prüfung  der  Einrichtung  von  Fonds  für
+Schulveranstaltungen  bei  den  Bildungs-
+direktionen.  Damit  soll  benachteiligten
+Standorten geholfen werden, die Kosten für
+Schulveranstaltungen (Workshops, Ausflüge
+etc.) abzudecken – eventuell gespeist durch
+regionale Unternehmen.
+•  Qualitätsvolle  Bildung  und  Förderung  von
+Anfang an und für alle Kinder
+o  Wir  setzen  uns  als  Bundesregierung  für
+eine  Bund-Länder-Vereinbarung
+zum
+möglichst  flächendeckenden,  qualitäts-
+vollen,  VIF-konformen  Ausbau  elementa-
+rer  Bildungsplätze  ein  (Kindergärten  und
+Kinderkrippen für unter 3-Jährige) zur Er-
+reichung  der  Barcelona-Ziele  –  inklusive
+der bedarfsgerechten Errichtung von Be-
+triebskindergärten und -kindergruppen.
+o  Der Zweckzuschuss in der 15a-Vereinbarung
+in  der  Elementarpädagogik  wird  ab  dem
+Kindergartenjahr 2020/21 wesentlich erhöht.
+
+Seite 235
+
+Seite 236
+
+Regierungsprogramm 2020 – 2024Regierungsprogramm 2020 – 2024Fahne ÖsterreichFahne Österreicho  Fachliche  und  pädagogische  Konzeption
+von  speziellen  Ferienangeboten  sowie
+österreichweit  einheitliche  Angebotsum-
+setzung  (z.B.  Schwerpunktkurse,  Praxis-
+wochen,  Unternehmenswochen,  Sprach-,
+Sport- und Kulturangebote etc.) mit sozial
+gestaffelten  Beiträgen  (in  Zusammenar-
+beit mit den Ländern)
+
+•  Ausbau  ganztägiger  Schulen:  Bedarfsge-
+rechter  Ausbau  ganztägiger  Schulformen
+zur  Ermöglichung  der  Wahlfreiheit  für  El-
+tern.  Ein  unverschränktes  bzw.  verschränk-
+tes Angebot soll auch in jenen Regionen zur
+Verfügung stehen, in denen es dieses bisher
+nicht gibt.
+•  Berufs- und Bildungsberatung für Jugendli-
+che verbessern und österreichweite Talente-
+checks als Teil des Unterrichts für alle 14-Jäh-
+rigen in unterschiedlichen Schulformen mit
+begleitender Beratung für Eltern einführen,
+unter Einhaltung höchster Datenschutzstan-
+dards und Klärung der Datenrechte
+
+o  Um den raschen weiteren Ausbau von qua-
+litätsvollen  Bildungsplätzen  in  elementar-
+pädagogischen  Bildungseinrichtungen  si-
+cherzustellen und den Betreuungsschlüssel
+zu verbessern, startet die Bundesregierung
+eine  Ausbildungsoffensive  für  Elementar-
+pädagoginnen  und  -pädagogen,  insbe-
+sondere  in  den  berufsbegleitenden  Kol-
+legs für Elementarpädagogik.
+
+•  Weiterentwicklung  von  Fördermaßnahmen
+für Kinder mit Förderbedarf aus dem Kinder-
+garten bei Eintritt in die Volksschule bis zur
+neuerlichen Überprüfung der Förderwürdig-
+keit.  Das  bestehende  Schulreifescreening
+wird evaluiert.
+•  Mehr  Ferienbetreuung  und  Sommerunter-
+richt für jene, die es brauchen, um Eltern zu
+entlasten
+o  Mehr  Förderstunden
+für  Schülerinnen
+und  Schüler  am  Nachmittag  (unter  Nut-
+zung  des  bestehenden  Systems  der  ver-
+pflichtenden Förderstunden)
+o  Ausarbeitung  eines  Konzepts  als  Ange-
+bot  für  die  Gemeinden  zur  verstärkten
+Einbeziehung der Eltern in die Sprachför-
+derung  (aktive  Elternarbeit,  „Mama  lernt
+Deutsch“)
+
+Schnittstellen zu anderen Materien
+•  Menschen mit Behinderung
+•  Justiz
+o  Überarbeitung  der  Unterhaltsklagsver-
+o  Evaluierung der letzten Novelle zum Insol-
+pflichtung im ABGB im Bereich Menschen
+venzrecht
+mit Behinderung
+o  Verbesserung der Verbraucherinformation
+o  Absicherung von Menschen mit Behinderung
+zum Basiskonto
+•  Bekenntnis zu konsumfreien Räumen
+•  Sensibilisierungsstrategie  im  Umgang  mit
+Minderheiten und Menschen am Rande der
+Gesellschaft
+•  Überprüfung der Instrumente zur Messung
+und  der  politischen  Maßnahmen  zur
+Armutsbekämpfung unter Vermeidung von
+Doppelgleisigkeiten
+o  Einrichtung
+eines
+„Armutsbekämpfung“
+
+•  Gesundheit
+o  Bundes-Zielsteuerungskommission  Ent-
+bürokratisierung:  niederschwelliger  Zu-
+gang zu Gesundheitsleistungen für alle
+o  Vollfinanzierte  Therapieplätze  im  Bereich
+Psychotherapie
+o  Bessere Zahnleistungen gewährleisten
+
+Unterausschusses
+
+Seite 237
+
+Seite 238
+
+Regierungsprogramm 2020 – 2024Regierungsprogramm 2020 – 2024Fahne ÖsterreichFahne ÖsterreichFreiwilliges Soziales Jahr (FSJ)
+•  Aufwertung des Freiwilligen Sozialen Jahres
+(FSJ)  bei  gleichzeitiger  Attraktivität  des
+Zivildienstes
+o  Anhebung  der  Entschädigung  für  die
+Teilnehmerinnen und Teilnehmer
+
+o  Ersatz  der  Kosten  für  den  öffentlichen
+Verkehr
+(kostenlose  Österreichcard  für
+FSJ-Teilnehmerinnen und -Teilnehmer)
+o  Allfällige Anrechnung des FSJ auf einschlä-
+gige Ausbildungen im sozialen Bereich
+
+Gedenkdienst stärken
+•  Aufwertung des Gedenkdienstes
+
+•  Stärkung der Trägerorganisationen
+
+Gemeinnützigkeit, ehrenamtliches
+Engagement, Freiwilligentätigkeit und
+Zivilgesellschaft
+•  Schaffung  eines  Ehrenamtsgütesiegels,  um
+die freiwillige und zivilgesellschaftliche Arbeit
+und die dadurch erworbenen Qualifikationen
+(insbesondere bei jungen Menschen) zu zerti-
+fizieren, zu dokumentieren und gegebenen-
+falls bei Bewerbungen zu berücksichtigen
+•  Einrichtung  einer  Koordinations-,  Bera-
+tungs- und Servicestelle für Freiwillige, ge-
+meinnützige Vereine, Stiftungen und soziale
+Unternehmen
+•  Überprüfung  der  Abgrenzung  von  Ehren-
+amt  und  Freiwilligenarbeit  von  sozialversi-
+cherungspflichtiger Beschäftigung
+•  Arbeitsgruppe  mit  betroffenen  Stakehol-
+dern  zur  Einrichtung  eines  eigenen  Satelli-
+tenkontos  in  der  Volkswirtschaftlichen  Ge-
+samtrechnung,  um  auch  die  wirtschaftliche
+Bedeutung von gemeinnütziger, zivilgesell-
+schaftlicher  und  freiwilliger  Arbeit  sichtbar
+zu machen
+o  Arbeitsgruppe  mit  betroffenen  Stakehol-
+dern zur Einrichtung eines eigenen Satelli-
+tenkontos in der VGR, um unbezahlte Haus-
+und Familienarbeit sichtbar zu machen
+
+•  Entwicklung  einer  nationalen  Strategie  für
+das Freiwilligenengagement („Stakeholder-
+prozess“)
+•  Ausbau  von  Engagement  fördernder  In-
+frastruktur  (z.B.  Freiwilligenagenturen)  in
+enger Abstimmung mit Ländern und Gemein-
+den  (insbesondere  für  jüngere  und  ältere
+Menschen)
+•  Evaluierung  des  Freiwilligengesetzes
+in
+Hinblick auf die Relevanz für alle Freiwilligen
+in Österreich
+•  Gleichberechtigter Zugang gemeinnütziger
+Organisationen  bei  Start-up-,  Innovations-
+und Digitalisierungsförderung
+•  Anerkennung der Gemeinnützigkeit bei der
+Vergabe  öffentlicher  Aufträge  und  Förde-
+rungen
+•  Verbesserung  der  Rechtssicherheit  und
+Planbarkeit bei Erbringung gemeinwohlori-
+entierter Leistungen (bei Förderungen)
+•  Förderung  von
+Innovationsprojekten
+im
+Bereich  gemeinnütziger  Arbeit  und  Partizi-
+pation
+•  Inklusion und Integration in Zivilgesellschaft
+und Ehrenamt fördern
+
+•  Einsetzung  einer  Arbeitsgruppe  zur  Moder-
+nisierung  des  Gemeinnützigkeitsrechts  und
+steuerrechtlicher  Rahmenbedingungen
+für
+Gemeinnützige  unter  Beteiligung  von  Vertre-
+terinnen und Vertreter des betroffenen Sektors
+
+Seite 239
+
+Seite 240
+
+Regierungsprogramm 2020 – 2024Regierungsprogramm 2020 – 2024Fahne ÖsterreichFahne Österreich
