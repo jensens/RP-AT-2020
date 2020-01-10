@@ -9,40 +9,6 @@ Digitalisierung & Innovation
 
 Datenschutz
 
-soll  die  öffentliche
-Darauf  aufbauend
-die  Digitalisierung
-Verwaltung
-durch
-einfacher  werden  –  modern,  effizient
-und  bürgerorientiert  –  mit  Fokus  auf  die
-Menschen  und  deren  Lebenssituationen.
-Höchstmöglicher
-und
-vollumfängliche  Kontrolle  über  die  eigenen
-Daten  sind  dafür  Grundvoraussetzungen.
-Open  Data  schafft  neue  Möglichkeiten
-für  gesteigerte  Transparenz  von  Politik
-und
-Eine
-vorausschauende  Netzpolitik  sichert  Grund-
-und Persönlichkeitsrechte im digitalen Raum.
-Österreichs
-auf
-in
-Zukunftstechnologien  und
-in
-neuen  Technologiefeldern  wird  weiter
-gestärkt
-(Wirtschaft  4.0).  Die  Künstliche-
-Intelligenz-Strategie des Bundes umfasst die
-Klärung  regulativer  Fragen,  die  Schaffung
-von  Infrastrukturen  sowie  die  Definition  von
-Schwerpunkten. Der öffentliche Sektor sowie
-der Wirtschaftsstandort stehen dabei ebenso
-im  Fokus  wie  Fragen  der  Menschenwürde
-und Demokratie.
-
 Wir  leben  in  Zeiten  des  Umbruchs  –  der
 technologische  Fortschritt  wird
 immer
@@ -56,6 +22,7 @@ Zentrale
 Herausforderung für die Politik ist es hierbei,
 Chancen bestmöglich zu nutzen und Risiken
 frühzeitig zu minimieren.
+
 Die  Bundesregierung  bekennt  sich  zu  dem
 Ziel,  Österreich  zu  einer  der
 führenden
@@ -73,6 +40,7 @@ wirtschaftliche,
 rechtliche, infrastrukturelle und demokratische
 Rahmenbedingungen und sichert den Aufbau
 digitaler Kompetenzen.
+
 Die  Grundlage  für  diesen  Fortschritt  bildet
 eine  flächendeckende,  technologieneutrale
 Breitband-Versorgung
@@ -85,76 +53,107 @@ des  Rechnungshofes
 im  Bereich  digitale
 Infrastrukturen werden dabei berücksichtigt.
 
-Bezug
-Innovation
+Darauf  aufbauend soll  die  öffentliche
+Verwaltung
+durch die  Digitalisierung
+einfacher  werden  –  modern,  effizient
+und  bürgerorientiert  –  mit  Fokus  auf  die
+Menschen  und  deren  Lebenssituationen.
+Höchstmöglicher und vollumfängliche  Kontrolle  über  die  eigenen
+Daten  sind  dafür  Grundvoraussetzungen.
+Open  Data  schafft  neue  Möglichkeiten
+für  gesteigerte  Transparenz  von  Politik
+und Eine
+vorausschauende  Netzpolitik  sichert  Grund-
+und Persönlichkeitsrechte im digitalen Raum.
 
-öffentlicher
+Österreichs Beitrag auf in in Bezug
+Zukunftstechnologien  und neuen  Technologiefeldern  wird  weiter gestärkt
+(Wirtschaft  4.0).  Die  Künstliche-Intelligenz-Strategie des Bundes umfasst die
+Klärung  regulativer  Fragen,  die  Schaffung von  Infrastrukturen  sowie  die  Definition  von
+Schwerpunkten. Der öffentliche Sektor sowie der Wirtschaftsstandort stehen dabei ebenso
+im  Fokus  wie  Fragen  der  Menschenwürde und Demokratie.
 
-Verwaltung.
 
-Beitrag
+Flächendeckende technologieneutrale Breitband-Versorgung österreichweit sicherstellen
+-------------------------------------------------------------------------------------
 
-Seite 316
+* 5G-Vorreiterrolle weiter ausbauen und Anwendung für neue Technologien
+  (autonomes Fahren, Internet of Things etc.)
+  mit Telekom-Anbietern vorantreiben
 
-Regierungsprogramm 2020 – 2024Fahne ÖsterreichFlächendeckende technologieneutrale
-Breitband-Versorgung österreichweit
-sicherstellen
-•  5G-Vorreiterrolle weiter ausbauen und
-Anwendung für neue Technologien (auto-
-nomes Fahren, Internet of Things etc.) mit
-Telekom-Anbietern vorantreiben
-o  Aufbau der Infrastruktur unter Einhaltung
-der höchstmöglichen Sicherheitsstan-
-dards (in Zusammenarbeit mit Mobilfunk-
-betreibern)
-o  Einsatz auf EU-Ebene, um Europas Tech-
-nologieautonomie im Bereich 5G und all
-seiner Anwendungen sicherzustellen und
-Abhängigkeit von Drittstaaten zu vermei-
-den (bei Hardware- und Softwarelösungen)
-o  Berücksichtigung wissenschaftlicher
-Erkenntnisse, insbesondere der vom
-Parlament beauftragten Technikfolgen-
-abschätzung zu „5G Mobilfunk und
-Gesundheit“ sowie der Erkenntnisse der
-WHO und der ÖAW
+    * Aufbau der Infrastruktur unter Einhaltung
+      der höchstmöglichen Sicherheitsstan-
+      dards (in Zusammenarbeit mit Mobilfunk-
+      betreibern)
+    * Einsatz auf EU-Ebene, um Europas Technologieautonomie im Bereich 5G und all
+      seiner Anwendungen sicherzustellen und
+      Abhängigkeit von Drittstaaten zu vermeiden (bei Hardware- und Softwarelösungen)
+    * Berücksichtigung wissenschaftlicher Erkenntnisse, insbesondere der vom
+      Parlament beauftragten Technikfolgenabschätzung zu „5G Mobilfunk und
+      Gesundheit“ sowie der Erkenntnisse der
+      WHO und der ÖAW
 
-o  Einsatz von neuen Technologien laufend
-evaluieren, um ländlichen Raum rasch zu
-erschließen, z.B. komplementäre Tech-
-nologien für die Last-Mile-Problematik
-testen (Glasfaser bis zum Ortskern, kabel-
-lose Weiterverbindung zum Haushalt)
-o  Ausbau des Backbone Austria und der
-Backhauls vorantreiben
-o  Breitbandmilliarde neu strukturieren
-(Förderungen können ganzjährig bean-
-tragt werden; klar definierte qualitative
-und temporäre Ausbauverpflichtungen
-mit Sperre des Fördererwerbs bei Nicht-
-einhaltung)
-o  Anpassen der Breitband-Förderbedin-
-gungen mit Anhebung auf 100 Mbit/s
-zum Abruf von Fördergeldern
-o  Schließung eines Fiber- und 5G-Paktes
-(zwischen Bundesregierung, Telekom-
-munikationsunternehmen, Ländern und
-Landeserrichtungsgesellschaften) zur
-Erstellung eines Ausbauplans
-o  Verbesserte Koordination zur Hebung
-von Synergien bei Bauvorhaben bei
-gleichzeitiger Vermeidung volkswirt-
-schaftlich nachteiliger Investitionen
+* Breitbandstrategie 2030 weiterentwickeln und Glasfaserausbau vorantreiben:
+    o  Ziel für 2030: Flächendeckende Versor-
+    gung mit festen und mobilen Gigabit-An-
+    schlüssen (Vermeidung einer digitalen
+    Kluft zwischen Stadt und Land, besonde-
+    rer Fokus hinsichtlich Glasfaser-Ausbau
+    in Gewerbegebieten und öffentlichen
+    Einrichtungen)
+    o  Einsatz von neuen Technologien laufend
+    evaluieren, um ländlichen Raum rasch zu
+    erschließen, z.B. komplementäre Tech-
+    nologien für die Last-Mile-Problematik
+    testen (Glasfaser bis zum Ortskern, kabel-
+    lose Weiterverbindung zum Haushalt)
+    o  Ausbau des Backbone Austria und der
+    Backhauls vorantreiben
+    o  Breitbandmilliarde neu strukturieren
+    (Förderungen können ganzjährig bean-
+    tragt werden; klar definierte qualitative
+    und temporäre Ausbauverpflichtungen
+    mit Sperre des Fördererwerbs bei Nicht-
+    einhaltung)
+    o  Anpassen der Breitband-Förderbedin-
+    gungen mit Anhebung auf 100 Mbit/s
+    zum Abruf von Fördergeldern
+    o  Schließung eines Fiber- und 5G-Paktes
+    (zwischen Bundesregierung, Telekom-
+    munikationsunternehmen, Ländern und
+    Landeserrichtungsgesellschaften) zur
+    Erstellung eines Ausbauplans
+    o  Verbesserte Koordination zur Hebung
+    von Synergien bei Bauvorhaben bei
+    gleichzeitiger Vermeidung volkswirt-
+    schaftlich nachteiliger Investitionen
+    o  Im Zuge des Breitband- und Mobilfunk-
+    pakts wird eine Empfehlung für Mehr-
+    familienhäuser und Betriebsgebäude
+    zur Verlegung einer Leerverrohrung für
+    etwaige Glasfaseranbindung inkludiert.
+    o  Prüfung eines konsolidierten Rahmens für
+    öffentlich finanzierte Infrastruktur (Einrich-
+    tung von ÖGIG). Zielsetzung der Lan-
+    desgesellschaften bündeln und in einer
+    Bundessstrategie zusammenfassen
+    o  Beschleunigung und Vereinfachung von
+    Behördenverfahren zur Errichtung von Gi-
+    gabit-fähiger Kommunikationsinfrastruktur
+    o  Tiefbau-Ausbauplan über ganz Öster-
+    reich: Kosten-Sharing bei den Ausbau-
+    kosten ermöglichen unter laufender
+    Berücksichtigung neuer oberirdischer
+    Technologien (Einbindung der Bezirks-
+    hauptmannschaften)
+    o  Zentrale und transparente Bereitstellung
+    von Informationen zum Breitbandausbau
+    sowohl für Bürgerinnen und Bürger als
+    auch Service-Provider
 
-•  Breitbandstrategie 2030 weiterentwickeln
-und Glasfaserausbau vorantreiben:
-o  Ziel für 2030: Flächendeckende Versor-
-gung mit festen und mobilen Gigabit-An-
-schlüssen (Vermeidung einer digitalen
-Kluft zwischen Stadt und Land, besonde-
-rer Fokus hinsichtlich Glasfaser-Ausbau
-in Gewerbegebieten und öffentlichen
-Einrichtungen)
+Eine staatliche Verwaltung für das 21. Jahrhundert mit den Bürgerinnen und Bürgern im Mittelpunkt
+-------------------------------------------------------------------------------------------------
 
 o  Aktualisierung des Breitbandatlas für Ös-
 terreich als Informationsplattform des Bun-
@@ -177,32 +176,6 @@ disierten Sätzen evaluieren
 •  Die Bundesregierung bekennt sich zur
 Netzneutralität nach Vorgaben der EU.
 
-o  Im Zuge des Breitband- und Mobilfunk-
-pakts wird eine Empfehlung für Mehr-
-familienhäuser und Betriebsgebäude
-zur Verlegung einer Leerverrohrung für
-etwaige Glasfaseranbindung inkludiert.
-o  Prüfung eines konsolidierten Rahmens für
-öffentlich finanzierte Infrastruktur (Einrich-
-tung von ÖGIG). Zielsetzung der Lan-
-desgesellschaften bündeln und in einer
-Bundessstrategie zusammenfassen
-o  Beschleunigung und Vereinfachung von
-Behördenverfahren zur Errichtung von Gi-
-gabit-fähiger Kommunikationsinfrastruktur
-o  Tiefbau-Ausbauplan über ganz Öster-
-reich: Kosten-Sharing bei den Ausbau-
-kosten ermöglichen unter laufender
-Berücksichtigung neuer oberirdischer
-Technologien (Einbindung der Bezirks-
-hauptmannschaften)
-o  Zentrale und transparente Bereitstellung
-von Informationen zum Breitbandausbau
-sowohl für Bürgerinnen und Bürger als
-auch Service-Provider
-Eine staatliche Verwaltung für das
-21. Jahrhundert mit den Bürgerinnen
-und Bürgern im Mittelpunkt
 •  Ausbau  „Digitale  Verwaltung“:  Alle  Bür-
 gerinnen und Bürger sowie Unternehmen
 sollen nach Möglichkeit Amtsgeschäfte di-
@@ -218,11 +191,7 @@ gv.at zu zentralen Plattformen für die Inter-
 aktion  von  Bürgerinnen  und  Bürgern  mit
 der Verwaltung
 
-Seite 317
-
-Seite 318
-
-Regierungsprogramm 2020 – 2024Regierungsprogramm 2020 – 2024Fahne ÖsterreichFahne Österreicho  Persönliche Datensouveränität sichern: Ein
+o  Persönliche Datensouveränität sichern: Ein
 persönliches  Bürgerkonto  schaffen,  das
 den Österreicherinnen und Österreichern
 die  einfache,  rasche  und  sichere  Erledi-
@@ -456,8 +425,9 @@ be von Daten durch die Gemeinden
 
 
 
-Open Data: Offene Daten als Chance
-für Transparenz
+Open Data: Offene Daten als Chance für Transparenz
+--------------------------------------------------
+
 •  Die  Bundesregierung  bekennt  sich  zur  um-
 fassenden  und  rechtzeitigen  Umsetzung
 der  Public-Sector-Information
@@ -503,16 +473,11 @@ o  Unterstützungsangebote  für  Bundesinsti-
 tutionen,  Länder  und  Gemeinden  sollen
 erarbeitet werden.
 ist  die  Zurverfügungstellung  der
-•  Ziel
-veröffentlichten  Daten  zum  Budget  in
-einer maschinenlesbaren Form.
+•  Ziel veröffentlichten  Daten  zum  Budget  in einer maschinenlesbaren Form.
 
-Seite 321
+Grundlagen für eine Wirtschaft 4.0 schaffen
+-------------------------------------------
 
-Seite 322
-
-Regierungsprogramm 2020 – 2024Regierungsprogramm 2020 – 2024Fahne ÖsterreichFahne ÖsterreichGrundlagen für eine Wirtschaft
-4.0 schaffen
 •  Aufbau  eines  nationalen  staatlich  kofinan-
 zierten  Technologie-,
 Innovations-  und
@@ -543,7 +508,10 @@ grundrechtsfreundliche
 Technikgestal-
 tung  sowie  Maßnahmen  zur  Reduktion/
 Optimierung von Ressourcenverbräuchen
+
 Zukunftstechnologien – Chancen nutzen
+-------------------------------------
+
 Stakeholder  in  Politik  (z.B.  Finanzministeri-
 •  Ausbau eines Forschungs-Rechenzentrums,
 Infrastruktur-
@@ -608,7 +576,10 @@ o  Teilnahme  am  QCI-Programm  der  EU
 •  Der  Auftrag  und  die  Wirkungsentfaltung
 innovationsfördernden  öffentlichen
 der
- Netzpolitik vorausschauend gestalten
+
+Netzpolitik vorausschauend gestalten
+------------------------------------
+
 •  Die Datenschutzbehörde wird mit den erfor-
 derlichen finanziellen, personellen und ma-
 teriellen Mitteln ausgestattet, um ihre Auf-
@@ -651,10 +622,6 @@ schutz- und Datensicherheitseinrichtungen
 abhängiger  Technikfolgenabschätzungen
 bei  wesentlichen  öffentlichen  Digitalisie-
 
-Seite 323
-
-Seite 324
-
 Regierungsprogramm 2020 – 2024Regierungsprogramm 2020 – 2024Fahne ÖsterreichFahne Österreich•  Die Einrichtung eines Calls im Bereich Digita-
 ler Humanismus (Erforschung der komplexen
 Interaktion zwischen Menschen und Maschi-
@@ -681,8 +648,9 @@ Experteninstitutionen sowie Vertreterinnen
 und Vertreter der Gesellschaft in den gesell-
 schaftlichen Diskussionsprozess einbinden.
 
-Zukunftssichere Rahmenbedingungen
-für künstliche Intelligenz schaffen
+Zukunftssichere Rahmenbedingungen für künstliche Intelligenz schaffen
+---------------------------------------------------------------------
+
 •  Im Zentrum unserer demokratischen Gesell-
 schaft und des technologischen Fortschritts
 steht  der  Mensch.  Die  Digitalisierung  wird
