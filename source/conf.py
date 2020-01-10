@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'Inoffizielles PDF befreites östereichisches Regierungsprogramm 2020-2024'
+project = 'Inoffizielles PDF-befreites östereichisches Regierungsprogramm 2020-2024'
 copyright = '2020, Die neue Volkspartei/ Die Grünen – Die Grüne Alternative'
 author = 'Die neue Volkspartei/ Die Grünen – Die Grüne Alternative'
 

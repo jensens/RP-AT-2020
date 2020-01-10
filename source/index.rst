@@ -4,7 +4,7 @@
    contain the root `toctree` directive.
 
 ========================================================================
-Inoffizielles PDF befreites östereichisches Regierungsprogramm 2020-2014
+Inoffizielles PDF-befreites östereichisches Regierungsprogramm 2020-2014
 ========================================================================
 
 .. toctree::

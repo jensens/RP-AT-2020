@@ -3,7 +3,7 @@ Staat, Gesellschaft &  Transparenz
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: Inhalt:
 
    01-01-Verfassung-Verwaltung-Transparenz
    01-02-Justiz-Konsumentenschutz

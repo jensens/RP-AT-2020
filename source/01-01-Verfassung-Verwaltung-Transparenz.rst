@@ -1,6 +1,6 @@
-------------------------
-Verwaltung & Transparenz
-------------------------
+------------------------------------
+Verfassung, Verwaltung & Transparenz
+------------------------------------
 
 .. todo::
    Formatieren, Überarbeiten, Original gegenchecken
@@ -65,6 +65,9 @@ und  Gemeinden  entscheidend
 für  das
 Funktionieren unseres Staates und damit für
 das Vertrauen der Bürgerinnen und Bürger.
+
+Verfassungsstaat auf der Höhe der Zeit
+--------------------------------------
 
 •  Auf Grundlage bisheriger Vorarbeiten fort-
 gesetzte Verhandlung über weitere Kompe-
@@ -179,6 +182,8 @@ größe analog der Regelung in der öster-
 reichischen Digitalsteuer
 
 Ein neuer Finanzausgleich
+-------------------------
+
 •  Bekenntnis  zum  Finanzausgleichs-Paktum/
 neuer Finanzausgleich
 o  FAG  zielorientiert  entlang  strategischer
@@ -233,7 +238,10 @@ der Gemeinden
 o  Prüfung  einer  Reform  der  gemeindere-
 levanten  Steuern  hinsichtlich  Strukturen,
 Wirksamkeit und Bemessungsgrundlagen
+
 Volksgruppen
+------------
+
 •  Neukodifikation  der
 verfassungsrechtli-
 chen Bestimmungen zu Volksgruppen (u.a.
@@ -298,6 +306,8 @@ jenischen
 Volksgruppe
 
 Stärkung der Grund- und Menschenrechte
+--------------------------------------
+
 •  Österreich  wird  sich  für  eine  Stärkung  von
 •  Wiederaufnahme der Allparteienverhandlun-
 Initiativen auf internationaler Ebene einset-
@@ -336,6 +346,8 @@ kalisierung und gewaltbereitem Extremismus
 seiner  Mitgliedschaft
 
 Verwaltung in die Zukunft führen
+--------------------------------
+
 •  Einrichtung  einer  interministeriellen  Arbeits-
 gruppe, die Deregulierungspotentiale erhebt
 und für die Umsetzung verantwortlich ist, ein-
@@ -356,11 +368,7 @@ der „Better-Regulation“-Strategie orientiert
 an internationalen Ansätzen wie in Deutsch-
 land und den Niederlanden
 
-Seite 13
-
-Seite 14
-
-Regierungsprogramm 2020 – 2024Regierungsprogramm 2020 – 2024Fahne ÖsterreichFahne Österreich•  Weiterer  Ausbau  von  zweckmäßigen  Sha-
+•  Weiterer  Ausbau  von  zweckmäßigen  Sha-
 red  Services  nach  den  Grundsätzen  Spar-
 samkeit, Wirtschaftlichkeit, Zweckmäßigkeit
 (IT-Konsolidierung,
@@ -536,6 +544,8 @@ o  Kosten-Nutzen-Analyse  und  eingehende
 Prüfung der budgetären Auswirkungen
 
 Modernes Förderwesen
+--------------------
+
 •  Prüfung,  bestehende  Datenbanken  in  eine
 umfassende Transparenzdatenbank zu inte-
 grieren, sowie Verbesserung der Datenqua-
@@ -550,6 +560,8 @@ Organisation sowie einer klaren Aufgaben-
 zuordnung der Fördergeber
 
 Nachhaltige öffentliche Vergabe sicherstellen
+---------------------------------------------
+
 •  Einführung  von  ökosozialen  Vergabekri-
 o  Im  Sinne  des  beschlossenen  Best-Bie-
 terien,  die  bindend  für  die  bundesweite
@@ -566,6 +578,8 @@ Schwellenwerte im Sinne der Förderung der
 regionalen und ökosozialen Marktwirtschaft
 
 Wahlrechtsreform
+----------------
+
 •  Prüfung von Auszählung aller Urnen- sowie
 Briefwahlstimmen am Wahltag unter Beibe-
 haltung sämtlicher Wahlgrundsätze, sodass
@@ -663,8 +677,9 @@ verantwortungsvolles  Handeln  im  Parlament
 sicherzustellen und die üblichen Prozesse im
 Gesetzgebungsverfahren einzuhalten.
 
-Kontroll- und Transparenzpaket
-Informationsfreiheit
+Kontroll- und Transparenzpaket Informationsfreiheit
+---------------------------------------------------
+
 •  Abschaffung  des  Amtsgeheimnisses/  der
 Amtsverschwiegenheit
 •  Aufhebung von Art. 20 Abs. 3 und 4 B-VG
@@ -749,13 +764,10 @@ schutzbehörde soll als Beratungs- und Ser-
 vicestelle  den  umfassten  Institutionen  zur
 Seite stehen
 
-Seite 19
 
-Seite 20
+Modernes Parteiengesetz als Grundpfeiler für das Funktionieren des demokratischen Staatswesens
+----------------------------------------------------------------------------------------------
 
-Regierungsprogramm 2020 – 2024Regierungsprogramm 2020 – 2024Fahne ÖsterreichFahne ÖsterreichModernes Parteiengesetz als
-Grundpfeiler für das Funktionieren
-des demokratischen Staatswesens
 Mehr Transparenz
 •  Stärkung  der  Prüfungsrechte  des  Rech-
 nungshofs:  Zusätzlich  zu  den  bestehenden
@@ -978,22 +990,8 @@ Parteiengesetzes nicht beschränkt werden.
 Diesbezüglich ist eine Regelung speziell zu
 Sachspenden zu prüfen.
 
-Mehr Transparenz bei
-Stellenbesetzungen
-•  Erweiterung  der  Prüfzuständigkeit  des  RH
-auch auf Unternehmen ab einer öffentlichen
-Beteiligung  von  25  %  mit  Ausnahme  der
-börsennotierten Unternehmen
+Mehr Transparenz bei Stellenbesetzungen
+---------------------------------------
 
-•  Evaluierung  von  Bestellungen  von  Ge-
-schäftsführungsorganen  (insb.  Vorständen)
-in  Unternehmen  mit  staatlicher  Beteili-
-gung mit der Zielsetzung der Verbesserung
-der  Transparenz  und  Objektivierung  bei
-Bestellungsvoraussetzungen
-
-Seite 23
-
-Seite 24
-
-Regierungsprogramm 2020 – 2024Regierungsprogramm 2020 – 2024Fahne ÖsterreichFahne Österreich
+- Erweiterung  der  Prüfzuständigkeit  des  RH auch auf Unternehmen ab einer öffentlichen Beteiligung  von  25%  mit  Ausnahme  der börsennotierten Unternehmen
+- Evaluierung  von  Bestellungen  von  Geschäftsführungsorganen  (insb.  Vorständen) in  Unternehmen  mit  staatlicher  Beteiligung mit der Zielsetzung der Verbesserung der  Transparenz  und  Objektivierung  bei Bestellungsvoraussetzungen
