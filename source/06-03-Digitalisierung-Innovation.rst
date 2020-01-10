@@ -78,76 +78,62 @@ im  Fokus  wie  Fragen  der  Menschenwürde und Demokratie.
 Flächendeckende technologieneutrale Breitband-Versorgung österreichweit sicherstellen
 -------------------------------------------------------------------------------------
 
-* 5G-Vorreiterrolle weiter ausbauen und Anwendung für neue Technologien
+- 5G-Vorreiterrolle weiter ausbauen und Anwendung für neue Technologien
   (autonomes Fahren, Internet of Things etc.)
   mit Telekom-Anbietern vorantreiben
 
-    * Aufbau der Infrastruktur unter Einhaltung
-      der höchstmöglichen Sicherheitsstan-
-      dards (in Zusammenarbeit mit Mobilfunk-
-      betreibern)
-    * Einsatz auf EU-Ebene, um Europas Technologieautonomie im Bereich 5G und all
-      seiner Anwendungen sicherzustellen und
-      Abhängigkeit von Drittstaaten zu vermeiden (bei Hardware- und Softwarelösungen)
-    * Berücksichtigung wissenschaftlicher Erkenntnisse, insbesondere der vom
-      Parlament beauftragten Technikfolgenabschätzung zu „5G Mobilfunk und
-      Gesundheit“ sowie der Erkenntnisse der
-      WHO und der ÖAW
+  * Aufbau der Infrastruktur unter Einhaltung
+    der höchstmöglichen Sicherheitsstan-
+    dards (in Zusammenarbeit mit Mobilfunk-
+    betreibern)
+  * Einsatz auf EU-Ebene, um Europas Technologieautonomie im Bereich 5G und all
+    seiner Anwendungen sicherzustellen und
+    Abhängigkeit von Drittstaaten zu vermeiden (bei Hardware- und Softwarelösungen)
+  * Berücksichtigung wissenschaftlicher Erkenntnisse, insbesondere der vom
+    Parlament beauftragten Technikfolgenabschätzung zu „5G Mobilfunk und
+    Gesundheit“ sowie der Erkenntnisse der
+    WHO und der ÖAW
+- Breitbandstrategie 2030 weiterentwickeln und Glasfaserausbau vorantreiben:
 
-* Breitbandstrategie 2030 weiterentwickeln und Glasfaserausbau vorantreiben:
-    o  Ziel für 2030: Flächendeckende Versor-
-    gung mit festen und mobilen Gigabit-An-
+  * Ziel für 2030: Flächendeckende Versorgung mit festen und mobilen Gigabit-An-
     schlüssen (Vermeidung einer digitalen
-    Kluft zwischen Stadt und Land, besonde-
-    rer Fokus hinsichtlich Glasfaser-Ausbau
+    Kluft zwischen Stadt und Land, besonderer Fokus hinsichtlich Glasfaser-Ausbau
     in Gewerbegebieten und öffentlichen
     Einrichtungen)
-    o  Einsatz von neuen Technologien laufend
+  * Einsatz von neuen Technologien laufend
     evaluieren, um ländlichen Raum rasch zu
     erschließen, z.B. komplementäre Tech-
     nologien für die Last-Mile-Problematik
-    testen (Glasfaser bis zum Ortskern, kabel-
-    lose Weiterverbindung zum Haushalt)
-    o  Ausbau des Backbone Austria und der
+    testen (Glasfaser bis zum Ortskern, kabellose Weiterverbindung zum Haushalt)
+  * Ausbau des Backbone Austria und der
     Backhauls vorantreiben
-    o  Breitbandmilliarde neu strukturieren
-    (Förderungen können ganzjährig bean-
-    tragt werden; klar definierte qualitative
+  * Breitbandmilliarde neu strukturieren
+    (Förderungen können ganzjährig beantragt werden; klar definierte qualitative
     und temporäre Ausbauverpflichtungen
-    mit Sperre des Fördererwerbs bei Nicht-
-    einhaltung)
-    o  Anpassen der Breitband-Förderbedin-
-    gungen mit Anhebung auf 100 Mbit/s
+    mit Sperre des Fördererwerbs bei Nichteinhaltung)
+  * Anpassen der Breitband-Förderbedingungen mit Anhebung auf 100 Mbit/s
     zum Abruf von Fördergeldern
-    o  Schließung eines Fiber- und 5G-Paktes
-    (zwischen Bundesregierung, Telekom-
-    munikationsunternehmen, Ländern und
+  * Schließung eines Fiber- und 5G-Paktes
+    (zwischen Bundesregierung, Telekommunikationsunternehmen, Ländern und
     Landeserrichtungsgesellschaften) zur
     Erstellung eines Ausbauplans
-    o  Verbesserte Koordination zur Hebung
+  * Verbesserte Koordination zur Hebung
     von Synergien bei Bauvorhaben bei
-    gleichzeitiger Vermeidung volkswirt-
-    schaftlich nachteiliger Investitionen
-    o  Im Zuge des Breitband- und Mobilfunk-
-    pakts wird eine Empfehlung für Mehr-
-    familienhäuser und Betriebsgebäude
+    gleichzeitiger Vermeidung volkswirtschaftlich nachteiliger Investitionen
+  * Im Zuge des Breitband- und Mobilfunkpakts wird eine Empfehlung für Mehrfamilienhäuser und Betriebsgebäude
     zur Verlegung einer Leerverrohrung für
     etwaige Glasfaseranbindung inkludiert.
-    o  Prüfung eines konsolidierten Rahmens für
-    öffentlich finanzierte Infrastruktur (Einrich-
-    tung von ÖGIG). Zielsetzung der Lan-
+  * Prüfung eines konsolidierten Rahmens für
+    öffentlich finanzierte Infrastruktur (Einrichtung von ÖGIG). Zielsetzung der Lan-
     desgesellschaften bündeln und in einer
     Bundessstrategie zusammenfassen
-    o  Beschleunigung und Vereinfachung von
-    Behördenverfahren zur Errichtung von Gi-
-    gabit-fähiger Kommunikationsinfrastruktur
-    o  Tiefbau-Ausbauplan über ganz Öster-
-    reich: Kosten-Sharing bei den Ausbau-
+  * Beschleunigung und Vereinfachung von
+    Behördenverfahren zur Errichtung von Gigabit-fähiger Kommunikationsinfrastruktur
+  * Tiefbau-Ausbauplan über ganz Österreich: Kosten-Sharing bei den Ausbau-
     kosten ermöglichen unter laufender
     Berücksichtigung neuer oberirdischer
-    Technologien (Einbindung der Bezirks-
-    hauptmannschaften)
-    o  Zentrale und transparente Bereitstellung
+    Technologien (Einbindung der Bezirkshauptmannschaften)
+  * Zentrale und transparente Bereitstellung
     von Informationen zum Breitbandausbau
     sowohl für Bürgerinnen und Bürger als
     auch Service-Provider

@@ -77,17 +77,16 @@ Verfassungsstaat auf der Höhe der Zeit
 
 * Auf Grundlage bisheriger Vorarbeiten fortgesetzte Verhandlung über weitere Kompetenzbereinigungen zwischen Bund, Ländern und Gemeinden
 
-    * Weitere  Reduktion  der  Doppelgleisigkeiten  zwischen  Grundsatzgesetzgebung und Ausführungsgesetzgebung
-    * Schaffung  klarerer  Regelungs-  und  Verantwortungsstrukturen zwischen  den  Gebietskörperschaften,  um  einen  fairen  Finanzausgleich zu ermöglichen
-    * Schaffung  einer  verfassungsrechtlichen  Grundlage,  damit  Amtssachverständige  auch  in  anderen  Bundesländern  tätig  werden können
+  * Weitere  Reduktion  der  Doppelgleisigkeiten  zwischen  Grundsatzgesetzgebung und Ausführungsgesetzgebung
+  * Schaffung  klarerer  Regelungs-  und  Verantwortungsstrukturen zwischen  den  Gebietskörperschaften,  um  einen  fairen  Finanzausgleich zu ermöglichen
+  * Schaffung  einer  verfassungsrechtlichen  Grundlage,  damit  Amtssachverständige  auch  in  anderen  Bundesländern  tätig  werden können
 
 * Gemeinsame  Prüfung  und  Ausarbeitung eines zeitgemäßen  Kompetenzrahmens (einschließlich der Möglichkeit von Art. 15a B-VG-Vereinbarungen)  zur  Erreichung  der Klimaziele
-
 * Steigerung  der  Effizienz  und  Transparenz von  Art.-15a-Vereinbarungen zwischen Bund, Ländern und Gemeinden
 
-    * Auslotung  der  Möglichkeiten  der  Reduktion  von  Art.-15a-Vereinbarungen  sowie  mögliche Integration  bestehender  Art.-15a-Vereinbarungen in den nächsten Finanzausgleich
-    * Systematische  Erfassung  von  finanziellen Mitteln und Abbildung im Haushalt
-    * Bestehende  Vereinbarungen  müssen  in Hinblick  auf  Mischfinanzierungen  und Kompetenzverschiebungen hinterfragt werden.
+  * Auslotung  der  Möglichkeiten  der  Reduktion  von  Art.-15a-Vereinbarungen  sowie  mögliche Integration  bestehender  Art.-15a-Vereinbarungen in den nächsten Finanzausgleich
+  * Systematische  Erfassung  von  finanziellen Mitteln und Abbildung im Haushalt
+  * Bestehende  Vereinbarungen  müssen  in Hinblick  auf  Mischfinanzierungen  und Kompetenzverschiebungen hinterfragt werden.
 
 o  Einführung  von  Benchmarks  unter  ver-
 gleichbaren  Grundlagen,  damit  Ver-
