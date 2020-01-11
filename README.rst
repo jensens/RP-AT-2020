@@ -31,7 +31,7 @@ Vor dem Extrahieren habe ich mit `PDFSAM Basic <https://pdfsam.org/de/>`_ das la
 Die Dateien habe ich dann einigermassen sinnvoll benannt.
 Danach habe ich mit `PDFMiner <https://pypi.org/project/pdfminer/>`_ so gut wie möglich den Text pro Datei extrahiert.
 
-Dann habe ich habe ich `Sphinx <https://www.sphinx-doc.org>`_ verwendet um strukturiertes HTML daraus zu generieren.
+Dann habe ich `Sphinx <https://www.sphinx-doc.org>`_ eingesetzt, um aus dem reinen Text strukturiertes HTML zu generieren.
 Der verwendete Markup ist `RestructurendText <https://www.sphinx-doc.org/en/2.0/usage/restructuredtext/basics.html#>`_ - aba ReST - (ähnlich Markdown, aber für komplexere Dokumente besser geeignet).
 
 Durch das semantische Format ReST wird der Text maschinenlesbar, was auch ein Anspruch bei OpenData ist.
