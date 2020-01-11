@@ -7,7 +7,7 @@ Warum?
 
 Weil PDF kein Datenformat ist.
 Es ist auch nicht barrierefrei.
-Ausserdem ist es am Smartphone schlecht zu lesen.
+Außerdem ist es am Smartphone schlecht zu lesen.
 Solche wichtigen Dokumente sollten nicht auf Schönheit und Textsatz hin optimiert werden.
 Hier ist Zugänglichkeit und Offenheit wichtig.
 Das ist für OpenData wichtig.
@@ -23,12 +23,12 @@ Technik & manueller Eingriff
 ----------------------------
 
 Technisch habe ich aus dem PDF den reinen Text extrahiert.
-Da PDF kein strukturiertes Dokumentenformat ist (sondern ein Seitenbeschreibungsformat) kann der Text nicht perfekt heraus geholt werden.
-Wen die Hintergründe dazu interessieren:
+Da PDF kein strukturiertes Dokumentenformat ist (sondern ein Seitenbeschreibungsformat), kann der Text nicht perfekt heraus geholt werden.
+Wenn die Hintergründe dazu interessieren:
 Die 30 Minuten Video `How to Extract Text Contents from PDF <https://www.youtube.com/watch?v=k34wRxaxA_c>`_ (3 Teile) erklären das ganz gut.
 
 Vor dem Extrahieren habe ich mit `PDFSAM Basic <https://pdfsam.org/de/>`_ das lange Original-PDF Kapitelweise in kleinere PDFs zerlegt.
-Die Dateien habe ich dann einigermassen sinnvoll benannt.
+Die Dateien habe ich dann einigermaßen sinnvoll benannt.
 Danach habe ich mit `PDFMiner <https://pypi.org/project/pdfminer/>`_ so gut wie möglich den Text pro Datei extrahiert.
 
 Dann habe ich `Sphinx <https://www.sphinx-doc.org>`_ eingesetzt, um aus dem reinen Text strukturiertes HTML zu generieren.
@@ -56,7 +56,7 @@ Da da der extrahierte Text teilweise ziemlich chaotisch ist, war jetzt die manue
 Barrierefreiheit
 ----------------
 
-Aufgrund der technischen Probleme mit dem PDF, gehe ich davon aus, dass Menschen mit eingeschränkter Sehfähigkeit (welche einen Screenreader oder eine Braillezeile verwenden) ebenso einige Probleme haben das PDF korrekt zu lesen.
+Aufgrund der technischen Probleme mit dem PDF gehe ich davon aus, dass Menschen mit eingeschränkter Sehfähigkeit (welche einen Screenreader oder eine Braillezeile verwenden) ebenso einige Probleme haben das PDF korrekt zu lesen.
 Vielleicht irre ich mich auch, Rückmeldungen gerne an mich.
 
 Ich habe das jetzt produzierte statische HTML mit `WAVE/WebAIM <https://wave.webaim.org/>`_ getestet.
@@ -79,7 +79,7 @@ Sobald ich den Pull-Request übernommen (merged) habe, werde ich das HTML neu ge
 
 Wer GIT kennt, kann sich auch eine lokale Arbeitskopie erstellen.
 Dann kann man auch Sphinx installieren und lokal den HTML-Generator laufen lassen.
-Bloss bitte das generierte HTML nicht im Pullrequest inkludieren, sonst kann es zu Konflikten im Git kommen.
+Blos bitte das generierte HTML nicht im Pullrequest inkludieren, sonst kann es zu Konflikten im Git kommen.
 
 Bei Fragen dazu könnt ihr mich gerne kontaktieren:
 - E-Mail `Jens Klein <mailto:jk@kleinundpartner>`_
@@ -94,4 +94,4 @@ Jens Klein
     Idee, Initiator, Technik, Überarbeitung. `Klein & Partner KG <http://kleinundpartner.at>`_
 
 Robert Harm
-    Überarbeitung der meisten Kapitel und Publikation auf `Open3 <https://www.open3.at/>`_
+    Überarbeitung der meisten Kapitel und Publikation auf `open3.at <https://www.open3.at/>`_
