@@ -2,8 +2,10 @@
 Arbeit
 ------
 
+:download:`Kapitel als PDF <../split/05-04-Arbeit.pdf>` (Teil des :download:`Originals <../original/RP2020.pdf>`).
+
 .. todo::
-  Formatieren, Überarbeiten, Original gegenchecken
+   Überarbeiten, Original gegenchecken
 
 Wir als Bundesregierung werden alles tun, damit ein gutes Leben für alle in unserem Land erhalten bleibt und von Herausforderungen wie der fortschreitenden Digitalisierung und Klimakrise nicht gefährdet wird. Wir werden einen breiten gesellschaftlichen Dialog unter Einbindung aller relevanten Stakeholder (Sozialpartner, Zivilgesellschaft etc.) über die Zukunft der Arbeit und dabei vor allem der Aspekte Digitalisierung, Vereinbarkeit von Familie und Beruf, Arbeits- und Lebensqualität führen.
 
@@ -55,11 +57,11 @@ Fachkräftebedarf sichern – betriebliche Lehrausbildung stärken
 Schnittstelle Arbeitsmarkt / Digitalisierung / Klimaschutz / Zukunftsherausforderungen
 --------------------------------------------------------------------------------------
 
-- Auf Basis einer Sozialpartnereinigung Einführung eines Bildungskontos: berufliche Umorientierung, Aus- und Weiterbildung sozial abgesichert 
+- Auf Basis einer Sozialpartnereinigung Einführung eines Bildungskontos: berufliche Umorientierung, Aus- und Weiterbildung sozial abgesichert
 
-- Weiterentwicklung von Kurzarbeit mit Qualifikation: Möglichkeit von Kurzarbeit nicht nur bei wirtschaftlichen Schwierigkeiten, sondern auch bei der Umstellung von Betrieben auf ökologische und klimafreundliche Produktionsweisen bzw. digitaler Umrüstung zur Sicherung von Beschäftigung 
+- Weiterentwicklung von Kurzarbeit mit Qualifikation: Möglichkeit von Kurzarbeit nicht nur bei wirtschaftlichen Schwierigkeiten, sondern auch bei der Umstellung von Betrieben auf ökologische und klimafreundliche Produktionsweisen bzw. digitaler Umrüstung zur Sicherung von Beschäftigung
 
-- Kreislaufwirtschaftsentwicklungspaket: Sozialökonomische Betriebe mit Kreislaufwirtschaft (ökologisch und sozial) fördern. Zielgruppe: Langzeitarbeitslose, Menschen mit Vermittlungshindernissen 
+- Kreislaufwirtschaftsentwicklungspaket: Sozialökonomische Betriebe mit Kreislaufwirtschaft (ökologisch und sozial) fördern. Zielgruppe: Langzeitarbeitslose, Menschen mit Vermittlungshindernissen
 
 - Ausbau konkreter Beschäftigungsangebote für Menschen mit Behinderungen sowie sozial benachteiligte Menschen über die Eingliederungsbeihilfe
 
@@ -85,7 +87,7 @@ AMS
 
 - Weiterentwicklung des Arbeitslosengeldes mit Anreizen, damit arbeitslose Menschen wieder schneller ins Erwerbsleben zurückkehren können.
 
-- Evaluierung, Adaptierung und Weiterentwicklung des AMS-Algorithmus 
+- Evaluierung, Adaptierung und Weiterentwicklung des AMS-Algorithmus
 
 - One-Stop-Shop: eine Anlaufstelle für Arbeitssuchende unter Effizienzsteigerung der bestehenden Strukturen mit Beratung und Begleitung
 
@@ -121,9 +123,9 @@ Modernisierung des Arbeitsrechts
 
 - Breiter gesellschaftlicher Dialog der Bundesregierung unter Einbindung aller relevanten Stakeholder (Sozialpartner, Zivilgesellschaft etc.) über die Zukunft der Arbeit, vor allem der Aspekte Digitalisierung, Vereinbarkeit von Familie und Beruf, Arbeits- und Lebensqualität
 
-- Sozialarbeit: Ziel der Erarbeitung eines bundeseinheitlichen Berufsgesetzes für soziale Arbeit in Zusammenarbeit mit den Ländern 
+- Sozialarbeit: Ziel der Erarbeitung eines bundeseinheitlichen Berufsgesetzes für soziale Arbeit in Zusammenarbeit mit den Ländern
 
-- Auf Basis einer Sozialpartner-Einigung: 
+- Auf Basis einer Sozialpartner-Einigung:
 
   * Einführung eines Zeitwertkontos mit dem Ziel, auf freiwilliger Basis längere Auszeiten zu ermöglichen
 
@@ -131,7 +133,7 @@ Modernisierung des Arbeitsrechts
 
 - Entgeltfortzahlung evaluieren
 
-  * Evaluierung der Entgeltfortzahlung im Zusammenhang mit dem vorzeitigen Beschäftigungsverbot bei Schwangerschaft, Zivildiener 
+  * Evaluierung der Entgeltfortzahlung im Zusammenhang mit dem vorzeitigen Beschäftigungsverbot bei Schwangerschaft, Zivildiener
 
 - Evaluierung der Finanzierungsmodelle der wiederholten Entgeltfortzahlung im langen Krankheitsfall nicht zu Lasten der Arbeitnehmerinnen und Arbeitnehmer
 
@@ -139,7 +141,7 @@ Modernisierung des Arbeitsrechts
 
 - Auch im Bereich der bestehenden Kollektivverträge gibt es Fälle, in denen die Löhne bereits seit mehreren Jahrzehnten nicht mehr angehoben wurden. Wenn eine sozialpartnerschaftliche Einigung zur Lösung dieses Problems nicht zustande kommt, soll die Möglichkeit geschaffen werden, eine Entscheidung durch das Bundeseinigungsamt herbeizuführen.
 
-- Anreize setzen zu einer partnerschaftliche ren Aufteilung der Familienarbeit 
+- Anreize setzen zu einer partnerschaftliche ren Aufteilung der Familienarbeit
 
   * Prüfung eines Zeitkorridor-Modells in Verbindung mit Anreizen, wenn beide Elternteile Familienarbeit und Erwerbsarbeit partnerschaftlich vereinbaren wollen
 

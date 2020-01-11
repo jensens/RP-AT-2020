@@ -2,6 +2,8 @@
 Frauen
 ------
 
+:download:`Kapitel als PDF <../split/05-06-Frauen.pdf>` (Teil des :download:`Originals <../original/RP2020.pdf>`).
+
 .. todo::
   Formatieren, Überarbeiten, Original gegenchecken
 

@@ -2,8 +2,10 @@
 Gesundheit
 ----------
 
+:download:`Kapitel als PDF <../split/05-05-Gesundheit.pdf>` (Teil des :download:`Originals <../original/RP2020.pdf>`).
+
 .. todo::
-  Formatieren, Überarbeiten, Original gegenchecken
+   Überarbeiten, Original gegenchecken
 
 Österreichs Gesundheitssystem bietet qualitativ hochwertige Versorgung für alle Österreicherinnen und Österreicher unabhängig ihres Krankheitsrisikos und ihrer finanziellen Möglichkeiten. Diese hohe Qualität soll nachhaltig finanziell abgesichert sein. Daher suchen wir neue Wege zur Attraktivierung für die Versicherten, aber auch für im Gesundheitsbereich tätigen Berufsgruppen. Damit auch in Zukunft ein niederschwelliger Zugang zur bestmöglichen medizinischen Versorgung mit möglichst kurzen Wartezeiten gewährleistet werden kann, bedarf es vor allem eines Ausbaus der flächendeckenden wohnortnahen Versorgung und eines besonderen Fokus auf das Thema Prävention. Eine verbesserte Abstimmung der medizinischen Versorgung zwischen Bund, Ländern und Sozialversicherung und damit eine Stärkung der Bundeszielsteuerung mit zielgerichteten Angeboten für die Versicherten ist daher unser Ziel.
 

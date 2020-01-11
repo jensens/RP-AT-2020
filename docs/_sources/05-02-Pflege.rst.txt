@@ -2,6 +2,8 @@
 Pflege
 ------
 
+:download:`Kapitel als PDF <../split/05-02-Pflege.pdf>` (Teil des :download:`Originals <../original/RP2020.pdf>`).
+
 .. todo::
   Formatieren, Überarbeiten, Original gegenchecken
 
@@ -24,7 +26,7 @@ Grundprinzipien
 
 - Die Unterstützung von betreuungs- und pflegebedürftigen Menschen und ihrer An- und Zugehörigen ist nicht nur Aufgabe der Familien selbst, sondern ein gesamtgesellschaftlicher Auftrag
 
-- Schwerpunkt rechtzeitige Prävention, bei Pflegebedürftigen, pflegenden Angehörigen und Pflegekräften 
+- Schwerpunkt rechtzeitige Prävention, bei Pflegebedürftigen, pflegenden Angehörigen und Pflegekräften
 
 - S  * viel wie möglich daheim und ambulant – s  * viel wie nötig stationär
 
@@ -49,13 +51,13 @@ Unterstützung pflegender Angehöriger
 
 - Stärkung der Selbsthilfe und Zivilgesellschaft sowie des ehrenamtlichen Engagements: Stärkere Förderung von Angehörigengruppen, Besuchsdiensten und Koordination von Freiwilligen
 
-- Pflegefreier Tag als Unterstützung für pflegende Angehörige und Burn-out-Prophylaxe: Ziel ist es, dass Angehörige, die die Pflege und Betreuung übernehmen, das Recht auf einen pflegefreien Tag pr  * Monat erhalten 
+- Pflegefreier Tag als Unterstützung für pflegende Angehörige und Burn-out-Prophylaxe: Ziel ist es, dass Angehörige, die die Pflege und Betreuung übernehmen, das Recht auf einen pflegefreien Tag pr  * Monat erhalten
 
-- Unterstützung von Kindern und Jugendlichen als pflegende und betreuende Angehörige: erhöhte Aufmerksamkeit gegenüber dieser Gruppe und Erarbeitung zielgruppenorientierter und innovativer Unterstützungsangebote 
+- Unterstützung von Kindern und Jugendlichen als pflegende und betreuende Angehörige: erhöhte Aufmerksamkeit gegenüber dieser Gruppe und Erarbeitung zielgruppenorientierter und innovativer Unterstützungsangebote
 
 - Verbesserung der Vereinbarkeit von Pflege und Beruf: Bei Arbeitgeberinnen und Arbeitgebern ist verstärkt das Bewusstsein für die Lebenssituation pflegender Angehöriger zu schaffen, die Pflegeteilzeit oder -karenz beanspruchen (wollen). Es werden Rahmenbedingungen gefordert, die es ermöglichen, individuelle und flexible Arbeitsarrangements zu vereinbaren (z.B. Arbeitszeit, Teleworking ...)
 
-- Die Rahmenbedingungen der selbstständig Erwerbstätigen beim Pflegekarenzgeld werden im Sinne der Vereinbarkeit von Pflege und Beruf verbessert. 
+- Die Rahmenbedingungen der selbstständig Erwerbstätigen beim Pflegekarenzgeld werden im Sinne der Vereinbarkeit von Pflege und Beruf verbessert.
 
 - Pflegende Angehörige von an Demenz erkrankten Menschen unterstützen: In der Demenzstrategie wird eine Reihe von Handlungsempfehlungen beschrieben. Wir setzen einen Schwerpunkt auf Maßnahmen zur Entlastung und Begleitung von pflegenden Angehörigen. Sie werden über speziell geschultes Personal bzw. ambulante gerontopsychiatrische Dienste und adäquate Betreuungsangebote sowie Tagesbetreuungen mit gerontopsychiatrischem Schwerpunkt unterstützt.
 
@@ -65,9 +67,9 @@ Unterstützung pflegender Angehöriger
 
 - Rechtssicherheit für Eltern von Kindern mit chronischer Krankheit bze. Behinderung in Abstimmung mit den Ländern: Kinder mit chronischen Erkrankungen oder einer Behinderung brauchen Sicherheit für ihr weiteres, selbstbestimmtes und abgesichertes Leben nach dem Tod der sie pflegenden Eltern, auch wenn diese Kinder im Erwachsenenalter sind. Dazu gilt es, Wohn- und Arbeitsmodelle zu erarbeiten und zur Verfügung zu stellen.
 
-- Ausweitung der Möglichkeit der Selbst- und Weiterversicherung als pflegende Angehörige: Die Geltendmachung dieser Versicherung soll auch länger als 3 Jahre rückwirkend möglich werden. Mit der Pflegegeldzuerkennung soll eine automatische Information über die Pensionsversicherungsmöglichkeiten für pflegende Angehörige erfolgen. 
+- Ausweitung der Möglichkeit der Selbst- und Weiterversicherung als pflegende Angehörige: Die Geltendmachung dieser Versicherung soll auch länger als 3 Jahre rückwirkend möglich werden. Mit der Pflegegeldzuerkennung soll eine automatische Information über die Pensionsversicherungsmöglichkeiten für pflegende Angehörige erfolgen.
 
-  * Anspruch auf Pensionsversicherung auch ohne vorangegangene Erwerbszeiten 
+  * Anspruch auf Pensionsversicherung auch ohne vorangegangene Erwerbszeiten
 
 Finanzierung
 ------------
@@ -87,7 +89,7 @@ Weiterentwicklung des Pflegegeldes
 
 - Verbesserung der Demenzbewertung
 
-- Entwicklung eines Pflegegeldsystems, in dem alle Bedarfe berücksichtigt sind 
+- Entwicklung eines Pflegegeldsystems, in dem alle Bedarfe berücksichtigt sind
 
 - Weiterentwicklung des Pflegegeld-Einstufungsprozesses (Mehr-Augen-Prinzip)
 
@@ -122,13 +124,13 @@ Personal und Ausbildung
 
 - Imagekampagne – Berufsberatung vor Ort, Attraktivierung des Berufsbildes
 
-- Ausbau und Flexibilisierung von ambulanten Diensten im Bereich Pflege und Betreuung; Ersatz- und Entlastungspflege für pflegende Angehörige (z.B. im Krankheitsfall): Sicherstellung von finanzieller Unterstützung 
+- Ausbau und Flexibilisierung von ambulanten Diensten im Bereich Pflege und Betreuung; Ersatz- und Entlastungspflege für pflegende Angehörige (z.B. im Krankheitsfall): Sicherstellung von finanzieller Unterstützung
 
-- Weiterentwicklung des bestehenden Qualitätszertifikats ÖQ24 unter Berücksichtigung der Bedingungen von Betroffenen sowie Betreuerinnen und Betreuern 
+- Weiterentwicklung des bestehenden Qualitätszertifikats ÖQ24 unter Berücksichtigung der Bedingungen von Betroffenen sowie Betreuerinnen und Betreuern
 
 - Schaffung einer Möglichkeit zur Beschäftigung einer 24h-Betreuung für mehrere Kundinnen und Kunden
 
-- Prüfung der Reduktionsmöglichkeiten von Dokumentations- und Bürokratieverpflichtungen (Entbürokratisierung, u.a. auch OPCAT), Abbau von Doppelgleisigkeiten 
+- Prüfung der Reduktionsmöglichkeiten von Dokumentations- und Bürokratieverpflichtungen (Entbürokratisierung, u.a. auch OPCAT), Abbau von Doppelgleisigkeiten
 
 - Überprüfung der Wirkungsorientierung der Dokumentationsverpflichtungen unter besonderer Berücksichtigung der OPCAT
 

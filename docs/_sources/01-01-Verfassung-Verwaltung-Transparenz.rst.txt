@@ -6,7 +6,7 @@ Verfassung, Verwaltung & Transparenz
 
 .. todo::
 
-  Formatieren, Überarbeiten, Original gegenchecken
+  Original gegenchecken
 
 Staatliches Handeln ist in Österreich aufgrund der Bundesverfassung gegeben, die gerade die letzten Monate bewiesen hat, dass sie auch nach 100 Jahren ihrer Geltung das solide Fundament unserer Republik bildet. Wir wollen die vorhandenen Stärken dieser Bundesverfassung vor dem Hintergrund neuer Herausforderungen weiterentwickeln – damit die Menschenrechte, das Verfassungsrecht und der Rechtsstaat auch in Zukunft eine gute Grundlage für unser Land, für unsere Umwelt und für die Arbeit der österreichischen Verwaltung sind.
 

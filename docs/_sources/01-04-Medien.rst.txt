@@ -5,7 +5,7 @@ Medien
 :download:`Kapitel als PDF <../split/01-04-Medien.pdf>` (Teil des :download:`Originals <../original/RP2020.pdf>`).
 
 .. todo::
-  Formatieren, Überarbeiten, Original gegenchecken
+  Original gegenchecken
 
 Wir bekennen uns zu einer Medienpolitik, die Grundwerte wie Pluralismus, Unabhängigkeit, Medien- und Pressefreiheit sowie Innovation sicherstellt und fördert. Zusätzlich sehen wir es als zentrale Aufgabe, auf die veränderten Rahmenbedingungen durch die fortschreitende Digitalisierung und Globalisierung zu reagieren. Digitale Technologien verändern die Art und Weise, wie Inhalte produziert, verbreitet und konsumiert werden. Das birgt Chancen, aber auch große Herausforderungen, die völlig neue Antworten und Ansätze erfordern.
 

@@ -5,7 +5,7 @@ Justiz & Konsumentenschutz
 :download:`Kapitel als PDF <../split/01-02-Justiz-Konsumentenschutz.pdf>` (Teil des :download:`Originals <../original/RP2020.pdf>`).
 
 .. todo::
-  Formatieren, Überarbeiten, Original gegenchecken
+  Original gegenchecken
 
 Die österreichische Justiz mit all ihren Mitarbeiterinnen und Mitarbeitern trägt entscheidend zu einem funktionierenden Rechtstaat bei. Eine effiziente und qualitätsvolle Justiz sorgt für Rechtssicherheit und Rechtsfrieden in Österreich und ermöglicht dadurch das nötige Vertrauen seitens der Bürgerinnen und Bürger. Sie ist somit der Grundpfeiler eines jeden Rechtsstaates und jeder Demokratie. Vor diesem Hintergrund bekennen wir uns als Bundesregierung zu einer ausreichend ausgestatteten Justiz. Dies ist die Voraussetzung für eine Absicherung der unabhängigen Gerichtsbarkeit und für die Stärkung der Rechtsstaatlichkeit.
 
@@ -28,7 +28,7 @@ Ressourcen/Personal
 
 - Ausstattung der Datenschutzbehörde mit ausreichenden Ressourcen Sachverständigen- und Dolmetscherrecht – Qualität erhöhen
 
-- Nachhaltige Sicherung des exekutiven und nichtexekutiven Personalstandes im Bereich des Strafvollzuges 
+- Nachhaltige Sicherung des exekutiven und nichtexekutiven Personalstandes im Bereich des Strafvollzuges
 
 - Behördeneigene Expertenstruktur, insbesondere im strafrechtlichen Ermittlungsverfahren weiter ausbauen (Wirtschaft, Finanzen, IT).
 
@@ -42,12 +42,12 @@ Sachverständigen- und Dolmetscherrecht – Qualität erhöhen
 
 Bürger-/Bürgerinnen- und Unternehmensservice
 
-- Umsetzung eines modernen und zeitgemäßen Bürger-/Bürgerinnen- und Unternehmensservice, Anliegen in digitaler Form herantragen sowie rasche und unbürokratische Auskunft für Bürgerinnen und Bürger. 
+- Umsetzung eines modernen und zeitgemäßen Bürger-/Bürgerinnen- und Unternehmensservice, Anliegen in digitaler Form herantragen sowie rasche und unbürokratische Auskunft für Bürgerinnen und Bürger.
 
   * Schaffung einer digitalen Plattform für Bürgerinnen und Bürger bzw. Unternehmerinnen und Unternehmer zur nutzerzentrierten Bündelung zur Bereitstellung der erforderlichen Verfahrensinformationen (allen voran Akteneinsicht, Verfahrensstand, Verhandlungstermine, Edikte) samt verbesserten Möglichkeiten zur Einbringung und zum Empfang von justiziellen Schriftstücken
   * Implementierung von regionalen Justiz-Servicecentern (Helpdesk), die über eine entsprechende personelle Ausstattung verfügen, um einen Großteil der Bürgeranfragen rasch und unbürokratisch erledigen zu können
   * Einrichtung eines zentralen Telefoncenters mit dem Ziel, als First-Level-Support sämtliche eingehende Telefonate entgegenzunehmen und einen Großteil der Anfragen rasch und unbürokratisch zu erledigen
-  * Bekenntnis zum und Erhalt des Amtstages 
+  * Bekenntnis zum und Erhalt des Amtstages
   * Bekenntnis zum Erhalt der derzeitigen Gerichtsstruktur
   * Medienarbeit bei Gericht und Staatsanwaltschaft professionalisieren (Aus- und Fortbildung) und Öffnung für nicht-richterliches Personal
   * Verpflichtende Veröffentlichung im RIS zumindest von Urteilen der Oberlandesgerichte
@@ -58,9 +58,9 @@ Bürger-/Bürgerinnen- und Unternehmensservice
 
 Zugang zur Justiz für alle Bürgerinnen und Bürger erleichtern
 
-- Evaluierung der Gerichtsgebühren und allfällige Gerichtsgebührensenkung, insbesondere bei Rechtsmittelinstanz und Privatanklagen 
+- Evaluierung der Gerichtsgebühren und allfällige Gerichtsgebührensenkung, insbesondere bei Rechtsmittelinstanz und Privatanklagen
 
-- Neuordnung der Verfahrenshilfe unter Einbeziehung der Rechtsanwaltskammer 
+- Neuordnung der Verfahrenshilfe unter Einbeziehung der Rechtsanwaltskammer
 
 - Ersatz von Kosten im Falle eines Freispruchs im Strafverfahren erhöhen (Novellierung § 393a Abs. 1 StP  * unter Anknüpfung an die „AHK“)
 
@@ -73,7 +73,7 @@ Ausbau der Digitalisierung
   * Verpflichtendes digitales Verfahrensmanagement für die gesamte Gerichtsbarkeit bis Ende 2022 bei Berücksichtigung des nötigen Ressourcenbedarfs
   * Orts- und zeitunabhängige Akteneinsicht samt Information zum Verfahrensstand, unter Beibehaltung physischer Akteneinsicht
   * Strukturierte personenbezogene Übersicht zu Verhandlungsterminen sowie der Möglichkeit zur Mitteilung von Terminpräferenzen für Verfahrensbeteiligte
-  * Ausweitung des elektronischen Rechtsverkehrs insbesondere zur Strukturierung von Anträgen im Firmen- und Grundbuch 
+  * Ausweitung des elektronischen Rechtsverkehrs insbesondere zur Strukturierung von Anträgen im Firmen- und Grundbuch
   * Ressortübergreifende Nutzung moderner Analysewerkzeuge in Großstrafverfahren
   * Einsatz von künstlicher Intelligenz zur Unterstützung gerichtlicher Entscheidungen durch automatisierte Literaturrecherche und Aufbereitung von digitalen Akten sowie zur Schaffung von Transparenz und Rechtssicherheit durch öffentliche Zurver fügungstellung von anonymisierten rechtskräftigen gerichtlichen Entscheidungen
 
@@ -85,7 +85,7 @@ Berufsbild Richterin bzw. Richter/Staatsanwältin bzw. Staatsanwalt
 
 - Förderung der Durchlässigkeit zwischen der ordentlichen und der Verwaltungsgerichtsbarkeit (in beide Richtungen) und Schaffung von bundesweit einheitlichen Ausbildungsstandards unter Berücksichtigung der Vorteile der jeweiligen Systeme, Aus- und Fortbildung. Neue Mitglieder der Verwaltungsgerichte sollen weiterhin vorwiegend aus der Verwaltung kommen, um die erforderliche Praxiserfahrung aus dem Vollzug sicherzustellen.
 
-- Ausweitung und Förderung der Zugangsmöglichkeit verwandter Berufsgruppen zum Richter-/ Staatsanwaltsberuf und umgekehrt 
+- Ausweitung und Förderung der Zugangsmöglichkeit verwandter Berufsgruppen zum Richter-/ Staatsanwaltsberuf und umgekehrt
 
 - Prüfung einer österreichweiten Vereinheitlichung und Professionalisierung der Justizaus- und -fortbildung unter Einbeziehung der Wissenschaft
 
@@ -97,7 +97,7 @@ Berufsbild Richterin bzw. Richter/Staatsanwältin bzw. Staatsanwalt
 
 - Flexibilisierung des starren Gehaltsschemas von Richterinnen bzw. Richtern und Staatsanwältinnen bzw. Staatanwälten.
 
-- Weiterentwicklung des Auswahl- und Aufnahmeverfahrens für den richterlichen Vorbereitungsdienst im Sinne eines modernen, transparenten und objektiven Prozesses anhand objektiver Kriterien zur Berufsqualifikation unter Mitwirkung externer Prüferinnen und Prüfer 
+- Weiterentwicklung des Auswahl- und Aufnahmeverfahrens für den richterlichen Vorbereitungsdienst im Sinne eines modernen, transparenten und objektiven Prozesses anhand objektiver Kriterien zur Berufsqualifikation unter Mitwirkung externer Prüferinnen und Prüfer
 
   * Verlängerung der Gerichtspraxis auf neun Monate
   * Bei Abweichung der Bestellung vom Vorschlag des Personalsenats muss eine ausreichende Begründung erfolgen.
@@ -115,7 +115,7 @@ Familien- und Eherecht
   * Rechtliche Information vor Eheschließung und Verpartnerung (am Standesamt)
   * Verkürzung des Zerrüttungszeitraumes
 
-- Weitere Anpassungen bei abstammungsrechtlichen Fragen bei Kindern in Ehe zweier Frauen und bei Kindern in verschiedengeschlechtlicher eingetragener Partnerschaft 
+- Weitere Anpassungen bei abstammungsrechtlichen Fragen bei Kindern in Ehe zweier Frauen und bei Kindern in verschiedengeschlechtlicher eingetragener Partnerschaft
 
 - Maßnahmenpaket gegen Zwangsehe. Prüfung (auch unter Heranziehung internationaler Beispiele) der Anhebung des Ehealters auf 18 Jahre und des Verbots der Heirat von Cousins. Erb- und familienrechtliche Regelungen (z.B. Unterhalt) im Fall von Nichtigerklärung von Kinderehen und Mehrfachehen müssen evaluiert und novelliert werden.
 
@@ -159,7 +159,7 @@ Zivil- und Wirtschaftsrecht
 
 - Prüfung der Modernisierung des Übernahmerechts zur Hintanhaltung im europäischen Vergleich überschießender Regelungen (insbesondere bestehende Regelung zum „creeping in“)
 
-- Überprüfung und Anpassung des Kartellrechts auf europäischer und nationaler Ebene in Bezug auf das moderne Wirtschaftsleben 
+- Überprüfung und Anpassung des Kartellrechts auf europäischer und nationaler Ebene in Bezug auf das moderne Wirtschaftsleben
 
 - Stärkung staatlicher Zivil- und Wirtschaftsgerichtsbarkeit durch Erweiterung dispositiver Verfahrensmodelle mit Einwilligung beider Parteien (z.B. Fast Track Verfahren).
 
@@ -176,7 +176,7 @@ Reformen im Strafrecht und Strafprozessrecht
 
 Unabhängige Justiz und Korruptionsbekämpfung
 
-- Die Staatsanwaltschaft muss unabhängig von Beeinflussungen arbeiten können 
+- Die Staatsanwaltschaft muss unabhängig von Beeinflussungen arbeiten können
 
 - Stärkung der Staatsanwaltschaften zur unabhängigen Ermittlungsarbeit im verfassungsrechtlichen Rahmen durch:
 
@@ -234,10 +234,10 @@ Strafrecht an aktuelle Herausforderungen anpassen
 - Kampf gegen den Antisemitismus – Überarbeitung des Verbotsgesetzes:
 
   * Evaluierung und allfällige legistische Überarbeitung des VerbotsG unter dem Aspekt der inländischen Gerichtsbarkeit, insbesondere in Hinblick auf die Äußerungsdelikte der §§ 3g und 3f VerbotsG und Schließen weiterer Lücken (z.B. Teilleugnung).
-  * Prüfung einer Möglichkeit der Einziehung von NS-Devotionalien unabhängig von der Verwirklichung einer mit Strafe bedrohten Handlung und Evaluierung des Abzeichengesetzes 
+  * Prüfung einer Möglichkeit der Einziehung von NS-Devotionalien unabhängig von der Verwirklichung einer mit Strafe bedrohten Handlung und Evaluierung des Abzeichengesetzes
 
-- Stärkung von Sicherheit, Rechtsfrieden und des Schutzes der höchsten Rechtsgüter, nicht nur in der analogen Welt, sondern auch in der digitalen Welt: 
-  * Erarbeitung zeitgemäßer und Erweiterung bzw. Präzisierung vorhandener Straftatbestände zur Bekämpfung aller Arten von Cyberkriminalität sowie Prüfung der Erhöhung der derzeit in Geltung stehenden Strafrahmen. 
+- Stärkung von Sicherheit, Rechtsfrieden und des Schutzes der höchsten Rechtsgüter, nicht nur in der analogen Welt, sondern auch in der digitalen Welt:
+  * Erarbeitung zeitgemäßer und Erweiterung bzw. Präzisierung vorhandener Straftatbestände zur Bekämpfung aller Arten von Cyberkriminalität sowie Prüfung der Erhöhung der derzeit in Geltung stehenden Strafrahmen.
   * Bündelung staatsanwaltlicher Ermittlungskompetenzen zur Bekämpfung digitaler Verbrechen
 
 - Kampf gegen Umweltkriminalität:
@@ -249,12 +249,12 @@ Strafrecht an aktuelle Herausforderungen anpassen
 
 - Überarbeitung des Verbandsverantwortlichkeitsgesetzes (VbVG)
 
-  * Überarbeitung des Sanktionensystems durch Erweiterung und attraktivere Gestaltung der Möglichkeiten diversioneller Erledigung 
+  * Überarbeitung des Sanktionensystems durch Erweiterung und attraktivere Gestaltung der Möglichkeiten diversioneller Erledigung
   * Überprüfung und Überarbeitung der prozessualen Bestimmungen
 
-- Das Strafrecht sollte in einzelnen Punkten evaluiert und gegebenenfalls überarbeitet werden, s  * insbesondere 
+- Das Strafrecht sollte in einzelnen Punkten evaluiert und gegebenenfalls überarbeitet werden, s  * insbesondere
 
-  * Schließung von Lücken im Korruptionsstrafrecht (z.B. Einbeziehung von Personen in die Bestechungsbestimmungen, die sich um eine Funktion als Amtsträger bewerben) 
+  * Schließung von Lücken im Korruptionsstrafrecht (z.B. Einbeziehung von Personen in die Bestechungsbestimmungen, die sich um eine Funktion als Amtsträger bewerben)
 
 - Zielgerichtetere Verfolgung von Jugendstraftaten sowie effiziente Resozialisierung mit Bündelung der notwendigen Kompetenzen
 
@@ -262,7 +262,7 @@ Strafprozessrecht modernisieren
 -------------------------------
 - Modernisierung des Haupt- und Rechtsmittelverfahrens, u.a.:
 
-  * Einführung der Verpflichtung zur Strukturierung des Verhandlungsablaufs in Form eines Rechtsgesprächs 
+  * Einführung der Verpflichtung zur Strukturierung des Verhandlungsablaufs in Form eines Rechtsgesprächs
 
   * Präzisierungen im Bereich des Ablaufs der Beweisaufnahme in der Hauptverhandlung (z.B. Recht der Verteidigerin bzw. des Verteidigers auf nicht unterbrochene Fragestellung)
   * Audiovisuelle Aufzeichnung der Hauptverhandlung
@@ -293,20 +293,20 @@ Moderner Strafvollzug
 
 - Bestmögliche Sicherheitsausstattung aller Justizwachebediensteter (u.a. Kombi- und Stichschutzwesten).
 
-- Verpflichtende Sicherheitsüberprüfung gem. § 55 SPG für alle im Strafvollzug dauerhaft tätigen Externen 
+- Verpflichtende Sicherheitsüberprüfung gem. § 55 SPG für alle im Strafvollzug dauerhaft tätigen Externen
 
-- Sicherheitsrelevanten Vorfällen zu jeder Tages- und Nachtzeit effektiv begegnen - Nachtdienstkapazitäten verstärken, insbesondere die der Einsatzgruppenmitglieder und Mitglieder der Brandschutzgruppe/Be- triebsfeuerwehr. 
+- Sicherheitsrelevanten Vorfällen zu jeder Tages- und Nachtzeit effektiv begegnen - Nachtdienstkapazitäten verstärken, insbesondere die der Einsatzgruppenmitglieder und Mitglieder der Brandschutzgruppe/Be- triebsfeuerwehr.
 
 - Kooperation der für Sicherheits- und Einsatzangelegenheiten befassten Sektionen im Innenministerium sowie Justizministerium zur künftigen Bewältigung von Sonderlagen, um im Ernstfall rasche Kommunikationskanäle zur Verfügung zu haben und die Sicherheit der Bevölkerung bestmöglich zu gewährleisten (Synergieeffekte durch gemeinsame Schulungsmaßnahmen und Übungen sicherstellen).
 
-- Strukturierung des Bereichs der medizinischen Versorgung im Strafvollzug zur Effizienzsteigerung und Kostenersparnis. 
+- Strukturierung des Bereichs der medizinischen Versorgung im Strafvollzug zur Effizienzsteigerung und Kostenersparnis.
 
   * Einbeziehung der Insassen in die gesetzliche Krankenversicherung ohne Einbeziehung der Angehörigen (Standardleistungen).
   * Prüfung organisatorischer Alternativen zur Sicherung der medizinischen Versorgung der Insassen (z.B. verstärkte Zusammenarbeit mit öffentlichen und privaten Trägern mittels Gesamtvertrags statt vieler teurer Einzelverträge, Bildung von regionalen Clustern, zeitliche Ausweitung der ärztlichen Leistungen in den Anstalten, Kooperation mit Bundesheer).
   * Ausbau der Projekte Videodolmetsch und Telemedizin (zur Senkung der Ausführungen zur Behandlung).
   * Stärkung von Erwachsenenschutzvereinen und Bewährungshilfe.
 
-- Bedarfsgerechte Ressourcen für Justizwachebeamte und Attraktivierung des Berufsbildes. 
+- Bedarfsgerechte Ressourcen für Justizwachebeamte und Attraktivierung des Berufsbildes.
 
 - Bedarfsgerechte Ressourcen für psychologische, psychiatrische und sozialarbeiterische Betreuung.
 
@@ -435,7 +435,7 @@ Ziel: Durch Abschluss eines neuen FAG soll Österreich in die Lage versetzt werd
 
 - Aufnahme von Gesprächen mit den Bundesländern mit dem Ziel, dass Bauordnungen zum Erreichen der Pariser Klimaziele gemäß dem Reduktionspfad beitragen.
 
-- Die Länder sollen klimarelevante Maßnahmen in den Bauordnungen implementieren. 
+- Die Länder sollen klimarelevante Maßnahmen in den Bauordnungen implementieren.
 
 - Die Länder sollen zur Unterstützung der E-Mobilität im Rahmen der Bauordnungen Leerverrohrungen allenfalls verpflichtend vorsehen.
 
@@ -469,7 +469,7 @@ Wohnungseigentum: Modern, sinnvoll und klar verständlich
 
 - Grundbuchsnovelle: Ausweitung der Automatisierung/Digitalisierung, Reduktion der Medienbrüche.
 
-- Maßnahmen zur Dekarbonisierung sind nicht mehr unter „Verbesserung“, sondern unter „Erhaltung“ zu subsumieren. 
+- Maßnahmen zur Dekarbonisierung sind nicht mehr unter „Verbesserung“, sondern unter „Erhaltung“ zu subsumieren.
 
 - Energieeffizienzmaßnahmen können unter gewissen Voraussetzungen (wie die Deckung durch die Rücklagen) auch von qualifizierten Mehrheiten beschlossen werden.
 
@@ -509,7 +509,7 @@ Leerstand & Mindernutzung
 
 - Verbot von Zweitwohnsitzen im Gemeindebau und im geförderten Mietverhältnis
 
-- Prüfung von Maßnahmen, damit Wohnungen, die für den ganzjährigen Wohnbedarf errichtet worden sind, den hier lebenden Menschen zur Verfügung stehen 
+- Prüfung von Maßnahmen, damit Wohnungen, die für den ganzjährigen Wohnbedarf errichtet worden sind, den hier lebenden Menschen zur Verfügung stehen
 
 Maklerprovision nach dem Bestellerprinzip
 

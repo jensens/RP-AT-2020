@@ -5,7 +5,7 @@ Finanzen & Budget
 :download:`Kapitel als PDF <../split/02-01-Finanzen-Budget.pdf>` (Teil des :download:`Originals <../original/RP2020.pdf>`).
 
 .. todo::
-  Formatieren, Überarbeiten, Original gegenchecken
+  Original gegenchecken
 
 Ein funktionierendes und verlässliches Wirtschafts- und Finanzsystem bildet dieGrundlage für den Erhalt unseres Wohlstandes, sichert die nachhaltige Finanzierung unseres Sozialstaates und spielt eine Schlüsselrolle in der Bewältigung neuer Herausforderungen wie der Globalisierung, des Klimaschutzes und der Digitalisierung.
 
@@ -46,7 +46,7 @@ Rahmenbedingungen für Glücksspiel
 
 - Die Bundesregierung bekennt sich zu einer Bekämpfung des illegalen Glücksspiels und zu einer Ausweitung des Spielerschutzes.
 
-- Die Bundesregierung strebt eine Entflechtung der unterschiedlichen Rollen des BMF im Bereich des Glücksspiels an. 
+- Die Bundesregierung strebt eine Entflechtung der unterschiedlichen Rollen des BMF im Bereich des Glücksspiels an.
 
 - Die bestehenden Abgaben sollen evaluiert werden, vor dem Hintergrund einer Einschränkung der Glücksspielaktivitäten, bei gleichzeitiger Erhöhung der Bundessportförderung.
 
@@ -55,7 +55,7 @@ Rahmenbedingungen für Glücksspiel
 Teilhabe am Kapitalmarkt und private Altersvorsorge stärken
 -----------------------------------------------------------
 
-- Erarbeitung einer Behaltefrist für die Kapitalertragsteuerbefreiung für Kursgewinne bei Wertpapieren und Fondsprodukten 
+- Erarbeitung einer Behaltefrist für die Kapitalertragsteuerbefreiung für Kursgewinne bei Wertpapieren und Fondsprodukten
 
 - Ergänzend zur staatlichen Pensionsvorsorge auch entsprechende Rahmenbedingungen für die private Pensionsvorsorge schaffen
 
@@ -96,7 +96,7 @@ Entbürokratisierung im Kapitalmarkt-Bereich
 
 - Das Finanzministerium und das Justizministerium evaluieren gemeinsam mit den Aufsichtsbehörden regelmäßig mögliche Übererfüllung von EU-Richtlinien für den Kapitalmarkt (Gold-Plating).
 
-- Laufender Dialog mit Wiener Börse zum Abbau unnötiger Bürokratie bei Börsegängen in Österreich (besonders auch für KMUs) 
+- Laufender Dialog mit Wiener Börse zum Abbau unnötiger Bürokratie bei Börsegängen in Österreich (besonders auch für KMUs)
 
 - Elektronische Kommunikation mit Kundinnen und Kunden soll auch für Finanz- und Versicherungsunternehmen zeitgemäß möglich sein und der gesetzliche Rahmen entsprechend gelockert werden, wobei der Datenschutz zu berücksichtigen ist.
 

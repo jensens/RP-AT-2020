@@ -2,8 +2,10 @@
 Verkehr & Infrastruktur
 ------------------------
 
-..  todo::
-      Formatieren,  Überarbeiten,  Original  gegenchecken
+:download:`Kapitel als PDF <../split/03-01-Klimaschutz-Energie.pdf>` (Teil des :download:`Originals <../original/RP2020.pdf>`).
+
+.. todo::
+  Formatieren,  Überarbeiten,  Original  gegenchecken
 
 Mobilität  ist  ein  Grundbedürfnis  der  Menschen,  der  Transport  von  Waren  eine  Voraussetzung  für  unsere  Wirtschaft.  Ein  zukunftsfähiger  Standort  braucht  ein  innovatives,  effizientes  und  gut  funktionierendes  Mobilitäts-  und  Transportsystem.  Gleichzeitig  wissen  wir  um  die  Notwendigkeit,  das  Verkehrssystem  neuen  Anforderungen  anzupassen:  Digitalisierung,  Energieeffizienz  und  Dekarbonisierung  im  Einklang  mit  den  Klimazielen  von  Paris  sind  unabdingbar.  Um  die  im  Verkehrssektor  notwendige  Trendwende  bei  den  CO2-  Emissionen  zu  schaffen,  bedarf  es  klarer  Rahmenbedingungen  und  engagierter  Umsetzungsprogramme.  Deshalb  werden  Maßnahmen  entwickelt,  um  Verkehr  zu  vermeiden,  Verkehr  zu  verlagern  und  Verkehr  zu  verbessern  und  den  Anteil  des  Umweltverbunds  (Fuß-  und  Radverkehr,  öffentliche  Verkehrsmittel  und  Shared  Mobility)  deutlich  zu  steigern.
 

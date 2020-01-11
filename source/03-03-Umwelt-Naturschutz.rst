@@ -2,8 +2,10 @@
 Umwelt- und Naturschutz
 -----------------------
 
+:download:`Kapitel als PDF <../split/03-03-Umwelt-Naturschutz.pdf>` (Teil des :download:`Originals <../original/RP2020.pdf>`).
+
 .. todo::
-  Formatieren, Überarbeiten, Original gegenchecken
+  Überarbeiten, Original gegenchecken
 
 Gute Luft, sauberes Trinkwasser, fruchtbare Böden und Artenvielfalt sind unsere Lebensgrundlagen. Österreich genießt das Privileg vielfältiger, wunderschöner Natur. Unsere Umwelt steht aber auch unter Druck: Flächenversiegelung, Artensterben, Bodenerosion oder Luftverschmutzung sind die Herausforderungen, die gemeinsam bearbeitet und gelöst werden sollen. Dies bedarf der Unterstützung aller. Denn der Schutz unserer Lebensgrundlage hat Priorität. Dafür ist ein Umsteuern notwendig: Anstatt ständig mehr Ressourcen zu verbrauchen, soll intelligenter produziert und konsumiert werden. Durch eine ambitionierte Umweltpolitik sichern wir Lebensqualität und ermöglichen damit Gesundheit, gute Ernährung, Wohlstand, einen zukunftsfähigen Standort und eine lebenswerte Welt für nachfolgende Generationen.
 
@@ -63,7 +65,7 @@ Kreislaufwirtschaft fördern und Abfallpolitik gestalten
 
 - Aktionsplan gegen Mikroplastik
 
-  * Datenerhebung und Evaluierung für Mikroplastikemissionen und Belastungen unter Einbeziehung aller einschlägigen Fachbereiche inklusive der Umwelttoxikologie mit dem Ziel, rechtliche Grundlagen für die Reduktion von Mikroplastik zu entwickeln 
+  * Datenerhebung und Evaluierung für Mikroplastikemissionen und Belastungen unter Einbeziehung aller einschlägigen Fachbereiche inklusive der Umwelttoxikologie mit dem Ziel, rechtliche Grundlagen für die Reduktion von Mikroplastik zu entwickeln
 
 - Einsetzen auf europäischer Ebene für:
   * Verbot von Mikroplastik in der Produktion (Ziel einer österreichischen Lösung, sollte es keine europäische Lösung geben)
@@ -78,7 +80,7 @@ Kreislaufwirtschaft fördern und Abfallpolitik gestalten
 
 - Ziel ist es, die Ausbringung von Klärschlamm bei Belastung durch Mikroplastik und andere Schadstoffe gänzlich zu unterbinden
 
-- Prüfung eines bundesweiten Verbots für die Ausbringung von Klärschlamm bei Belastung durch Mikroplastik und andere Schadstoffe 
+- Prüfung eines bundesweiten Verbots für die Ausbringung von Klärschlamm bei Belastung durch Mikroplastik und andere Schadstoffe
 
 - Entwicklung einer Phosphor-Strategie (Plan für die Herstellung von Kapazitäten für die Phosphorrückgewinnung etc.)
 
@@ -109,7 +111,7 @@ Artenvielfalt erhalten – Natur schützen
 
 - Finanzierung eines Biodiversitätsfonds zur Umsetzung der Biodiversitätsstrategie
 
-- Unterstützung der Bundesländer bei der Ausweisung neuer und Erhaltung von bestehenden Wildnisgebieten, Natura 2000-Gebieten, Biosphärenparks und Schutzgebieten 
+- Unterstützung der Bundesländer bei der Ausweisung neuer und Erhaltung von bestehenden Wildnisgebieten, Natura 2000-Gebieten, Biosphärenparks und Schutzgebieten
 
 - Gemeinsame Initiative mit den Bundesländern zur Schaffung neuer und Erweiterung bestehender Nationalparks
 
@@ -127,13 +129,13 @@ Artenvielfalt erhalten – Natur schützen
 
 - Engagierte Umsetzung internationaler Verpflichtungen
 
-- Entwicklung von Biotop-Verbundsystemen, die Artenvielfalt ermöglichen 
+- Entwicklung von Biotop-Verbundsystemen, die Artenvielfalt ermöglichen
 
-- Schaffung von Anreizen für Biodiversitätsmaßnahmen 
+- Schaffung von Anreizen für Biodiversitätsmaßnahmen
 
 - Maßnahmen zur Wiederherstellung von degradierten Ökosystemen
 
-- Einrichtung einer EU-weiten wildökologischen Raumplanung und Ausarbeitung von Wildtiermanagementlösungen im Einklang mit EU-Recht 
+- Einrichtung einer EU-weiten wildökologischen Raumplanung und Ausarbeitung von Wildtiermanagementlösungen im Einklang mit EU-Recht
 
 - Reduktion von Palmöl in allen Produkten auf nationaler und europäischer Ebene forcieren
 
@@ -145,7 +147,7 @@ Artenvielfalt erhalten – Natur schützen
   * Verbesserung der Katastrophenhilfe, insbesondere Schaffung klarer Zuständigkeiten, Vereinheitlichung der Kriterien für die Mittelvergabe, Zweckbindung der Ressourcen, Wegfall der 30-Mio.-Euro-Grenze zur Vorziehung von Hochwasserschutzprojekten
   * Verstärkung der nachhaltigen Schutzwaldbewirtschaftung (Naturverjüngung des Waldes, klimafitter Wald)
 
-- Ökologische Gartenbewirtschaftung privater Gärten und öffentlicher Grünflächen (z.B. Schulen, Kindergärten) weiter vorantreiben zur Förderung der Biodiversität 
+- Ökologische Gartenbewirtschaftung privater Gärten und öffentlicher Grünflächen (z.B. Schulen, Kindergärten) weiter vorantreiben zur Förderung der Biodiversität
 
   * Weitestgehender Verzicht auf Pflanzenschutzmittel bei öffentlichen Flächen
 
@@ -187,7 +189,7 @@ Saubere Luft und besserer Lärmschutz
   * mit konkreten und quantifizierbaren Maßnahmen zur Erfüllung der europäischen Emissionsreduktionsverpflichtungen insbesondere für Ammoniak, Stickoxide und Feinstaub
   * mit Kostenschätzung und finanzieller Sicherstellung
 
-- Verbesserungen im ImmissionsschutzG-Luft: 
+- Verbesserungen im ImmissionsschutzG-Luft:
 
   * Der Bund unterstützt die Länder bei Sofortmaßnahmen und vorbeugenden Reduktionsmaßnahmen in belasteten Gebieten
   * Messstellen-Netz optimieren: Fortführung der Pilotprojekte bei Ultra-Feinstaub (PM1) und Black Carbon-Anteil bei PM2,5-Emissionen
@@ -198,10 +200,10 @@ Saubere Luft und besserer Lärmschutz
 
 - Verkehr & Luftqualität: Verbindliches Maßnahmenprogramm zur Reduktion verkehrsbedingter Emissionen
 
-  * Initiative der Bundesregierung für die rasche, durch Beiträge der Hersteller für Fahrzeugeigner und -eignerinnen kostenfreie Hardware-Nachrüstung von herstellerseitig abgasmanipulierten Dieselfahrzeugen, im Sinne der Einhaltung der Zulassungsvoraussetzungen 
+  * Initiative der Bundesregierung für die rasche, durch Beiträge der Hersteller für Fahrzeugeigner und -eignerinnen kostenfreie Hardware-Nachrüstung von herstellerseitig abgasmanipulierten Dieselfahrzeugen, im Sinne der Einhaltung der Zulassungsvoraussetzungen
   * Einschränken des LoF-Einsatzes abseits der Landwirtschaft
-  * Raschere und räumlich ausgeweitete Nachrüstung älterer LKW und Baumaschinen mit Partikelfiltern (Maßnahmenpaket und Anreizsystem) für öffentliche Aufträge und Private 
-  * Ausnahmen für Sonderfahrzeuge und Einsatzfahrzeuge, soweit geboten 
+  * Raschere und räumlich ausgeweitete Nachrüstung älterer LKW und Baumaschinen mit Partikelfiltern (Maßnahmenpaket und Anreizsystem) für öffentliche Aufträge und Private
+  * Ausnahmen für Sonderfahrzeuge und Einsatzfahrzeuge, soweit geboten
 
 - Aktionspläne für lärmbelastete Gebiete
 
@@ -233,8 +235,8 @@ Gesunde Böden und zukunftsfähige Raumordnung
 
 - Förderung der Baukultur
 
-  * Umsetzung der Empfehlungen des dritten Baukultur-Reports, der Davos-Erklärung sowie der baukulturellen Leitlinien des Bundes 2017 vorantreiben in Zusammenarbeit mit den Bundesländern 
-  * Informations- und Bildungskampagne 
+  * Umsetzung der Empfehlungen des dritten Baukultur-Reports, der Davos-Erklärung sowie der baukulturellen Leitlinien des Bundes 2017 vorantreiben in Zusammenarbeit mit den Bundesländern
+  * Informations- und Bildungskampagne
 
 - Forcierung der Vertragsraumordnung zur Baulandmobilisierung und Schaffung von neuem nachhaltigen und sozial leistbaren Bauland
 

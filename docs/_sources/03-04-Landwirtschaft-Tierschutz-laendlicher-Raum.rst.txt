@@ -2,9 +2,11 @@
 Landwirtschaft, Tierschutz & ländlicher Raum
 --------------------------------------------
 
+:download:`Kapitel als PDF <../split/03-04-Landwirtschaft-Tierschutz-laendlicher-Raum.pdf>` (Teil des :download:`Originals <../original/RP2020.pdf>`).
+
 .. todo::
-  Formatieren, Überarbeiten, Original gegenchecken
-  
+  Überarbeiten, Original gegenchecken
+
 Die Bundesregierung bekennt sich zur Bedeutung der heimischen Land- und Forstwirtschaft und der bäuerlichen Familienbetriebe. Unsere Bäuerinnen und Bauern versorgen uns täglich mit hochqualitativen, leistbaren und regionalen Lebensmitteln und erhalten mit ihrer Arbeit unsere einzigartige Kulturlandschaft und vielfältigen Lebensräume. Sie leisten Enormes in der Bereitstellung von erneuerbaren Rohstoffen, dem Erhalt der natürlichen Ressourcen und der Artenvielfalt sowie dem Schutz des Bodens und der Wasserqualität. Diese gesellschaftlich anerkannten Leistungen der Bäuerinnen und Bauern sind auch in Zukunft ein wesentlicher Beitrag im Kampf gegen den Klimawandel.
 
 Die österreichische Landwirtschaft ist kleinstrukturiert und auf höchste Qualität ausgerichtet – Agrarfabriken sind für uns keine Alternative. Unser Fokus liegt darauf, Österreich als Vorzeigemodell in Europa weiter zu stärken. Übergeordnetes Ziel ist dabei die Versorgung mit hochwertigen Lebensmitteln, der Erhalt einer multifunktionalen, nachhaltigen, wettbewerbsfähigen und flächendeckenden Land- und Forstwirtschaft sowie ein hoher Selbstversorgungsgrad. Der Erhalt unserer Wälder und die Unterstützung der Forstwirtschaft bei der nachhaltigen Bewirtschaftung sind ein zentrales Anliegen.
@@ -13,14 +15,14 @@ Die vielfältigen bäuerlichen Familienbetriebe, ob im Voll-, Zuund Nebenerwerb,
 
 Nur eine ausreichend dotierte Gemeinsame Agrarpolitik kann die notwendigen Rahmenbedingungen für eine nachhaltige und umweltgerechte Bewirtschaftung schaffen. Die Sicherstellung dieser GAP-Mittel für Österreich im Mehrjährigen Finanzrahmen 2021 - 2027 der EU ist daher Grundvoraussetzung für die Absicherung einer bäuerlichen Landwirtschaft und ökosozialen Agrarpolitik. Eine ergebnisorientierte österreichische GAP-Strategie setzt auf den weiteren Ausbau umweltgerechter Bewirtschaftungsmethoden und des biologischen Landbaus, sichert die österreichische Berglandwirtschaft durch eine ausreichende Dotierung der Ausgleichszulage und unterstützt die Zusammenarbeit aller Akteurinnen und Akteure zur Erhaltung vitaler ländlicher Regionen. S  * leistet die Landwirtschaft einen Beitrag zur Erreichung der Pariser Klimaziele.
 
-Österreich zählt im internationalen Vergleich zu jenen Ländern mit den höchsten Tierschutzund Lebensmittelstandards und hat sich dadurch zu einem Feinkostladen in Europa entwickelt. Der Umstieg auf mehr Tierschutz soll für alle Betriebsgrößen erleichtert werden. Die gentechnikfreie Lebensmittelproduktion steht genaus  * im Mittelpunkt wie die Stärkung regionaler und saisonaler Produkte und der Ausbau durchgängiger Qualitätsund Herkunftssysteme – im Interesse der Konsumentinnen und Konsumenten und einer vitalen und zukunftsfähigen Landwirtschaft. 
+Österreich zählt im internationalen Vergleich zu jenen Ländern mit den höchsten Tierschutzund Lebensmittelstandards und hat sich dadurch zu einem Feinkostladen in Europa entwickelt. Der Umstieg auf mehr Tierschutz soll für alle Betriebsgrößen erleichtert werden. Die gentechnikfreie Lebensmittelproduktion steht genaus  * im Mittelpunkt wie die Stärkung regionaler und saisonaler Produkte und der Ausbau durchgängiger Qualitätsund Herkunftssysteme – im Interesse der Konsumentinnen und Konsumenten und einer vitalen und zukunftsfähigen Landwirtschaft.
 
 Existenz der bäuerlichen Landwirtschaft absichern
 -------------------------------------------------
 
 - Evaluierung, Absicherung und Verbesserung des Systems der Einheitswerte
 
-- Stärkung der bäuerlichen Vermarktung 
+- Stärkung der bäuerlichen Vermarktung
 
   * Evaluierung der Urprodukteliste und ggf. Überarbeitung
   * Absenkung der AMA-Gütesiegel-Lizenzgebühren (kleine Betriebe, DV-Betriebe)
@@ -38,13 +40,13 @@ Existenz der bäuerlichen Landwirtschaft absichern
 - Weitere Entlastungen bei Steuern und Abgaben umsetzen
 
   * Entlastung von Klein- und Mittelbetrieben in der SV – Abfederung der stark gestiegenen Belastung. Gemeinsame Evaluierung der Versicherungswerte nach dem BSVG im Verhältnis zur tatsächlichen Einkommensentwicklung anhand der Ergebnisse des Grünen Berichts
-  * Anhebung der Umsatzgrenze für landwirtschaftliche Nebentätigkeiten auf 40.000 € und zukünftige Valorisierung 
+  * Anhebung der Umsatzgrenze für landwirtschaftliche Nebentätigkeiten auf 40.000 € und zukünftige Valorisierung
   * Einführung einer steuerlichen Risikoausgleichsmaßnahme zur besseren Absicherung der Landwirtinnen und Landwirte gegen Preis- und Ertragsschwankungen
   * Beibehaltung und rechtliche Sicherstellung des Einheitswertsystems sowie Streichung der Einheitswertgrenze für die Buchführungspflicht und Anhebung der Umsatzgrenze für die Buchführungspflicht auf 700.000 €
-  * Weitere Ausweitung und Stärkung des Versicherungsschutzes für Risiken und Schäden in 
+  * Weitere Ausweitung und Stärkung des Versicherungsschutzes für Risiken und Schäden in
   * Streichung der Bagatellsteuer „Schaumweinsteuer“
 
-- Bestehende Jahreskontingente für Saisonniers für die Landwirtschaft sollen bedarfsgerecht angepasst werden, unter Einhaltung aller arbeitsrechtlichen und kollektivvertraglichen Bestimmungen 
+- Bestehende Jahreskontingente für Saisonniers für die Landwirtschaft sollen bedarfsgerecht angepasst werden, unter Einhaltung aller arbeitsrechtlichen und kollektivvertraglichen Bestimmungen
 
 - Schaffung von land- und forstwirtschaftlichen Arbeitgeberzusammenschlüssen, um Synergien (beispielsweise gemeinsame Beschäftigung von Mitarbeiterinnen und Mitarbeitern) bestmöglich zu nutzen.
 
@@ -53,9 +55,9 @@ Gute Lebensmittel für alle und Transparenz für Bürgerinnen und Bürger
 
 - Verstärkter Absatz heimischer Lebensmittel im In- und Ausland durch konsequente Weiterverfolgung der österreichischen Lebensmittel- und Qualitätsstrategie
 
-  * Aktive Kommunikation der hohen Qualität und Produktionsstandards österreichischer Lebensmittel 
+  * Aktive Kommunikation der hohen Qualität und Produktionsstandards österreichischer Lebensmittel
   * Etablierung einer national und international einheitlichen Positionierungs- und Kommunikationsstrategie entlang der vereinbarten Ziele
-  * Sicherstellung der Versorgung mit hochqualitativen, leistbaren sowie regionalen Lebensmitteln und Anreize für erhöhte Verfügbarkeit von Produkten mit negativer Versorgungsbilanz 
+  * Sicherstellung der Versorgung mit hochqualitativen, leistbaren sowie regionalen Lebensmitteln und Anreize für erhöhte Verfügbarkeit von Produkten mit negativer Versorgungsbilanz
   * Förderung von Exportinitiativen im Bereich der Vermarktung österreichischer Lebensmittel mit Schwerpunkt Europa
   * Umsetzung der Strategie Kulinarik Österreich und Weiterentwicklung unter Einbindung von regionalen Initiativen
   * Österreich als die wichtigste Kulinarik-Destination Europas positionieren
@@ -92,7 +94,7 @@ Gute Lebensmittel für alle und Transparenz für Bürgerinnen und Bürger
   * Einsatz von heimischen und europäischen Eiweißfuttermitteln in der österreichischen Futtermittelwirtschaft
   * Stärkung von Initiativen wie Donau-Soja und heimische Saatzuchtunternehmen
 
-- Aktionsprogramm für den schrittweisen Ausstieg aus Gentechnik-Futtermitteln im Rahmen der österreichischen Eiweißstrategie 
+- Aktionsprogramm für den schrittweisen Ausstieg aus Gentechnik-Futtermitteln im Rahmen der österreichischen Eiweißstrategie
 
   * Klimaschutzpartnerschaft mit dem österreichischen Handel: Regalflächenanteil für österreichische Produkte wird zumindest beibehalten.
   * Regionale Kreisläufe, Verarbeiter und Branchenlösungen werden unterstützt.
@@ -111,7 +113,7 @@ Gute Lebensmittel für alle und Transparenz für Bürgerinnen und Bürger
 
 - Weiterentwicklung des Tiergesundheitsdienstes (z.B. Anreize schaffen, den Antibiotika-Einsatz zu reduzieren)
 
-- Sicherstellung der notwendigen strukturellen Voraussetzung für ein Krisenmanagement im Tierseuchenfall 
+- Sicherstellung der notwendigen strukturellen Voraussetzung für ein Krisenmanagement im Tierseuchenfall
 
 - Nationale Palmölreduktionsstrategie und Kennzeichnung von palmölhaltigen Produkten
 
@@ -165,8 +167,8 @@ Sicherstellung einer wettbewerbsfähigen, multifunktionalen und flächendeckende
 - Agrarumweltprogramm (ÖPUL= Agrarumwelt, Bio, Naturschutz, Tierwohl)
 
   * Positionierung des Agrarumweltprogramms mit ÖPUL, Bio, Naturschutz und Tierwohl als Beitrag zur Erreichung der Pariser Klimaziele, wobei insbesondere dem Biolandbau eine wesentliche Bedeutung zukommt
-  * Bekenntnis zu folgenden Zielen: Erhalt und Ausbau der Wasserqualität (Unterstützung im vorbeugenden Grundwasserschutz), Verbesserung der Luftqualität in Hinblick auf Feinstaub, Ammoniak etc., Vermeidung von Bodenerosion, Humusaufbau,  nachhaltige Forstbewirtschaftung, Erhalt nicht produktiver Landschaftselemente oder Landschaftsbereiche zur Verbesserung der Biodiversität, Erhalt der Bodenfruchtbarkeit, Reduktion und nachhaltiges, effizientes und optimiertes Dünge- und Schädlingsbekämpfungsmanagement 
-  * Verstärkung der (finanziellen) Anreizkomponente für Landwirtinnen und Landwirte (bei der Maßnahmenkalkulation) aufgrund des hohen gesellschaftlichen Mehrwerts des Programms (z.B. Schutz der Biodiversität) für die Umwelt sowie zusätzliche finanzielle Abgeltung von Klimamaßnahmen 
+  * Bekenntnis zu folgenden Zielen: Erhalt und Ausbau der Wasserqualität (Unterstützung im vorbeugenden Grundwasserschutz), Verbesserung der Luftqualität in Hinblick auf Feinstaub, Ammoniak etc., Vermeidung von Bodenerosion, Humusaufbau,  nachhaltige Forstbewirtschaftung, Erhalt nicht produktiver Landschaftselemente oder Landschaftsbereiche zur Verbesserung der Biodiversität, Erhalt der Bodenfruchtbarkeit, Reduktion und nachhaltiges, effizientes und optimiertes Dünge- und Schädlingsbekämpfungsmanagement
+  * Verstärkung der (finanziellen) Anreizkomponente für Landwirtinnen und Landwirte (bei der Maßnahmenkalkulation) aufgrund des hohen gesellschaftlichen Mehrwerts des Programms (z.B. Schutz der Biodiversität) für die Umwelt sowie zusätzliche finanzielle Abgeltung von Klimamaßnahmen
   * Zusätzliche nationale Mittel zur Reduktion von Ammoniakemissionen zur Umsetzung des Luftreinhalteprogramms
 
 - Ausgleichszulage (Bergbauernförderung): Weiterführung und positive Weiterentwicklung der Ausgleichszulage für Bergbäuerinnen und -bauern als einfache Maßnahme zur gezielten Abgeltung betriebsindividueller und klimatischer Erschwernisse sowie Berücksichtigung der Tierhaltung
@@ -190,7 +192,7 @@ Sicherstellung einer wettbewerbsfähigen, multifunktionalen und flächendeckende
   * Bodengebundene Tierhaltung unter Einhaltung des Aktionsprogramms Nitrat verankern
   * Ökologische, klimagerechte und Tierwohl-Kriterien für Investitionsförderungen im Rahmen der Ländlichen Entwicklung forcieren, z.B. Förderungen primär für Investitionen, die der Marktentwicklung und den gesellschaftlichen Anforderungen entsprechen, wie Tierwohlgerechter Stallbau
   * Keine Einführung von Zuzahlungen zu Risikoversicherungsprämien (insbesondere Einkommensversicherung) im Rahmen der GAP
-  * Die Bedeckung von allenfalls seitens der Europäischen Kommission vorgenommenen Finanzkorrekturen in der GAP erfolgt im Rahmen des Budgetvollzugs durch zusätzlich zur Verfügung gestellte Mittel 
+  * Die Bedeckung von allenfalls seitens der Europäischen Kommission vorgenommenen Finanzkorrekturen in der GAP erfolgt im Rahmen des Budgetvollzugs durch zusätzlich zur Verfügung gestellte Mittel
 
 Den Biolandbau stärken
 ----------------------
@@ -254,9 +256,9 @@ Die hohen Tierschutz- und Lebensmittelstandards schützen
   * Ziel: Langfristig flächendeckende Einführung besonders tierfreundlicher Haltungsformen, wie Stallhaltung mit Einstreu, freie Abferkelsysteme, Auslauf und Freibereich, im Einklang mit den Entwicklungen auf dem Markt
   * Zusätzliche finanzielle Anreize für die Umstellung auf moderne und besonders artgerechte Tierhaltungssysteme mit beispielsweise geringerer Besatzdichte, getrennten Funktionsbereichen, Kühlung, Phasenfütterung etc.
   * Forschung und Entwicklung von Alternativen zum bisherigen Standard der Ferkelkastration mit dem Ziel, die derzeitige Praxis in Zukunft abzulösen
-  * Forcierung der Haltung von Zweinutzungsrassen bei Geflügel und Rind 
-  * Verbot des Schredderns von lebendigen Küken 
-  * Regulierung der Haltung von Wachteln 
+  * Forcierung der Haltung von Zweinutzungsrassen bei Geflügel und Rind
+  * Verbot des Schredderns von lebendigen Küken
+  * Regulierung der Haltung von Wachteln
   * Einsatz für auf Wissenschaft basierenden Tierschutz-Mindeststandards für die Putenmast auf EU-Ebene
 
 - Offensive zur Verbesserung des Tierwohls bei Tiertransporten
@@ -266,8 +268,8 @@ Die hohen Tierschutz- und Lebensmittelstandards schützen
   * Initiative zur Reduktion von Tiertransporten in Drittstaaten
   * Verbot von Schlachttiertransporten in Drittstaaten
   * Initiative zur Reduktion des Langstreckentransports von Wiederkäuern unter 8 Wochen – Schaffung einer freiwilligen Branchenvereinbarung
-  * Verstärkte, risikobasierte Kontrolldichte bei Langstrecken-Transporten und Ausbildung der Amtsorgane für Tiertransporte 
-  * Regionale und mobile Schlachthöfe und Weideschlachtung fördern und ermöglichen, um die Anzahl von Tiertransporten zu reduzieren 
+  * Verstärkte, risikobasierte Kontrolldichte bei Langstrecken-Transporten und Ausbildung der Amtsorgane für Tiertransporte
+  * Regionale und mobile Schlachthöfe und Weideschlachtung fördern und ermöglichen, um die Anzahl von Tiertransporten zu reduzieren
 
 - Kompetenzen des amtlichen Tierschutzes im Heimtier-Bereich stärken (z.B. Kontrolle des Verbots von Qualzucht etc.)
 
@@ -307,7 +309,7 @@ Forstwirtschaft
   * Stärkung der aktiven, nachhaltigen Waldbewirtschaftung (klimafitter Wald) unter Berücksichtigung der CO2-Speicherfähigkeit und Multifunktionalität der heimischen Wälder als wesentlicher Wirtschaftsfaktor zur Sicherstellung der Schutz-, Erholungs-, Wirtschafts- und Wohlfahrtsfunktion
   * Vollständige Umsetzung des „Aktionsprogramms Schutzwald“ bis 2024
   * Unterstützung bei standortgemäßer und klimafitter Wiederaufforstung und Pflege nach wetter- und klimabedingten Kalamitäten
-  * Österreich (international) als Forstland positionieren 
+  * Österreich (international) als Forstland positionieren
 
 - Ausbau eines Biotop-Verbund-Systems, Retentionsräume (in Zusammenarbeit mit den Ländern)
 

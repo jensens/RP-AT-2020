@@ -5,7 +5,7 @@ Sport
 :download:`Kapitel als PDF <../split/01-05-Sport.pdf>` (Teil des :download:`Originals <../original/RP2020.pdf>`).
 
 .. todo::
-  Formatieren, Überarbeiten, Original gegenchecken
+   Original gegenchecken
 
 Bewegung und Sport sind ein wesentlicher Bestandteil des Alltags der Menschen in Österreich. Als Bundesregierung unterstützen wir den Sport daher in seiner ganzen Breite: Vom Erlernen der körperlichen Grundkompetenzen im Kinderturnen, über individuelle sportliche Aktivitäten, berufliches oder ehrenamtliches Engagement in den zahlreichen Verbänden und Vereinen bis hin zu den optimalen Rahmenbedingungen für Spitzensportlerinnen und Spitzensportler bei Olympischen Spielen und Weltmeisterschaften; von der Förderung des Sports als wirkungsvolles Mittel der Integration von Migrantinnen und Migranten bis hin zum inklusiven Training von Menschen mit und ohne Behinderung; von traditionellen Disziplinen bis hin zu neuen Trendsportarten.
 
@@ -16,11 +16,11 @@ Insgesamt ist mit 2,1 Millionen Menschen jeder Vierte in unserem Land Mitglied i
 Struktur- und Organisationsentwicklung im österreichischen Sport
 ----------------------------------------------------------------
 
-- One-Stop-Shop: Synergien in der Förderverwaltung heben – Aufgabenverteilung Sektion Sport und Förder-GmbH „Bundes Sport GmbH“, Vereinheitlichung der Förderrichtlinien 
+- One-Stop-Shop: Synergien in der Förderverwaltung heben – Aufgabenverteilung Sektion Sport und Förder-GmbH „Bundes Sport GmbH“, Vereinheitlichung der Förderrichtlinien
 
 - Professionalisierung des Fachverbandswesens: Zusammenführung von Aufgaben unterschiedlicher Aufgabenträger, Nutzung von Shared Services über Förder-Spielregeln und der Anreiz eines „Hauses des Sports“ als Serviceinstitution
 
-- Stärkung der Autonomie des organisierten Sports über Leistungsvereinbarungen durch mehrjährige Förderungen unter Koordination und Führung der Österreichischen Bundes-Sportorganisation. Zentrale Kriterien sind dabei beispielsweise das Zusammenwirken Ehrenamt/bezahlte Mitarbeiterinnen und Mitarbeiter, Nachwuchsarbeit, Gendergerechtigkeit, Inklusion, Nachhaltigkeit, Digitalisierung etc. 
+- Stärkung der Autonomie des organisierten Sports über Leistungsvereinbarungen durch mehrjährige Förderungen unter Koordination und Führung der Österreichischen Bundes-Sportorganisation. Zentrale Kriterien sind dabei beispielsweise das Zusammenwirken Ehrenamt/bezahlte Mitarbeiterinnen und Mitarbeiter, Nachwuchsarbeit, Gendergerechtigkeit, Inklusion, Nachhaltigkeit, Digitalisierung etc.
 
 - Aufwertung und Absicherung des Ehrenamtes
 
@@ -60,7 +60,7 @@ Optimale Spitzensportlaufbahnen
 
 - Weiterentwicklung der Verbindung von Leistungssport mit Lehrberufen
 
-- Weiterentwicklung der Angebote an Arbeitsplätzen für Spitzensportlerinnen und Spitzensportler sowie ausgebildete Trainerinnen und Trainer beim öffentlichen Dienst 
+- Weiterentwicklung der Angebote an Arbeitsplätzen für Spitzensportlerinnen und Spitzensportler sowie ausgebildete Trainerinnen und Trainer beim öffentlichen Dienst
 
 - Systematisierte Abstimmung zwischen den Erfolgsfaktoren einer Leistungssportlaufbahn: Leistungssportschule und Bildungssystem / Sportliche Betreuung im Verein und Verband / persönliche Umfeldbetreuung / Anschlussarbeitsplatz Heeres-, Polizei-, Zoll- und Schulsport / Olympia- bzw. Leistungszentrum im Spitzensport
 
@@ -69,11 +69,11 @@ Breitensport / Vereins- und Freizeitsport
 
 - Ehestmögliche Umsetzung der täglichen Bewegungseinheit für alle Kinder und Jugendlichen bis zum Ende der Schulpflicht in Kooperation mit dem Bildungsressort, den Bundesländern, den Gemeinden und den Sportorganisationen.
 
-- Mehr Bewegungsangebote integriert in den Alltag in Kindergärten 
+- Mehr Bewegungsangebote integriert in den Alltag in Kindergärten
 
 - Prüfung der Weiterentwicklung der regelmäßigen Gesundheitsuntersuchungen bei Pflichtschülerinnen und Pflichtschülern unter den Aspekten der körperlichen Voraussetzungen für schulischen Wettkampfsport und methodische Analyse von Entwicklungen des körperlichen Zustands der Kinder und Jugendlichen
 
-- Schwimmkurse für alle: ein österreichweites Konzept für Gratisschwimmkurse für alle Menschen ist zu erarbeiten und umzusetzen. 
+- Schwimmkurse für alle: ein österreichweites Konzept für Gratisschwimmkurse für alle Menschen ist zu erarbeiten und umzusetzen.
 
 - Einführung von Sporttagen in der Primarstufe von mindestens vier Tagen und in der Sekundarstufe I und II von mindestens je zwei Wochen, wobei eine davon dem Wintersport gewidmet werden muss
 
@@ -95,11 +95,11 @@ o Evaluierung und allfällige Neuordnung des Finanzierungsschlüssels
 o Evaluierung, Stärkung und Ausbau des „Zentrenansatzes“ (Olympia-, Bundesleistungszentren)
 o Definition von Sonderprojekten und Sonderbudgets für Regierungsleitprojekte im Zusammenhang mit der Rolle Österreichs als Austragungsort von Großereignissen (z.B. multifunktionales Nationalstadion)
 
-- von Schulsportanlagen, Sportstätten und sämtlichen Sportangeboten unter Berücksichtigung der bestehenden Geoinformationssysteme der Bundesländer, der Angebotsdatenbanken des organisierten Sports und bestehender kommerzieller Sportbuchungsplattformen („Österreichischer Sportstättenatlas“) 
+- von Schulsportanlagen, Sportstätten und sämtlichen Sportangeboten unter Berücksichtigung der bestehenden Geoinformationssysteme der Bundesländer, der Angebotsdatenbanken des organisierten Sports und bestehender kommerzieller Sportbuchungsplattformen („Österreichischer Sportstättenatlas“)
 
 - Verbesserung der Auslastung öffentlich finanzierter Sportinfrastruktur, Gebäuden und anderen Liegenschaften: ganzjährige Nutzung von Sportflächen in öffentlicher Hand (z.B. Schulen) sicherstellen
 
-- Prüfung besserer Rahmenbedingungen zur Nutzung von Verkehrsrestflächen für sportliche Betätigung (z.B. Firmenparkplätze in Kooperation mit Unternehmen) 
+- Prüfung besserer Rahmenbedingungen zur Nutzung von Verkehrsrestflächen für sportliche Betätigung (z.B. Firmenparkplätze in Kooperation mit Unternehmen)
 
 - Sicherstellung der Umsetzung der gesetzlich geregelten Barrierefreiheit von Sportstätten für Sportaktive (Sportlerinnen und Sportler) und Sportkonsumenten (Zuschauerinnen und Zuschauer)
 
@@ -121,7 +121,7 @@ Gleichstellung im Sport
 
 - Umfangreiche Maßnahmen zur Prävention von Machtmissbrauch und sexueller Gewalt im Sport setzen, insbesondere im Bereich der Trainerinnen- und Trainerausbildung
 
-- Gleiche Gehälter, Prämien und Preisgelder bei gleicher Leistung für Frauen und Männer 
+- Gleiche Gehälter, Prämien und Preisgelder bei gleicher Leistung für Frauen und Männer
 
 - Nachhaltige Verankerung der Förderung des Mädchen- und Frauensports im Bundes- Sportförderungsgesetz und Entwicklung wirkungsvoller Förderprogramme
 
@@ -132,8 +132,8 @@ Inklusion und Integration durch Sport
 
 - Die starke Inklusionswirkung von Sport für Menschen mit Behinderung ist durch die Entwicklung von geeigneten Einstiegsangeboten in Bewegung und Sport im Zusammenwirken der Behindertensportorganisationen ÖBSV, ÖPC und Special Olympics und dabei insbesondere durch Kooperation mit Institutionen der Behindertenbetreuung möglichst rasch und gezielt zu fördern.
 
-- Überprüfung der Erhöhung der Förderung des Behindertensports, um den für die Teilhabe in der Gesellschaft von Menschen mit Behinderung so notwendigen Sportbetrieb im ÖBSV in der bisherigen Qualität weiterhin sicherstellen zu können 
+- Überprüfung der Erhöhung der Förderung des Behindertensports, um den für die Teilhabe in der Gesellschaft von Menschen mit Behinderung so notwendigen Sportbetrieb im ÖBSV in der bisherigen Qualität weiterhin sicherstellen zu können
 
-- Weiterverfolgung des eingeschlagenen Weges zur Gleichbehandlung von Spitzensportlerinnen und Spitzensportlern mit und ohne Behinderung in Bereichen wie: Kontingent an öffentlichen Arbeitsplätzen, finanzieller Förderung und Erfolgsprämien, medialer Berichterstattung etc. 
+- Weiterverfolgung des eingeschlagenen Weges zur Gleichbehandlung von Spitzensportlerinnen und Spitzensportlern mit und ohne Behinderung in Bereichen wie: Kontingent an öffentlichen Arbeitsplätzen, finanzieller Förderung und Erfolgsprämien, medialer Berichterstattung etc.
 
 - Nutzung des hohen integrativen Potentials von Sport für Menschen mit Migrationshintergrund durch Förderung und Aufbau eines Netzwerks an Integrationspromotoren in den heimischen Sportvereinen in Zusammenarbeit mit den für Integration zuständigen Organisationen der Gebietskörperschaften und Verbänden und Vereinen aus der Integrationsarbeit.

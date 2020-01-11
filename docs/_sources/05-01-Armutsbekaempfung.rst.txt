@@ -2,8 +2,10 @@
 Armutsbekämpfung
 ----------------
 
+:download:`Kapitel als PDF <../split/05-01-Armutsbekaempfung.pdf>` (Teil des :download:`Originals <../original/RP2020.pdf>`).
+
 .. todo::
-  Formatieren, Überarbeiten, Original gegenchecken
+  Überarbeiten, Original gegenchecken
 
 Es ist unsere gesellschaftliche Verantwortung und Aufgabe der Sozialpolitik, eine Existenzsicherung zu gewährleisten, am besten über eine Teilhabe am Erwerbsleben. Das umfasst auch die Verantwortung, Armut, die oftmals von Ausgrenzung und Scham begleitet wird, weiter zu bekämpfen. Wir haben uns deshalb zum Ziel gesetzt, durch verschiedene Maßnahmen in der kommenden Legislaturperiode den Anteil von armutsgefährdeten Menschen im ersten Schritt zu halbieren.
 
@@ -18,13 +20,13 @@ Altersarmut kann aber nicht nur im Alter verhindert werden. Ein wichtiger Schlü
 Paket zur Armutsbekämpfung
 --------------------------
 
-- Stärkung von Familien mit niedrigen Einkommen im Zuge der Steuerreform durch die Senkung des Eingangsteuersatzes bei der Einkommensteuer von 25% auf 20% sowie der Erhöhung der Untergrenze des Familienbonus von 250 auf 350 Eur  * pr  * Kind und des Gesamtbetrages von 1.500 auf 1.750 Eur  * pr  * Kind 
+- Stärkung von Familien mit niedrigen Einkommen im Zuge der Steuerreform durch die Senkung des Eingangsteuersatzes bei der Einkommensteuer von 25% auf 20% sowie der Erhöhung der Untergrenze des Familienbonus von 250 auf 350 Eur  * pr  * Kind und des Gesamtbetrages von 1.500 auf 1.750 Eur  * pr  * Kind
 
 - One-Stop-Shop Ausbau für Erwerbsfähige und der aktivierenden Hilfe (Case-Management)
 
 - Abschluss einer 15a-Vereinbarung für die Betreuung von Sozialhilfebezieherinnen und -bezieher im Regelpensionsalter sowie Menschen mit Behinderungen durch die Pensionsversicherungsanstalt/das Sozialministeriumservice – Kostentragung wie bisher durch die Bundesländer
 
-- Energieeffizienzgesetz – Maßnahmen in Form von Sachleistungen (Beratung, Sanierung, Geräte tauschen), Frühwarnsystem 
+- Energieeffizienzgesetz – Maßnahmen in Form von Sachleistungen (Beratung, Sanierung, Geräte tauschen), Frühwarnsystem
 
 - Einführung eines bundesweiten, praxistauglichen Kältetelefons
 
@@ -41,7 +43,7 @@ Bedarfsgerechte Ressourcen für unsere Schulen
 
   * Ursachenanalyse am Standort unter Einbeziehung aller Schulpartner; betroffene Schulen müssen ihre spezifischen Herausforderungen, Lösungsvorschläge, finanziellen Erfordernisse und angestrebten Bildungserfolge darstellen
   * Zusätzliche Ressourcen (Personal, Finanzierung) werden anhand klarer Kriterien an die ausgewählten Schulen vergeben, aufbauend auf einem individuellen Schulentwicklungsplan mit maßgeschneiderter Unterstützung
-  * Autonome Umsetzung durch die Schulleitung, Begleitung durch Bildungsdirektion sowie wissenschaftliche Analyse 
+  * Autonome Umsetzung durch die Schulleitung, Begleitung durch Bildungsdirektion sowie wissenschaftliche Analyse
   * Prüfung bedarfsorientierten einer Mittelzuteilung auf Basis der Ergebnisse des Pilotprogramms
 
 - Prüfung der Einrichtung von Fonds für Schulveranstaltungen bei den Bildungsdirektionen. Damit soll benachteiligten Standorten geholfen werden, die Kosten für Schulveranstaltungen (Workshops, Ausflüge etc.) abzudecken – eventuell gespeist durch regionale Unternehmen.
@@ -88,7 +90,7 @@ Schnittstellen zu anderen Materien
 
 - Sensibilisierungsstrategie im Umgang mit Minderheiten und Menschen am Rande der Gesellschaft
 
-- Überprüfung der Instrumente zur Messung und der politischen Maßnahmen zur Armutsbekämpfung unter Vermeidung von Doppelgleisigkeiten 
+- Überprüfung der Instrumente zur Messung und der politischen Maßnahmen zur Armutsbekämpfung unter Vermeidung von Doppelgleisigkeiten
 
   * Einrichtung eines Unterausschusses „Armutsbekämpfung“
 

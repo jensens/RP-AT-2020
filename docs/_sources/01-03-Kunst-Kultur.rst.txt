@@ -5,7 +5,7 @@ Kunst & Kultur
 :download:`Kapitel als PDF <../split/01-03-Kunst-Kultur.pdf>` (Teil des :download:`Originals <../original/RP2020.pdf>`).
 
 .. todo::
-  Formatieren, Überarbeiten, Original gegenchecken
+  Original gegenchecken
 
 Für die weltweite Bedeutung Österreichs sind Kunst und Kultur ein wesentlicher Faktor. Ob es Kunst- und Kulturerbe oder zeitgenössische Kunst ist, ob es Volkskultur, Baukultur oder darstellende Kunst ist – Österreich zählt in allen künstlerischen und kulturellen Bereichen zu den Besten. Dabei ist stets zu bedenken, dass künstlerische Positionen einen wichtigen Beitrag dazu leisten können, aktuelle gesellschaftliche Herausforderungen wie etwa Klimawandel oder Integration im öffentlichen Bewusstsein zu verankern und Problemlösungsstrategien mit zu entwickeln.
 
@@ -18,10 +18,10 @@ Neben den hellen müssen wir uns als Gesellschaft aber auch mit den dunklen Kapi
 
 - Entwicklung einer Kunst- und Kulturstrategie.
 
-  * Unter Einbeziehung aller Gebietskörperschaften und mit Partizipation der Kulturinitiativen, Künstlerinnen bzw. Künstler sowie Kulturarbeiterinnen und Kulturarbeiter soll in einem strukturierten Verfahren eine Kunstund Kulturstrategie entwickelt werden. 
+  * Unter Einbeziehung aller Gebietskörperschaften und mit Partizipation der Kulturinitiativen, Künstlerinnen bzw. Künstler sowie Kulturarbeiterinnen und Kulturarbeiter soll in einem strukturierten Verfahren eine Kunstund Kulturstrategie entwickelt werden.
   * Gesetzliche Verankerung des kulturellen Erbes als schützenswertes Gut.
   * Nachhaltiger Schutz und Erhalt unseres kulturellen Erbes – Bekenntnis zur UNESCO-Konvention zur kulturellen Vielfalt und dem Schutz des immateriellen Kulturerbes.
-  * Verbindlichmachung ausgewiesener Objekte und Regionen des UNESCO-Weltkulturerbes im österreichischen Rechtskanon 
+  * Verbindlichmachung ausgewiesener Objekte und Regionen des UNESCO-Weltkulturerbes im österreichischen Rechtskanon
   * Das Bundesdenkmalamt weiterentwickeln, seine Unabhängigkeit stärken, an internationale Standards anpassen und die Reform fortsetzen
 
 - Stärkung der österreichischen Kultur im Ausland
@@ -54,7 +54,7 @@ Bundeskunst- und -kultureinrichtungen
 
 - Konjunkturpaket für Kultur- und Gedenkstätten.
 
-  * Prüfung unterschiedlicher Möglichkeiten, um entsprechende Ressourcen für anstehende Infrastrukturprojekte in den Bundesländern zur Verfügung stellen zu können 
+  * Prüfung unterschiedlicher Möglichkeiten, um entsprechende Ressourcen für anstehende Infrastrukturprojekte in den Bundesländern zur Verfügung stellen zu können
   * Die kulturelle Infrastruktur Österreichs weiter auszubauen und durch gezielte Maßnahmen zu stärken, stellen nachhaltige Investitionen in die Ressourcen Österreichs dar (insbesondere Renovieren und Sanieren).
   * Volkskundemuseum: Zukunftsweisende Lösung zwischen Bund, Stadt Wien und Trägerverein, um dieses Museum abzusichern und in die Zukunft zu führen
 
@@ -85,8 +85,8 @@ Zeitgenössische Kunst und Kultur stärken
 
 - Einführung eines Urhebervertragsrechts.
 
-  * Ein modernes Urheberrecht beinhaltet ein Vertragsrecht, das unfaire Knebelverträge verhindert und die Künstlerinnen und Künstler gegenüber den Produktions- und Vertriebsgesellschaften stärkt. 
-  * Angemessene Vergütung der Urheberinnen und Urheber mithilfe einer Pauschalabgabe. 
+  * Ein modernes Urheberrecht beinhaltet ein Vertragsrecht, das unfaire Knebelverträge verhindert und die Künstlerinnen und Künstler gegenüber den Produktions- und Vertriebsgesellschaften stärkt.
+  * Angemessene Vergütung der Urheberinnen und Urheber mithilfe einer Pauschalabgabe.
   * Ausdehnung des Katalogs der Ausnahmen für freie Werknutzung (z.B. Remixes, Samples, Collagen), um diese rechtlich unbeschadet zu ermöglichen.
 
 Gestern – heute – morgen: Die richtigen Rahmenbedingungen für Kunst und Kultur in Österreich stärken
@@ -119,7 +119,7 @@ Gestern – heute – morgen: Die richtigen Rahmenbedingungen für Kunst und Kul
 
 - Öffentlich-rechtlichen Auftrag im Bereich Kunst und Kultur stärken und klares Profil für ORF III als Kultur- und Kunstsender sowie für Ö1 und FM4 im Bereich des Radios.
 
-- Abbilden der österreichischen Pop- und Jazzszene im öffentlich-rechtlichen Rundfunk. 
+- Abbilden der österreichischen Pop- und Jazzszene im öffentlich-rechtlichen Rundfunk.
 
 - Weiterentwicklung der sozialen Absicherung der in der Kunst und Kultur Tätigen im Bereich der Pensionsansprüche (Maßnahmen gegen die Altersarmut) und der Arbeitslosigkeit (Arbeitslosenversicherung), vergleichbar mit der Selbständigen-Regelung.
 
@@ -129,15 +129,15 @@ Gestern – heute – morgen: Die richtigen Rahmenbedingungen für Kunst und Kul
 
 - Mögliche jährliche Valorisierung der Kunstund Kulturförderungen (u.a. der Personalkosten) in mehrjährigen Verträgen, vergleichbar den Leistungsvereinbarungen.
 
-- Entwicklung von speziellen Mentoring-Programmen in der Kunst, speziell für Frauen. 
+- Entwicklung von speziellen Mentoring-Programmen in der Kunst, speziell für Frauen.
 
-- Gleichstellung und Frauenförderung. 
+- Gleichstellung und Frauenförderung.
 
   * Bei der Fördervergabe ist jedenfalls auf Geschlechtergerechtigkeit zu achten und diese umzusetzen.
   * Förderungen und Basissubventionen nur bei gleicher Bezahlung von Männern und Frauen für gleiche Arbeit.
   * Schritt für Schritt Reduzierung des Gender-Pay-Gap in Kunst- und Kulturorganisationen.
 
-- Förderwesen verbessern und mehr Transparenz. 
+- Förderwesen verbessern und mehr Transparenz.
 
   * Förderabwicklung weiter digitalisieren und vereinfachen. Ansuchen und Abwicklung von Förderungen nach dem One-Stop-Shop-Prinzip, Synergien mit Förderabteilungen in den Bundesländern nutzen.
   * Transparente Entscheidung und Förderabwicklung.
@@ -155,7 +155,7 @@ Gestern – heute – morgen: Die richtigen Rahmenbedingungen für Kunst und Kul
 
   * Verbesserung der Koordination zwischen Bund/Ländern/Gemeinden im Kunst- und Kulturbereich.
   * Stärkung der regionalen und lokalen Förderung für Künstlerinnen und Künstler, die freie Szene und Kulturinitiativen, insbesondere mit überregionaler Bedeutung.
-  * Keine Verpflichtung zur „wenn, dann-Förderung“: „Wenn Land, dann…“ 
+  * Keine Verpflichtung zur „wenn, dann-Förderung“: „Wenn Land, dann…“
   * Transparente Aufschlüsselung der Zuordnung der Fördermittel nach Bundesländern und Gemeinden in den Kunst- und Kulturberichten.
 
 - Flächendeckende Grundversorgung mit öffentlichen Bibliotheken.

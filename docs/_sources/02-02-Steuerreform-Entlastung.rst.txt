@@ -2,8 +2,10 @@
 Steuerreform & Entlastung
 -------------------------
 
+:download:`Kapitel als PDF <../split/02-02-Steuerreform-Entlastung.pdf>` (Teil des :download:`Originals <../original/RP2020.pdf>`).
+
 .. todo::
-  Formatieren, Überarbeiten, Original gegenchecken
+  Original gegenchecken
 
 Steuern und Abgaben sind die wichtigsten Einkommensquellen des Staates, mit denen öffentliche Dienstleistungen, Infrastruktur und Transferleistungen finanziert werden. Darüber hinaus sind Steuern auch ein wichtiger Lenkmechanismus, um individuelles Verhalten mit den Interessen des Allgemeinwohls in bestmöglichen Einklang zu bringen. Österreich ist hierbei in vielerlei Hinsicht ein Vorreiter. Gleichzeitig ist Österreich im internationalen Vergleich ein Land mit einer hohen Abgabenquote, dessen Steuersystem in den vergangenen Jahrzehnten durch viele Teilreformen komplexer geworden ist.
 
@@ -14,17 +16,17 @@ Die Bundesregierung ändert die Steuerund Abgabenstruktur. Ziele sind: eine Entl
 Steuerentlastung
 ----------------
 
-Der Bundesregierung ist die Entlastung der Menschen in Österreich ein zentrales Anliegen. Dabei ist es besonders wichtig, dass diese Entlastung bei allen spürbar ankommt – bei Arbeitnehmerinnen und Arbeitnehmern genauso wie bei Pensionistinnen und Pensionisten, Selbständigen sowie Land- und Forstwirten. Sie alle sollen künftig mehr Netto vom Brutto erhalten. 
+Der Bundesregierung ist die Entlastung der Menschen in Österreich ein zentrales Anliegen. Dabei ist es besonders wichtig, dass diese Entlastung bei allen spürbar ankommt – bei Arbeitnehmerinnen und Arbeitnehmern genauso wie bei Pensionistinnen und Pensionisten, Selbständigen sowie Land- und Forstwirten. Sie alle sollen künftig mehr Netto vom Brutto erhalten.
 
-Darüber hinaus ist die Entlastung der heimischen Wirtschaft ein wichtiger Schritt, um Österreich im internationalen Wettbewerb gut zu positionieren. Die Bundesregierung berücksichtigt dabei den langfristigen Erhalt von Arbeitsplätzen sowie die langfristige Finanzierung des Sozialstaats. Dafür braucht es ein breites Set an Maßnahmen, das Steuern senkt, Investitionen fördert und Unternehmen auch verstärkt die Möglichkeit bietet, die eigenen Mitarbeiterinnen und Mitarbeiter am wirtschaftlichen Erfolg zu beteiligen. 
+Darüber hinaus ist die Entlastung der heimischen Wirtschaft ein wichtiger Schritt, um Österreich im internationalen Wettbewerb gut zu positionieren. Die Bundesregierung berücksichtigt dabei den langfristigen Erhalt von Arbeitsplätzen sowie die langfristige Finanzierung des Sozialstaats. Dafür braucht es ein breites Set an Maßnahmen, das Steuern senkt, Investitionen fördert und Unternehmen auch verstärkt die Möglichkeit bietet, die eigenen Mitarbeiterinnen und Mitarbeiter am wirtschaftlichen Erfolg zu beteiligen.
 
 Ein wichtiges Ziel der geplanten Entlastungen wird es auch sein, die soziale Absicherung unserer Landwirtschaft zu stärken. Die heimischen Bäuerinnen und Bauern arbeiten oft unter schweren Bedingungen (z.B. vermehrte Ernteausfälle durch Dürre) und wir wollen besonders landwirtschaftliche Familienbetriebe entlasten, um sie in ihrer wichtigen Arbeit weiter zu unterstützen.
 
 Um diese Ziele zu erreichen, werden folgende Entlastungsmaßnahmen umgesetzt:
 
-- Die Bundesregierung bekennt sich zu einer Entlastung der Menschen in Österreich. Um Arbeitnehmerinnen und Arbeitnehmer, Pensionistinnen und Pensionisten, Selbständige sowie Land- und Forstwirte insbesondere mit geringen und mittleren Einkommen spürbar zu entlasten, sollen die erste, zweite und dritte Stufe des Einkommensteuertarifs reduziert werden: von 25% auf 20%, 35% auf 30% und 42% auf 40% 
+- Die Bundesregierung bekennt sich zu einer Entlastung der Menschen in Österreich. Um Arbeitnehmerinnen und Arbeitnehmer, Pensionistinnen und Pensionisten, Selbständige sowie Land- und Forstwirte insbesondere mit geringen und mittleren Einkommen spürbar zu entlasten, sollen die erste, zweite und dritte Stufe des Einkommensteuertarifs reduziert werden: von 25% auf 20%, 35% auf 30% und 42% auf 40%
 
-- Ausweitung Gewinnfreibetrag: Investitionserfordernis erst ab einem Gewinn von 100.000 Euro 
+- Ausweitung Gewinnfreibetrag: Investitionserfordernis erst ab einem Gewinn von 100.000 Euro
 
 - KöSt-Entlastung auf 21%
 
@@ -39,23 +41,23 @@ Um diese Ziele zu erreichen, werden folgende Entlastungsmaßnahmen umgesetzt:
 Ökosoziale Steuerreform
 -----------------------
 
-Die Bekämpfung der Klimakrise ist der Bundesregierung ein zentrales Anliegen. Um diese Aufgabe erfolgreich zu bewerkstelligen, ist ein Gesamtpaket an Klimamaßnahmen zu setzen. 
+Die Bekämpfung der Klimakrise ist der Bundesregierung ein zentrales Anliegen. Um diese Aufgabe erfolgreich zu bewerkstelligen, ist ein Gesamtpaket an Klimamaßnahmen zu setzen.
 
 Bei diesem Gesamtpaket legt die Bundesre gierung ein besonderes Augenmerk auf die soziale Verträglichkeit, berücksichtigt regionale Unterschiede und die Wettbewerbsfä higkeit des Standorts Österreich.
 
 Neben Forschung und Innovationsförderung, gezielten Investitionen und ordnungspoliti schen Maßnahmen, ist das Steuersystem ein wirksamer Hebel, um die Dekarbonisierung voranzutreiben und Natur und Lebensgrundlagen auch für künftige Generationen nachhaltig zu erhalten. Die Herstellung von Kos tenwahrheit bei den CO2-Emissionen ist dafür erforderlich.
- 
+
 Die Bundesregierung treibt eine ambitionier- te und fortschrittsorientierte Klima- und Energiepolitik in Europa und der Welt voran (siehe Kapitel Klima & Energie). Die bisher auf europäischer Ebene gesetzten Maßnahmen bleiben hinter dem zurück, was für die Erfüllung des Klimavertrags von Paris nötig wäre. Auch in jenen Bereichen, für die die nationale Klimaschutzpolitik verantwortlich ist, wie z.B. Verkehr und Gebäude, gibt es deutlichen Handlungsbedarf. Angesichts drohender Strafzahlungen bei Nichterreichung unserer Klimaziele ist eine ambitionierte Reduktion nationaler Treibhausgasemissionen auch aus finanzieller Sicht sinnvoll.
 
-Daher wird die Bundesregierung – um ihrer angestrebten Rolle als Klimaschutzvorreiter in Europa gerecht zu werden – nationale Maßnahmen vorbereiten und setzen. 
+Daher wird die Bundesregierung – um ihrer angestrebten Rolle als Klimaschutzvorreiter in Europa gerecht zu werden – nationale Maßnahmen vorbereiten und setzen.
 
 Die Schaffung von Kostenwahrheit für den Ausstoß von CO2-Emissionen geht Hand in Hand mit der Schaffung von Wahlmöglichkeiten, einer sozialen Abfederung, der Berücksichtigung von regionalen Unterschieden und der Schaffung von Umstiegsmöglichkeiten für Unternehmen.
 
-Die Bundesregierung wird daher in Etappen eine Steuerreform auf den Weg bringen, die die Menschen in Österreich entlastet und parallel ökologische Kostenwahrheit im Steuersystem herstellt. 
+Die Bundesregierung wird daher in Etappen eine Steuerreform auf den Weg bringen, die die Menschen in Österreich entlastet und parallel ökologische Kostenwahrheit im Steuersystem herstellt.
 
 Dazu werden in einem ersten Schritt die oben skizzierten Entlastungsmaßnahmen und in Verbindung folgende steuerlich-ökologische Maßnahmen gesetzt:
 
-- Flugticketabgabe (deutliche Erhöhung Kurzstrecke, Erhöhung Mittelstrecke, Senkung Langstrecke, Anti-Dumping Regelung): Einheitliche Regelung von 12 € pro Flugticket 
+- Flugticketabgabe (deutliche Erhöhung Kurzstrecke, Erhöhung Mittelstrecke, Senkung Langstrecke, Anti-Dumping Regelung): Einheitliche Regelung von 12 € pro Flugticket
 
 - NoVA ökologisieren (Erhöhung, Spreizung, Überarbeitung CO2-Formel ohne Deckelung)
 
@@ -65,11 +67,11 @@ Dazu werden in einem ersten Schritt die oben skizzierten Entlastungsmaßnahmen u
 
 - Ökologisierung Dienstwagenprivileg neue Dienstwägen (stärkere Anreize für CO2-freie Dienstwägen)
 
-- Ökologisierung und Erhöhung der Treffsicherheit des Pendlerpauschales 
+- Ökologisierung und Erhöhung der Treffsicherheit des Pendlerpauschales
 
 Mit dem zweiten Schritt dieser ökosozialen Steuerreform sollen aufkommensneutral klimaschädliche Emissionen wirksam bepreist und Unternehmen sowie Private sektoral entlastet werden. Dieser Schritt erfolgt 2022. Dazu setzt die Bundesregierung unverzüglich eine „Task Force ökosoziale Steuerreform“ unter der gemeinsamen Leitung des für Klimaschutz zuständigen Ministeriums und des BMF ein. Der von der Task Force zu erarbeitende Umsetzungsfahrplan orientiert sich an folgenden Punkten:
 
-- Erarbeitung des effizientesten ökonomischen Instrumentes zur schrittweisen Herstellung von Kostenwahrheit bei den CO2-Emissionen in den Sektoren, die nicht dem EU ETS unterworfen sind, z.B. durch CO2-Bepreisung über bestehende Abgaben oder ein nationales Emissionshandelssystem 
+- Erarbeitung des effizientesten ökonomischen Instrumentes zur schrittweisen Herstellung von Kostenwahrheit bei den CO2-Emissionen in den Sektoren, die nicht dem EU ETS unterworfen sind, z.B. durch CO2-Bepreisung über bestehende Abgaben oder ein nationales Emissionshandelssystem
 
 - Ermittlung der volkswirtschaftlichen Kosten von CO2-Emissionen als Referenzwert für Kostenwahrheit
 
@@ -144,14 +146,14 @@ Vereinfachung und moderne Services
 - Prüfung von Verfahrensbeschleunigungen bzw. Prozessoptimierungen (z.B. Analyse des Beschwerdevorentscheidungsverfahrens, schnellere Verfahren beim Bundesfinanzgericht, Möglichkeit zur Schließung des Ermittlungsverfahrens)
 
 - Klare und praktikable Regelungen zur Abgrenzung von Dienst- und Werkverträgen sollen gefunden werden.
- 
+
 - Reduktion der (Einzel-)Meldepflicht für Unternehmen durch automatisierte Übermittlung von meldepflichtigen Daten von der Sozialversicherung an die Statistik Austria und das Bundesministerium für Finanzen unter Wahrung des Datenschutzes
 
 - Die Prüfungszuständigkeit für Privatstiftungen soll bei der Großbetriebsprüfung angesiedelt werden.
 
-- Modernisierung der Bundesabgabenordnung (BAO) mit dem Ziel der Prozesseffizienz und der Wahrung hoher Qualität (z.B. Reform des Verfahrensrechts, Verkürzung der Verfahrensdauer, Weiterentwicklung/Einführung von kooperativen Verfahren, begleitende Kontrolle, Ausweitung des Auskunftsbescheids) 
+- Modernisierung der Bundesabgabenordnung (BAO) mit dem Ziel der Prozesseffizienz und der Wahrung hoher Qualität (z.B. Reform des Verfahrensrechts, Verkürzung der Verfahrensdauer, Weiterentwicklung/Einführung von kooperativen Verfahren, begleitende Kontrolle, Ausweitung des Auskunftsbescheids)
 
-- Schaffung einer automatisierten Vorprüfung mit vorgelagerten Kontrollalgorithmen für die Umsatzsteuer, Einkommensteuer und Körperschaftsteuer, um im Rahmen der Selbstveranlagung das Verfahren zu beschleunigen 
+- Schaffung einer automatisierten Vorprüfung mit vorgelagerten Kontrollalgorithmen für die Umsatzsteuer, Einkommensteuer und Körperschaftsteuer, um im Rahmen der Selbstveranlagung das Verfahren zu beschleunigen
 
 - Neue digitale Angebote der Finanzverwaltung: z.B. Apps für Terminerinnerungen oder mobile Zahlungsmöglichkeiten, Einziehungsauftrag für Abgabenschulden
 

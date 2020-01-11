@@ -519,9 +519,9 @@ Solche wichtigen Dokumente sollten nicht auf Schönheit und Textsatz hin optimie
 Hier ist Zugänglichkeit und Offenheit wichtig.
 Das ist für OpenData wichtig.
 Ein PDF ist kein OpenData, kein offenes Dokument.
-Reiner Text als Quelle und daraus ordentlich generiertes HTML sind hier meiner Meinung nach eine Lösung.
+Reiner Text als Quelle und daraus ordentlich generiertes HTML sind hier meiner Meinung nach eine gute Lösung.
 Zudem ist der Zugang so technisch niederschwellig.
-Es müssen keine komplexen Systeme mit hohen Kosten, wie z.B. CMS dazu verwendet werden.</p>
+Es müssen keine komplexen Systeme mit hohen Kosten, wie z.B. CMS dazu verwendet werden.https://www.open3.at/</p>
 <div class="section" id="technik-manueller-eingriff">
 <h3>Technik &amp; manueller Eingriff<a class="headerlink" href="#technik-manueller-eingriff" title="Link zu dieser Überschrift">¶</a></h3>
 <p>Technisch habe ich aus dem PDF den reinen Text extrahiert.
@@ -533,20 +533,40 @@ Die Dateien habe ich dann einigermassen sinnvoll benannt.
 Danach habe ich mit <a class="reference external" href="https://pypi.org/project/pdfminer/">PDFMiner</a> so gut wie möglich den Text pro Datei extrahiert.</p>
 <p>Dann habe ich habe ich <a class="reference external" href="https://www.sphinx-doc.org">Sphinx</a> verwendet um strukturiertes HTML daraus zu generieren.
 Der verwendete Markup ist <a class="reference external" href="https://www.sphinx-doc.org/en/2.0/usage/restructuredtext/basics.html#">RestructurendText</a> (ähnlich Markdown, aber für komplexere Dokumente besser geeignet).</p>
-<p>Da da der extrahierte Text nur recht grob ist war jetzt die manuelle Überarbeitung dran.
-Es musste Formatierungen eingefügt werden: vor allem Zwischenüberschriften, Absätze und Aufzählungslisten.
-Dann hat es leider Text durcheinander gewürfelt.
-Das geschieht, wenn das PDF im Entstehungsprozess überarbeitet worden ist.
-Auch Spalten werden leider oft durcheinander gebracht.
-Teilweise sind auch noch Textfragmente von vor der Überarbeitung drinnen.</p>
+<p>Da da der extrahierte Text nur recht grob ist war jetzt die manuelle Überarbeitung dran:</p>
+<ul class="simple">
+<li><p>es mussten Formatierungen eingefügt werden:</p>
+<ul>
+<li><p>vor allem Zwischenüberschriften,</p></li>
+<li><p>Absätze,</p></li>
+<li><p>Aufzählungslisten,</p></li>
+<li><p>Umbrüche und Trennzeichen sind an flasche Stellen.</p></li>
+</ul>
+</li>
+</ul>
+<p>Dann hat es leider Text durcheinander gewürfelt:</p>
+<ul class="simple">
+<li><p>Spalten, die nicht richtig im Fluss definiert wurden, werden leider oft durcheinander gebracht;</p></li>
+<li><p>Ist das PDF im Entstehungsprozess überarbeitet worden, stehen diese neuen Wörter oft am Ende des Blocks;</p></li>
+<li><p>Teilweise sind auch noch Textfragmente von vor der Überarbeitung drinnen.</p></li>
+</ul>
+</div>
+<div class="section" id="barrierefreiheit">
+<h3>Barrierefreiheit<a class="headerlink" href="#barrierefreiheit" title="Link zu dieser Überschrift">¶</a></h3>
+<p>Aufgrund der technischen Probleme mit dem PDF, gehe ich davon aus, dass Menschen mit eingeschränkter Sehfähigkeit (welche einen Screenreader oder eine Braillezeile verwenden) ebenso einige Problem haben das PDF korrekt zu lesen.
+Vielleicht irre ich mich auch, Rückmeldungen gerne an mich.
+Ich habe das jetzt produzierte statische HTML auch noch nicht daraufhin getestest.
+Es sollte aber von vornherein besser sein als das PDF.
+Das kann sicher noch verbessert werden.
+Für Vorschläge und Mithilfe bitte gerne an mich wenden.</p>
 </div>
 <div class="section" id="mithelfen">
 <h3>Mithelfen<a class="headerlink" href="#mithelfen" title="Link zu dieser Überschrift">¶</a></h3>
 <p>Das ist ein offenes Projekt, jede/r kann mitmachen.</p>
 <p>Wer mithelfen mag:
 Das <a class="reference external" href="https://github.com/jensens/RP-AT-2020">Projekt liegt auf Github</a>, einer kollaborativen Plattform zur Quellcode-Verwaltung.</p>
-<p>Grundsätzlich kann man dort ein Benutzer anlegen und im <cite>/source/</cite> Ordner auf der zu ändernden Datei auf bearbeiten (edit) klicken.
-Es wird eine Kopie im eigenen Ordner (Clone) gespeichert und dann über einen Pull-Request fragt ihr mich an um die Änderungen zum übernehmen.
+<p>Grundsätzlich kann man dort eine/n Benutzer/in anlegen und im <cite>/source/</cite> Ordner auf der zu ändernden Datei auf bearbeiten (edit) klicken.
+Es wird eine Kopie im eigenen Ordner (Clone) gespeichert und dann über einen Pull-Request fragt ihr mich an, um die Änderungen zum übernehmen.
 Sobald ich den Pull-Request übernommen (merged) habe, werde ich das HTML neu generieren und die Änderungen kommen so online.</p>
 <p>Wer GIT kennt, kann sich auch eine lokale Arbeitskopie erstellen.</p>
 <p>Bei Fragen dazu könnt ihr mich gerne kontaktieren:
@@ -559,7 +579,7 @@ Twitter: <a class="reference external" href="https://twitter.com/yenzenz">yenzen
 <dt>Jens Klein</dt><dd><p>Idee, Initiator, Technik, Überarbeitung</p>
 </dd>
 <dt>Robert Harm</dt><dd><p>Überarbeitung der meisten Kapitel.
-Idee zur Verbreitung via Open3</p>
+Verbreitung via <a class="reference external" href="https://www.open3.at/">Open3</a></p>
 </dd>
 </dl>
 </div>
@@ -586,6 +606,7 @@ Idee zur Verbreitung via Open3</p>
 <li><a class="reference internal" href="#regierungsprogramm">Regierungsprogramm</a></li>
 <li><a class="reference internal" href="#uber-das-projekt">Über das Projekt</a><ul>
 <li><a class="reference internal" href="#technik-manueller-eingriff">Technik &amp; manueller Eingriff</a></li>
+<li><a class="reference internal" href="#barrierefreiheit">Barrierefreiheit</a></li>
 <li><a class="reference internal" href="#mithelfen">Mithelfen</a></li>
 <li><a class="reference internal" href="#beteiligte">Beteiligte</a></li>
 </ul>

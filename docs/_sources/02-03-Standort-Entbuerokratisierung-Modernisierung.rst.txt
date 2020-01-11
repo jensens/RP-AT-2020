@@ -2,8 +2,10 @@
 Standort, Entbürokratisierung & Modernisierung
 -----------------------------------------------
 
+:download:`Kapitel als PDF <../split/02-03-Standort-Entbuerokratisierung-Modernisierung.pdf>` (Teil des :download:`Originals <../original/RP2020.pdf>`).
+
 .. todo::
-  Formatieren, Überarbeiten, Original gegenchecken
+  Original gegenchecken
 
 Unsere Wirtschaft und unsere Arbeitswelt verändern sich – in Österreich, in Europa und auf der ganzen Welt. Österreich ist hier dank seiner starken, diversifizierten und exportorientierten Wirtschaft in einer guten Position. Gleichzeitig müssen wir darauf achten, dass wir aktiv jene Zukunftsindustrien identifizieren, in denen Österreich in den kommenden Jahren und Jahrzenten international Vorreiter sein kann. Der Wirtschaftsstandort Österreich soll international wettbewerbsfähig bleiben, um Wertschöpfung und Arbeitsplätze in Österreich zu halten und auszubauen.
 
@@ -11,7 +13,7 @@ Darüber hinaus können wir in Österreich stolz sein auf unseren funktionierend
 
 Die Bundesregierung bekennt sich dazu, gemeinsam mit Wirtschaft, Wissenschaft und Arbeitnehmervertreterinnen bzw. -vertretern eine umfassende Standortstrategie für die Zukunft zu erarbeiten, um bestehende Stärken der heimischen Wirtschaft auszuweiten und vielversprechende Zukunftsindustrien zu identifizieren, um Wertschöpfung und Arbeitsplätze bei uns im Land zu halten und weiter auszubauen. Standortpolitik erschöpft sich nicht in Steuerpolitik, sondern beinhaltet ein breites Set an Maßnahmen, von Rechtssicherheit bis hin zu Lebensqualität.
 
-Weiters wollen wir die Verwaltung in Österreich modernisieren und effizienter gestalten, um es den Unternehmerinnen bzw. Unternehmern und Arbeitnehmerinnen bzw. Arbeitnehmern künftig s  * einfach wie möglich zu machen, in Österreich zu wirtschaften und zu arbeiten, ohne dabei unsere hohen Standards zu senken. 
+Weiters wollen wir die Verwaltung in Österreich modernisieren und effizienter gestalten, um es den Unternehmerinnen bzw. Unternehmern und Arbeitnehmerinnen bzw. Arbeitnehmern künftig s  * einfach wie möglich zu machen, in Österreich zu wirtschaften und zu arbeiten, ohne dabei unsere hohen Standards zu senken.
 
 Fachkräfteoffensive für Österreichs Unternehmen umsetzen
 --------------------------------------------------------
@@ -20,11 +22,11 @@ Fachkräfteoffensive für Österreichs Unternehmen umsetzen
 
 - Um die größtmögliche Anzahl der offenen Fachkräftestellen in Österreich besetzen zu können, bedarf es einer Gesamtstrategie, die besonders auf Aus- und Weiterbildung und damit die Qualifikation der Arbeitnehmerinnen und Arbeitnehmer für die Anforderungen des Arbeitsmarktes ausgerichtet ist. In dieser Gesamtstrategie sind auch weitere Faktoren, wie z.B. Gesundheit, Mobilität und Betreuungssituation („persönliche Lebenssituation“), zu berücksichtigen.
 
-- Die Bundesregierung bekennt sich dazu, bei allen Maßnahmen zur Arbeits- und Fachkräftesicherung zuerst den österreichischen Arbeitsmarkt, dann die Arbeitsmärkte der EU-Mitgliedstaaten und dann Arbeitsmärkte in Drittstaaten in den Fokus zu nehmen. 
+- Die Bundesregierung bekennt sich dazu, bei allen Maßnahmen zur Arbeits- und Fachkräftesicherung zuerst den österreichischen Arbeitsmarkt, dann die Arbeitsmärkte der EU-Mitgliedstaaten und dann Arbeitsmärkte in Drittstaaten in den Fokus zu nehmen.
 
-- Um die Gesamtstrategie möglichst effektiv umzusetzen, bekennt sich die Bundesregierung zu einem verstärkten Einsatz empirischer Modelle (z.B. österreichweites Fachkräftemonitoring). 
+- Um die Gesamtstrategie möglichst effektiv umzusetzen, bekennt sich die Bundesregierung zu einem verstärkten Einsatz empirischer Modelle (z.B. österreichweites Fachkräftemonitoring).
 
-- Die Bundesregierung wird die Berufsbildung aufwerten und das Berufsausbildungsgesetz modernisieren. 
+- Die Bundesregierung wird die Berufsbildung aufwerten und das Berufsausbildungsgesetz modernisieren.
 
   * Duale Ausbildung weiter attraktivieren, u.a. durch die verpflichtende Evaluierung und Modernisierung aller Lehrberufe alle 5 Jahre
   * Neue zeitgemäße Ausbildungen durch Einführung neuer Lehrberufe schaffen (z.B. im Bereich Digitales oder Klima/Umweltschutz) und Beschleunigung dieser Einführung
@@ -52,7 +54,7 @@ Standort- und Industriepolitik
 
   * Österreich 2040:
 
-  * Erarbeitung einer umfassenden Strategie durch die Politik, Wirtschaft, Wissenschaft und Sozialpartner, um aktiv jene Zukunftsbranchen zu identifizieren, in denen Österreich international Vorreiter sein kann. Ziel ist es, in den kommenden Jahren und Jahrzehnten Wertschöpfung und Arbeitsplätze in Österreich zu halten und weiter auszubauen sowie einen Beitrag zu Klimaund Umweltschutz zu leisten. 
+  * Erarbeitung einer umfassenden Strategie durch die Politik, Wirtschaft, Wissenschaft und Sozialpartner, um aktiv jene Zukunftsbranchen zu identifizieren, in denen Österreich international Vorreiter sein kann. Ziel ist es, in den kommenden Jahren und Jahrzehnten Wertschöpfung und Arbeitsplätze in Österreich zu halten und weiter auszubauen sowie einen Beitrag zu Klimaund Umweltschutz zu leisten.
   * Enge Abstimmung mit anderen politischen Zielsetzungen, wie etwa der FTI-Strategie, der Klima- und Energiepolitik, der arbeitsmarktpolitischen Zielsetzung und der Bildungspolitik
   * Auf Stärken bauen: Bestehende Stärken wie z.B. die Mobilitätsindustrie, erneuerbare Energien und Umwelttechnik, Biotechnologie, Mikroelektronik, Landwirtschaft, Tourismus und andere müssen weiter ausgebaut, weiterentwickelt und durch gemeinsame Bemühungen der Wirtschaft und der Politik international beworben werden.
   * Neue Sektoren erschließen: Entstehende Stärken, in denen Österreich relevante Wettbewerbsvorteile aufweist, müssen vor dem Hintergrund der Technologieneutralität weiterentwickelt werden, Österreichs internationales Profil darin gestärkt und durch österreichische Produkte weltweit ein Beitrag zur CO2-Reduktion geleistet werden – wie z.B. digitale Geschäftsmodelle, forschungsintensive Industrien, Modelle der Kreislaufwirtschaft, die E-Mobilität, die Nutzung von grünem Wasserstoff in Verkehr und Industrie, Gesundheitswirtschaft und andere Bereiche, die auf Österreichs Verbindung von Grundlagenforschung, angewandter Forschung und industriellem Know-how bauen.
@@ -65,11 +67,11 @@ Standort- und Industriepolitik
 
 - Förderung der Entwicklung einer regionalen Kreislaufwirtschaft sowie Kreislaufwirtschaftsprojekten
 
-- Koordinierte Teilnahme an relevanten IPCEI-Programmen (Important Project of Common European Interest), z.B. Mikroelektronik, Wasserstoff, Batterien 
+- Koordinierte Teilnahme an relevanten IPCEI-Programmen (Important Project of Common European Interest), z.B. Mikroelektronik, Wasserstoff, Batterien
 
 - Entrepreneurship fördern
 
-  * Entrepreneurship Education: Erarbeitung eines Konzepts, um unternehmerisches Denken im Bildungssystem zu verankern. Z.B. freiwillige „Unternehmerwoche“ ab der Oberstufe, um Berufsbilder und Wirt- schaftsbetriebe kennen zu lernen und Zu- gang zu unternehmerischem Denken zu ermöglichen 
+  * Entrepreneurship Education: Erarbeitung eines Konzepts, um unternehmerisches Denken im Bildungssystem zu verankern. Z.B. freiwillige „Unternehmerwoche“ ab der Oberstufe, um Berufsbilder und Wirt- schaftsbetriebe kennen zu lernen und Zu- gang zu unternehmerischem Denken zu ermöglichen
   * Eine Kultur der 2. Chance stärker verankern, besonders für Gründerinnen und Gründer von innovativen Start-Ups und KMUs (Missbrauch soll vorgebeugt werden)
   * Regulatory Sandboxes umsetzen: Innovative Technologien, Produkte und Dienstleistungen sollen in ihrer Frühphase mit Blick auf europäische und internationale Entwicklungen in einem wettbewerbsneutralen Rahmen, der nach objektiven Kriterien ausgestaltet ist, erprobt werden können, wenn ihre Anwendung sonst rechtlich nicht gedeckt ist (z.B. innovative Start-ups / KMUs, die neue Geschäftsmodelle, echnologien, Dienstleistungen oder Produkte vertreiben wollen, die sich durch die bestehende Gewerbeordnung nicht abdecken lassen). Dabei soll es zu enger Zusammenarbeit mit der zuständigen Aufsichtsbehörde kommen, um das betroffene Modell zu testen und zu adaptieren. Ab einem bestimmten Reifegrad (zeitlich bestimmt oder durch Unternehmensgröße) soll ein Übergang ins reguläre Gewerbesystem stattfinden.
 
@@ -79,7 +81,7 @@ Standort- und Industriepolitik
 
   * Unbürokratische Gründung (Stammkapital-Ansparmodelle, digitale Behördenwege, Englisch als Amtssprache)
   * Flexible Anteilsvergabe an mögliche Investorinnen und Investoren sowie Mitarbeiterinnen und Mitarbeiter (mit minimalen, digitalen Behördenwegen)
-  * Angepasst an österreichische Standards (z.B. Transparenz aller Gesellschafterinnen und Gesellschafter) 
+  * Angepasst an österreichische Standards (z.B. Transparenz aller Gesellschafterinnen und Gesellschafter)
   * Einsatz auf europäischer Ebene, dass eine einheitliche, zeitgemäße Gesellschaftsform für innovative Start-ups und KMUs EU-weit umgesetzt wird („EU Limited“)
 
 Österreichs Wirtschaft international positionieren
@@ -87,7 +89,7 @@ Standort- und Industriepolitik
 
 - Den Erfolg österreichischer Unternehmen auf ausländischen Märkten stärken und ausbauen: Alle bestehenden Bemühungen in der Außenwirtschaft – von den Ministerien, von Branchenvertreterinnen bzw. -vertretern und privaten Initiativen – künftig noch besser koordinieren
 
-  * Umsetzung und Ergänzung der bestehenden Außenwirtschaftsstrategie anhand der Schwerpunktsetzungen dieses Regie rungsprogramms 
+  * Umsetzung und Ergänzung der bestehenden Außenwirtschaftsstrategie anhand der Schwerpunktsetzungen dieses Regie rungsprogramms
   * Aktive Bewerbung des Standorts Öster- reich im Ausland, durch verstärkte Zusam- menarbeit aller relevanten Stellen des Wirtschafts- und Außenministeriums, sowie der Wirtschaftskammer Österreich
   * Bündelung, nach Möglichkeit, der Außenwirtschaftslegistik in einem Ministerium und verstärkte internationale Bewerbung des Standorts Österreich (z.B. Roadshow Finanzplatz Österreich, regelmäßige Konferenz InvestInAustria). Zusätzlich soll go-international ausgebaut und fortgesetzt werden.
   * Erarbeitung einer Afrika-Strategie für vertiefte wirtschaftliche Zusammenarbeit, unter Berücksichtigung bestehender und zukünftiger Abkommen auf nationaler und internationaler Ebene
@@ -105,8 +107,8 @@ Standort- und Industriepolitik
 
 - Investitionskontrolle umsetzen und kritische Industriezweige schützen: Während internationale Investitionen, die lokale Jobs und Wertschöpfung schaffen, grundsätzlich wünschenswert sind, muss die Politik dafür sorgen, dass es nicht zu einem Ausverkauf kritischer Technologie und Infrastruktur kommt.
 
-  * Direktinvestitionen aus unterschiedlichen Drittstaaten dürfen nicht dazu führen, dass bestimmte Zukunftstechnologien aus dem europäischen Binnenmarkt abwandern. 
-  * Die Bundesregierung setzt sich auf EU-Ebene für eine stärkere staatliche Investitionskontrolle ein. 
+  * Direktinvestitionen aus unterschiedlichen Drittstaaten dürfen nicht dazu führen, dass bestimmte Zukunftstechnologien aus dem europäischen Binnenmarkt abwandern.
+  * Die Bundesregierung setzt sich auf EU-Ebene für eine stärkere staatliche Investitionskontrolle ein.
   * In einem ersten Schritt soll Österreich mit gutem Beispiel vorangehen und eine entsprechende Reform des Außenwirtschaftsgesetzes umsetzen: Der Schwellenwert für die Genehmigungspflicht soll auf 10% gesenkt werden und neue Prüfkriterien für kritische Technologie und Infrastruktur festgesetzt werden. Die Ressorts für Wirtschaft, Außenpolitik und Finanzen sollen hierbei, gemeinsam mit der ÖBAG, zusammenarbeiten.
 
 - Einrichtung eines Produktivitätsrates gemäß der EU-Ratsempfehlung: Prüfung einer Ansiedelung beim bereits bestehenden Fiskalrat oder anderen Institutionen (z.B. WIFO, IHS etc.).
@@ -116,7 +118,7 @@ Standort- und Industriepolitik
 Entbürokratisierung und Modernisierung der Verwaltung
 -----------------------------------------------------
 
-- Plan zur Steigerung der Effizienz und Qualität in der Verwaltung (Entbürokratisierung) im ersten halben Jahr in jedem Ministerium entwickeln und abstimmen   * Eine Monitoringstelle einrichten, die den Fortschritt bei der Entbürokratisierung messbar macht und als Ansprechpartner für Betroffene agieren kann 
+- Plan zur Steigerung der Effizienz und Qualität in der Verwaltung (Entbürokratisierung) im ersten halben Jahr in jedem Ministerium entwickeln und abstimmen   * Eine Monitoringstelle einrichten, die den Fortschritt bei der Entbürokratisierung messbar macht und als Ansprechpartner für Betroffene agieren kann
 
 - „Beraten vor strafen“ umsetzen: Es soll das Ziel der Verwaltung sein, Fehlverhalten zwar zu bestrafen, aber es im besten Fall gar nicht dazu kommen zu lassen, in dem man Unternehmerinnen und Unternehmer dabei unterstützt,regelkonform zu arbeiten.
 
@@ -126,12 +128,12 @@ Entbürokratisierung und Modernisierung der Verwaltung
 
 - Gold-Plating reduzieren: Nationale Verschärfungen über EU-Vorgaben, die keine sachliche Rechtfertigung haben, gilt es zu vermeiden bzw. zu reduzieren.
 
-  * Erarbeitung eines Konzepts, um möglichst viele nicht durch EU-Vorgaben notwendige Betriebsbeauftragte freiwillig zu stellen 
+  * Erarbeitung eines Konzepts, um möglichst viele nicht durch EU-Vorgaben notwendige Betriebsbeauftragte freiwillig zu stellen
   * Statistische Abgaben/Informationspflichten für Unternehmen sollen sich stärker an EU-Vorgaben orientieren.
-   * Bürokratieabbau im Vergabeverfahren (unter Berücksichtigung des Bestbieterprinzips) 
- 
-- Verfahrensbeschleunigung unter Wahrung hoher Qualität 
- 
+  * Bürokratieabbau im Vergabeverfahren (unter Berücksichtigung des Bestbieterprinzips)
+
+- Verfahrensbeschleunigung unter Wahrung hoher Qualität
+
   * Prüfung einer Reform des Verfahrensrechtsim AVG (Allgemeines Verwaltungsverfahrensgesetz; wurde seit 1998 nicht mehr weiterentwickelt)
   * Digitalen Bescheid ermöglichen (Kundmachungsvorschriften)
   * Fristen bei digitaler Einbringung auf 24 Uhr des entsprechenden Tages ausweiten

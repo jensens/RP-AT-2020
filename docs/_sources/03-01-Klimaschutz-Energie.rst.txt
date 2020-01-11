@@ -2,8 +2,10 @@
 Klimaschutz & Energie
 ---------------------
 
+:download:`Kapitel als PDF <../split/03-01-Klimaschutz-Energie.pdf>` (Teil des :download:`Originals <../original/RP2020.pdf>`).
+
 .. todo::
-  Formatieren, Überarbeiten, Original gegenchecken
+  Original gegenchecken
 
 Die besorgniserregende Veränderung unseres Klimas ist eine der größten Herausforderungen unserer Generation – in ökologischer, ökonomischer und sozialer Hinsicht. Die österreichische Bundesregierung bekennt sich zu ihrer Verantwortung, die notwendigen Schritte und Weichenstellungen vorzunehmen, um dieser Herausforderung auf allen Ebenen gerecht zu werden und die Ziele des Pariser Klimaschutzabkommens zu erfüllen. Wir betrachten Klimaschutzmaßnahmen als bedeutende Chance für Gerechtigkeit sowie für die zukunftsfähige Entwicklung von Wirtschaft und Arbeitsplätzen in Österreich. Diese Chancen gilt es zu nutzen - Österreich hat die besten Voraussetzungen dafür. Gemeinsam können wir das Ziel eines klimaneutralen Österreichs bis spätestens 2040 erreichen und in Europa zum Vorreiter im Klimaschutz werden. Für uns bedeutet das selbstverständlich, dass Atomkraft keine Alternative ist, sondern, dass wir ausschließlich auf Erneuerbare Energieträger setzen.
 
@@ -13,7 +15,7 @@ Auf europäischer Ebene wird die Bundesregierung dazu beitragen, dass die EU das
 
 Bund, Bundesländer und Gemeinden arbeiten gemeinsam und abgestimmt an der Erreichung der Klimaziele und treffen Zukunftsentscheidungen, die Planungssicherheit für die Bevölkerung und die Wirtschaft ermöglichen. S  * sichern wir den Wohlstand der österreichischen Bevölkerung und die Wettbewerbsfähigkeit der österreichischen Wirtschaft. Es gilt rasch ins Tun zu kommen, und Vorarbeiten aus dem Nationalen Energie- und Klimaplan, der Bioökonomiestrategie oder dem Sachstandsbericht Mobilität umzusetzen.
 
-Wir nehmen Klimaschutz ernst: Was die öffentliche Hand selbst vorzeigt, kann auch von unserer Bevölkerung leichter angenommen werden. Die öffentliche Hand muss deshalb Vorbild für Klimaneutralität sein. Mit Initiativen in der Beschaffung, in der Sanierung und im Mobilitätsmanagement wird die Umstellung der Verwaltung in Richtung 100% Nachhaltigkeit vorangetrieben. 
+Wir nehmen Klimaschutz ernst: Was die öffentliche Hand selbst vorzeigt, kann auch von unserer Bevölkerung leichter angenommen werden. Die öffentliche Hand muss deshalb Vorbild für Klimaneutralität sein. Mit Initiativen in der Beschaffung, in der Sanierung und im Mobilitätsmanagement wird die Umstellung der Verwaltung in Richtung 100% Nachhaltigkeit vorangetrieben.
 
 Die Bundesregierung bekennt sich zum Ausbau aller Formen heimischer Erneuerbarer Energieträger. Den Rahmen dafür wird das Erneuerbaren-Ausbau-Gesetz geben, das bis 2030 eine 100% (national bilanziell) Versorgung mit Ökostrom sichert. Damit einher gehen die notwendigen Netzinfrastrukturinvestitionen. Ein wirksames Energieeffizienzgesetz trägt dazu bei, dass Österreich – unter Bedachtnahme auf die wirtschaftliche Entwicklung – bis zur Mitte des Jahrhunderts mit deutlich weniger Energieverbrauch auskommen und die Energiewende naturverträglich gelingen kann.
 
@@ -32,9 +34,9 @@ Klimaneutralität bis 2040 – ein klares Ziel, ein klarer Auftrag
   * Konsequentes Eintreten für eine Anpassung der Zielsetzung der EU bis 2030 und 2050 im Hinblick auf die Erreichung der Paris-Ziele
   * Konsequentes Eintreten für wirkungsvolles Border-Tax-Adjustment / CO2-Zölle auf europäischer Ebene
   * Konsequentes Eintreten für die ausreichende Finanzierung von Maßnahmen gegen die Klimakrise im EU-Budgetrahmen bis 2027
-  * Einsatz für ein Ende der Finanzierung und der Subventionen für fossile Infrastrukturen und fossile Energien auf europäischer Ebene 
+  * Einsatz für ein Ende der Finanzierung und der Subventionen für fossile Infrastrukturen und fossile Energien auf europäischer Ebene
   * Einsatz für ein wirkungsvolles ETS-System und einen CO2-Mindestpreis auf europäischer Ebene
-  * Erhöhung der Internationalen Klimafinanzierung: Signifikante Erhöhung des österreichischen Beitrags zum Green Climate Fund 
+  * Erhöhung der Internationalen Klimafinanzierung: Signifikante Erhöhung des österreichischen Beitrags zum Green Climate Fund
 
 - Unmittelbare Nachbesserung und Konkretisierung des Nationalen Energie- und Klimaplans (NEKP)
 
@@ -53,7 +55,7 @@ Die Weichen richtig stellen: notwendige horizontale Maßnahmen
   * Verbindliche Gesamt- und Sektorziele für alle Sektoren, Pfade, Ressourcen und Maßnahmen-Verantwortlichkeiten
   * Verantwortlichkeitsmechanismus zwischen Bund und Ländern für die Zielerreichung und bei Zielverfehlung
   * Verbesserter Mechanismus zum Ergreifen von zusätzlichen Maßnahmen bei Zielverfehlung
-  * Zeitnäheres und laufendes unabhängiges Monitoring der Klimapolitik durch das UBA 
+  * Zeitnäheres und laufendes unabhängiges Monitoring der Klimapolitik durch das UBA
   * Erarbeitung eines Klimaschutzaktionsplans der Bundesregierung zur konkreten Umsetzung der Maßnahmen
 
 - Neue ebenen-übergreifende Governance für den Klimaschutz
@@ -71,7 +73,7 @@ Die Weichen richtig stellen: notwendige horizontale Maßnahmen
   * Für die Erstellung von Förderrichtlinien und Investitionen des Bundes unter Bedachtnahme der Minimierung des bürokratischen Aufwands
   * Einrichtung einer neuen verbindlichen Wirkungsdimension innerhalb der WFA „Klimaschutz“, deren Kriterien jedenfalls Auswirkungen eines Vorhabens auf Treibhausgasemissionen (positiv, negativ, innerhalb und außerhalb Österreichs) und auf den Bodenverbrauch umfassen
   * Bei begründeter Erwartung einer signifikanten Auswirkung erfolgt die Abschätzung der Wirkung auf Grundlage eines unabhängigen Gutachtens, das von einer geeigneten akkreditierten Stelle erstellt wird.
-  * Entwicklung eines Mechanismus, der Ergebnisse aus dem Klimacheck umsetzt 
+  * Entwicklung eines Mechanismus, der Ergebnisse aus dem Klimacheck umsetzt
 
 - Klimaschutzorientierte Energieraumplanung
 
@@ -79,7 +81,7 @@ Die Weichen richtig stellen: notwendige horizontale Maßnahmen
 
 - Bund und Länder verständigen sich auf abgestimmte, mittel- und langfristig ausgerichtete, planbare und gesicherte sowie hinreichend dotierte Klima- und Energieförderungen für die verschiedenen Zielgruppen zur effektiven und effizienten Erreichung der im NEKP und diesem Regierungsübereinkommen gesteckten Ziele.
 
-- Erhöhung der Budgets des Klima- und Energiefonds und der UFI 
+- Erhöhung der Budgets des Klima- und Energiefonds und der UFI
 
   * Ausreichende Finanzierung als zentrale Tools zur Umsetzung des Nationalen Klima- und Energieplans
   * Fortführung wichtiger Klimaschutzprogramme wie klima.aktiv, Klima- und Energiemodellregionen, e5-Programme und Klimabündnis-Gemeinden
@@ -96,14 +98,14 @@ Die öffentliche Hand zeigt‘s vor! Klimaneutrale Verwaltung
 
 - Verbindliche Klimaschutz-Richtlinien für alle Institutionen des Bundes (inkl. nachgelagerter Dienststellen und Unternehmen, die zu 100% im Eigentum des Bundes stehen):
 
-  * Vorbildwirkung der öffentlichen Hand bei der thermischen Sanierung: 3% Sanierungsquote, verbindliche Leitlinien für ökologisch vorbildhafte Sanierung 
+  * Vorbildwirkung der öffentlichen Hand bei der thermischen Sanierung: 3% Sanierungsquote, verbindliche Leitlinien für ökologisch vorbildhafte Sanierung
   * Neubau im Niedrigstenergiehaus-Standard, PV-Anlage verpflichtend, w  * technisch und wirtschaftlich möglich
   * 100% Umweltzeichen-zertifizierter Ökostrom ab 2021
   * Veranstaltungen erfüllen die Mindestanforderung der Umweltzeichen-Kriterien für Green Events sowie Green Meetings.
   * Klimaschutz-Vorgaben für Dienstreisen sowie für das Mobilitätsmanagement
   * Der öffentliche Fuhrpark wird Vorbild für alternative Antriebstechnologien: S  * rasch wie möglich (wenn möglich schon ab 2022) wird die Beschaffung von emissionsfrei betriebenen Fahrzeugen durch die öffentliche Hand zum Standard, die Beschaffung von Fahrzeugen mit Verbrennungsmotoren wird zur Ausnahme und muss begründet werden.
   * Aus für Neuzulassungen von Kfz (PKW) mit Verbrennungsmotoren in der öffentlichen Beschaffung (mit Ausnahme der Sonderfahrzeuge, Einsatzfahrzeuge und Fahrzeuge des Bundesheers) ab 2027
-  * Flächendeckende Einführung von Umweltmanagementsystemen 
+  * Flächendeckende Einführung von Umweltmanagementsystemen
   * Ziel ist eine 100% regionale und saisonale Beschaffung in Verbindung mit einer Bio-Quote von 30% bis 2025 und 55% bis 2030.
   * Angebot eines täglichen Klimatellers in Österreichs öffentlichen Küchen
 
@@ -111,9 +113,9 @@ Die öffentliche Hand zeigt‘s vor! Klimaneutrale Verwaltung
 
   * Ziel ist die Umstellung der Bundesbeschaffung nach ökologischen und sozialen Mindeststandards, die sich am Umweltzeichen orientieren und Regionalität fördern.
   * Darüber hinaus wird die Bundesregierung das Vergaberecht als wichtiges Instrument zur Bekämpfung des Klimawandels nutzen. Dazu ist das Bestbieterprinzip um verbindliche ökologische Kriterien für die angebotenen Produkte und Dienstleistungen zu erweitern (z.B. öffentliche Bautätigkeit).
-  * Überarbeitung und Aktualisierung des „Aktionsplan nachhaltige öffentliche Beschaffung“, dessen Anwendung für Beschaffungsvorgänge verbindlich ist und evaluiert wird 
+  * Überarbeitung und Aktualisierung des „Aktionsplan nachhaltige öffentliche Beschaffung“, dessen Anwendung für Beschaffungsvorgänge verbindlich ist und evaluiert wird
   * Paradigmenwechsel vom Billigstbieter zum Bestbieter sowie Total Cost of Ownership (TCO)
- 
+
 - Erarbeitung einer Strategie mit einem konkreten Zeitplan für eine klimaneutrale Verwaltung bis 2040
 
   * Kompensation von zunächst überschießenden (über Zielpfad) bzw. verbleibenden Emissionen aufgrund eines Kriterienkatalogs
@@ -155,12 +157,12 @@ Gebäude: Nachhaltig und energiesparend heizen, kühlen, bauen und sanieren
   * Erstellung eines Sanierungskonzepts bei jeder geplanten größeren Renovierungsmaßnahme (nach Vorbild Energieausweis), mit dem Ziel, sinnvolle Sanierungsabfolgen zu gewährleisten und für maximale Verbrauchsreduktion zu möglichst geringen Kosten zu sorgen
 
   * Umsetzung der Leitlinien für bauökologisch vorteilhafte Sanierungen gemäß Energieeffizienzgesetz (§16 Abs. 13)
-  * Weiterführung des Förderschwerpunkts für ökologisch vorteilhafte Sanierungen 
+  * Weiterführung des Förderschwerpunkts für ökologisch vorteilhafte Sanierungen
 
 - Weiterentwicklung der Standards in den Bauvorschriften in Zusammenarbeit mit den Bundesländern mit folgenden Zielen:
 
   * Vorbereitung bzw. Planung der nächsten Anpassung der OIB-Richtlinie 6
-  * Nullemissionsgebäude Schritt für Schritt zum Standard machen 
+  * Nullemissionsgebäude Schritt für Schritt zum Standard machen
   * Ausrichtung der Baustandards in den Bauordnungen in Neubau und Sanierung gemäß kostenoptimalem Niveau der Niedrigstenergiestandards
   * Anschluss- bzw. Lademöglichkeiten für batterieelektrische Fahrzeuge sind bei allen Neubauten vorzusehen. In Bestandsgebäuden sind die rechtlichen Rahmenbedingungen s  * zu gestalten, dass entsprechende Nachrüstungen leicht erfolgen können.
 
@@ -202,12 +204,12 @@ Phase-out-Plan für fossile Energieträger in der Raumwärme
   * Pfade und Möglichkeiten der vollständigen Wärmeversorgung auf Basis erneuerbarer Energieträger (Biomassetechnologien, Fernwärme, direkte Solarnutzungen, Geothermie und Umgebungswärme), inkl. Maßnahmen und Fahrpläne
   * Verbindliche Grundlage der strategischen Zielerreichung
   * Forcierung der Nah- und Fernwärme
-  * Raumplanerische Rahmenbedingungen verbessern: Festlegung von Versorgungszonen mit der Möglichkeit von Anschlussverpflichtungen in Raumplanungsinstrumenten, gesetzliche Regelung zur Begründung von Leitungsrechten für Fernwärme, Regelungen für die Erfassung und einfache Einbindung von Abwärmequellen etc. begleitet durch entsprechende Förderprogramme 
-  * Förderung für erneuerbare Großanlagen und Geothermie in Fernwärmenetzen für die Anhebung des durchschnittlichen erneuerbaren Anteils in der Fernwärme um mindestens 1,5 Prozent pr  * Jahr 
+  * Raumplanerische Rahmenbedingungen verbessern: Festlegung von Versorgungszonen mit der Möglichkeit von Anschlussverpflichtungen in Raumplanungsinstrumenten, gesetzliche Regelung zur Begründung von Leitungsrechten für Fernwärme, Regelungen für die Erfassung und einfache Einbindung von Abwärmequellen etc. begleitet durch entsprechende Förderprogramme
+  * Förderung für erneuerbare Großanlagen und Geothermie in Fernwärmenetzen für die Anhebung des durchschnittlichen erneuerbaren Anteils in der Fernwärme um mindestens 1,5 Prozent pr  * Jahr
 
 - Sicherstellung der Versorgung:
 
-  * Verankerung der Nutzung von Wärme in tiefen Erdschichten (Tiefengeothermie) im MinRoG, mit der Möglichkeit, die Nutzungsrechte Dritten zu überlassen 
+  * Verankerung der Nutzung von Wärme in tiefen Erdschichten (Tiefengeothermie) im MinRoG, mit der Möglichkeit, die Nutzungsrechte Dritten zu überlassen
   * Verankerung einer Verpflichtung zur Pelletsbevorratung für Produzenten und Importeure im Rohstoffbevorratungsgesetz
 
 Erneuerbare Energie für eine saubere Zukunft
@@ -215,7 +217,7 @@ Erneuerbare Energie für eine saubere Zukunft
 
 - Aufbauend auf die bisherige Arbeit – die #mission2030 und den Nationalen Energie- und Klima-Plan – sollen folgende Maßnahmen gesetzt werden:
 
-  * Klare Zieldefinition für die Steigerung des Anteils von erneuerbaren Energien am nationalen Gesamtverbrauch: 100 % (national bilanziell) Strom aus erneuerbaren Energiequellen bis 2030 
+  * Klare Zieldefinition für die Steigerung des Anteils von erneuerbaren Energien am nationalen Gesamtverbrauch: 100 % (national bilanziell) Strom aus erneuerbaren Energiequellen bis 2030
   * Verstärkte Nutzung und Koppelung von in Österreich vorhandenen Ressourcen zur nachhaltigen Erzeugung von erneuerbarer Energie in allen Anwendungsbereichen (Strom, Wärme und Kälte, Mobilität)
   * Konkrete Maßnahmen zur Steigerung der Energie- und Versorgungssicherheit in Österreich durch den erleichterten Ausbau bestehender und Errichtung neuer Energieerzeugungsanlagen für erneuerbare Energien
   * Ausbau heimischer Ressourcen statt Energieimporte
@@ -223,7 +225,7 @@ Erneuerbare Energie für eine saubere Zukunft
   * Einsatz von Cross-Cutting-Technologies und Aufbau von Hybridnetzen für die Energieversorgung
   * Wasserstoff als Speichermedium verstärkt nutzen
 
-- Ausbau- und Unterstützungsprogramm für „grünes Gas“ (Biomethan, grüner Wasserstoff und synthetisches Gas auf Basis erneuerbaren Stroms) mit dem Ziel, bis 2030 5 TWh ins Gasnetz einzuspeisen. Dazu wird auf Basis von Verfügbarkeiten, klimapolitischem und volkswirtschaftlichem Nutzen ein Ausbaupfad definiert. Die Herstellung von synthetischem Gas erfolgt vorwiegend auf Basis von Überschussstrom. Begleitet wird der Ausbau zum Beispiel mit Förderprogrammen und Quoten, die die Zielerreichung ermöglichen, sowie durch ein stringentes System für Herkunftsnachweise und Kennzeichnung. 
+- Ausbau- und Unterstützungsprogramm für „grünes Gas“ (Biomethan, grüner Wasserstoff und synthetisches Gas auf Basis erneuerbaren Stroms) mit dem Ziel, bis 2030 5 TWh ins Gasnetz einzuspeisen. Dazu wird auf Basis von Verfügbarkeiten, klimapolitischem und volkswirtschaftlichem Nutzen ein Ausbaupfad definiert. Die Herstellung von synthetischem Gas erfolgt vorwiegend auf Basis von Überschussstrom. Begleitet wird der Ausbau zum Beispiel mit Förderprogrammen und Quoten, die die Zielerreichung ermöglichen, sowie durch ein stringentes System für Herkunftsnachweise und Kennzeichnung.
 
 - Mobilisierung von Flächen im direkten oder indirekten Eigentum des Bundes für die Nutzung erneuerbarer Energie, insbesondere Verkehrsflächen (ASFINAG, ÖBB) oder Flächen an Gebäuden oder auf Liegenschaften. Erfassung und Bewertung: Geeignete Flächen können selbst genutzt oder Dritten zugänglich gemacht werden für eine Nutzung (Contracting oder Pacht).
 
@@ -236,7 +238,7 @@ Erneuerbaren-Ausbau-Gesetz im Detail
 
 - 100% Strom aus Erneuerbaren bedeutet einen Zubau von rund 27 TWh. Zielsetzung ist, bis 2030 eine Photovoltaik-Erzeugungskapazität von 11 TWh zuzubauen, bei Wind beträgt das Ausbauziel 10 TWh, bei Wasserkraft 5 TWh (wobei eine am ökologischen Potential orientierte Aufteilung zwischen Kleinwasserkraft und Großwasserkraft vorzunehmen ist) und bei Biomasse 1 TWh.
 
-- Der Ausbau soll, unter Berücksichtigung von Vorlaufzeiten, einem zehnjährigen linearen Pfad folgen. Bei signifikanten Pfadabweichungen sind entsprechende Maßnahmen zur durchschnittlichen Pfadeinhaltung zu setzen. 
+- Der Ausbau soll, unter Berücksichtigung von Vorlaufzeiten, einem zehnjährigen linearen Pfad folgen. Bei signifikanten Pfadabweichungen sind entsprechende Maßnahmen zur durchschnittlichen Pfadeinhaltung zu setzen.
 
 - Der Ausbau soll unter Beachtung strenger Kriterien in Bezug auf Ökologie und Naturverträglichkeit erfolgen.
 
@@ -244,23 +246,23 @@ Erneuerbaren-Ausbau-Gesetz im Detail
 
 - Das Ausmaß des Unterstützungsvolumens orientiert sich am Ausbaufahrplan. Im 3-jährigen Mittel darf dabei ein Jahres-Maximum von 1 Milliarde Eur  * nicht überschritten werden. Innovative Sonderprogramme im Klima- und Energiefonds bleiben möglich.
 
-- Die Unterstützung erfolgt mit einem Fokus auf einen Mix aus Investitionsförderungen und gleitenden Marktprämien, unter Einbeziehung von Ausschreibungen, w  * im Sinne der Zielerreichung sinnvoll einsetzbar. 
+- Die Unterstützung erfolgt mit einem Fokus auf einen Mix aus Investitionsförderungen und gleitenden Marktprämien, unter Einbeziehung von Ausschreibungen, w  * im Sinne der Zielerreichung sinnvoll einsetzbar.
 
 - Die Laufzeiten für die Gewährung der Marktprämien werden generell auf 20 Jahre ausgedehnt.
 
 - Die Errichtung von PV-Anlagen und das Ziel, 1 Million Dächer mit Photovoltaik auszustatten, wird durch folgende Änderungen administrativ erleichtert:
 
   * Abbau von bürokratischen Hürden bei bestehenden Anlagen, dazu gehört die Ermöglichung der Erweiterung bestehender Anlagen, ohne dass ein Einspeisetarifverlust für die bisherige Kapazität eintritt
-  * vereinfachter Netzzugang für Anlagen bis 10 kW 
-  * Ausweitung der leistungsbezogenen Fördergrenzen 
+  * vereinfachter Netzzugang für Anlagen bis 10 kW
+  * Ausweitung der leistungsbezogenen Fördergrenzen
   * Vereinfachung der rechtlichen Rahmenbedingungen für PV-Anlagen
   * Förderfähigkeit auch auf Flächen außerhalb von Gebäuden, mit besonderem Fokus auf versiegelte Flächen (z.B. P&R-Anlagen, Parkplätze etc.) und Doppelnutzung
 
 - Prüfung der Tarifstruktur auf Änderungsbedarf, um abzufedern, dass unterschiedliche Ausgangsbedingungen in Bezug auf den nächsten verfügbaren Netzanschlusspunkt zu Benachteiligungen bei den Kontrahierungen von Erzeugungskapazitäten führen
 
 - Erweiterung der Möglichkeiten der Gestaltung von „Erneuerbaren Energiegemeinschaften“ und „Bürgerenergiegemeinschaften“ für verstärkte dezentrale Energieversorgung und die Stärkung von regionalen Versorgungskonzepten, mit Fokus
- auf Gemeinnützigkeit und genossenschaftliche Systeme, lokale Mikro-Netze und Speicherbetreiber, Etablierung eines One-Stop-Shops zur Beratung 
- 
+  auf Gemeinnützigkeit und genossenschaftliche Systeme, lokale Mikro-Netze und Speicherbetreiber, Etablierung eines One-Stop-Shops zur Beratung
+
 - Ermöglichung einer unkomplizierten Direktvermarktung bei Eigenstromerzeugungen, sofern das öffentliche Netz nicht benutzt wird
 
 - Streichung der Eigenstromsteuer auf alle erneuerbaren Energieträger
@@ -272,7 +274,7 @@ Weiterentwicklung des Energieeffizienzgesetzes
 
 Novellierung des Energieeffizienzgesetzes auf Basis der folgenden Grundsätze:
 
-- Einsparungen werden weiterhin mit einer Kombination aus strategischen Maßnahmen (Steuerrecht, Ordnungsrecht, Förderungen) und einer Verpflichtung der Energielieferanten, Einsparmaßnahmen zu setzen, erzielt. 
+- Einsparungen werden weiterhin mit einer Kombination aus strategischen Maßnahmen (Steuerrecht, Ordnungsrecht, Förderungen) und einer Verpflichtung der Energielieferanten, Einsparmaßnahmen zu setzen, erzielt.
 
 - Einsparverpflichtung um die Möglichkeit einer Ersatzzahlungsleistung in einen Fonds ergänzen. Aufgebrachte Mittel fließen zur Finanzierung von Energieeffizienzmaßnahmen in Haushalten (mit besonderer Berücksichtigung sozialer Härtefälle) der UFI zu.
 
@@ -293,7 +295,7 @@ Versorgungs- und Netzsicherheit gewährleisten
 
 - Erforderliche Reservekapazitäten sind für einen stabilen Netzbetrieb unabdingbar und benötigen daher entsprechende Investitions- und Betriebssicherheit. Das erforderliche Ausmaß wird auf Basis einer entsprechenden transparenten Bedarfsprognose bzw. Evaluierung festgestellt. Ein Fokus erfolgt auf die Einbindung erneuerbarer Energieträger. Um kleineren Erzeugungskapazitäten und industriellen Anlagen die Teilnahme am Reservekapazitätsmarkt zu erleichtern, sollen die Losgrößen reduziert und Pooling ermöglicht werden.
 
-- Evaluierung der netzgebundenen Tarifstrukturen hinsichtlich Vereinfachungen und mehr Transparenz für Kunden 
+- Evaluierung der netzgebundenen Tarifstrukturen hinsichtlich Vereinfachungen und mehr Transparenz für Kunden
 
 - Prüfung von Erleichterungen im Starkstromwegerecht für Erweiterungen und Änderungen bereits bestehender Leitungen
 
@@ -306,9 +308,9 @@ Den österreichischen Anti-Atom-kraft-Weg konsequent fortsetzen und Einsatz gege
 
 - Energieunion ohne Kernenergie forcieren: Österreich wird sich weiterhin dafür einsetzen, dass Atomkraft auch in Zukunft nicht über Mechanismen des Pariser Abkommens unterstützt wird.
 
-- Dem Neu- und Ausbau von Atomkraftwerken in Europa, insbesondere in den Nachbarländern, mit allen zur Verfügung stehenden politischen und rechtlichen Mitteln entgegenwirken 
+- Dem Neu- und Ausbau von Atomkraftwerken in Europa, insbesondere in den Nachbarländern, mit allen zur Verfügung stehenden politischen und rechtlichen Mitteln entgegenwirken
 
-- Setzung aller notwendigen politischen und diplomatischen Schritte auf nationaler und bilateraler sowie EU-Ebene, um zu erreichen, dass Überprüfungen von Kernkraftwerken in den Nachbarstaaten und der von diesen ausgehenden Gefahren mit modernsten Methoden sowie unter Einbindung unabhängiger nationaler und internationaler Expertinnen und Experten unter verbindlicher Transparenz durchgeführt werden 
+- Setzung aller notwendigen politischen und diplomatischen Schritte auf nationaler und bilateraler sowie EU-Ebene, um zu erreichen, dass Überprüfungen von Kernkraftwerken in den Nachbarstaaten und der von diesen ausgehenden Gefahren mit modernsten Methoden sowie unter Einbindung unabhängiger nationaler und internationaler Expertinnen und Experten unter verbindlicher Transparenz durchgeführt werden
 
 - Konsequentes Einschreiten gegen grenznahe Atommülllager
 
@@ -327,7 +329,7 @@ Den österreichischen Anti-Atom-kraft-Weg konsequent fortsetzen und Einsatz gege
 Technologieoffensive, Digitalisierung und Innovation
 ----------------------------------------------------
 
-- Integrierte Energiesysteme (Sektorkopplung): Gesamthafte Betrachtung der Systeme für Strom, Wärme und Mobilität 
+- Integrierte Energiesysteme (Sektorkopplung): Gesamthafte Betrachtung der Systeme für Strom, Wärme und Mobilität
 
 - Technologieoffene Energieforschungsoffensive zur Dekarbonisierung
 
@@ -339,12 +341,11 @@ Technologieoffensive, Digitalisierung und Innovation
 
 - Innovation – von Start-ups bis Energie-Cluster & Open Energy Innovation Industrie.
 
-- Digitalisierung: Vorteile nutzen, Datenschutz
-sicherstellen
+- Digitalisierung: Vorteile nutzen, Datenschutz sicherstellen
 
-- Strategie zur Verwendung alternativer Energieträger in der Mobilität (E-Mobilität, Wasserstoff, synthetische Treibstoffe) mit Fokus auf Gesamt-Klimabilanz 
+- Strategie zur Verwendung alternativer Energieträger in der Mobilität (E-Mobilität, Wasserstoff, synthetische Treibstoffe) mit Fokus auf Gesamt-Klimabilanz
 
-- Neue Österreichische Wasserstoffstrategie: Wasserstofftechnologie speziell für den Wirtschafts- und Verkehrsbereich entwickeln 
+- Neue Österreichische Wasserstoffstrategie: Wasserstofftechnologie speziell für den Wirtschafts- und Verkehrsbereich entwickeln
 
   * Damit soll Österreich zur Wasserstoffnation Nummer 1 werden.
   * Klimaschutz- und Wasserstoffzentrum als Cluster für Forschung, Innovation und Technologie umsetzen
@@ -385,7 +386,7 @@ Klimaschutz durch Bioökonomie
 
 - Bessere Rahmenbedingungen für die Entwicklung neuer Produkte aus biogenen Roh- und Reststoffen bzw. Abfällen und Nebenprodukten sowie deren zugehörige Lagerungs- und Logistikkapazitäten, bei gleichzeitiger Reduktion der Lebensmittelabfälle
 
-- Start einer Imagekampagne für bioökonomiebasierteProdukte zur Kommunikation ökologischer und ökonomischer Vorteile (Bewusstseinsbildung in der Bevölkerung) 
+- Start einer Imagekampagne für bioökonomiebasierteProdukte zur Kommunikation ökologischer und ökonomischer Vorteile (Bewusstseinsbildung in der Bevölkerung)
 
 - Weiterentwicklung und Anpassung bestehender nationaler und europäischer Gütesiegel sowie Labels zur Ausweisung bioökonomiebasierter Produkte
 

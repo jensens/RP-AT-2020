@@ -2,6 +2,8 @@
 Pensionen
 ---------
 
+:download:`Kapitel als PDF <../split/05-03-Pensionen.pdf>` (Teil des :download:`Originals <../original/RP2020.pdf>`).
+
 .. todo::
   Formatieren, Überarbeiten, Original gegenchecken
 
@@ -62,8 +64,8 @@ Gesund bis zur Pension: Verbleib im Erwerbsleben unterstützen
 
 - Stärkung und Ausbau der Unterstützung des betrieblichen Gesundheitsmanagements
 
-  * Auf betrieblicher Ebene: Bericht, Zielerfassung und Maßnahmen auf freiwilliger Basis. Für Betriebe unter 50 Mitarbeiterinnen und Mitarbeitern gibt es dafür Unterstützung seitens der AUVA. Wissenschaftliche Prüfung von Experience Rating als Maßnahme zur Verhinderung von berufs- und berufsbedingten Erkrankungen sowie aus dem daraus resultierenden frühzeitigen Ausscheiden aus dem Erwerbsleben; Evaluierung der Schwerarbeit 
-  * Verbesserung der Arbeitsbedingungen für Bedienstete in Sozial- und Pflegeberufen, z.B. Gesundheitschecks etc. 
+  * Auf betrieblicher Ebene: Bericht, Zielerfassung und Maßnahmen auf freiwilliger Basis. Für Betriebe unter 50 Mitarbeiterinnen und Mitarbeitern gibt es dafür Unterstützung seitens der AUVA. Wissenschaftliche Prüfung von Experience Rating als Maßnahme zur Verhinderung von berufs- und berufsbedingten Erkrankungen sowie aus dem daraus resultierenden frühzeitigen Ausscheiden aus dem Erwerbsleben; Evaluierung der Schwerarbeit
+  * Verbesserung der Arbeitsbedingungen für Bedienstete in Sozial- und Pflegeberufen, z.B. Gesundheitschecks etc.
   * Wirksames Anreizsystem für Unternehmen zur Erhöhung der Teilnahme an betrieblichen Gesundheitsprogrammen
 
 - Kooperation zwischen Krankenversicherung, AMS und Pensionsversicherung sicherstellen, um Prävention von Berufsunfähigkeit effektiv zu betreiben und Frühintervention zu schaffen
@@ -73,11 +75,11 @@ Gesund bis zur Pension: Verbleib im Erwerbsleben unterstützen
   * Weiterentwicklung der Vorsorgeuntersuchung (Einbeziehung typischer beruflicher Risiken)
   * Informationsaustausch zwischen den zuständigen Sozialversicherungsträgern, um auf erkannte gesundheitliche Risiken reagieren und frühzeitig entsprechende Angebote machen zu können
   * Etablierung von Einladungssystemen für Vorsorge- und Rehabilitationsmaßnahmen (aufgrund von Informationen aus der betrieblichen Sphäre, der ärztlichen Versorgung etc.)
-  * Früherkennungssystem bei den Sozialversicherungsträgern etablieren 
+  * Früherkennungssystem bei den Sozialversicherungsträgern etablieren
   * Klientinnen- und klientenorientiertes österreichweites Case-Management durchführen und standardisieren
   * Case-Management bereits bei drohender beruflicher Einschränkung (noch vor Rehageldbezug) etablieren
   * Berufsbegleitende ambulante Rehabilitationsmaßnahmen entwickeln und ausbauen auch im Bereich der Telerehabilitation, insbesondere für Gruppen, die bisher für Rehabilitationsmaßnahmen schwer erreichbar waren
-  * Entwicklung eines Erstattungsmodells für ambulante Rehabilitationsmaßnahmen im Ausmaß der Dienstverhinderung 
+  * Entwicklung eines Erstattungsmodells für ambulante Rehabilitationsmaßnahmen im Ausmaß der Dienstverhinderung
   * Überprüfung der Wirkung von Rehabilitations- und Umschulungsgeld auf die soziale Absicherung der Betroffenen
   * Maßnahmen der beruflichen und medizinischen Rehabilitation auch für Menschen ohne Berufsschutz
 
