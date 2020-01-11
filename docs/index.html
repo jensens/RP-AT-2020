@@ -227,6 +227,8 @@ Quellcode anzeigen
   <div class="section" id="inoffizielles-pdf-befreites-osterreichisches-regierungsprogramm-2020-2014">
 <h1>Inoffizielles PDF-befreites Österreichisches Regierungsprogramm 2020-2014<a class="headerlink" href="#inoffizielles-pdf-befreites-osterreichisches-regierungsprogramm-2020-2014" title="Link zu dieser Überschrift">¶</a></h1>
 <p><a class="reference download internal" download="" href="_downloads/969b21f48e428a7fc2354b3c93adbc22/RP2020.pdf"><code class="xref download docutils literal notranslate"><span class="pre">Quelle</span> <span class="pre">ist</span> <span class="pre">dieses</span> <span class="pre">Original</span> <span class="pre">PDF</span></code></a>.</p>
+<div class="section" id="regierungsprogramm">
+<h2>Regierungsprogramm<a class="headerlink" href="#regierungsprogramm" title="Link zu dieser Überschrift">¶</a></h2>
 <div class="toctree-wrapper compound">
 <p class="caption"><span class="caption-text">Inhalt:</span></p>
 <ul>
@@ -473,26 +475,54 @@ Quellcode anzeigen
 </li>
 </ul>
 </div>
+</div>
 <div class="section" id="uber-das-projekt">
 <h2>Über das Projekt<a class="headerlink" href="#uber-das-projekt" title="Link zu dieser Überschrift">¶</a></h2>
-<p>Dieses Projekt befreit das Regierungsprogramm aus seinem PDF format und macht es so zugänglicher.</p>
+<p>Dieses Projekt befreit das Regierungsprogramm aus seinem PDF-Format und macht es so zugänglicher.</p>
+<p>Warum?</p>
+<p>Weil PDF kein Datenformat ist. Es ist ach nicht barrierefrei.
+Ausserdem ist es am Smartphone schlecht zu lesen.
+Solche wichtigen Dokumente sollten nicht auf Schönheit und Textsatz hin optimiert werden.
+Hier ist Zugänglichkeit und Offenheit wichtig.
+Das ist für OpenData wichtig.
+Ein PDF ist kein OpenData, kein offenes Dokument.
+Reiner Text als Quelle und daraus ordentlich generiertes HTML sind hier meiner Meinung nach eine Lösung.
+Zudem ist der Zugang technisch Niederschwellig.
+Es müssen keinen komplexen Systeme mit hohen Kosten, wie z.B. CMS dazu verwendet werden.</p>
+<div class="section" id="technik-manueller-eingriff">
+<h3>Technik &amp; manueller Eingriff<a class="headerlink" href="#technik-manueller-eingriff" title="Link zu dieser Überschrift">¶</a></h3>
 <p>Technisch habe ich aus dem PDF den reinen Text extrahiert.
 Da PDF kein strukturiertes Dokumentenformat ist (sondern ein Seitenbeschreibungsformat) kann der Text nicht perfekt heraus geholt werden.
-Dazu habe ich mit <a class="reference external" href="https://pdfsam.org/de/">PDFSAM Basic</a> das lange Original-PDF Kapitelweise in kleinere PDFs zerlegt.
+Wen die Hintergründe dazu interessieren:
+Die 30 Minuten Video <a class="reference external" href="https://www.youtube.com/watch?v=k34wRxaxA_c">How to Extract Text Contents from PDF</a> (3 Teile) erklären das ganz gut.</p>
+<p>Vor dem extrahieren habe ich mit <a class="reference external" href="https://pdfsam.org/de/">PDFSAM Basic</a> das lange Original-PDF Kapitelweise in kleinere PDFs zerlegt.
 Die Dateien habe ich dann einigermassen sinnvoll benannt.
 Danach habe ich mit <a class="reference external" href="https://pypi.org/project/pdfminer/">PDFMiner</a> so gut wie möglich den Text pro Datei extrahiert.</p>
-<p>Ich habe hier <a class="reference external" href="https://www.sphinx-doc.org">Sphinx</a> verwendet und strukturiertes HTML daraus zu generieren.
-Der verwendete Markup ist <cite>RestructurendText</cite> (ähnlich Markdown, aber für komplexere Dokumente besser geeignet).</p>
-<p>Grob fehlt jetzt noch die manuelle Überarbeitung um die Formatierungen einzufügen:
-vor allem Zwischenüberschriften, Absätze und Aufzählungslisten.
+<p>Dann habe ich habe ich <a class="reference external" href="https://www.sphinx-doc.org">Sphinx</a> verwendet um strukturiertes HTML daraus zu generieren.
+Der verwendete Markup ist <a class="reference external" href="https://www.sphinx-doc.org/en/2.0/usage/restructuredtext/basics.html#">RestructurendText</a> (ähnlich Markdown, aber für komplexere Dokumente besser geeignet).</p>
+<p>Da da der extrahierte Text nur recht grob ist war jetzt die manuelle Überarbeitung dran.
+Es musste Formatierungen eingefügt werden: vor allem Zwischenüberschriften, Absätze und Aufzählungslisten.
 Dann hat es leider Text durcheinander gewürfelt.
 Das geschieht, wenn das PDF im Entstehungsprozess überarbeitet worden ist.
+Auch Spalten werden leider oft durcheinander gebracht.
 Teilweise sind auch noch Textfragmente von vor der Überarbeitung drinnen.</p>
-<p>Wer mithelfen mag:
-Das <a class="reference external" href="https://github.com/jensens/RP-AT-2020">Projekt liegt auf Github</a>, einer kollaborativen Plattform Quellcode-Verwaltung.</p>
 </div>
-<div class="section" id="indices-and-tables">
-<h2>Indices and tables<a class="headerlink" href="#indices-and-tables" title="Link zu dieser Überschrift">¶</a></h2>
+<div class="section" id="mithelfen">
+<h3>Mithelfen<a class="headerlink" href="#mithelfen" title="Link zu dieser Überschrift">¶</a></h3>
+<p>Das ist ein offenes Projekt, jede/r kann mitmachen.</p>
+<p>Wer mithelfen mag:
+Das <a class="reference external" href="https://github.com/jensens/RP-AT-2020">Projekt liegt auf Github</a>, einer kollaborativen Plattform zur Quellcode-Verwaltung.</p>
+<p>Grundsätzlich kann man dort ein Benutzer anlegen und im <cite>/source/</cite> Ordner auf der zu ändernden Datei auf bearbeiten (edit) klicken.
+Es wird eine Kopie im eigenen Ordner (Clone) gespeichert und dann über einen Pull-Request fragt ihr mich an um die Änderungen zum übernehmen.
+Sobald ich den Pull-Request übernommen (merged) habe, werde ich das HTML neu generieren und die Änderungen kommen so online.</p>
+<p>Wer GIT kennt, kann sich auch eine lokale Arbeitskopie erstellen.</p>
+<p>Bei Fragen dazu könnt ihr mich gerne kontaktieren:
+E-Mail <a class="reference external" href="mailto:jk&#37;&#52;&#48;kleinundpartner">Jens Klein</a>
+Twitter: <a class="reference external" href="https://twitter.com/yenzenz">yenzenz</a></p>
+</div>
+</div>
+<div class="section" id="index-und-suche">
+<h2>Index und Suche<a class="headerlink" href="#index-und-suche" title="Link zu dieser Überschrift">¶</a></h2>
 <ul class="simple">
 <li><p><a class="reference internal" href="genindex.html"><span class="std std-ref">Stichwortverzeichnis</span></a></p></li>
 <li><p><a class="reference internal" href="search.html"><span class="std std-ref">Suche</span></a></p></li>
@@ -510,8 +540,13 @@ Das <a class="reference external" href="https://github.com/jensens/RP-AT-2020">P
     </p>
     <ul>
 <li><a class="reference internal" href="#">Inoffizielles PDF-befreites Österreichisches Regierungsprogramm 2020-2014</a><ul>
-<li><a class="reference internal" href="#uber-das-projekt">Über das Projekt</a></li>
-<li><a class="reference internal" href="#indices-and-tables">Indices and tables</a></li>
+<li><a class="reference internal" href="#regierungsprogramm">Regierungsprogramm</a></li>
+<li><a class="reference internal" href="#uber-das-projekt">Über das Projekt</a><ul>
+<li><a class="reference internal" href="#technik-manueller-eingriff">Technik &amp; manueller Eingriff</a></li>
+<li><a class="reference internal" href="#mithelfen">Mithelfen</a></li>
+</ul>
+</li>
+<li><a class="reference internal" href="#index-und-suche">Index und Suche</a></li>
 </ul>
 </li>
 </ul>

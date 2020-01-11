@@ -9,6 +9,9 @@ Inoffizielles PDF-befreites Österreichisches Regierungsprogramm 2020-2014
 
 :download:`Quelle ist dieses Original PDF <../original/RP2020.pdf>`.
 
+Regierungsprogramm
+==================
+
 .. toctree::
    :maxdepth: 3
    :caption: Inhalt:
@@ -21,33 +24,10 @@ Inoffizielles PDF-befreites Österreichisches Regierungsprogramm 2020-2014
    05-00-Soziale-Sicherheit-neue-Gerechtigkeit-Armutsbekaempfung
    06-00-Bildung
 
+.. include:: ../README.rst
 
-Über das Projekt
-================
-
-Dieses Projekt befreit das Regierungsprogramm aus seinem PDF format und macht es so zugänglicher.
-
-Technisch habe ich aus dem PDF den reinen Text extrahiert.
-Da PDF kein strukturiertes Dokumentenformat ist (sondern ein Seitenbeschreibungsformat) kann der Text nicht perfekt heraus geholt werden.
-Dazu habe ich mit `PDFSAM Basic <https://pdfsam.org/de/>`_ das lange Original-PDF Kapitelweise in kleinere PDFs zerlegt.
-Die Dateien habe ich dann einigermassen sinnvoll benannt.
-Danach habe ich mit `PDFMiner <https://pypi.org/project/pdfminer/>`_ so gut wie möglich den Text pro Datei extrahiert.
-
-Ich habe hier `Sphinx <https://www.sphinx-doc.org>`_ verwendet und strukturiertes HTML daraus zu generieren.
-Der verwendete Markup ist `RestructurendText` (ähnlich Markdown, aber für komplexere Dokumente besser geeignet).
-
-Grob fehlt jetzt noch die manuelle Überarbeitung um die Formatierungen einzufügen:
-vor allem Zwischenüberschriften, Absätze und Aufzählungslisten.
-Dann hat es leider Text durcheinander gewürfelt.
-Das geschieht, wenn das PDF im Entstehungsprozess überarbeitet worden ist.
-Teilweise sind auch noch Textfragmente von vor der Überarbeitung drinnen.
-
-Wer mithelfen mag:
-Das `Projekt liegt auf Github <https://github.com/jensens/RP-AT-2020>`_, einer kollaborativen Plattform Quellcode-Verwaltung.
-
-
-Indices and tables
-==================
+Index und Suche
+===============
 
 * :ref:`genindex`
 * :ref:`search`
