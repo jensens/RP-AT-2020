@@ -4,23 +4,20 @@ Armutsbekämpfung
 
 :download:`Kapitel als PDF <../split/05-01-Armutsbekaempfung.pdf>` (Teil des :download:`Originals <../original/RP2020.pdf>`).
 
-.. todo::
-  Überarbeiten, Original gegenchecken
-
 Es ist unsere gesellschaftliche Verantwortung und Aufgabe der Sozialpolitik, eine Existenzsicherung zu gewährleisten, am besten über eine Teilhabe am Erwerbsleben. Das umfasst auch die Verantwortung, Armut, die oftmals von Ausgrenzung und Scham begleitet wird, weiter zu bekämpfen. Wir haben uns deshalb zum Ziel gesetzt, durch verschiedene Maßnahmen in der kommenden Legislaturperiode den Anteil von armutsgefährdeten Menschen im ersten Schritt zu halbieren.
 
 Die Bundesregierung bekennt sich zum Prinzip der Armutsbekämpfung und nimmt ihre Verantwortung wahr, die Möglichkeiten zu schaffen, ein eigenständiges und wirtschaftlich unabhängiges Erwerbsleben führen zu können. Denn existenzsichernde Arbeit, angemessene Löhne und entsprechende Pensionen haben eine präventive Wirkung: Sie verhindern, dass Menschen überhaupt erst in Armut geraten. Ein gerechter Lohn ist die Basis, dass Menschen ein gutes Leben führen können. Es gibt derzeit Bereiche in der österreichischen Wirtschaft, in denen Löhne gezahlt werden, die unter den niedrigsten Kollektivvertragslöhnen der gewerblichen Wirtschaft liegen. Diese Lücke soll unter Einbindung der Sozialpartner mit geeigneten Mitteln geschlossen werden. Erforderlichenfalls kann dieser Lückenschluss auch auf anderem Wege erfolgen. (z.B. durch das Bundeseinigungsamt). Auch im Bereich der bestehenden Kollektivverträge gibt es Fälle, in denen die Löhne bereits seit mehreren Jahrzehnten nicht mehr angehoben wurden. Wenn eine sozialpartnerschaftliche Einigung zur Lösung dieses Problems nicht zustande kommt, soll die Möglichkeit geschaffen werden, eine Entscheidung durch das Bundeseinigungsamt herbeizuführen.
 
 Österreich zeichnet sich durch ein Sozialsystem aus, auf das sich die Menschen in der Vergangenheit verlassen konnten, aber auch in Zukunft verlassen können, welches sie in Notlagen existenziell absichert, bestmöglich vor Armut schützt sowie die Chance bietet, neue Perspektiven zu entwickeln, anzustreben und zu erreichen. Das Sozialsystem ist daher als Schutzsystem zu begreifen und soll Erwerbsteilhabe fördern und unterstützen. Ziel ist sowohl die soziale Absicherung von durch Armut betroffenen Menschen als auch die Möglichkeit der Teilhabe am gesellschaftlichen und kulturellen Leben ohne Ausgrenzung und Diskriminierung.
 
-Ein besonderes Augenmerk legt die Bundesregierung auf die Bekämpfung von Kinderarmut. Kein Kind darf in Österreich zurückgelassen werden. Besonders Alleinerziehende sind Mehrfachbelastungen ausgesetzt, die ihren Familienalltag erschweren, und können s  * leichter in armutsgefährdete Lebenslagen geraten. Deshalb sind bestehende Lücken im Unterhaltsvorschuss zu schließen. W  * Familien nicht selbst (z.B. durch Erwerbsbeteiligung) für die finanzielle Absicherung sorgen können, wird diese durch Sozialleistungen sichergestellt. Außerdem wird der Kindermehrbetrag des Familienbonus erhöht und allen Erwerbstätigen mit Kindern als Negativsteuer ausbezahlt.
+Ein besonderes Augenmerk legt die Bundesregierung auf die Bekämpfung von Kinderarmut. Kein Kind darf in Österreich zurückgelassen werden. Besonders Alleinerziehende sind Mehrfachbelastungen ausgesetzt, die ihren Familienalltag erschweren, und können so leichter in armutsgefährdete Lebenslagen geraten. Deshalb sind bestehende Lücken im Unterhaltsvorschuss zu schließen. Wo Familien nicht selbst (z.B. durch Erwerbsbeteiligung) für die finanzielle Absicherung sorgen können, wird diese durch Sozialleistungen sichergestellt. Außerdem wird der Kindermehrbetrag des Familienbonus erhöht und allen Erwerbstätigen mit Kindern als Negativsteuer ausbezahlt.
 
 Altersarmut kann aber nicht nur im Alter verhindert werden. Ein wichtiger Schlüssel dazu liegt in der Erwerbsphase. Die Bundesregierung wird daher zahlreiche Maßnahmen setzen, um Fraueneinkommen zu erhöhen. In der Pension kommen besonders auf Frauen oft finanziell sehr große Herausforderungen zu. Mit gezielten Maßnahmen für diese Gruppe wollen wir die Frauenaltersarmut mindern. Um Altersarmut v.a. von Frauen zu bekämpfen, überprüfen wir partnerschaftliche Formen der Elternteilzeit und Pensionssplittingmodelle.
 
 Paket zur Armutsbekämpfung
 --------------------------
 
-- Stärkung von Familien mit niedrigen Einkommen im Zuge der Steuerreform durch die Senkung des Eingangsteuersatzes bei der Einkommensteuer von 25% auf 20% sowie der Erhöhung der Untergrenze des Familienbonus von 250 auf 350 Eur  * pr  * Kind und des Gesamtbetrages von 1.500 auf 1.750 Eur  * pr  * Kind
+- Stärkung von Familien mit niedrigen Einkommen im Zuge der Steuerreform durch die Senkung des Eingangsteuersatzes bei der Einkommensteuer von 25% auf 20% sowie der Erhöhung der Untergrenze des Familienbonus von 250 auf 350 Euro pro Kind und des Gesamtbetrages von 1.500 auf 1.750 Euro pro Kind
 
 - One-Stop-Shop Ausbau für Erwerbsfähige und der aktivierenden Hilfe (Case-Management)
 
@@ -31,7 +28,7 @@ Paket zur Armutsbekämpfung
 - Einführung eines bundesweiten, praxistauglichen Kältetelefons
 
 Bedarfsgerechte Ressourcen für unsere Schulen
----------------------------------------------
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 - Bereitstellung von Supportpersonal: Schulisches Unterstützungspersonal (administrativ und psychosozial) bedarfsgerecht aufstocken, damit sich Pädagoginnen und Pädagogen auf bestmöglichen Unterricht konzentrieren können
 
@@ -52,7 +49,6 @@ Bedarfsgerechte Ressourcen für unsere Schulen
 
   * Wir setzen uns als Bundesregierung für eine Bund-Länder-Vereinbarung zum möglichst flächendeckenden, qualitätsvollen, VIF-konformen Ausbau elementarer Bildungsplätze ein (Kindergärten und Kinderkrippen für unter 3-Jährige) zur Erreichung der Barcelona-Ziele – inklusive der bedarfsgerechten Errichtung von Betriebskindergärten und -kindergruppen.
   * Der Zweckzuschuss in der 15a-Vereinbarung in der Elementarpädagogik wird ab dem Kindergartenjahr 2020/21 wesentlich erhöht.
-
   * Um den raschen weiteren Ausbau von qualitätsvollen Bildungsplätzen in elementarpädagogischen Bildungseinrichtungen sicherzustellen und den Betreuungsschlüssel zu verbessern, startet die Bundesregierung eine Ausbildungsoffensive für Elementar pädagoginnen und -pädagogen, insbesondere in den berufsbegleitenden Kollegs für Elementarpädagogik.
 
 - Weiterentwicklung von Fördermaßnahmen für Kinder mit Förderbedarf aus dem Kindergarten bei Eintritt in die Volksschule bis zur neuerlichen Überprüfung der Förderwürdigkeit. Das bestehende Schulreifescreening wird evaluiert.
@@ -126,6 +122,7 @@ Gemeinnützigkeit, ehrenamtliches Engagement, Freiwilligentätigkeit und Zivilge
 - Inklusion und Integration in Zivilgesellschaft und Ehrenamt fördern
 
 Freiwilliges Soziales Jahr (FSJ)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 - Aufwertung des Freiwilligen Sozialen Jahres (FSJ) bei gleichzeitiger Attraktivität des Zivildienstes
 
@@ -134,6 +131,7 @@ Freiwilliges Soziales Jahr (FSJ)
   * Allfällige Anrechnung des FSJ auf einschlägige Ausbildungen im sozialen Bereich
 
 Gedenkdienst stärken
+^^^^^^^^^^^^^^^^^^^^
 
 - Aufwertung des Gedenkdienstes
 

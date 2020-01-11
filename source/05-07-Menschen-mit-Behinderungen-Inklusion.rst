@@ -4,9 +4,6 @@ Menschen mit Behinderungen/Inklusion
 
 :download:`Kapitel als PDF <../split/05-07-Menschen-mit-Behinderungen-Inklusion.pdf>` (Teil des :download:`Originals <../original/RP2020.pdf>`).
 
-.. todo::
-   Überarbeiten, Original gegenchecken
-
 Österreich hat im Jahr 2008 die UNBehindertenrechtskonvention – mit dem Ziel, die Inklusion von Menschen mit Behinderungen in die Gesellschaft sicherzustellen – ratifiziert. Die nächsten Jahre sind nun der intensiven Umsetzung zu widmen. Ziel ist es, unter Einbeziehung aller Ministerien und Selbstvertreterinnen und Selbstvertreter inklusive Maßnahmen zu erarbeiten und zeitnah umzusetzen. Der barrierefreie Zugang ist nicht nur physisch zu begreifen, sondern auch als elementarer Bestandteil des Zugangs zu Information, Leistungen, Beratung und Betreuung. Hier trägt jeder Politikbereich im Sinne der Inklusion Verantwortung, auf die Bedürfnisse und Interessen von Menschen mit Behinderungen einzugehen.
 
 Die Bundesregierung bekennt sich zu klaren Maßnahmen, die eine bestmögliche Inklusion von Menschen mit Behinderung in die Gesellschaft und in die Arbeitswelt ermöglichen und vorhandene Barrieren in allen Lebensbereichen beseitigen. Generell gilt es, Unterstützungsleistungen für Menschen mit Behinderung niederschwelliger und einfacher anzubieten sowie den bürokratischen Aufwand so klein wie möglich zu halten.
