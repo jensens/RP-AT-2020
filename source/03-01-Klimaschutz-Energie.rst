@@ -4,9 +4,6 @@ Klimaschutz & Energie
 
 :download:`Kapitel als PDF <../split/03-01-Klimaschutz-Energie.pdf>` (Teil des :download:`Originals <../original/RP2020.pdf>`).
 
-.. todo::
-  Original gegenchecken
-
 Die besorgniserregende Veränderung unseres Klimas ist eine der größten Herausforderungen unserer Generation – in ökologischer, ökonomischer und sozialer Hinsicht. Die österreichische Bundesregierung bekennt sich zu ihrer Verantwortung, die notwendigen Schritte und Weichenstellungen vorzunehmen, um dieser Herausforderung auf allen Ebenen gerecht zu werden und die Ziele des Pariser Klimaschutzabkommens zu erfüllen. Wir betrachten Klimaschutzmaßnahmen als bedeutende Chance für Gerechtigkeit sowie für die zukunftsfähige Entwicklung von Wirtschaft und Arbeitsplätzen in Österreich. Diese Chancen gilt es zu nutzen - Österreich hat die besten Voraussetzungen dafür. Gemeinsam können wir das Ziel eines klimaneutralen Österreichs bis spätestens 2040 erreichen und in Europa zum Vorreiter im Klimaschutz werden. Für uns bedeutet das selbstverständlich, dass Atomkraft keine Alternative ist, sondern, dass wir ausschließlich auf Erneuerbare Energieträger setzen.
 
 Der klimagerechte Umbau aller Sektoren, insbesondere des Energiesystems und der Infrastruktur, erfolgt unter Berücksichtigung der Kosten für Haushalte und Unternehmen. Soziale Härtefälle werden jedenfalls vermieden und auch Unternehmen werden bei der Transformation und den notwendigen Anpassungsmaßnahmen unterstützt.
@@ -87,6 +84,7 @@ Die Weichen richtig stellen: notwendige horizontale Maßnahmen
   * Fortführung wichtiger Klimaschutzprogramme wie klima.aktiv, Klima- und Energiemodellregionen, e5-Programme und Klimabündnis-Gemeinden
 
 - Umweltbundesamt
+
   * Evaluierung des Umweltkontrollgesetzes im Hinblick auf die Stärkung der wissenschaftlichen Unabhängigkeit
   * Absicherung einer ausreichenden Basisfinanzierung
 
@@ -147,6 +145,7 @@ Gebäude: Nachhaltig und energiesparend heizen, kühlen, bauen und sanieren
   * Weiterentwicklung der Wohnbauförderung im Sinne einer Orientierung an Klimaschutzzielen unter besonderer Berücksichtigung raumordnungsrelevanter Aspekte, wie z.B. Bebauungsdichte, Quartiersqualitäten, ÖV-Erschließung etc.
 
 - Einführung eines sozialverträglichen Sanierungsgebots
+
   * für sich rasch amortisierende Maßnahmen wie beispielsweise die Dämmung der obersten Geschoßdecke
   * begleitet durch geförderte Beratungen sowie spezielle Förderangebote
   * mit Ausnahmeregelungen und Schwellenwerten
@@ -155,7 +154,6 @@ Gebäude: Nachhaltig und energiesparend heizen, kühlen, bauen und sanieren
 - Steigerung der Sanierungsqualität und damit rasche Verbrauchsreduktion und Kostenersparnis für die Haushalte, insbesondere durch folgende Maßnahmen:
 
   * Erstellung eines Sanierungskonzepts bei jeder geplanten größeren Renovierungsmaßnahme (nach Vorbild Energieausweis), mit dem Ziel, sinnvolle Sanierungsabfolgen zu gewährleisten und für maximale Verbrauchsreduktion zu möglichst geringen Kosten zu sorgen
-
   * Umsetzung der Leitlinien für bauökologisch vorteilhafte Sanierungen gemäß Energieeffizienzgesetz (§16 Abs. 13)
   * Weiterführung des Förderschwerpunkts für ökologisch vorteilhafte Sanierungen
 
@@ -217,7 +215,7 @@ Erneuerbare Energie für eine saubere Zukunft
 
 - Aufbauend auf die bisherige Arbeit – die #mission2030 und den Nationalen Energie- und Klima-Plan – sollen folgende Maßnahmen gesetzt werden:
 
-  * Klare Zieldefinition für die Steigerung des Anteils von erneuerbaren Energien am nationalen Gesamtverbrauch: 100 % (national bilanziell) Strom aus erneuerbaren Energiequellen bis 2030
+  * Klare Zieldefinition für die Steigerung des Anteils von erneuerbaren Energien am nationalen Gesamtverbrauch: 100% (national bilanziell) Strom aus erneuerbaren Energiequellen bis 2030
   * Verstärkte Nutzung und Koppelung von in Österreich vorhandenen Ressourcen zur nachhaltigen Erzeugung von erneuerbarer Energie in allen Anwendungsbereichen (Strom, Wärme und Kälte, Mobilität)
   * Konkrete Maßnahmen zur Steigerung der Energie- und Versorgungssicherheit in Österreich durch den erleichterten Ausbau bestehender und Errichtung neuer Energieerzeugungsanlagen für erneuerbare Energien
   * Ausbau heimischer Ressourcen statt Energieimporte
@@ -360,7 +358,6 @@ Industrie und Gewerbe: ein Green Deal für Österreichs Wirtschaft
 - Umfassende, sektorübergreifende Klima- und Kreislaufwirtschaftsstrategie mit prioritärer Ausrichtung auf die besonders energie- und emissionsintensiven Sektoren Stahlerzeugung, Chemie und Zement sowie die Abfallwirtschaft. Sie orientiert sich einerseits an den Pariser und europäischen Klimazielen, andererseits an der EU Circular Economy Strategy und dem EU Circular Economy Action Plan. Die zentrale Herausforderung besteht in der Technologieentwicklung in Richtung industrieller Skalierung und Umsetzung neuer, CO2-armer bzw. CO2-zirkulärer Prozesstechnologien sowie deren wirtschaftlicher Darstellbarkeit. Die sektorübergreifende Koppelung von Klima- und Kreislaufwirtschaftsstrategie erfordert eine rasche Transformation des Energiesystems hin zu gesamtsystemischer Energieeffizienz und zu erneuerbaren Energietechnologien bei gleichzeitigem Erhalt internationaler Wettbewerbsfähigkeit, nachhaltiger Standortsicherung und der Positionierung Österreichs als internationaler Vorreiter:
 
   * Nutzung bestehender Instrumente für sektorenübergreifende Cluster-Initiativen zur Abdeckung von Mehrkosten für die Technologieentwicklung und -um-stellung auf nationaler und europäischer Ebene (EU-ETS-Innovationsfonds, Horizon Europe, European Cluster Collaboration Platform [IPCEI]).
-
   * Spezielle Förderungen für industrielle Cluster-Leitprojekte von Branchenführern, bei denen Klimaschutz, F&E und Innovation einen hohen Stellenwert genießen, durch obengenannte Instrumente
 
 - Förderung der Energieeffizienz in der Produktion in Industrie- und Gewerbeunternehmen sowie der Erzeugnisse über deren Lebenszyklus, Einrichtung von Anreizsystemen für Unternehmen zum Ersatz ineffizienter Technologien
