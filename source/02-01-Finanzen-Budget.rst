@@ -4,9 +4,6 @@ Finanzen & Budget
 
 :download:`Kapitel als PDF <../split/02-01-Finanzen-Budget.pdf>` (Teil des :download:`Originals <../original/RP2020.pdf>`).
 
-.. todo::
-  Original gegenchecken
-
 Ein funktionierendes und verlässliches Wirtschafts- und Finanzsystem bildet dieGrundlage für den Erhalt unseres Wohlstandes, sichert die nachhaltige Finanzierung unseres Sozialstaates und spielt eine Schlüsselrolle in der Bewältigung neuer Herausforderungen wie der Globalisierung, des Klimaschutzes und der Digitalisierung.
 
 Die Bundesregierung bekennt sich zu einer Finanz- und Budgetpolitik, die fiskalische Stabilität sicherstellt und den heimischen Unternehmerinnen bzw. Unternehmern und Arbeitnehmerinnen bzw. Arbeitnehmern Planungssicherheit bietet. Der Staat soll dabei mit gutem Beispiel vorangehen und mit dem Geld der Steuerzahlenden sorgsam umgehen, während er überall dort, w  * es sinnvoll und notwendig ist, Spielräume schafft, um durch öffentliche Investitionen das Allgemeinwohl zu fördern.
