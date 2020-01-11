@@ -18,7 +18,7 @@
 # -- Project information -----------------------------------------------------
 
 project = 'Inoffizielles PDF-befreites Österreichisches Regierungsprogramm 2020-2024'
-copyright = '2020, Die neue Volkspartei/ Die Grünen – Die Grüne Alternative'
+copyright = '2020, erstellt und publiziert durch "Die neue Volkspartei/ Die Grünen – Die Grüne Alternative", maschinenlesbar und barrierefrei bearbeitet von Jens Klein und Robert Harm und Helfern'
 author = 'Die neue Volkspartei/ Die Grünen – Die Grüne Alternative - bearbeitet zur HTML Darstellung von Jens Klein und Helfern'
 
 # The full version, including alpha/beta/rc tags

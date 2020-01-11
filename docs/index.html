@@ -520,6 +520,7 @@ Hier ist Zugänglichkeit und Offenheit wichtig.
 Das ist für OpenData wichtig.
 Ein PDF ist kein OpenData, kein offenes Dokument.
 Reiner Text als Quelle und daraus ordentlich generiertes HTML sind hier meiner Meinung nach eine gute Lösung.
+Durch semantisches Markup wird der Text maschinenlesbar.
 Zudem ist der Zugang so technisch niederschwellig.
 Es müssen keine komplexen Systeme mit hohen Kosten, wie z.B. CMS dazu verwendet werden.</p>
 <div class="section" id="technik-manueller-eingriff">
@@ -528,12 +529,13 @@ Es müssen keine komplexen Systeme mit hohen Kosten, wie z.B. CMS dazu verwendet
 Da PDF kein strukturiertes Dokumentenformat ist (sondern ein Seitenbeschreibungsformat) kann der Text nicht perfekt heraus geholt werden.
 Wen die Hintergründe dazu interessieren:
 Die 30 Minuten Video <a class="reference external" href="https://www.youtube.com/watch?v=k34wRxaxA_c">How to Extract Text Contents from PDF</a> (3 Teile) erklären das ganz gut.</p>
-<p>Vor dem extrahieren habe ich mit <a class="reference external" href="https://pdfsam.org/de/">PDFSAM Basic</a> das lange Original-PDF Kapitelweise in kleinere PDFs zerlegt.
+<p>Vor dem Extrahieren habe ich mit <a class="reference external" href="https://pdfsam.org/de/">PDFSAM Basic</a> das lange Original-PDF Kapitelweise in kleinere PDFs zerlegt.
 Die Dateien habe ich dann einigermassen sinnvoll benannt.
 Danach habe ich mit <a class="reference external" href="https://pypi.org/project/pdfminer/">PDFMiner</a> so gut wie möglich den Text pro Datei extrahiert.</p>
 <p>Dann habe ich habe ich <a class="reference external" href="https://www.sphinx-doc.org">Sphinx</a> verwendet um strukturiertes HTML daraus zu generieren.
-Der verwendete Markup ist <a class="reference external" href="https://www.sphinx-doc.org/en/2.0/usage/restructuredtext/basics.html#">RestructurendText</a> (ähnlich Markdown, aber für komplexere Dokumente besser geeignet).</p>
-<p>Da da der extrahierte Text nur recht grob ist, war jetzt die manuelle Überarbeitung dran:</p>
+Der verwendete Markup ist <a class="reference external" href="https://www.sphinx-doc.org/en/2.0/usage/restructuredtext/basics.html#">RestructurendText</a> - aba ReST - (ähnlich Markdown, aber für komplexere Dokumente besser geeignet).</p>
+<p>Durch das semantische Format ReST wird der Text maschinenlesbar, was auch ein Anspruch bei OpenData ist.</p>
+<p>Da da der extrahierte Text teilweise ziemlich chaotisch ist, war jetzt die manuelle Überarbeitung dran:</p>
 <ul class="simple">
 <li><p>es mussten Formatierungen eingefügt werden:</p>
 <ul>
@@ -543,9 +545,7 @@ Der verwendete Markup ist <a class="reference external" href="https://www.sphinx
 <li><p>Umbrüche und Trennzeichen sind oft an falschen Stellen.</p></li>
 </ul>
 </li>
-</ul>
-<p>Dann hat es leider Text durcheinander gewürfelt:</p>
-<ul class="simple">
+<li><p>Es hat leider auch Text/Absätze/Spalten durcheinander gewürfelt:</p></li>
 <li><p>Spalten, die im Original-nicht richtig im Fluss definiert wurden, werden leider oft durcheinander gebracht;</p></li>
 <li><p>Ist das PDF im Entstehungsprozess überarbeitet worden, stehen diese neuen Wörter oft am Ende des Blocks;</p></li>
 <li><p>Teilweise sind auch noch Textfragmente von vor der Überarbeitung drinnen.</p></li>
@@ -555,8 +555,8 @@ Der verwendete Markup ist <a class="reference external" href="https://www.sphinx
 <h3>Barrierefreiheit<a class="headerlink" href="#barrierefreiheit" title="Link zu dieser Überschrift">¶</a></h3>
 <p>Aufgrund der technischen Probleme mit dem PDF, gehe ich davon aus, dass Menschen mit eingeschränkter Sehfähigkeit (welche einen Screenreader oder eine Braillezeile verwenden) ebenso einige Problem haben das PDF korrekt zu lesen.
 Vielleicht irre ich mich auch, Rückmeldungen gerne an mich.
-Ich habe das jetzt produzierte statische HTML auch noch nicht daraufhin getestest.
-Es sollte aber von vornherein besser sein als das PDF.
+Ich habe das jetzt produzierte statische HTML mit <a class="reference external" href="https://wave.webaim.org/">WAVE/WebAIM</a> getestet.
+Bis auf kleines Kontrastproblem im Menu ist es barrierefrei.
 Das kann sicher noch verbessert werden.
 Für Vorschläge und Mithilfe bitte gerne an mich wenden.</p>
 </div>
@@ -568,7 +568,9 @@ Das <a class="reference external" href="https://github.com/jensens/RP-AT-2020">P
 <p>Grundsätzlich kann man dort eine/n Benutzer/in anlegen und im <cite>/source/</cite> Ordner auf der zu ändernden Datei auf bearbeiten (edit) klicken.
 Es wird eine Kopie im eigenen Ordner (Clone) gespeichert und dann über einen Pull-Request fragt ihr mich an, um die Änderungen zum übernehmen.
 Sobald ich den Pull-Request übernommen (merged) habe, werde ich das HTML neu generieren und die Änderungen kommen so online.</p>
-<p>Wer GIT kennt, kann sich auch eine lokale Arbeitskopie erstellen.</p>
+<p>Wer GIT kennt, kann sich auch eine lokale Arbeitskopie erstellen.
+Dann kann man auch Sphinx installieren und lokal den HTML-Generator laufen lassen.
+Bloss bitte das generierte HTML nicht im Pullrequest inkludieren, sonst kann es zu Konflikten im Git kommen.</p>
 <p>Bei Fragen dazu könnt ihr mich gerne kontaktieren:
 - E-Mail <a class="reference external" href="mailto:jk&#37;&#52;&#48;kleinundpartner">Jens Klein</a>
 - Twitter: <a class="reference external" href="https://twitter.com/yenzenz">yenzenz</a>
@@ -577,10 +579,9 @@ Sobald ich den Pull-Request übernommen (merged) habe, werde ich das HTML neu ge
 <div class="section" id="beteiligte">
 <h3>Beteiligte<a class="headerlink" href="#beteiligte" title="Link zu dieser Überschrift">¶</a></h3>
 <dl class="simple">
-<dt>Jens Klein</dt><dd><p>Idee, Initiator, Technik, Überarbeitung</p>
+<dt>Jens Klein</dt><dd><p>Idee, Initiator, Technik, Überarbeitung. <a class="reference external" href="http://kleinundpartner.at">Klein &amp; Partner KG</a></p>
 </dd>
-<dt>Robert Harm</dt><dd><p>Überarbeitung der meisten Kapitel.
-Verbreitung via <a class="reference external" href="https://www.open3.at/">Open3</a></p>
+<dt>Robert Harm</dt><dd><p>Überarbeitung der meisten Kapitel und Publikation auf <a class="reference external" href="https://www.open3.at/">Open3</a></p>
 </dd>
 </dl>
 </div>
@@ -651,7 +652,7 @@ Verbreitung via <a class="reference external" href="https://www.open3.at/">Open3
     </div>
 
     <div class="mdl-mini-footer__right-section">
-        <div>&copy; Copyright 2020, Die neue Volkspartei/ Die Grünen – Die Grüne Alternative.</div>
+        <div>&copy; Copyright 2020, erstellt und publiziert durch &#34;Die neue Volkspartei/ Die Grünen – Die Grüne Alternative&#34;, maschinenlesbar und barrierefrei bearbeitet von Jens Klein und Robert Harm und Helfern.</div>
       <div>Generated by <a href="http://sphinx.pocoo.org/">Sphinx</a> 2.3.1 using <a href="https://github.com/myyasuda/sphinx_materialdesign_theme">sphinx_materialdesign_theme</a>.</div>
     </div>
 </footer>
