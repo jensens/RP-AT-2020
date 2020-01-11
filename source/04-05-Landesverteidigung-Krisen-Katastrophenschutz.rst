@@ -2,9 +2,6 @@
 Landesverteidigung und Krisen- und Katastrophenschutz
 ------------------------------------------------------
 
-.. todo::
-  Formatieren, Überarbeiten, Original gegenchecken
-
 Österreich liegt heute als neutrales Land im Herzen eines geeinten und friedlichen Europas. Dennoch müssen wir neue Herausforderungen und Bedrohungen ernst nehmen und entsprechend vorbereitet sein.
 
 Auch und gerade weil sich die Anforderungen an eine umfassende Sicherheitsvorsorge und die in ihr eingebettete umfassende Landesverteidigung in unserem Land verändert haben, braucht es ein modernes, weiterentwickeltes, vielseitig einsetzbares Bundesheer. Deshalb muss sichergestellt sein, dass das Bundesheer ausreichend finanziell, personell und materiell ausgestattet ist, um weiterhin den Herausforderungen der Gegenwart, aber auch den Bedrohungen der Zukunft kompetent begegnen zu können. Das bedeutet, die Einsatzfähigkeit unseres Bundesheeres im In- und Ausland zielorientiert zu verbessern und den Grundwehr- und Zivildienst attraktiver zu machen. Darüber hinaus wollen wir Schwerpunkte auf die Bereiche Krisenund Katastrophenmanagement sowie neue Bedrohungsbilder wie etwa Cyber- Attacken legen. Denn unser Bundesheer ist die Sicherheitsgarantie, auf die wir uns alle verlassen.
@@ -15,6 +12,7 @@ Landesverteidigung
 ------------------
 
 Rahmenbedingungen der österreichischen Sicherheitspolitik
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 - Österreich ist als Mitglied der Europäischen Union Teil eines erfolgreichen Friedensprojekts (mit Vorbildcharakter) und an unseren unmittelbaren Landesgrenzen von keinen Feinden umgeben. Österreichs Stellung mitten in der EU bietet eine umfassend ge änderte Sicherheits- und Friedensperspektive. Gleichzeitig müssen neue Bedrohungen ernst genommen werden.
 
@@ -24,11 +22,12 @@ Rahmenbedingungen der österreichischen Sicherheitspolitik
 
 - Diese steht nicht im Widerspruch zur Solidarität innerhalb der Europäischen Union.
 
-- Erforderlich ist daher eine Weiterentwicklung der österreichischen Sicherheitspolitik, unter dem Aspekt der Bewahrung der Neutralität und der Änderung der sicherheitsp  * litischen Aufgaben in Europa.
+- Erforderlich ist daher eine Weiterentwicklung der österreichischen Sicherheitspolitik, unter dem Aspekt der Bewahrung der Neutralität und der Änderung der sicherheitspolitischen Aufgaben in Europa.
 
 - Klares Bekenntnis als neutrales Land zum Österreichischen Bundesheer als Sicherheitsgarantie und zur umfassenden Landesverteidigung entsprechend der Österreichischen Bundesverfassung sowie zur allgemeinen Wehrpflicht entsprechend dem Ergebnis der Volksbefragung vom 20. Jänner 2013
 
 Eine zukunftsfähige Struktur für das Bundesheer
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 - Ausstattung des Bundesheers mit den erforderlichen Ressourcen zur Erfüllung seines Auftrags
 
@@ -69,6 +68,7 @@ Eine zukunftsfähige Struktur für das Bundesheer
 - Evaluierung der Kooperationen mit privaten Vereinen und Institutionen
 
 Grundwehrdienst attraktiv machen
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 - Laufende Aufwertung der Stellungsstraße als erster Kontaktpunkt mit dem Österreichischen Bundesheer
 
@@ -89,6 +89,7 @@ Grundwehrdienst attraktiv machen
 - Schaffung einer rechtlichen Grundlage, dass eine Bescheinigung der Tauglichkeit von Zivildienern (auch nach Abgabe der Zivildiensterklärung) in Zukunft durch die Stellungsstraße erfolgt
 
 Neue Aufgaben mit neuer Struktur
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 - Sicherstellung und Weiterentwicklung der Kernkompetenzen des Österreichischen Bundesheeres unter Berücksichtigung der Eintrittswahrscheinlichkeiten von Bedrohungsszenarien
 
@@ -125,6 +126,7 @@ Neue Aufgaben mit neuer Struktur
 - Umsetzung der bereits eingeleiteten Hubschrauber-Beschaffung, als Nachfolge der auszumusternden fünfzigjährigen Alouette III, insbesondere im Hinblick auf Katastrophennotlagen
 
 Auslandseinsätze
+^^^^^^^^^^^^^^^^
 
 - Erstellung und Umsetzung eines gesamtstaatlichen Auslandseinsatzkonzepts samt entsprechenden Kriterien auf Basis der geltenden Rechtsgrundlagen, unter Einbindung aller relevanten Ministerien, um den gesamten Konfliktzyklus (Krisenprävention, Konfliktlösung, Mediation bis hin zur Friedenskonsolidierung) besser zu berücksichtigen
 

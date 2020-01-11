@@ -2,9 +2,6 @@
 Österreich in Europa und der Welt
 ---------------------------------
 
-.. todo::
-  Formatieren, Überarbeiten, Original gegenchecken
-
 Viele Herausforderungen unserer Zeit – vom Klimawandel, Welthandel bis hin zur Migration sind von globaler Dimension und können nicht in Österreich alleine gelöst werden. Dazu braucht es internationale Zusammenarbeit und eine enge Kooperation mit unseren Partnern in Europa und in der Welt. Als Bundesregierung bekennen wir uns deshalb dazu, den Weg einer aktiven Europa- und Außenpolitik weiterzugehen und auch in Zukunft die österreichischen Interessen zu vertreten und unsere Lösungskonzepte zu den großen Fragen unserer Zeit auf globaler wie auf EU Ebene einzubringen, um gemeinsame Lösungen zu erarbeiten.
 
 Die Europäische Union ist eine der größten Errungenschaften des 20. Jahrhunderts und das erfolgreichste Friedensprojekt unseres Kontinents. Die EU ist eine Verantwortungsund Solidargemeinschaft mit gemeinsamen Regeln. Sie steht für gemeinsame Werte wie Freiheit, Demokratie, Rechtsstaatlichkeit, Gleichberechtigung und Menschenrechte sowie für Wohlstand und wirtschaftlichen, sozialen und territorialen Zusammenhalt. Um diese Errungenschaften und unser einzigartiges europäisches Lebensmodell auch für die Zukunft zu wahren und weiterzuentwickeln, braucht es heute Veränderung: Einen neuen Vertrag für Europa, der dem Grundprinzip der Subsidiarität Rechnung trägt. Die von Kommissionspräsidentin Von der Leyen geplante „Konferenz zur Zukunft Europas“ soll auf diesem Weg eine wichtige Rolle spielen und die EU als starke Akteurin weiterentwickeln. Österreich wird darüber hinaus die Westbalkan- Staaten auch in Zukunft auf ihrem Weg in die Europäische Union unterstützen.
@@ -15,7 +12,9 @@ Wir bekennen uns darüber hinaus zum Ziel, die finanziellen Mittel für die Entw
 
 Europa
 ------
+
 Aufgaben und Zukunft der Europäischen Union
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 - Einsatz für einen Neuen Vertrag für Europa
 
@@ -41,7 +40,7 @@ Aufgaben und Zukunft der Europäischen Union
 - Unterstützung einer EU-Handelspolitik, die sich für umfassende internationale Handelsabkommen einsetzt.
 
   * Österreich wirkt auf europäischer und internationaler Ebene protektionistischen Tendenzen entschlossen entgegen. Eine proaktive multilaterale EU-Handelspolitik und die Vertiefung der bilateralen und regionalen Handelsbeziehungen haben Priorität. Denn eine starke Exportwirtschaft schafft Arbeitsplätze in der EU, insbesondere auch in Österreich, und sichert unseren Wohlstand.
-  * Zudem gilt es, durch eine Reform der WT  * das regelbasierte multilaterale Handelssystem zu stärken. Dazu gehören die nicht mehr zeitgemäße Einstufung von China als Entwicklungsland sowie eine strengere Ahndung bei Nicht-Einhaltung von Beihilfenrecht.
+  * Zudem gilt es, durch eine Reform der WTO das regelbasierte multilaterale Handelssystem zu stärken. Dazu gehören die nicht mehr zeitgemäße Einstufung von China als Entwicklungsland sowie eine strengere Ahndung bei Nicht-Einhaltung von Beihilfenrecht.
   * Bei allen Verhandlungen über Handelsabkommen fordern wir neben Transparenz und demokratischen Kontrollmöglichkeiten, dass Exportvereinbarungen unseren heimischen Unternehmen, Arbeitnehmerinnen und Arbeitnehmer sowie den Konsumentinnen und Konsumenten in Österreich zugutekommen.
   * Besonders wichtig sind uns der Erhalt hoher österreichischer Umwelt-, Konsumentenschutz- und Lebensmittelstandards sowie Transparenz und Rückverfolgbarkeit in den Lieferketten.
   * Handelsverträge müssen durchsetzbare Standards für soziale Rechte, öffentliche Dienstleistungen und Umwelt- und Klimaschutz sowie gegen Abholzung der Wälder, Sozialdumping und Bodenspekulation garantieren.
@@ -103,6 +102,7 @@ Aufgaben und Zukunft der Europäischen Union
 - Die EU erlebbar machen: Ziel ist es, dass alle 15- bis 20-Jährigen einmal in der Ausbildungszeit eine Woche nach Brüssel reisen und die EU-Institutionen kennenlernen.
 
 Erweiterung und Außenbeziehungen der EU
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 - Gemeinsame Außenpolitik mit einer Stimme:
 
@@ -123,6 +123,7 @@ Erweiterung und Außenbeziehungen der EU
 - Verstärkter Einsatz Europas zur Stabilisierung der Mittelmeer-Anrainerstaaten in der EU-Nachbarschaft
 
 Europäische Institutionen
+^^^^^^^^^^^^^^^^^^^^^^^^^
 
 - Einsatz Österreichs für Bürokratieabbau auf europäischer Ebene und eine Verschlankung der europäischen Institutionen mit dem Ziel
 
@@ -131,7 +132,7 @@ Europäische Institutionen
   * der Überprüfung der Arbeit der bestehenden EU-Agenturen in Hinblick auf ihre Zweckmäßigkeit und Qualität,
   * der Durchforstung aller EU-Rechtsakte und Streichung von nicht mehr notwendigen Regelungen,
   * der Prüfung der Schaffung eines Ablaufdatums für EU-Gesetze („Sunset Clause“) und 
-  * der Vermeidung von überbordenden Regelungen durch den Einsatz von Richtlinien vor Verordnungen, w  * es Sinn macht, um eine vereinfachte, transparente und bürgernahe Gesetzgebung zu gewährleisten.
+  * der Vermeidung von überbordenden Regelungen durch den Einsatz von Richtlinien vor Verordnungen, wo es Sinn macht, um eine vereinfachte, transparente und bürgernahe Gesetzgebung zu gewährleisten.
 
 - Aktiver und vorausschauender Informations austausch der Koalitionspartner im Hinblick auf zentrale Entscheidungen auf EU-Ebene. In diesem Sinne Stärkung der EU-Koordinationsfunktion des Bundeskanzleramtes zur Gewährleistung einer einheitlichen österreichischen Europapolitik. 
 
@@ -141,6 +142,7 @@ Außenpolitik
 ------------
 
 Inhaltliche Schwerpunkte österreichischer Außenpolitik
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 - Stärkung der Rolle Österreichs als Vermittler in internationalen Konflikten im Sinne einer aktiven und engagierten Friedensdiplomatie
 
@@ -170,7 +172,7 @@ Inhaltliche Schwerpunkte österreichischer Außenpolitik
 
 - Internationaler Beitrag im Kampf gegen die Verfolgung von Menschen aufgrund ihrer sexuellen Orientierung oder Geschlechtsidentität sowie Einsatz für die Fortführung des Amtes des Independent Expert for Sexual Orientation and Gender Identity und für die Umsetzung der LGBTI-Guidelines für die EU-Außenpolitik (2013)
 
-- Internationaler Beitrag im Kampf gegen die Verfolgung von nationalen und sprachlichen Minderheiten sowie Einsatz für die Fortführung des Amtes des UN Special Rapporteur on Minority Issues sowie Einsatz für die Umsetzung der UN Declaration on the Rights of Persons Belonging t  * National or Ethnic, Religious and Linguistic Minorities 
+- Internationaler Beitrag im Kampf gegen die Verfolgung von nationalen und sprachlichen Minderheiten sowie Einsatz für die Fortführung des Amtes des UN Special Rapporteur on Minority Issues sowie Einsatz für die Umsetzung der UN Declaration on the Rights of Persons Belonging to National or Ethnic, Religious and Linguistic Minorities 
 
 - Weiterführung der Schwerpunktthemen Rechtsstaatlichkeit, Kampf gegen Menschenhandel, Kampf gegen Rassismus, Stärkung der Frauenrechte (Aktionsplan zur Umsetzung der UN-Sicherheitsratsresolution 1325 „Frauen, Frieden, Sicherheit“ aus Anlass des 20-Jahr-Jubiläums 2020), Stärkung der Zivilgesellschaft, von Menschenrechtsaktivistinnen und –aktivisten sowie Journalistinnen und Journalisten und demokratischen Kräften
 
@@ -216,6 +218,7 @@ Inhaltliche Schwerpunkte österreichischer Außenpolitik
 - Klares Bekenntnis zum und Einsatz für das österreichische UNESCO-Weltkulturerbe
 
 Regionale Schwerpunkte der österreichischen Außenpolitik
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 - Fortsetzung der außenpolitischen Strategie Österreichs mit Schwerpunkt auf Schlüsselregionen und -staaten sowie auf die großen Herausforderungen unserer Zeit wie Sicherheit, Klimawandel, Migration und die Weltwirtschaft
 
@@ -237,6 +240,7 @@ Regionale Schwerpunkte der österreichischen Außenpolitik
   * Besondere Bedeutung kommt dabei der Wiederherstellung der seit Abgabe der Streitbeilegungserklärung 1992 verloren gegangenen Zuständigkeiten zu, sofern die Einschränkungen nicht auf Unionsrecht zurückzuführen sind.
 
 Multilaterales Engagement Österreichs
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 - Globale Probleme brauchen globale Lösungen. Österreich bringt sich und seine Interessen und Positionen aktiv in internationalen Organisationen ein und positioniert sich als verlässlicher Partner im Multilateralismus, etwa im Rahmen internationaler Organisationen wie UNO, OSZE, Europarat und EU. 
 
@@ -251,7 +255,7 @@ Multilaterales Engagement Österreichs
 - Österreich bzw. Wien als Sitz internationaler Organisationen und Ort für internationale Konferenzen und Kodifizierungsverhandlungen aktiv fördern. Festigung des Images von Österreich als internationalem Amtssitz
 
   * Ausbau des Amtssitzes Wien als Hub für Sicherheit und Nachhaltigkeit mit einem Fokus auf Energie, Entwicklung und Climate Diplomacy 
-  * Nachhaltige Modernisierung des Vienna International Centers in Zusammenarbeit mit der Stadt Wien und der UN  * mit dem Ziel einer Ausweitung der Aktivitäten und Organisationen
+  * Nachhaltige Modernisierung des Vienna International Centers in Zusammenarbeit mit der Stadt Wien und der UNO mit dem Ziel einer Ausweitung der Aktivitäten und Organisationen
   * Schaffung eines zeitgemäßen und umfassenden Amtssitzgesetzes, um die Attraktivität des Standorts Österreich weiter zu erhöhen
   * Österreich als Ort des Dialogs und der internationalen Diplomatie weiter stärken sowie die Sichtbarkeit im Austausch mitder Bevölkerung erhöhen
 
@@ -260,6 +264,7 @@ Multilaterales Engagement Österreichs
 - Schaffung einer nachhaltigen Finanzierungsgrundlage für die IACA (International Anti-Corruption Academy) in Zusammenarbeit mit den internationalen Partnern
 
 Österreichische Außenvertretung
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 - Professionelle konsularische Serviceleistungen für alle Österreicherinnen und Österreicher im Ausland sollen weiterhin nachhaltig gewährleistet werden können, insbesondere auch für Betroffene des Brexit (abhängig von der Form des Brexit).
 
@@ -280,6 +285,7 @@ Multilaterales Engagement Österreichs
 - Prüfung der Anpassung des KSE-BVG an geänderte Missionsprofile und Herausforderungen im Bereich der zivilen Einsätze des internationalen Krisen- und Konfliktmanagements
 
 Entwicklungszusammenarbeit
+--------------------------
 
 - Als Instrumente der Entwicklungspolitik tragen wesentlich Entwicklungszusammenarbeit (EZA), Humanitäre Hilfe sowie entwicklungspolitische Bildung dazu bei, Lebensperspektiven für Menschen in einem Umfeld sozialer und politischer Stabilität und eine nachhaltige Entwicklung – im Sinne der Agenda 2030 – zu ermöglichen. 
 
@@ -312,7 +318,7 @@ Entwicklungszusammenarbeit
   * Stärkung der wirtschaftlichen Kooperation und Zusammenarbeit mit Unternehmen stärken
   * Prüfung einer stärkeren Knüpfung von EZA-Mitteln an Fortschritte bei der Erreichung von gemeinsamen Zielen mit Partnerländern, die zu einer positiven Entwicklung im jeweiligen Land beitragen, wie Armutsbekämpfung, Verbot von Kinderarbeit, Einhaltung gewisser Standards im Arbeitsrecht, Klimaschutz
 
-- Bekenntnis zu einer fundierten Evaluierung der Wirksamkeit von EZA-Maßnahmen, s  * wie dies in allen Förderbereichen durchgeführt wird
+- Bekenntnis zu einer fundierten Evaluierung der Wirksamkeit von EZA-Maßnahmen, so wie dies in allen Förderbereichen durchgeführt wird
 
 - Schaffung von Anreizen für (österreichische) Firmen für Investitionen in relevanten Drittstaaten (z.B. Bankgarantien)
 

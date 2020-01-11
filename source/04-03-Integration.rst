@@ -2,9 +2,6 @@
 Integration
 -----------
 
-.. todo::
-  Formatieren, Überarbeiten, Original gegenchecken
-
 Österreich verstärkt sein Engagement für Integration und damit für ein gutes und gelingendes Miteinander. Ziel der Integration ist die gleichberechtigte Teilhabe am gesellschaftlichen Leben.
 
 Österreich ist ein weltoffenes christlich geprägtes Land, mit einem reichen kulturellen und religiösen Erbe, das dem Humanismus und der Aufklärung verpflichtet ist. Das Zusammenleben in unserer Gesellschaft gründet auf gegenseitiger Wertschätzung, Anerkennung und gleichen Rechten auf der Basis der Rechtstaatlichkeit, der Demokratie, der Gleichstellung und der Menschenrechte.
@@ -15,7 +12,7 @@ Integration als Querschnittsmaterie ist eine gesamtgesellschaftliche Aufgabe, di
 
 Die Österreichische Integrationspolitik orientiert sich weiterhin nach dem Prinzip „Integration durch Leistung“ und dem Grundsatz „Fördern und Fordern“. Der Staat fördert die Integration und fordert den aktiven Beitrag des Individuums. Integration ist ein wechselseitiger Prozess, der Bereitschaft und Anstrengungen von allen Seiten braucht.
 
-Eine offene Aufnahmegesellschaft ist Grundvoraussetzung für gelingende Integration und soll gefördert werden. Das aktive Bemühen von Zuwanderinnen und Zuwanderern ist ebens  * zu fördern. Gleichzeitig führen die fehlende Bereitschaft oder gar Verweigerung sowie Verstöße gegen unsere Werteordnung zu Konsequenzen und Sanktionen. Gegenseitiger Respekt sowie Respekt vor Verfassung und Rechtsstaat werden gelebt.
+Eine offene Aufnahmegesellschaft ist Grundvoraussetzung für gelingende Integration und soll gefördert werden. Das aktive Bemühen von Zuwanderinnen und Zuwanderern ist ebenso zu fördern. Gleichzeitig führen die fehlende Bereitschaft oder gar Verweigerung sowie Verstöße gegen unsere Werteordnung zu Konsequenzen und Sanktionen. Gegenseitiger Respekt sowie Respekt vor Verfassung und Rechtsstaat werden gelebt.
 
 Die Beherrschung der deutschen Sprache ist der Schlüssel zur Integration. Mehrsprachigkeit sehen wir als Chance. Als ein Land, in dem Bildung und wirtschaftliche Entwicklung großgeschrieben werden, baut Österreich auf die Bereitschaft aller Menschen, die hier leben, sich zu bilden und auszubilden und nach den eigenen Fähigkeiten Leistungen für das persönliche Fortkommen und die Entwicklung des Landes zu erbringen. Durch Bildung und die Beteiligung am Arbeitsmarkt wird die wirtschaftliche Selbsterhaltungsfähigkeit ermöglicht, die als ein wesentlicher Meilenstein eines gelungenen Integrationsprozesses erachtet wird.
 
