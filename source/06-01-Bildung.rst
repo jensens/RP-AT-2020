@@ -4,9 +4,6 @@ Bildung
 
 :download:`Kapitel als PDF <../split/06-01-Bildung.pdf>` (Teil des :download:`Originals <../original/RP2020.pdf>`).
 
-.. todo::
-  Original gegenchecken
-
 Bildung ist eine unserer wichtigsten Investitionen in die Zukunft. Sie ermöglicht die Entfaltung der Persönlichkeit und Talente, bewirkt mehr Chancengerechtigkeit, ebnet den Weg zu einer passenden Berufswahl und schafft so das Fundament für ökonomische Unabhängigkeit sowie für ein selbstbestimmtes Leben. Österreich hat ein gutes und starkes öffentliches Bildungssystem, das für alle offensteht. Gleichzeitig gibt es auch Bereiche, in denen wir besser werden müssen und wollen.
 
 Kinderbetreuungseinrichtungen und Schulen sind Orte der Gemeinschaft, an denen Gesellschaft entsteht. Wir wollen für diese ersten prägenden Lebensphasen einen stabilen, stützenden und schützenden Rahmen schaffen und damit Eltern auch die Sicherheit geben, dass ihre Kinder gut aufgehoben sind. Die Bundesregierung bekennt sich dazu, unser Bildungssystem zu stärken, indem wir auf Bewährtes aufbauen und nötige Reformen nach internationalen Erfolgsbeispielen umsetzen. Unser Ziel muss es sein, dass in Österreich kein junger Mensch das Bildungssystem verlässt, ohne die nötigen Grundkompetenzen zu beherrschen, die für ein selbstständiges Leben, gesellschaftliche und politische Teilhabe sowie Erfolg am Arbeitsmarkt notwendig sind.
@@ -53,7 +50,6 @@ Stärkung der elementaren Bildung
   * Lenkungsmaßnahmen zur Erhöhung des Männeranteils in der Elementarpädagogik
   * Prüfung einer erweiterten Zulassung von Menschen mit Behinderungen in BHS und Kollegs (BAfEP) für die Ausbildung zu Elementarpädagoginnen und -pädagogen
   * Forschung zur Elementarpädagogik ist im Rahmen der Forschungsförderung zu begrüßen.
-
 
 Deutschförderung im Bildungssystem
 ----------------------------------
@@ -114,6 +110,7 @@ Starke Schulen brauchen gute Organisation, bedarfsgerechte Ressourcen und modern
   * Gezielte Anwerbung mehrsprachiger Personen für das Pädagogikstudium auch im zweiten Bildungsweg (Kampagne)
 
 Bedarfsgerechte Ressourcen für unsere Schulen
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 - Bereitstellung von Supportpersonal: Schulisches Unterstützungspersonal (administrativ und psychosozial) bedarfsgerecht aufstocken, damit sich Pädagoginnen und Pädagogen auf den bestmöglichen Unterricht konzentrieren können
 
@@ -149,6 +146,7 @@ Bedarfsgerechte Ressourcen für unsere Schulen
   * Flexibilisierungsmöglichkeit der Arbeitszeit für Lehrerinnen und Lehrer auf freiwilliger Basis sowie Erarbeitung eines Jahresarbeitszeitmodells für Erzieherinnen und Erzieher zur Ermöglichung der Ferienbetreuung
 
 Schulorganisation verbessern
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 - Größtmögliche Bündelung der Bildungsagenden des Bundes (von der Elementarpädagogik bis zur Hochschule sowie Teilen der Erwachsenenbildung) im Bildungsministerium
 

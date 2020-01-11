@@ -4,9 +4,6 @@ Wissenschaft und Forschung
 
 :download:`Kapitel als PDF <../split/06-02-Wissenschaft-Forschung.pdf>` (Teil des :download:`Originals <../original/RP2020.pdf>`).
 
-.. todo::
-  Original gegenchecken
-
 Wissenschaft und Forschung sind Basis für gesellschaftlichen Fortschritt und Innovation. Die Bundesregierung bekennt sich dazu, den heimischen Hochschulen, ihren Mitarbeiterinnen und Mitarbeitern sowie den Studierenden bestmögliche Finanzierungs- und Planungs sicherheit in den kommenden Jahren zu gewährleisten, um Wissenschafts- und Lehrfreiheit zu garantieren und weiterzuentwickeln. Damit wollen wir auch in Zukunft Österreich zu einem attraktiven Standort für Lehrende und Studierende machen.
 
 Die begonnene Veränderung in der Hochschulfinanzierung ist ein wichtiger Schritt, der die Autonomie der Universitäten stärkt, Studienbedingungen verbessert, Internationalität gewährleistet und den wissenschaftlichen und künstlerischen Nachwuchs fördert. Dabei ist es ein besonderes Anliegen, das Studienrecht lebensnah und leistungsbezogen zu gestalten. Wir werden die Durchlässigkeit im Hochschulsektor stärken und auf eine freie, bedarfsgerechte Studienwahl achten, die nicht durch soziale Rahmenbedingungen eingeschränkt wird. Dies bedeutet auch, dass Maßnahmen ergriffen werden, die eine gezieltere Studienwahl sicherstellen und die Drop-out-Rate substanziell verringern. Darüber hinaus muss der Fachhochschulsektor bedarfsorientiert ausgebaut werden.
@@ -17,6 +14,7 @@ Wissenschaft: Verantwortungsvoll die Grundlage für die Gesellschaft der Zukunft
 -----------------------------------------------------------------------------------------
 
 Universitätsfinanzierung, Governance und Karriereentwicklung für den wissenschaftlichen Nachwuchs
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 - Sicherstellen des Universitätsbudgets bis 2027: Die Universitäten erhalten Finanzierungszusagen mit Indexierungen für die nächsten Leistungsvereinbarungsperioden bis 2027. Konsequente Fortführung und Weiterentwicklung der „Universitätsfinanzierung NEU“ mit allen eingeleiteten Umsetzungsschritten
 
@@ -42,6 +40,7 @@ Universitätsfinanzierung, Governance und Karriereentwicklung für den wissensch
 - Klimaschutz/Ökologie: Die öffentlichen Hochschulen sollen an der Österreichstrategie zum Standort- und Klimaschutz teilnehmen (z.B. Investitionen in klimaschonende Gebäude, Einsatz eigener Forschungskompetenz, Übertragung des Know-hows auf andere öffentliche Gebäude).
 
 Studienbedingungen und Studienwahl
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 - Novellierung des Studienrechts: Zur Novellierung des Studienrechts wird eine Arbeitsgruppe aus uniko, ÖH und BMBWF zur gemeinsamen Positionsentwicklung eingerichtet. Bestehende Vorarbeiten von uniko und ÖH sollen berücksichtigt werden. Ziel dieser Novellierung ist die Weiterentwicklung eines lebensnahen und leistungsbezogenen Studienrechts, das Verbindlichkeit fordert und Studierbarkeit fördert – zur Senkung der Drop-outs und Verkürzung der Studiendauer. Neuerungen sind jedenfalls bei folgenden Punkten notwendig:
 
@@ -78,6 +77,7 @@ Studienbedingungen und Studienwahl
 - Ziel ist es, Absolventinnen und Absolventen von den österreichischen Hochschulen auf dem Arbeitsmarkt zu halten. Dafür soll die Austria Business Agency gemeinsam mit dem AMS Maßnahmen erarbeiten.
 
 Qualitätssicherung und Profilbildung im Hochschulsektor
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 - Weiterentwicklung der Pädagogischen Hochschulen (PH)
 
@@ -104,7 +104,7 @@ Qualitätssicherung und Profilbildung im Hochschulsektor
 - Weiterbildung im tertiären Sektor und Lebenslanges Lernen: Neufassung der LLL-Strategie mit Fokus auf Integration der unterschiedlichen Bereiche und auch der unterschiedlich zu vergebenden Titel – unter Einbeziehung der hochschulischen Weiterbildung
 
 Schwerpunkt Bildungsexport und Internationalisierung setzen
------------------------------------------------------------
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 - Stärkung Österreichs als attraktiver Standort für internationale Studierende und Wissenschafterinnen und Wissenschafter. Verbesserte Kooperation der österreichischen Vertretungsbehörden mit der Fremdenrechtsbehörde und den wissenschaftlichen Einrichtungen
 
@@ -114,6 +114,7 @@ Forschung: Innovation und Wissenstransfer für globale Herausforderungen unserer
 ------------------------------------------------------------------------------------
 
 Forschungspolitik für zukünftige Herausforderungen gestalten und FTI-Strategie erstellen
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 - Erarbeitung einer ambitionierten FTI-Strategie 2030: Ausgehend von einer Analyse des Status quo und aktuellen Herausforderungen sollen Ziele der Forschungs-, Technologie- und Innovationspolitik für die nächsten zehn Jahre festgelegt und Handlungsfelder für die Umsetzung dieser Ziele definiert werden (im Einklang mit der Standortstrategie und Klimazielen). Diese Erarbeitung der neuen Strategie soll jedenfalls auf Basis der laufenden FTI-Reviews der OECD erfolgen.
 
@@ -132,6 +133,7 @@ Forschungspolitik für zukünftige Herausforderungen gestalten und FTI-Strategie
 - Beschluss des Forschungsfinanzierungsgesetzes: Aufbauend auf die FTI-Strategie soll ein Wachstumspfad beschlossen werden, der Forschungsförderung und der außeruniversitären Forschung mehrjährige Finanzierungs- und Planungssicherheit gibt. Gleichzeitig werden die Steuerung und das Finanzierungssystem der Einrichtungen vereinheitlicht und vereinfacht.
 
 Kompetitive Forschungsförderung in der Grundlagenforschung und angewandten Forschung ausbauen – Exzellenz fördern – Governance verbessern
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 - Bekenntnis zum FWF (Wissenschaftsfonds), aws und FFG als den zentralen Institutionen zur kompetitiven Vergabe von öffentlichen Forschungsmitteln im Bereich der Grundlagenforschung und der angewandten Forschung
 
@@ -168,6 +170,7 @@ Kompetitive Forschungsförderung in der Grundlagenforschung und angewandten Fors
   * Neustrukturierung des mittel- und langfristigen Finanzierungspfades von IST-A unter Wahrung der geteilten Verantwortung des Bundes und des Landes Niederösterreich
 
 Innovation durch Transparenz und Zugang zu wissenschaftlichen Daten
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 - Innovative Forschung wird möglich, wenn Datenbestände kombiniert und analysiert werden können, die für die Wissenschaft bisher verschlossen sind. Auch evidenzbasierte Politik und wissenschaftliche Evaluierungen werden dadurch in einer deutlich verbesserten Qualität möglich. Daher soll in Österreich ein „Austrian Micro Data Center“ und Datenzugänge für die Wissenschaft geschaffen werden:
 
@@ -186,6 +189,7 @@ Wissenstransfer, Internationale Beteiligungen und Forschungsinfrastrukturen
 ---------------------------------------------------------------------------
 
 Forschungspolitik für zukünftige Herausforderungen gestalten und FTI-Strategie erstellen
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 - Wissenstransfer zwischen Wissenschaft, Wirtschaft und Gesellschaft stärken
 
