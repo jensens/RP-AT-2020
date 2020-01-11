@@ -76,3 +76,9 @@ html_theme_options = {
     # https://github.com/myyasuda/sphinx_materialdesign_theme#html-theme-options
     'accent_color': 'deep_purple',
 }
+
+# -- Additional config -------------------------------------------------------
+# Language to be used for generating the HTML full-text search index. 
+# This defaults to the global language selected with language. If there is no 
+# support for this language, "en" is used which selects the English language.
+html_search_language = 'de'
