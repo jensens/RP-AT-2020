@@ -4,9 +4,6 @@ Medien
 
 :download:`Kapitel als PDF <../split/01-04-Medien.pdf>` (Teil des :download:`Originals <../original/RP2020.pdf>`).
 
-.. todo::
-  Original gegenchecken
-
 Wir bekennen uns zu einer Medienpolitik, die Grundwerte wie Pluralismus, Unabhängigkeit, Medien- und Pressefreiheit sowie Innovation sicherstellt und fördert. Zusätzlich sehen wir es als zentrale Aufgabe, auf die veränderten Rahmenbedingungen durch die fortschreitende Digitalisierung und Globalisierung zu reagieren. Digitale Technologien verändern die Art und Weise, wie Inhalte produziert, verbreitet und konsumiert werden. Das birgt Chancen, aber auch große Herausforderungen, die völlig neue Antworten und Ansätze erfordern.
 
 Österreichische Medien sehen sich einem ungleichen Wettbewerb mit international agierenden Plattformen ausgesetzt. Hier braucht es dringend faire Rahmenbedingungen, damit österreichische Medienunternehmen konkurrenzfähig bleiben. Klar ist: In der digitalen Welt müssen die gleichen Prinzipien gelten wie in der realen Welt! Gerade auch im Kampf gegen Hass und Gewalt im Netz müssen international agierende Plattformen stärker in die Verantwortung genommen werden.
