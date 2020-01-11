@@ -82,3 +82,14 @@ html_theme_options = {
 # This defaults to the global language selected with language. If there is no 
 # support for this language, "en" is used which selects the English language.
 html_search_language = 'de'
+
+
+# html_logo
+# If given, this must be the name of an image file (path relative to the 
+# configuration directory) that is the logo of the docs. It is placed at the 
+# top of the sidebar; its width should therefore not exceed 200 pixels. 
+# Default: None.
+
+html_logo = 'open3-logo.png'
+
+
