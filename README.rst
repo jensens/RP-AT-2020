@@ -74,8 +74,9 @@ Sobald ich den Pull-Request übernommen (merged) habe, werde ich das HTML neu ge
 Wer GIT kennt, kann sich auch eine lokale Arbeitskopie erstellen.
 
 Bei Fragen dazu könnt ihr mich gerne kontaktieren:
-E-Mail `Jens Klein <mailto:jk@kleinundpartner>`_
-Twitter: `yenzenz <https://twitter.com/yenzenz>`_
+- E-Mail `Jens Klein <mailto:jk@kleinundpartner>`_
+- Twitter: `yenzenz <https://twitter.com/yenzenz>`_
+- GitHub: erstellt einen `Issue auf github.com/jensens/RP-AT-2020/issues <https://github.com/jensens/RP-AT-2020/issues>`_.
 
 ----------
 Beteiligte
