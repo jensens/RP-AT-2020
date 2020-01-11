@@ -4,9 +4,6 @@ Kunst & Kultur
 
 :download:`Kapitel als PDF <../split/01-03-Kunst-Kultur.pdf>` (Teil des :download:`Originals <../original/RP2020.pdf>`).
 
-.. todo::
-  Original gegenchecken
-
 Für die weltweite Bedeutung Österreichs sind Kunst und Kultur ein wesentlicher Faktor. Ob es Kunst- und Kulturerbe oder zeitgenössische Kunst ist, ob es Volkskultur, Baukultur oder darstellende Kunst ist – Österreich zählt in allen künstlerischen und kulturellen Bereichen zu den Besten. Dabei ist stets zu bedenken, dass künstlerische Positionen einen wichtigen Beitrag dazu leisten können, aktuelle gesellschaftliche Herausforderungen wie etwa Klimawandel oder Integration im öffentlichen Bewusstsein zu verankern und Problemlösungsstrategien mit zu entwickeln.
 
 Wir wollen die Basis schaffen, damit wir auch in den kommenden Jahrzehnten das internationale Niveau beibehalten und weiter heben. Unser Ziel ist daher, zeitgenössische Kunst und Kultur aus Österreich weltweit zu stärken. Dafür müssen wir die bestmöglichen Rahmenbedingungen für die in der Kunst und Kultur Tätigen sowie für die vielfältigen kulturellen Einrichtungen – von der freien Szene bis zu großen Kulturinstitutionen – schaffen. Diese Rahmenbedingungen sollen gleichermaßen Innovation wie Planungssicherheit und soziale Unterstützung für Künstlerinnen und Künstler ermöglichen. Auch die musisch-kreative-künstlerische Ausbildung und Bildung als wichtiger Faktor einer positiven Persönlichkeitsentwicklung muss weiter forciert werden. Wir brauchen auch in Zukunft herausragende Künstlerinnen und Künstler sowie ein offenes und interessiertes Publikum. Das kreative und künstlerische Schaffen von heute ist das kulturelle Erbe von morgen.
@@ -44,7 +41,6 @@ Bundeskunst- und -kultureinrichtungen
 - Weiterführung und Ausbau Provenienzforschung
 
   * Provenienzforschung und Kunstrückgabe sind ein weltweites Erfolgsmodell und sollen jedenfalls aufgrund des Kunstrückgabegesetzes auch in der Stiftung Leopold weitergeführt werden. Die Provenienzforschung sollte jedenfalls auch bei Dauerleihgabenstattfinden.
-
   * Ein zusätzlicher Bereich soll für die postkoloniale Provenienzforschung und den Umgang mit human remains etabliert werden.
   * Die Provenienzforschung sollte in Zukunftim BDA angesiedelt sein.
 
