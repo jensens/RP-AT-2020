@@ -57,3 +57,13 @@ Bei Fragen dazu könnt ihr mich gerne kontaktieren:
 E-Mail `Jens Klein <mailto:jk@kleinundpartner>`_
 Twitter: `yenzenz <https://twitter.com/yenzenz>`_
 
+----------
+Beteiligte
+----------
+
+Jens Klein
+    Idee, Initiator, Überarbeitung
+
+Robert Harm
+    Überarbeitung der meisten Kapitel.
+    Idee zur Verbreitung via Open3
