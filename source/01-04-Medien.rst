@@ -5,201 +5,61 @@ Medien
 :download:`Kapitel als PDF <../split/01-04-Medien.pdf>` (Teil des :download:`Originals <../original/RP2020.pdf>`).
 
 .. todo::
-   Formatieren, Überarbeiten, Original gegenchecken
+  Formatieren, Überarbeiten, Original gegenchecken
 
-wie
+Wir bekennen uns zu einer Medienpolitik, die Grundwerte wie Pluralismus, Unabhängigkeit, Medien- und Pressefreiheit sowie Innovation sicherstellt und fördert. Zusätzlich sehen wir es als zentrale Aufgabe, auf die veränderten Rahmenbedingungen durch die fortschreitende Digitalisierung und Globalisierung zu reagieren. Digitale Technologien verändern die Art und Weise, wie Inhalte produziert, verbreitet und konsumiert werden. Das birgt Chancen, aber auch große Herausforderungen, die völlig neue Antworten und Ansätze erfordern.
 
-großen,  gleichsprachigen  Nachbarn  und
-Wir  bekennen  uns  zu  einer  Medienpolitik,
-konfrontiert.
-digitalen  Weltmarktführer
-die
-Pluralismus,
-Grundwerte
-Tragfähigkeit
-Die
-kreative
-und
-der
-Unabhängigkeit,  Medien-  und  Pressefreiheit
-Output  österreichischer  Medien
-sowie
-sowie
-Innovation  sicherstellt  und  fördert.
-Produzentinnen  und  Produzenten  muss
-Zusätzlich sehen wir es als zentrale Aufgabe,
-daher in seiner Vielfalt erhalten und gefördert
-auf  die  veränderten  Rahmenbedingungen
-werden,  um  eigenständige  österreichische
-durch  die
-fortschreitende  Digitalisierung
-Inhalte  weiter  entwickeln  zu  können.  Dafür
-und  Globalisierung  zu  reagieren.  Digitale
-braucht  es  eine  Stärkung  des  dualen
-Technologien  verändern  die  Art  und  Weise,
-Rundfunksystems unter Berücksichtigung des
-wie
-Inhalte  produziert,  verbreitet  und
-nichtkommerziellen  Sektors,  zum  Beispiel
-konsumiert werden. Das birgt Chancen, aber
-durch  Kooperation
-zwischen  Öffentlich-
-auch  große  Herausforderungen,  die  völlig
-Rechtlichem Rundfunk und privaten Rundfunk-
-neue Antworten und Ansätze erfordern.
-und Fernsehunternehmen im Zusammenhang
-mit
-sowie  anderen
-Österreichische  Medien
-sehen
-sich
-digitalen  Angeboten.  Der  Öffentlich-
-einem
-ungleichen  Wettbewerb  mit
-Rechtliche  Rundfunk  muss  dabei  an  die
-agierenden
-Plattformen
-international
-medialen Anforderungen der Zeit angepasst
-ausgesetzt.  Hier  braucht  es  dringend  faire
-und  die  dafür  notwendige,  unabhängige
-Rahmenbedingungen,  damit  österreichische
-Finanzierung erhalten.
-Medienunternehmen
-konkurrenzfähig
-In  der  digitalen  Welt
-bleiben.  Klar
-ist:
-müssen  die  gleichen  Prinzipien  gelten  wie
-in  der  realen  Welt!  Gerade  auch  im  Kampf
-gegen  Hass  und  Gewalt  im  Netz  müssen
-international agierende Plattformen stärker in
-die Verantwortung genommen werden.
-Medien
-und
-Information
-Aufklärung  maßgeblich  bei.  Wir  sehen  es
-als unsere Aufgabe, ein Medienangebot mit
-österreichischen und internationalen Inhalten
-für  unser  Land  und  seine  Bevölkerung,
-unter  anderem  durch  Berücksichtigung  und
-Stärkung des „Public Value“, sicherzustellen.
-Österreich  ist  dabei  mit  einem  zehnmal  so
+Österreichische Medien sehen sich einem ungleichen Wettbewerb mit international agierenden Plattformen ausgesetzt. Hier braucht es dringend faire Rahmenbedingungen, damit österreichische Medienunternehmen konkurrenzfähig bleiben. Klar ist: In der digitalen Welt müssen die gleichen Prinzipien gelten wie in der realen Welt! Gerade auch im Kampf gegen Hass und Gewalt im Netz müssen international agierende Plattformen stärker in die Verantwortung genommen werden.
 
-Internetplattformen
+Medien tragen zur Information und Aufklärung maßgeblich bei. Wir sehen es als unsere Aufgabe, ein Medienangebot mit österreichischen und internationalen Inhalten für unser Land und seine Bevölkerung, unter anderem durch Berücksichtigung und Stärkung des „Public Value“, sicherzustellen. Österreich ist dabei mit einem zehnmal s  * großen, gleichsprachigen Nachbarn und digitalen Weltmarktführer konfrontiert. Die Tragfähigkeit und der kreative Output österreichischer Medien sowie Produzentinnen und Produzenten muss daher in seiner Vielfalt erhalten und gefördert werden, um eigenständige österreichische Inhalte weiter entwickeln zu können. Dafür braucht es eine Stärkung des dualen Rundfunksystems unter Berücksichtigung des nichtkommerziellen Sektors, zum Beispiel durch Kooperation zwischen Öffentlich- Rechtlichem Rundfunk und privaten Rundfunkund Fernsehunternehmen im Zusammenhang mit Internetplattformen sowie anderen digitalen Angeboten. Der Öffentlich- Rechtliche Rundfunk muss dabei an die medialen Anforderungen der Zeit angepasst und die dafür notwendige, unabhängige Finanzierung erhalten.
 
-tragen
+Österreichischen und Europäischen Medienstandort stärken
+--------------------------------------------------------
 
-zur
+- Förderwesen weiterentwickeln
 
-Seite 54
+  * Schaffung eines Medienfonds (AVMD-Richtlinie nutzen), Ziele der Mittelverwendung definieren
+  * Umsetzung Copyright-Richtlinie - Schutz geistigen Eigentums
+  * Reform der Verwertungsgesellschaften im Interesse der Künstlerinnen und Künstler sowie anderer Urheberinnen und Urheber
+  * Digitalisierungsförderung – Geld für Wandel: projektbezogene Förderung nach festgelegten Kriterien
+  * Prüfung aller medienrelevanten Gesetze mit dem Ziel einer Harmonisierung und Vereinfachung
+  * Überprüfung der derzeitigen Vergabeund Förderkriterien
+  * Überprüfung der Kriterien der Inseratenvergabe der öffentlichen Verwaltung und staatsnaher Unternehmen
+  * Überprüfung des Medientransparenzgesetzes
+  * Überprüfung der Dotierung des Nichtkommerziellen Rundfunkfonds (NKRF) mit dem Ziel einer Erhöhung im Hinblick auf Entwicklung innovativer Medienformen.
 
-Regierungsprogramm 2020 – 2024Fahne Österreicho  Überprüfung  der  Dotierung  des  Nicht-
-kommerziellen Rundfunkfonds (NKRF) mit
-dem  Ziel  einer  Erhöhung  im  Hinblick  auf
-Entwicklung innovativer Medienformen.
+- Kampf gegen Hass im Netz
 
-Österreichischen und Europäischen
-Medienstandort stärken
-•  Förderwesen weiterentwickeln
-Medienfonds
-eines
-o  Schaffung
-(AVMD-Richtlinie nutzen), Ziele der Mittel-
-verwendung definieren
-o  Umsetzung  Copyright-Richtlinie  -  Schutz
-geistigen Eigentums
-o  Reform der Verwertungsgesellschaften im
-Interesse  der  Künstlerinnen  und  Künstler
-sowie anderer Urheberinnen und Urheber
-o  Digitalisierungsförderung – Geld für Wan-
-del:  projektbezogene  Förderung  nach
-festgelegten Kriterien
-o  Prüfung  aller  medienrelevanten  Gesetze
-mit  dem  Ziel  einer  Harmonisierung  und
-Vereinfachung
-o  Überprüfung  der  derzeitigen  Vergabe-
-und Förderkriterien
--  Überprüfung  der  Kriterien  der  Inseraten-
-vergabe  der  öffentlichen  Verwaltung  und
-staatsnaher Unternehmen
--  Überprüfung des Medientransparenzgesetzes
+  * Große Plattformen – Löschung von rechtswidrigen Inhalten, wirksame Beschwerdeverfahren, klar definierte Verantwortliche
 
-•  Kampf gegen Hass im Netz
-o  Große Plattformen – Löschung von rechts-
-widrigen  Inhalten,  wirksame  Beschwerde-
-verfahren, klar definierte Verantwortliche
-•  Schutz vor Desinformation
-•  Wirtschaftliche  Kooperation  ermöglichen  –
-Überprüfung  des  Wettbewerbsrechtes  hin-
-sichtlich kartellrechtlicher Bestimmungen in
-der Medienlandschaft
-•  Einsatz  für  zeitgemäße  europäische  Re-
-gulierung  –  Überarbeitung  der  E-Com-
-merce-Richtlinie
-•  Neues Geschäftsmodell der Wiener Zeitung
-mit  dem  Ziel  des  Erhalts  der  Marke  –  Ser-
-viceplattformen des Bundes bündeln
+- Schutz vor Desinformation
 
-Kooperation der dualen Medienlandschaft
-– Medienstandort Österreich stärken
-•  Ausbau  und  Stärkung  der  Ausbildung  von
-•  Wir stehen für einen unabhängig finanzier-
-Journalistinnen und Journalisten
-ten  öffentlich-rechtlichen  Rundfunk.  Not-
-wendig ist die gesetzliche Verankerung der
-stärkeren  Zusammenarbeit  zwischen  ORF
-•  Förderung des Medienstandorts Österreich
-und  Privaten  sowie  die  Anpassung  des  öf-
-und österreichischer Inhalte
-fentlich-rechtlichen Auftrags an das digitale
-Zeitalter  unter  Berücksichtigung  der  euro-
-o   Verstärkte  Förderung  zur  Produktion  von
-parechtlichen Rahmenbedingungen, wobei
-Inhalten  der  österreichischen  Filmwirt-
-ein  besonderer  Schwerpunkt  auf  regionale
-schaft und Creative Industries
-Vielfalt gelegt werden soll.
-o   Aufbau  eines  Öko-Systems  für  Innovati-
-•  Gemeinsamer  ORF-Player  zwischen  ORF
-onen  durch  enge  Verzahnung  von  Start-
-und Privaten mit öffentlich-rechtlich relevan-
-ups,  Forschungseinrichtungen  und  öf-
-ten Inhalten und nach Etablierung der Platt-
-fentlich-rechtlichen  sowie  kommerziellen
-form Einbeziehung weiterer öffentlicher Ein-
-Medienanbietern  zur  Förderung  von  In-
-richtungen
-novationen im Bereich VirtualReality (VR),
-Augmented Reality (AR), der Entwicklung
-•  Europäische Kooperationen forcieren
-von  Algorithmen,  Artificial
-Intelligen-
-ce  (AI),  immersive  Storytelling,  Second
-Screen  Technologien,  Personalisierung,
-•  Auf-  und  Ausbau  der  Verbreitung  der  ös-
-Podcasts,  Privacy,  Voice  und  SmartAs-
-terreichischen  Hörfunkangebote,  auch  des
-sistants  und  5G  Broadcast  mit  dem  Ziel,
-öffentlich-rechtlichen  Rundfunks,  auf  kos-
-Österreichs  internationale  Wettbewerbs-
-tenlosen  Podcast-Portalen;  zukunftsfähige
-fähigkeit zu unterstützen
-technische  Verbreitung  und  Teilnahme  an
-Plattformen wie Radioplayer (nach dem Vor-
-bild  der  BBC)  unter  Berücksichtigung  von
-•  Stärken des „Public Value“
-Urheber- und Verwertungsrecht
-•  Überprüfung und Überarbeitung des Fern-
-seh-Exklusivrechtegesetzes
-•  ORF-Archiv öffentlich sowie digital zugäng-
-lich  machen  unter  Klärung  der  rechtlichen
-Rahmenbedingungen  und  Erstellung  einer
-Benutzerordnung  nach  dem  Bundesarchiv-
-gesetz
+- Wirtschaftliche Kooperation ermöglichen – Überprüfung des Wettbewerbsrechtes hinsichtlich kartellrechtlicher Bestimmungen in der Medienlandschaft
 
-Seite 55
+- Einsatz für zeitgemäße europäische Regulierung – Überarbeitung der E-Commerce-Richtlinie
 
-Seite 56
+- Neues Geschäftsmodell der Wiener Zeitung mit dem Ziel des Erhalts der Marke – Serviceplattformen des Bundes bündeln
 
-Regierungsprogramm 2020 – 2024Regierungsprogramm 2020 – 2024Fahne ÖsterreichFahne Österreich
+Kooperation der dualen Medienlandschaft – Medienstandort Österreich stärken
+---------------------------------------------------------------------------
+
+- Wir stehen für einen unabhängig finanzierten öffentlich-rechtlichen Rundfunk. Notwendig ist die gesetzliche Verankerung der stärkeren Zusammenarbeit zwischen ORF und Privaten sowie die Anpassung des öffentlich-rechtlichen Auftrags an das digitale Zeitalter unter Berücksichtigung der europarechtlichen Rahmenbedingungen, wobei ein besonderer Schwerpunkt auf regionale Vielfalt gelegt werden soll.
+
+- Gemeinsamer ORF-Player zwischen ORF und Privaten mit öffentlich-rechtlich relevanten Inhalten und nach Etablierung der Plattform Einbeziehung weiterer öffentlicher Einrichtungen
+
+- Europäische Kooperationen forcieren
+
+- Auf- und Ausbau der Verbreitung der österreichischen Hörfunkangebote, auch des öffentlich-rechtlichen Rundfunks, auf kostenlosen Podcast-Portalen; zukunftsfähige technische Verbreitung und Teilnahme an Plattformen wie Radioplayer (nach dem Vorbild der BBC) unter Berücksichtigung von Urheber- und Verwertungsrecht
+
+- Überprüfung und Überarbeitung des Fernseh- Exklusivrechtegesetzes
+
+- ORF-Archiv öffentlich sowie digital zugänglich machen unter Klärung der rechtlichen Rahmenbedingungen und Erstellung einer Benutzerordnung nach dem Bundesarchivgesetz
+
+- Ausbau und Stärkung der Ausbildung von Journalistinnen und Journalisten
+
+- Förderung des Medienstandorts Österreich und österreichischer Inhalte
+
+  * Verstärkte Förderung zur Produktion von Inhalten der österreichischen Filmwirtschaft und Creative Industries
+  * Aufbau eines Öko-Systems für Innovationen durch enge Verzahnung von Startups, Forschungseinrichtungen und öffentlich-rechtlichen sowie kommerziellen Medienanbietern zur Förderung von Innovationen im Bereich VirtualReality (VR), Augmented Reality (AR), der Entwicklung von Algorithmen, Artificial Intelligence (AI), immersive Storytelling, Second Screen Technologien, Personalisierung, Podcasts, Privacy, Voice und SmartAssistants und 5G Broadcast mit dem Ziel, Österreichs internationale Wettbewerbsfähigkeit zu unterstützen
+
+- Stärken des „Public Value“
