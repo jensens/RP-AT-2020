@@ -2,8 +2,10 @@
 Wissenschaft und Forschung
 --------------------------
 
+:download:`Kapitel als PDF <../split/06-02-Wissenschaft-Forschung.pdf>` (Teil des :download:`Originals <../original/RP2020.pdf>`).
+
 .. todo::
-  Formatieren, Überarbeiten, Original gegenchecken
+  Original gegenchecken
 
 Wissenschaft und Forschung sind Basis für gesellschaftlichen Fortschritt und Innovation. Die Bundesregierung bekennt sich dazu, den heimischen Hochschulen, ihren Mitarbeiterinnen und Mitarbeitern sowie den Studierenden bestmögliche Finanzierungs- und Planungs sicherheit in den kommenden Jahren zu gewährleisten, um Wissenschafts- und Lehrfreiheit zu garantieren und weiterzuentwickeln. Damit wollen wir auch in Zukunft Österreich zu einem attraktiven Standort für Lehrende und Studierende machen.
 
@@ -27,7 +29,7 @@ Universitätsfinanzierung, Governance und Karriereentwicklung für den wissensch
 
 - Evaluierung der im UG geschaffenen dienstrechtlichen Kategorien (z.B. Senior Lecturer, Senior Scientists) und eine Studie zur Karriereentwicklung von Senior Lecturers
 
-- Weitere Modernisierung der Universitäts- und Hochschulorganisation: professionelles Management auf allen Ebenen, schnellere Entscheidungen, Schaffung von Exzellenz-Clustern (nicht jedes Fach muss an jedem Standort unterrichtet werden) und Überdenken des Verhältnisses Universitätsrat, Rektorat, Senat in den Entscheidungsstrukturen 
+- Weitere Modernisierung der Universitäts- und Hochschulorganisation: professionelles Management auf allen Ebenen, schnellere Entscheidungen, Schaffung von Exzellenz-Clustern (nicht jedes Fach muss an jedem Standort unterrichtet werden) und Überdenken des Verhältnisses Universitätsrat, Rektorat, Senat in den Entscheidungsstrukturen
 
 - Weiterentwicklung einer effizienten, datenbasierten und digitalisierten Hochschulverwaltung – innerhalb der Hochschulen und im Hochschulsystem
 
@@ -45,7 +47,7 @@ Studienbedingungen und Studienwahl
 
   * Richtlinienkompetenz des Rektorats bei Überprüfung und Neuerstellung von Studienpläne
   * Prüfung von Maßnahmen zur Steigerung der Verbindlichkeit im Studium (z.B. verpflichtendes Wahrnehmen von Prüfungen)
-  * Prüfung der Regelungsdichte im Studienrecht 
+  * Prüfung der Regelungsdichte im Studienrecht
   * Prüfung eines Modells für Teilzeitstudierende (z.B. gekoppelt an Berufstätigkeit, Betreuungspflichten etc.)
   * Grundlegende Validierung der ECTS-Punkte mit angebotenen Lehrveranstaltungsstunden unter Wahrung der grundsätzlichen Bologna-Idee (z.B. Stärkung des Projektunterrichts)
   * Stärkere Anerkennung von studienspezifischen berufspraktischen Qualifikationen im Rahmen der Curricula (non-formale Bildung)
@@ -82,7 +84,7 @@ Qualitätssicherung und Profilbildung im Hochschulsektor
   * Umsetzung des aktuellen PH-Entwicklungsplans zur Weiterentwicklung der Rahmenbedingungen für die PH: stärkere Autonomie bei der Administration („Teilrechtsfähigkeit“) und Umsetzung, enge Abstimmung in inhaltlichen Fragen mit dem zuständigen Fachministerium
   * Evaluierung und Weiterentwicklung der PädagogInnenbildung NEU inklusive der Verbündestruktur in Zusammenarbeit mit den Universitäten auf Basis der Stärken der jeweiligen Institutionen
   * Weiterentwicklung der Eignungsprüfung für angehende Lehrkräfte und Prüfung einer möglichst frühen Einführung in die Praxis, um die bestgeeigneten Personen für das Bildungssystem auszubilden
-  * Förderung der Zusammenarbeit in den Verbünden und mit den Universitäten, um bestmögliche Synergien zu schaffen 
+  * Förderung der Zusammenarbeit in den Verbünden und mit den Universitäten, um bestmögliche Synergien zu schaffen
   * Interkulturelle und Gleichbehandlungskompetenzen müssen in allen pädagogischen Ausbildungen als Pflichtlehrveranstaltungen enthalten sein.
 
 - Weiterentwicklung des Fachhochschulsektors
@@ -104,7 +106,7 @@ Qualitätssicherung und Profilbildung im Hochschulsektor
 Schwerpunkt Bildungsexport und Internationalisierung setzen
 -----------------------------------------------------------
 
-- Stärkung Österreichs als attraktiver Standort für internationale Studierende und Wissenschafterinnen und Wissenschafter. Verbesserte Kooperation der österreichischen Vertretungsbehörden mit der Fremdenrechtsbehörde und den wissenschaftlichen Einrichtungen 
+- Stärkung Österreichs als attraktiver Standort für internationale Studierende und Wissenschafterinnen und Wissenschafter. Verbesserte Kooperation der österreichischen Vertretungsbehörden mit der Fremdenrechtsbehörde und den wissenschaftlichen Einrichtungen
 
 - Weiterentwicklung der Stipendienprogramme des österreichischen Austauschdienstes (OeAD), um hochqualifizierte PhD-Studierende nach Österreich zu holen (v.a. im Bereich MINT)
 
@@ -171,12 +173,11 @@ Innovation durch Transparenz und Zugang zu wissenschaftlichen Daten
 
   * Der Datenzugang ist auf wissenschaftliche Zwecke beschränkt und erfüllt die (europarechtlichen) Vorgaben des Statistik- und Datenschutzrechts.
   * Akkreditierte Wissenschafterinnen und Wissenschafter erhalten aufgrund eines geregelten Verfahrens (AVG) Zugang zu den Datenbeständen der Statistik Austria, die so anonymisiert wurden, dass keine Rückführung auf den Einzelfall möglich ist.
-  * Die Umsetzung erfolgt in enger Abstimmung mit dem zuständigen Ressort, der Statistik Austria, Vertreterinnen und Vertretern der Wissenschaft (z.B. „Plattform Registerforschung“). 
+  * Die Umsetzung erfolgt in enger Abstimmung mit dem zuständigen Ressort, der Statistik Austria, Vertreterinnen und Vertretern der Wissenschaft (z.B. „Plattform Registerforschung“).
 
 - Schaffung eines neuen nationalen Zentrums für Klimaforschung und Daseinsvorsorge (als Anstalt öffentlichen Rechts) durch die Zusammenführung der Geologischen Bundesanstalt (GBA) und der Zentralanstalt für Meteorologie und Geodynamik (ZAMG).
 
-  * Umwelt- & Klimaschutz: Erfassung der bestehenden Aktivitäten zu Umwelt- und Klimaforschung. Daraus ableitend sollen Forschungs- und Lehrschwerpunkte zu Klima- und Umweltschutz etabliert werden. Es soll dabei
-auch ein Schwerpunkt auf Wissenstransfer in diesen Bereichen integriert werden. 
+  * Umwelt- & Klimaschutz: Erfassung der bestehenden Aktivitäten zu Umwelt- und Klimaforschung. Daraus ableitend sollen Forschungs- und Lehrschwerpunkte zu Klima- und Umweltschutz etabliert werden. Es soll dabei auch ein Schwerpunkt auf Wissenstransfer in diesen Bereichen integriert werden.
   * Klinischen Mehraufwand für Lehre und Forschung transparent und fair gestalten
 
 - Compliance-Datenbank: Prüfung der Einführung eines Systems, in dem Wissenschafterinnen und Wissenschafter an Hochschulen und Forschungseinrichtungen die Auftraggebenden ihrer Forschungsprojekte und Finanzierung offenlegen, um etwaige Unvereinbarkeiten zu erkennen und Transparenz zu gewährleisten

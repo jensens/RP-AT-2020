@@ -3,476 +3,190 @@ Tourismus
 ---------
 
 .. todo::
-   Formatieren, Überarbeiten, Original gegenchecken
+  Formatieren, Überarbeiten, Original gegenchecken
 
+Für Österreich ist der Tourismus in vielerlei Hinsicht von großer Bedeutung. Er ist ein wichtiger Wirtschafts- und Wohlstandsmotor und schafft hunderttausende Arbeitsplätze. Jeder fünfte Vollarbeitsplatz in Österreich wird durch die Tourismus- und Freizeitwirtschaft gesichert, vor allem auch in den ländlichen Regionen. Sowohl im Sommer als auch im Winter sorgen unsere Tourismusbetriebe dafür, Österreich als attraktive Reise- und Freizeitdestination zu positionieren. Darüber hinaus schafft unsere Tourismuskultur die Identifikation für unser Land. Nicht nur der internationale Wettbewerb soll zukünftig im Fokus stehen, insbesondere soll auch Lust auf Urlaub im eigenen Land gemacht werden.
 
-um nicht nur heute, sondern auch morgen
-unsere hohen Standards aufrechtzuerhalten.
-Mit dem Plan T – Masterplan für Tourismus
-wurden  erste  Weichen  gestellt,  um
-den  zahlreichen  Herausforderungen
-im
-Tourismus zu begegnen.
-Das  Ziel  der  Bundesregierung
-ist  der
-Erhalt  einer  kleinteiligen  und  häufig
-familiengeführten
-Tourismusbranche
-sowie  die  besondere  Unterstützung  von
-kleineren  und  mittleren  Unternehmen
-und  die  Wertschöpfung  vor  Ort  zu
-stärken.  Dafür  brauchen  wir  Entlastungen
-für  unsere  Tourismusbetriebe.  Darüber
-hinaus
-des
-touristischen  Arbeitsmarktes  eine  der
-größten  Herausforderungen
-für  den
-Tourismusstandort
-Um
-Österreich.
-bestehenden  Mitarbeitermangel
-dem
-im
-Tourismus
-entgegenzuwirken,
-braucht
-gemeinsame,
-eine
-es
-kompetenzübergreifende
-Anstrengung
-aller Beteiligten.
+Die Schaffung und der Erhalt von Arbeitsplätzen ist von immenser Bedeutung für regionale Betriebe, und damit auch für die Regionen als solche. Als österreichische Bundesregierung bekennen wir uns daher zur Bedeutung von Österreich als Tourismusdestination und zur Weiterentwicklung dieses wichtigen Sektors.
 
-Entwicklung
+Der Tourismus steht dennoch vor einer Vielzahl an Herausforderungen, wie etwa die spürbare Veränderung unseres Klimas, die auch die Wettbewerbsfähigkeit des Tourismus bedroht. Es ist wichtig, bereits jetzt die notwendigen Schritte zu setzen, um nicht nur heute, sondern auch morgen unsere hohen Standards aufrechtzuerhalten. Mit dem Plan T – Masterplan für Tourismus wurden erste Weichen gestellt, um den zahlreichen Herausforderungen im Tourismus zu begegnen.
 
-die
+Das Ziel der Bundesregierung ist der Erhalt einer kleinteiligen und häufig familiengeführten Tourismusbranche sowie die besondere Unterstützung von kleineren und mittleren Unternehmen und die Wertschöpfung vor Ort zu stärken. Dafür brauchen wir Entlastungen für unsere Tourismusbetriebe. Darüber hinaus ist die Entwicklung des touristischen Arbeitsmarktes eine der größten Herausforderungen für den Tourismusstandort Österreich. Um dem bestehenden Mitarbeitermangel im Tourismus entgegenzuwirken, braucht es eine gemeinsame, kompetenzübergreifende Anstrengung aller Beteiligten.
 
-ist
+Der Tourismus unterliegt einem permanenten Wandel. Die Bedürfnisse der Gäste und ihre Erwartungen an einen Urlaub haben sich geändert. Immer stärker ins Bild rücken aber auch dabei die Auswirkungen des Tourismus auf die Natur. Gerade unsere alpinen Regionen, die als Sportdestinationen einen weltweit einzigartigen Ruf genießen, laufen durch eine Erwärmung des Klimas Gefahr, ihrer wirtschaftlichen Grundlagen beraubt zu werden. Daher gilt es den Weg des nachhaltigen Tourismus im Einklang mit der Natur verstärkt fortzusetzen und für ein gutes Miteinander von Ökonomie, Ökologie und Sozialem zu sorgen. Ziel ist es, dass alle vom Tourismus profitieren können – die Betriebe, die Mitarbeiterinnen und Mitarbeiter, die Gäste und die Bevölkerung vor Ort – und wir dabei die österreichische Naturlandschaft erhalten.
 
-fünfte
+Forcierung eines wettbewerbsfähigen und verantwortungsvollen Tourismusstandorts
+-------------------------------------------------------------------------------
 
-Vollarbeitsplatz
+- Umsetzung „Plan T – Masterplan für Tourismus“
 
-Für Österreich ist der Tourismus in vielerlei
-Hinsicht  von  großer  Bedeutung.  Er  ist  ein
-wichtiger  Wirtschafts-  und  Wohlstandsmotor
-und schafft hunderttausende Arbeitsplätze.
-Jeder
-in
-Österreich  wird  durch  die  Tourismus-  und
-Freizeitwirtschaft gesichert, vor allem auch
-in  den  ländlichen  Regionen.  Sowohl  im
-Sommer als auch im Winter sorgen unsere
-Tourismusbetriebe  dafür,  Österreich  als
-attraktive  Reise-  und  Freizeitdestination
-zu  positionieren.  Darüber  hinaus  schafft
-unsere  Tourismuskultur  die  Identifikation
-für unser Land. Nicht nur der internationale
-Wettbewerb soll zukünftig im Fokus stehen,
-insbesondere soll auch Lust auf Urlaub im
-eigenen Land gemacht werden.
-Die  Schaffung  und  der  Erhalt
-von
-immenser
-Arbeitsplätzen
-Bedeutung  für  regionale  Betriebe,  und
-damit  auch  für  die  Regionen  als  solche.
-Als
-Bundesregierung
-bekennen wir uns daher zur Bedeutung von
-Österreich  als  Tourismusdestination  und
-zur  Weiterentwicklung  dieses  wichtigen
-Sektors.
-Der  Tourismus  steht  dennoch  vor  einer
-Vielzahl  an  Herausforderungen,  wie  etwa
-die spürbare Veränderung unseres Klimas,
-die  auch  die  Wettbewerbsfähigkeit  des
-Tourismus  bedroht.  Es  ist  wichtig,  bereits
-jetzt  die  notwendigen  Schritte  zu  setzen,
+  * Der Plan T ist die Grundlage für die Tourismuspolitik der Bundesregierung für die nächsten Jahre. Er setzt die Leitplanken für eine nachhaltige Weiterentwicklung des Tourismusstandorts Österreich
+  * Dieser Plan ist aber kein Endpunkt, sondern der Startschuss für eine neue Qualität der Tourismuspolitik. Ergänzt wird dieser Masterplan durch einen jährlichen Aktionsplan, der konkrete Umsetzungsschritte beinhaltet und es ermöglicht, rasch auf Veränderungen in diesem dynamischen Umfeld zu reagieren
 
-österreichische
+- Umsetzung von Maßnahmen auf Grundlagen der existierenden Leitlinien des Plans T mitlaufendem und zeitnahem Monitoring
 
-ist
+  * Sicherstellung des Zugangs der Wissenschaft zu verknüpfbaren anonymisierten Registerdaten durch eine Novellierung des Bundesstatistikgesetzes
+  * Erstellung von Maßnahmenindikatoren, die wissenschaftliche Evaluierung sicherstellen 
+  * Prüfung eines Kompetenzzentrums für Tourismusforschung
+  * Auf dieser Basis Maßnahmen auf ihre Wirkungen auf Klima und Ökologie und soziale Verträglichkeit überprüfen
+  * Ergebnisse des Berichts zu Klimawandel und Tourismus im Auftrag des ACRP (Austrian Climate Research Program) berücksichtigen
 
-von
+- Fortführung und Weiterentwicklung des Indikatorenprojekts des BMNT unter der Leitung von Statistik Austria mit Fokus auf die ökologische und soziale Dimension
 
-Seite 164
+  * Wachstum nicht mehr ausschließlich an Nächtigungszahlen messen
+  * Erweiterung um Indikatoren der gesamten Wertschöpfungskette und Auswirkungen auf Bevölkerung/Natur/Landschaft und Klimawandel
+  * Stehen die für die Entwicklung solcher Indikatoren notwendigen Daten aktuell nicht zur Verfügung, müssen auch neue / erweiterte Erhebungen durch Statistik Austria ins Auge gefasst werden, wofür entsprechende Finanzmittel zur Verfügung zu stellen sind.
 
-Regierungsprogramm 2020 – 2024Fahne ÖsterreichTourismus
+- Schwerpunktsetzung im Bereich Digitalisierung
 
-unterliegt
+  * Touristische Unternehmen beim Umstieg und beim Einsatz digitaler Anwendungen unterstützen
+  * Verstärkt Datenallianzen bilden zwischen Einrichtungen im Einfluss des Bundes zur strategischen Weiterentwicklung und gemeinsamen Problemlösung im Rahmen der aktuellen rechtlichen Rahmenbedingungen
+  * E-Government-Services ausbauen, um bürokratische Prozesse zu vereinfachen
+  * Rahmenbedingungen für einen engen, sektorübergreifenden Austausch schaffen
 
-sich  geändert.
+- Umsetzung einer Digitalisierungsstrategie
 
-nachhaltigen  Tourismus  im  Einklang  mit
-der  Natur  verstärkt  fortzusetzen  und  für
-ein  gutes  Miteinander  von  Ökonomie,
-Ökologie und Sozialem zu sorgen. Ziel ist es,
-dass alle vom Tourismus profitieren können
-–  die  Betriebe,  die  Mitarbeiterinnen  und
-Mitarbeiter, die Gäste und die Bevölkerung
-vor Ort – und wir dabei die österreichische
-Naturlandschaft erhalten.
+  * Flächendeckendes Datennetz
+  * Nutzung der Digitalisierung für Entbürokratisierung
+  * Schulungen im Direkt- und Plattformbetrieb
+  * Tourismus-Open Data-Leuchtturmprojekt der ÖW
 
-einem
-Der
-permanenten  Wandel.  Die  Bedürfnisse
-der  Gäste  und  ihre  Erwartungen  an  einen
-Urlaub  haben
-Immer
-stärker  ins  Bild  rücken  aber  auch  dabei
-die  Auswirkungen  des  Tourismus  auf  die
-Natur.  Gerade  unsere  alpinen  Regionen,
-die  als  Sportdestinationen  einen  weltweit
-einzigartigen  Ruf  genießen,  laufen  durch
-eine  Erwärmung  des  Klimas  Gefahr,  ihrer
-wirtschaftlichen  Grundlagen
-beraubt
-zu  werden.  Daher  gilt  es  den  Weg  des
-Forcierung eines wettbewerbsfähigen
-und verantwortungsvollen
-Tourismusstandorts
-•  Umsetzung „Plan T – Masterplan für Tourismus“
-o  Der Plan T ist die Grundlage für die Tourismus-
-politik  der  Bundesregierung  für  die  nächsten
-Jahre. Er setzt die Leitplanken für eine nachhal-
-tige  Weiterentwicklung  des  Tourismusstand-
-orts Österreich
-o  Dieser  Plan  ist  aber  kein  Endpunkt,  sondern
-der Startschuss für eine neue Qualität der Tou-
-rismuspolitik.  Ergänzt  wird  dieser  Masterplan
-durch  einen  jährlichen  Aktionsplan,  der  kon-
-krete Umsetzungsschritte beinhaltet und es er-
-möglicht, rasch auf Veränderungen in diesem
-dynamischen Umfeld zu reagieren
+- Besondere Berücksichtigung der regionalen Schwerpunkte in der Tourismusstrategie im Sinne einer zukunftsfitten Tourismusstrategie, die auch massentouristischen Phänomenen entgegenwirken soll (Stichwort „Overtourism“)
 
-o  Sicherstellung des Zugangs der Wissenschaft
-zu  verknüpfbaren  anonymisierten  Registerda-
-ten durch eine Novellierung des Bundesstatis-
-tikgesetzes
-o  Erstellung  von  Maßnahmenindikatoren,  die
-wissenschaftliche Evaluierung sicherstellen
-o  Prüfung eines Kompetenzzentrums für Touris-
-musforschung
-o  Auf dieser Basis Maßnahmen auf ihre Wirkun-
-gen auf Klima und Ökologie und soziale Ver-
-träglichkeit überprüfen
-o  Ergebnisse  des  Berichts  zu  Klimawandel  und
-Tourismus im Auftrag des ACRP (Austrian Cli-
-mate Research Program) berücksichtigen
+- Weiterentwicklung der Österreich Werbung
 
-•  Umsetzung von Maßnahmen auf Grundlagen der
-existierenden Leitlinien des Plans T mitlaufendem
-und zeitnahem Monitoring
+  * Das ÖW-Netz im Ausland wird immer wichtiger für das Funktionieren des österreichischen Tourismussystems und um die Marke „Urlaub in Österreich“ in die Welt zu tragen. Um Synergien zu nutzen, sollen ÖW und AW  * zukünftig ein weltweites Netz für die österreichischen Destinationen und Betriebe bilden.
+  * Die ÖW soll ihr Know-how verstärkt den österreichischen Betrieben zugänglich machen, um Produktinnovationen und Markenerlebnisse anzuregen.
+  * Die ÖW soll die digitale Kommunikation und Gestaltung von Reiseerlebnissen forcieren und der Branche digitale Kooperationsmöglichkeiten anbieten.
+  * Urlaub der Österreicherinnen und Österreicher im eigenen Land stärker bewerben
+  * Werbung in der Tourismusbranche soll auf Basis des Ethikkodex des österreichischen Werberates erstellt werden.
+  * Sonderbudgets in Zukunft vorranging für nachhaltigen Tourismus, im Sinne von Klima- und Umweltschutz sowie Digitalisierung (Data Hub)
 
-•  Fortführung und Weiterentwicklung des Indikato-
+- Österreichische Hotel- und Tourismusbank (ÖHT)
 
-renprojekts des BMNT unter der Leitung von Sta-
-tistik Austria mit Fokus auf die ökologische und
-soziale Dimension
-o  Wachstum nicht mehr ausschließlich an Nächti-
-gungszahlen messen
-o  Erweiterung  um  Indikatoren  der  gesamten
-Wertschöpfungskette  und  Auswirkungen  auf
-Bevölkerung/Natur/Landschaft und Klimawan-
-del
-o  Stehen die für die Entwicklung solcher Indika-
-toren notwendigen Daten aktuell nicht zur Ver-
-fügung, müssen auch neue / erweiterte Erhe-
-bungen durch Statistik Austria ins Auge gefasst
-werden, wofür entsprechende Finanzmittel zur
-Verfügung zu stellen sind.
+  * Die ÖHT als Spezialkreditinstitut für die investierenden Tourismusbetriebe sorgt dafür, dass der „Plan T – Masterplan für Tourismus“ die betriebliche Ebene erreicht.
+  * Erkenntnisse der laufenden Evaluierung werden berücksichtigt.
+  * In der Folge wird die gewerbliche Tourismusförderung ab 2021 mit Fokus auf Familienbetriebe neu ausgerichtet und durch die Zusammenführung der Haftungsrahmen für die Tourismusbetriebe auf 575 Mio. Eur  * sowie die Schaffung eines mit 50 Mio. Eur  * dotierten Eigenkapitalfonds gestärkt.
 
-•  Schwerpunktsetzung im Bereich Digitalisierung
-o  Touristische Unternehmen beim Umstieg und
-beim  Einsatz  digitaler  Anwendungen  unter-
-stützen
-o  Verstärkt  Datenallianzen  bilden  zwischen  Ein-
-richtungen im Einfluss des Bundes zur strate-
-gischen  Weiterentwicklung  und  gemeinsa-
-men Problemlösung im Rahmen der aktuellen
-rechtlichen Rahmenbedingungen
-o  E-Government-Services  ausbauen,  um  büro-
-kratische Prozesse zu vereinfachen
-o  Rahmenbedingungen für einen engen, sektor-
-übergreifenden Austausch schaffen
+- Neugestaltung der Richtlinien der Österreichischen Hotel- und Tourismusbank 2020 und Inkrafttreten mit Beginn 2021
 
-•  Umsetzung einer Digitalisierungsstrategie
-o  Flächendeckendes Datennetz
-o  Nutzung  der  Digitalisierung
-bürokratisierung
+  * Einbeziehung einer Expertengruppe inkl. Autorinnen und Autoren der Evaluierungsstudie 2014-2020
+  * Fördermaßnahmen mit dem Ziel einer ökologisch, ökonomisch und sozial nachhaltigen Tourismuswirtschaft mit dem Schwerpunkt Klimaneutralität in
+  * Kapazitätserweiterungen weiterhin nur besonders entwicklungsschwachen Regionen ermöglichen
+  * Mitnahmeeffekte minimieren
+  * Gesamtheitliche Ausarbeitung und Umsetzung von Fördermaßnahmen insbesondere Vereinbarkeit mit dem Entwicklungskonzept der Tourismusregion sicherstellen
+  * Finanzielle Unterstützung für den Prozess zu umweltzertifizierten Hotels
+  * Sicherstellung der Wettbewerbsfähigkeit der Klein- und Mittelbetriebe der Tourismusbranche besonders in strukturschwächeren Regionen
+  * Fortführung der Förderung für Start-Ups mit Fokus auf nachhaltigem Tourismus
 
-für  Ent-
+- Förderung von Großevents: Strategie ausarbeiten, unter der Berücksichtigung von Klima- und Umweltschutz sowie langfristiger wirtschaftlicher Rentabilität
 
-o  Schulungen im Direkt- und Plattformbetrieb
-o  Tourismus-Open  Data-Leuchtturmprojekt  der
-ÖW
+- Unterstützung der besonders durch den Klimawandel bedrohten Regionen in Richtung ganzjähriger Tourismuskonzepte
 
-•  Besondere  Berücksichtigung  der  regionalen
-Schwerpunkte in der Tourismusstrategie im Sinne
-einer zukunftsfitten Tourismusstrategie, die auch
-massentouristischen Phänomenen entgegenwir-
-ken soll (Stichwort „Overtourism“)
-•  Weiterentwicklung der Österreich Werbung
-o  Das ÖW-Netz im Ausland wird immer wichti-
-ger für das Funktionieren des österreichischen
-Tourismussystems und um die Marke „Urlaub
-in Österreich“ in die Welt zu tragen. Um Syner-
-gien zu nutzen, sollen ÖW und AWO zukünf-
-tig ein weltweites Netz für die österreichischen
-Destinationen und Betriebe bilden.
-o  Die ÖW soll ihr Know-how verstärkt den öster-
-reichischen Betrieben zugänglich machen, um
-Produktinnovationen  und  Markenerlebnisse
-anzuregen.
-o  Die ÖW soll die digitale Kommunikation und
-Gestaltung von Reiseerlebnissen forcieren und
-der Branche digitale Kooperationsmöglichkei-
-ten anbieten.
-o  Urlaub der Österreicherinnen und Österreicher
-im eigenen Land stärker bewerben
-o  Werbung in der Tourismusbranche soll auf Ba-
-sis des Ethikkodex des österreichischen Wer-
-berates erstellt werden.
-o  Sonderbudgets in Zukunft vorranging für nach-
-haltigen  Tourismus,  im  Sinne  von  Klima-  und
-Umweltschutz sowie Digitalisierung (Data Hub)
-•  Österreichische Hotel- und Tourismusbank (ÖHT)
+- Österreich als Vorreiter eines verantwortungsvollen und ressourceneffizienten Tourismus positionieren. Ausbau von Aktionen wie „Zeichen setzen“
 
-Seite 165
+- Weiterführung der Bundesförderung für Hütten und Wege mit der Zielvorgabe einer weiteren Ökologisierung und Klimaneutralität
 
-Seite 166
+- Prüfung der Regelung für die Begrenzung der Nutzung von privatem Wohnraum für touristische Zwecke auf maximal 90 Tage eines Jahres
 
-Regierungsprogramm 2020 – 2024Regierungsprogramm 2020 – 2024Fahne ÖsterreichFahne Österreicho  Die ÖHT als Spezialkreditinstitut für die inves-
-tierenden Tourismusbetriebe sorgt dafür, dass
-der  „Plan  T  –  Masterplan  für  Tourismus“  die
-betriebliche Ebene erreicht.
-o  Erkenntnisse  der  laufenden  Evaluierung  wer-
-den berücksichtigt.
-o  In der Folge wird die gewerbliche Tourismus-
-förderung  ab  2021  mit  Fokus  auf  Familien-
-betriebe neu ausgerichtet und durch die Zu-
-sammenführung  der  Haftungsrahmen  für  die
-Tourismusbetriebe auf 575 Mio. Euro sowie die
-Schaffung eines mit 50 Mio. Euro dotierten Ei-
-genkapitalfonds gestärkt.
+- Datenschnittstellen zu Gebietskörperschaften: Einhebung der Ortstaxe sicherstellen
 
-•  Neugestaltung  der  Richtlinien  der  Österreichi-
-schen  Hotel-  und  Tourismusbank  2020  und  In-
-krafttreten mit Beginn 2021
-o  Einbeziehung einer Expertengruppe inkl. Au-
-torinnen und Autoren der Evaluierungsstudie
-2014-2020
-o  Fördermaßnahmen  mit  dem  Ziel  einer  öko-
-logisch,  ökonomisch  und  sozial  nachhaltigen
-Tourismuswirtschaft mit dem Schwerpunkt Kli-
-maneutralität
-in
-o  Kapazitätserweiterungen  weiterhin  nur
-besonders  entwicklungsschwachen  Regionen
-ermöglichen
-o  Mitnahmeeffekte minimieren
+Mehr Gerechtigkeit für den heimischen Tourismus
+-----------------------------------------------
 
-o  Gesamtheitliche Ausarbeitung und Umsetzung
-von Fördermaßnahmen insbesondere Verein-
-barkeit mit dem Entwicklungskonzept der Tou-
-rismusregion sicherstellen
-o  Finanzielle  Unterstützung  für  den  Prozess  zu
-umweltzertifizierten Hotels
-o  Sicherstellung  der  Wettbewerbsfähigkeit
-der  Klein-  und  Mittelbetriebe  der  Touris-
-musbranche  besonders  in  strukturschwä-
-cheren Regionen
-o  Fortführung  der  Förderung  für  Start-Ups  mit
-Fokus auf nachhaltigem Tourismus
+- Neben der Aufzeichnungspflicht für Plattformen soll auch eine Registrierungspflicht für alle touristischen Vermieterinnen und Vermieter eingeführt werden
 
-•  Förderung  von  Großevents:  Strategie  ausarbei-
-ten, unter der Berücksichtigung von Klima- und
-Umweltschutz sowie langfristiger wirtschaftlicher
-Rentabilität
-•  Unterstützung der besonders durch den Klima-
-wandel  bedrohten  Regionen  in  Richtung  ganz-
-jähriger Tourismuskonzepte
-•  Österreich  als  Vorreiter  eines  verantwor-
-tungsvollen  und  ressourceneffizienten  Tou-
-rismus  positionieren.  Ausbau  von  Aktionen
-wie „Zeichen setzen“
-•  Weiterführung der Bundesförderung für Hütten
-und  Wege  mit  der  Zielvorgabe  einer  weiteren
-Ökologisierung und Klimaneutralität
+- Registrierungspflicht für Anbieterinnen und Anbieter von Privatunterkünften, z.B. über oesterreich.gv.at
 
-•  Prüfung  der  Regelung  für  die  Begrenzung  der
-Nutzung von privatem Wohnraum für touristische
-Zwecke auf maximal 90 Tage eines Jahres
-•  Datenschnittstellen  zu  Gebietskörperschaften:
-Einhebung der Ortstaxe sicherstellen
+- Auf Online-Buchungsplattformen dürfen nur beim Finanzministerium registrierte Unterkünfte angeboten werden
 
-Mehr Gerechtigkeit für den heimischen
-Tourismus
-•  Neben der Aufzeichnungspflicht für Plattformen
-soll auch eine Registrierungspflicht für alle touris-
-tischen Vermieterinnen und Vermieter eingeführt
-werden
-•  Registrierungspflicht  für  Anbieterinnen  und  An-
-bieter  von  Privatunterkünften,  z.B.  über  oester-
-reich.gv.at
-•  Auf  Online-Buchungsplattformen  dürfen  nur
-beim  Finanzministerium  registrierte  Unterkünfte
-angeboten werden
+- Prüfung der Regelung für die Begrenzung der Nutzung von privatem Wohnraum für touristische Zwecke auf maximal 90 Tage eines Jahres
+
+- Datenschnittstellen zu Gebietskörperschaften: Einhebung der Ortstaxe sicherstellen
+
 Entlastungen für die Tourismuswirtschaft
-•  Prüfung der Potenziale zur Senkung der Lohnne-
-•  Digitalisierung von Verwaltungsprozessen
-benkosten ohne Leistungsreduktion
-•  Vorschlag zur Neuregelung der Abschreibungs-
-•  Erleichterungen  für  Schulsportwochen:  Bessere
-dauer:  Abschreibungszeiträume  an  tatsächliche
-Rahmenbedingungen  für  Schulveranstaltungen
-Nutzungsdauern anpassen
-an  Bundesschulen,  schulautonome  Gestaltung
-und  Abrechnungsmodalitäten  von  Schulsport-
-•  Erleichterung  der  familiären  Betriebsübergabe
-wochen sowie Verbesserung bei der Abwicklung
-durch gesetzliche und steuerliche Rahmenbedin-
-von Unterstützungsleistungen
-gungen:
-•  Förderung konkreter Projekte zur unmittelbaren
-o  Unternehmensübergaben in der Familie sollen
-Kooperation  (z.B.  Plattformen  zum  Direktbezug
-erleichtert werden
-von regionalen Lebensmitteln)
-o  Weiters  soll  eine  zweijährige  „grace  period“
-•  Prüfung der Allergen-Verordnung auf ihre Effizi-
-eingeführt  werden,  in  der  nur  die  nötigsten
-enz hin und Entbürokratisierung, wo sinnvoll
-betrieblichen Kontrollen durchgeführt werden
-und an deren Ende der Übertritt in das Regel-
-regime stattfindet
+----------------------------------------
 
-Seite 167
+- Digitalisierung von Verwaltungsprozessen
 
-Seite 168
+- Vorschlag zur Neuregelung der Abschreibungsdauer: Abschreibungszeiträume an tatsächliche Nutzungsdauern anpassen
 
-Regierungsprogramm 2020 – 2024Regierungsprogramm 2020 – 2024Fahne ÖsterreichFahne ÖsterreichQualitätsvoller und regionaler Tourismus
-•  Wichtige  touristische  Entscheidungen  sollen  in
-•  Maßnahmen  und  Unterstützungsangebote  zur
-Zukunft  unter  stärkerer  Einbindung  der  lokalen
-Vermeidung  von  Flächenverbrauch  durch  die
-Bevölkerung getroffen werden. Es soll darauf ge-
-Tourismuswirtschaft
-achtet werden, dass möglichst alle Menschen in
-einer Destination vom Tourismus profitieren.
-•  Konzepte  für  die  Vermeidung  von  Overtou-
-rism,  für  die  saisonalen  Veränderungen  (klima-
-•  Konzept  mit
-konkreten  Maßnahmen
-tische  Veränderungen)  und  zur  Stärkung  der
-gegen das „Gasthaussterben“, vor allem in länd-
-Zwischensaison
-lichen Regionen
-•  Sichtbarmachen  von  Vorbildprojekten  zwischen
-Tourismus und Landwirtschaft
-•  Implementierung von Tourismus-Satellitenkonten
-für jedes Bundesland (in der WIFO/Statistik Aust-
-ria-Logik entlang des UNWTO-Standards)
+- Erleichterung der familiären Betriebsübergabe durch gesetzliche und steuerliche Rahmenbedingungen:
 
-Bekämpfung des Fachkräftemangels im
-Tourismus
-•  Adaptierung  der  Lehrberufe  und  Weiterbil-
-dungsmaßnahmen – Attraktivierung der Tou-
-rismusberufe  mit  Fokus  auf  die  Digitalisie-
-rung in der Berufsausbildung
-•  Bestehende Jahreskontingente für Saisonniers für
-den Tourismus sollen bedarfsgerecht angepasst
-werden, unter Einhaltung aller arbeitsrechtlichen
-und kollektivvertraglichen Bestimmungen.
-reformieren:
-•  Rot-Weiß-Rot-Karte
-Konsolidierung des gesetzlichen Rahmens, One-
-Stop-Shop  bei  der  Austrian  Business  Agency,
-Antragstellung  vereinfachen,  Verfahren  straffen,
-Senkung von Gehaltsgrenzen
-•  Fokus  auf  gemeinsame  Nutzung  und  Erneue-
-rung von Mitarbeiterunterkünften, etwa die Um-
-wandlung und Umwidmung nicht mehr wettbe-
-werbsfähiger  Hotels  in  Mitarbeiterhäuser  durch
-Gemeinden, Destinationen, Betriebe und über-
-betriebliche Initiativen
+  * Unternehmensübergaben in der Familie sollen erleichtert werden
+  * Weiters soll eine zweijährige „grace period“ eingeführt werden, in der nur die nötigsten betrieblichen Kontrollen durchgeführt werden und an deren Ende der Übertritt in das Regelregimestattfindet
 
-•  Bekämpfung des Fachkräftemangels
-o  Attraktivierung  der  Ausbildung  unter  Berück-
-sichtigung neuer Erkenntnisse (Digitalisierung)
-o  Ausbildung und Entwicklung neuer Berufsbil-
-der, wie z.B. das eines Revenue Managers
-o  Attraktivierung der Lehrberufe im touristischen
-Bereich, insbesondere in der Gastronomie
-o  Förderung der Durchlässigkeit von dualen Aus-
-bildungen bis in den tertiären Bereich
+- Prüfung der Potenziale zur Senkung der Lohnnebenkosten ohne Leistungsreduktion
 
-(RWR-Karte)
+- Erleichterungen für Schulsportwochen: Bessere Rahmenbedingungen für Schulveranstaltungen an Bundesschulen, schulautonome Gestaltung und Abrechnungsmodalitäten von Schulsportwochen sowie Verbesserung bei der Abwicklung von Unterstützungsleistungen
 
-•  Attraktivierung der Tourismusbranche als Arbeit-
-geber:
-o  Förderung ganzjähriger, ganztägiger und flexi-
-bler sowie bedarfsgerechter Kinderbetreuung
+- Förderung konkreter Projekte zur unmittelbaren Kooperation (z.B. Plattformen zum Direktbezug von regionalen Lebensmitteln)
+- Prüfung der Allergen-Verordnung auf ihre Effizienz hin und Entbürokratisierung, w  * sinnvoll
 
-o  Angemessene  und  attraktive  Lehrlings-
-entschädigungen
-o  Vorbildauszeichnungen für Betriebe mit guter
-Mitarbeiterführung (z.B. lange Verweildauer im
-Betrieb)
+Qualitätsvoller und regionaler Tourismus
+----------------------------------------
+- Maßnahmen und Unterstützungsangebote zur Vermeidung von Flächenverbrauch durch die Tourismuswirtschaft
+
+- Konzepte für die Vermeidung von Overtourism, für die saisonalen Veränderungen (klimatische Veränderungen) und zur Stärkung der Zwischensaison
+
+- Sichtbarmachen von Vorbildprojekten zwischen Tourismus und Landwirtschaft
+
+- Implementierung von Tourismus-Satellitenkonten für jedes Bundesland (in der WIFO/Statistik Austria-Logik entlang des UNWTO-Standards)
+
+- Wichtige touristische Entscheidungen sollen in Zukunft unter stärkerer Einbindung der lokalen Bevölkerung getroffen werden. Es soll darauf geachtet werden, dass möglichst alle Menschen in einer Destination vom Tourismus profitieren.
+
+- Konzept mit konkreten Maßnahmen gegen das „Gasthaussterben“, vor allem in ländlichen Regionen
+
+Bekämpfung des Fachkräftemangels im Tourismus
+---------------------------------------------
+
+- Adaptierung der Lehrberufe und Weiterbildungsmaßnahmen – Attraktivierung der Tourismusberufe mit Fokus auf die Digitalisierung in der Berufsausbildung
+
+- Bestehende Jahreskontingente für Saisonniers für den Tourismus sollen bedarfsgerecht angepasst werden, unter Einhaltung aller arbeitsrechtlichen und kollektivvertraglichen Bestimmungen.
+
+- Rot-Weiß-Rot-Karte (RWR-Karte) reformieren: Konsolidierung des gesetzlichen Rahmens, One-Stop-Shop bei der Austrian Business Agency, Antragstellung vereinfachen, Verfahren straffen, Senkung von Gehaltsgrenzen
+
+- Fokus auf gemeinsame Nutzung und Erneuerung von Mitarbeiterunterkünften, etwa die Umwandlung und Umwidmung nicht mehr wettbewerbsfähiger Hotels in Mitarbeiterhäuser durch Gemeinden, Destinationen, Betriebe und überbetriebliche Initiativen
+
+- Bekämpfung des Fachkräftemangels
+
+  * Attraktivierung der Ausbildung unter Berücksichtigung neuer Erkenntnisse (Digitalisierung)
+  * Ausbildung und Entwicklung neuer Berufsbilder, wie z.B. das eines Revenue Managers
+  * Attraktivierung der Lehrberufe im touristischen Bereich, insbesondere in der Gastronomie
+  * Förderung der Durchlässigkeit von dualen Ausbildungen bis in den tertiären Bereich
+
+- Attraktivierung der Tourismusbranche als Arbeitgeber:
+
+  * Förderung ganzjähriger, ganztägiger und flexibler sowie bedarfsgerechter Kinderbetreuung
+  * Angemessene und attraktive Lehrlingsentschädigungen
+  * Vorbildauszeichnungen für Betriebe mit guter Mitarbeiterführung (z.B. lange Verweildauer im Betrieb)
+
+- Vermehrt Frauen in Führungspositionen in der Tourismusbranche fördern
+
 Nachhaltige Mobilität
-•  Ausbau des Nachtzugangebotes im Fernverkehr,
-innerösterreichisch und zu internationalen Desti-
-nationen
-•  Anteil von Urlauben im eigenen Land steigern
-o  Werbemaßnahmen  für  Tourismusland  Öster-
-reich  sind  verstärkt  auf  den  heimischen  Gast
-auszurichten.
+---------------------
 
-•  Vermehrt  Frauen  in  Führungspositionen  in  der
-Tourismusbranche fördern
+- Ausbau des Nachtzugangebotes im Fernverkehr, innerösterreichisch und zu internationalen Destinationen 
 
-•  Bessere  Vernetzung,  Koordination  und  Abstim-
-mung der Radwegnetze und beispielsweise eine
-einheitliche Beschilderung über Bundesgrenzen
-hinweg  zur  Attraktivierung  und  Stärkung  der
-Zwischensaisonen im Tourismus
-•  Prüfung eines Austrorail-Tickets nach Alter gestaf-
-felt nach dem Vorbild von Interrail
+- Anteil von Urlauben im eigenen Land steigern 
 
-•  Forcierung  von  Angeboten  zur  umweltfreund-
-lichen Anreise und Mobilität vor Ort (z.B. mittels
-Gästekarten) in Zusammenarbeit von Tourismus-
-verbänden und Verkehrsverbünden und Nutzung
-von Synergieeffekten
+  * Werbemaßnahmen für Tourismusland Österreich sind verstärkt auf den heimischen Gast auszurichten.
+
+- Forcierung von Angeboten zur umweltfreundlichen Anreise und Mobilität vor Ort (z.B. mittels Gästekarten) in Zusammenarbeit von Tourismusverbänden und Verkehrsverbünden und Nutzung von Synergieeffekten
+
+- Bessere Vernetzung, Koordination und Abstimmung der Radwegnetze und beispielsweise eine einheitliche Beschilderung über Bundesgrenzen hinweg zur Attraktivierung und Stärkung der Zwischensaisonen im Tourismus
+
+- Prüfung eines Austrorail-Tickets nach Alter gestaffelt nach dem Vorbild von Interrail
+
 Klimawandel und Wintertourismus
-gebietskörperschaftenübergreifenden  und  sek-
-•  Umweltgerechte und wirtschaftliche Strategie im
-torenübergreifenden  Raumentwicklungskonzep-
-Umgang mit Beschneiung in Skigebieten
-tes für alpine Raumordnung einsetzen.
-o  Einsatz auf europäischer Ebene für die Einfüh-
-•  Die Bundesregierung bekennt sich zur Unter-
-rung von Energieeffizienz-Klassen für Schnee-
-stützung der Tourismusregionen im Hinblick
-erzeugungsanlagen
-auf  Kapazitätssteigerungen  im  öffentlichen
-Personennahverkehr  und  Einführung  von
-o  Forcierter Einsatz von erneuerbaren Energien
-Mobilitätsberaterinnen und -beratern für die
-für weiteren Ausbau
-Schulung der Tourismusverbände.
-•  Forcierung der Ausstattung von Stationsgebäu-
-den mit Solaranlagen und Wärmespeichern
+-------------------------------
 
-•  Die Bundesregierung wird sich im Rahmen der
-österreichischen  Raumordnungskonferenz  und
-in  Zusammenarbeit  mit  dem  Generalsekretariat
-der Alpenkonvention für die Ausarbeitung eines
+- Umweltgerechte und wirtschaftliche Strategie im Umgang mit Beschneiung in Skigebieten   * Einsatz auf europäischer Ebene für die Einführung von Energieeffizienz-Klassen für Schneeerzeugungsanlagen
 
-Seite 169
+  * Forcierter Einsatz von erneuerbaren Energien für weiteren Ausbau
 
-Seite 170
+- Die Bundesregierung wird sich im Rahmen der österreichischen Raumordnungskonferenz und in Zusammenarbeit mit dem Generalsekretariat der Alpenkonvention für die Ausarbeitung eines gebietskörperschaftenübergreifenden und sektorenübergreifenden Raumentwicklungskonzeptes für alpine Raumordnung einsetzen. 
 
-Regierungsprogramm 2020 – 2024Regierungsprogramm 2020 – 2024Fahne ÖsterreichFahne Österreich
+- Die Bundesregierung bekennt sich zur Unterstützung der Tourismusregionen im Hinblick auf Kapazitätssteigerungen im öffentlichen Personennahverkehr und Einführung von Mobilitätsberaterinnen und -beratern für die Schulung der Tourismusverbände.
+
+- Forcierung der Ausstattung von Stationsgebäuden mit Solaranlagen und Wärmespeichern

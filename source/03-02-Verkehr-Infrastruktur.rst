@@ -18,7 +18,7 @@ Seilbahnwirtschaft  sind  im  Zusammenhang  mit  den  Bereichen  Verkehr  und  I
 Neben  der  Dekarbonisierung  sind  Digitalisierung  und  Sharing  die  größten  Innovationstreiber  für  moderne  Mobilität.  Wir  wollen  die  Rahmenbedingungen  für  neue  Mobilitätsdienste  optimieren  und  dabei  vor  allem  den  Nutzen  für  alle  sicherstellen.
 
 Klimaschutz-Rahmen  für  Verkehrssektor
--------------------------------------
+---------------------------------------
 
 -  Mobilitätsmasterplan  2030  für  eine  wirkungsorientierte  integrierte  Strategie  für  Luft-,  Wasser-,  Schienen-  und  Straßenverkehr,  von  der  sich  konkrete  Maßnahmen  für  einzelne  Sektoren  ableiten,  die  Österreichs  Klima-  und  Wirtschaftsziele  unterstützen
 
@@ -26,7 +26,7 @@ Klimaschutz-Rahmen  für  Verkehrssektor
   * Das  gesamtstaatliche  Klimaziel  für  den  Bereich  Verkehr  fungiert  als  übergeordnete  verbindliche  Handlungsanleitung,  an  der  sich  die  strategische  Planung  für  alle  Verkehrsträger  ausrichten  muss.
   * Der  Mobilitätsmasterplan  2030  adressiert  die  Transformationstreiber  Dekarbonisierung  und  Digitalisierung.  Er  nutzt  die  Potentiale  der  Digitalisierung  (Daten  als  Grundlage  für  modiübergreifende  Steuerung  und  Nutzung  neuer  Geschäftsmodelle  zur  Erreichung  der  Klimaziele).  Im  Mittelpunkt  stehen  Lebensqualität  und  Wettbewerbsfähigkeit.  Hierfür  müssen  neue  Mobilitätskonzepte  und  Innovationen  gestärkt  werden,  u.a.  auch  mit  der  Etablierung  von  Experimentierräumen.
   * Aufgebaut  wird  der  Mobilitätsmasterplan  2030  auf  Vorarbeiten  wie  der  #mission2030,  dem  NEKP  oder  dem  Sachstandsbericht    Mobilität.  Er  entwickelt  Einzelmaßnahmen  in  den  Bereichen  „Verkehr  vermeiden“,  „Verkehr  verlagern“  und  „Verkehr  verbessern“  –  von  Mobilitätsdienstleistungen  bis  hin  zu  Infrastrukturmaßnahmen.
-  * Besondere  Berücksichtigung  finden  attraktive  Mobilitätsdienstleistungen  sowohl  für  urbane  Zentren  als  auch  für  ländliche  Gebiete.  
+  * Besondere  Berücksichtigung  finden  attraktive  Mobilitätsdienstleistungen  sowohl  für  urbane  Zentren  als  auch  für  ländliche  Gebiete.
   * Nutzung  der  Beteiligungen  des  Bundes  in  den  Bereichen  Infrastruktur  und  Verkehr  und  Erarbeitung  einer  Portfolio-Strategie,  die  die  Ziele  des  Mobilitätsmasterplans  2030  unterstützt  und  eine  serviceorientierte  Mobilitätspolitik  verwirklicht
   * Verkehrsträgerübergreifende  strategische  Planung  beim  Bau  und  Ausbau  von  Infrastruktur  sowie  Prüfung  der  Effizienzsteigerung  durch  bessere  Kooperation  im  Infrastrukturausbau  inklusive  Berücksichtigung  der  Sektorintegration  (beispielsweise  Bau,  Breitbandausbau  oder  Klimaschutzprojekte)
 
@@ -35,13 +35,13 @@ Klimaschutz-Rahmen  für  Verkehrssektor
 -  Einsatz  im  nationalen  und  europäischen  Rahmen  in  Richtung  einer  verursachergerechten  Kostenwahrheit
 
 Umweltfreundliche,  leistbare  Mobilität  für  alle  in  Stadt  und  Land
------------------------------------------------------------------
+-------------------------------------------------------------------------
 
 -  Garantiert  mobil:  Ausbauen,  vernetzen,  verstärken
 
   * Sicherstellung  eines  weitgehend  stündlichen,  ganztägigen  ÖV-Angebots  im  urbanen  Raum  und  ländlichen  Gebiet  durch  sämtliche  Mobilitätsservices  (Bahn,  Bus,  Bim,  Carsharing,  Mikro-ÖV,  Sammeltaxis,  Ridesharing-Plattformen…)
   * Kombination  aus  flexiblen  Mobilitätsangeboten  (wie  Mikro-ÖV),  Sharing-Lösungen  und  Radverkehr-Attraktivierung  bringt  österreichweite,  flächendeckende  Mobilitätsgarantie.
-  * Rasche  vollständige  Umsetzung  der  bisher  beschlossenen  ÖV-Mindeststandards  
+  * Rasche  vollständige  Umsetzung  der  bisher  beschlossenen  ÖV-Mindeststandards
   * Stufenweise  Verankerung  und  Umsetzung  ausreichender  Anschlüsse  für  alle  Ortskerne  mit  öffentlichem  Verkehr
   * Sicherstellung  der  nötigen,  kontinuierlichen  Bundes-Kofinanzierung
 
@@ -51,12 +51,14 @@ Umweltfreundliche,  leistbare  Mobilität  für  alle  in  Stadt  und  Land
   * Zweckbindung  der  Verkehrsanschlussabgabe  für  ÖV-Finanzierung  mit  begleitenden  Maßnahmen  gegen  negativen  Standortwettbewerb
   * Gesetzliche  Festlegung  der  Gesamthöhe  der  Mittel  und  des  Verteilungsschlüssels,  orientiert  an  den  ÖV-Mindeststandards  (Beschlüsse  2014)  sowie  Zweckbindung  für  ÖPNV
   * Prüfung  einer  Neuorganisation  (Integration  in  die  Linienverkehre  etc.)  des  Schüler-Gelegenheitsverkehrs,  um  eine  Steigerung  der  Planungseffizienz  und  eine  faire  Ausfinanzierung  zu  erreichen
+
 -  1-2-3-Österreich-Ticket  zur  Erreichung  der  Klimaziele  –  eine  klimaschonende  Alternative  zum  motorisierten  Individualverkehr,  breit  leistbar  und  zugleich  unkompliziert  zugänglich
+
   * Umsetzung  durch  österreichweite  Jahresnetzkarte  für  den  öffentlichen  Verkehr
   * Um  1  Eur  * pr  * Tag  in  einem  Bundesland,  um  2  Eur  * pr  * Tag  in  einem  und  im  Nachbarbundesland,  um  3  Eur  * pr  * Tag  das  gesamte  Bundesgebiet
   * Kostengünstige  Variante  für  junge  Menschen  in  Ausbildung  und  Studierende
   *   Dieses  Angebot  soll  durch  die  erfahrungsgemäß    nachfragebedingt  steigenden  Markterlöse    teilfinanziert    und    zusätzlich  durch    die    öffentliche    Hand    gestützt    werden,    um    die    nötige    Marktdurchdringung  zu  erreichen.
-  *   Zeitgerechte  Bereitstellung  der  dafür  benötigten  Bundesmittel  bei  der  Einführung  
+  *   Zeitgerechte  Bereitstellung  der  dafür  benötigten  Bundesmittel  bei  der  Einführung
   *   Entwicklung    der    nötigen    Entscheidungsgrundlagen    und    Abwicklungsstrukturen  sowie    rechtlichen    Voraussetzungen    wird  gemeinsam    mit    den    ÖV-Systempartnern  mit  hoher  Priorität  vorangetrieben
   *   Prüfung  eines  Austrorail-Tickets  nach  Alter  gestaffelt  nach  dem  Vorbild  von  Interrail
 
@@ -67,6 +69,7 @@ Umweltfreundliche,  leistbare  Mobilität  für  alle  in  Stadt  und  Land
   *   Absicherung  gemeinwohlorientierter  Mobilitätsdienste    (Dorfbus,    Anrufsammeltaxis  etc.)  durch  klare  und  stabile  Rahmenbedingungen
 
 -    Bundesweiter    Ausbau    von    den    ÖV    ergänzenden    Park&Ride,    Bike&Ride    und  Carsharing-Lösungen  an  Bahnhöfen  in    Abhängigkeit    von    der    Verfügbarkeit  attraktiver    Zubringerdienste,    um    die    Angebote    des    öffentlichen    Verkehrs  für  Pendlerinnen    und    Pendler    zu    erweitern  und    aufzuwerten.    Dafür    notwendig    ist  auch  Folgendes:
+
   *   Neuordnung  Park&Ride-Regelungen  ÖBB  mit  Gemeinden  und  Ländern  sowie  einheitliche    Bewirtschaftungs-    und    Betriebskriterien  von  Park&Ride  +  Bike&Ride  und  Sharing-Angeboten
   *   Bekenntnis    zum    regionalen,    schienengebundenen  Verkehr  bzw.  kostengünstigeren    Alternativen    des    öffentlichen    Verkehrs  (on-Demand-Lösungen,  Busse  etc.)
   *   Zusammenarbeit    auch    mit    dem    Tourismus,  um  auch  dort  die  sogenannte  „Last  Mile“    mittels    öffentlicher    Verkehrsmittel  zu  ermöglichen
@@ -74,7 +77,7 @@ Umweltfreundliche,  leistbare  Mobilität  für  alle  in  Stadt  und  Land
 -    Bahn  im  Fernverkehr  zur  attraktiven  Alternative  machen
 
   *   Prüfung  der  Ausweitung  des  Angebots  an  Autoreisezügen  (wie  beispielsweise  Wien–Innsbruck/Feldkirch).    Berücksichtigung  von  E-Mobilität  durch  Lademöglichkeiten  auf  dem  Zug
-  *   Ausbau    des    Nachtzugangebotes  im  Fernverkehr,    innerösterreichisch    und    zu  internationalen  Destinationen  
+  *   Ausbau    des    Nachtzugangebotes  im  Fernverkehr,    innerösterreichisch    und    zu  internationalen  Destinationen
   *   Verbesserung    der    Fahrradmitnahme    im  Fernverkehr
 
 Verkehrssicherheit
@@ -110,10 +113,10 @@ Verkehrssicherheit
 
 -    Ausarbeitung    eines    Verkehrssicherheitsprogramms  2021ff  mit  Annäherung  an  Vision  Zero
 
--    Evaluierung    und    Novelle    der    OffroadV  *   und  des    KFG    in    Bezug    auf    den    missbräuchlichen  
+-    Evaluierung    und    Novelle    der    OffroadV  *   und  des    KFG    in    Bezug    auf    den    missbräuchlichen
 
 Effiziente  E-Mobilität  jetzt:  Schienen  in  die  Zukunft  und  mehr  Bahn,  Bim  &  Bus
-------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------
 
 -  Bus,  Bahn  &  Co.  –  innovativ,  aufeinander  abgestimmt,  benutzerfreundlich
 
@@ -121,7 +124,7 @@ Effiziente  E-Mobilität  jetzt:  Schienen  in  die  Zukunft  und  mehr  Bahn,  
 
 -  Schaffung  einer  nationalen  Buchungsplattform  mit  transparenten  Tarifen  inkl.  Vereinheitlichung  des  Ticketing  im  öffentlichen  Verkehr;  Möglichkeit,mit  einem  Ticket  mehrere  Verkehrsdienstleister  –  von  Mikro-ÖV  bis  Schienen-Fernverkehr  zu  nutzen.  Um  die  Kundenzufriedenheit  zu  steigern,  sollen  die  Tarif-  und  Automatensysteme  harmonisiert  werden.
 
--  Vereinheitlichung  der  wichtigsten  Tarifnebenbestimmungen  und  mehr  Vernetzung  bei  Fahrplangestaltung  
+-  Vereinheitlichung  der  wichtigsten  Tarifnebenbestimmungen  und  mehr  Vernetzung  bei  Fahrplangestaltung
 
 -  Fahrgastrechte  absichern  und  ausbauen  (Mitwirkungspflicht  für  Unternehmen  an  Schlichtungsverfahren  beibehalten,  Prüfung  Einbezug  Einzeltickets  SPNV)
 
@@ -156,7 +159,7 @@ Effiziente  E-Mobilität  jetzt:  Schienen  in  die  Zukunft  und  mehr  Bahn,  
 
 -    Überprüfung    des    vermehrten    Einsatzes    von  alternativen    Antrieben    bei    öffentlichen    Verkehrsmitteln    sowie    Erarbeitung    zugehöriger  Maßnahmen
 
--    Forcierung    von    Energieeffizienzmaßnahmen  für  öffentliche  Verkehrsmittel  
+-    Forcierung    von    Energieeffizienzmaßnahmen  für  öffentliche  Verkehrsmittel
 
 -    Förderung    von    neuen    Technologien    und    Pionierprojekten    im    öffentlichen    Schienen-Nahverkehr,    wie    zum    Beispiel    einer    Wasserstoff-Eisenbahn  ins  Zillertal
 
@@ -170,11 +173,11 @@ Effiziente  E-Mobilität  jetzt:  Schienen  in  die  Zukunft  und  mehr  Bahn,  
 
 -    Aufrechterhaltung  der  existierenden  Programme  im  Bereich  der  Privatbahnen
 
--    Prüfung    der    bestmöglichen    Nutzung    der  bestehenden  Schieneninfrastruktur  
+-    Prüfung    der    bestmöglichen    Nutzung    der  bestehenden  Schieneninfrastruktur
 
 -    Zielnetz  2040  voranbringen:
 
-  *   Fokus    auf    Nahverkehr,    Regionalbahn-Attraktivierung,    Güterstrecken-Neu-    und  -Ausbau,  Lückenschlüsse,  Barrierefreiheit,  Digitalisierung  
+  *   Fokus    auf    Nahverkehr,    Regionalbahn-Attraktivierung,    Güterstrecken-Neu-    und  -Ausbau,  Lückenschlüsse,  Barrierefreiheit,  Digitalisierung
   *   Beschleunigte    Bestellung    der    Grundlagen  für    die    mittelfristig    weiterreichende    Infrastrukturplanung  (Verkehrsprognose    etc.)  inkl.    Finanzrahmenplan.    Strukturierter    und  transparenter  Prozess  für  die  Infrastrukturplanung  (minutengenaue  Netzgrafiken  mit  allen  Schienennutzungen)    unter    Einbindung    der  Bundesländer  und  Nachbarstaaten
   *   Vorantreiben    der    Elektrifizierung,    mit    dem  Ziel,  90%  des  Netzes  zu  elektrifizieren
 
@@ -185,7 +188,7 @@ Effiziente  E-Mobilität  jetzt:  Schienen  in  die  Zukunft  und  mehr  Bahn,  
   *   Als  Rückgrat  des  öffentlichen  Verkehrs  ist  für  den    Schienenverkehr    die    Modernisierung  und  der  Ausbau  des  Schienennetzes  Voraussetzung,  um  einen  verdichteten  Taktfahrplan  und  die  Verlagerung  des  Güterverkehrs  auf  die  Schiene  zu  ermöglichen.
   *   Die    ÖBB    sind    –    in    Kooperation    mit    den  regionalen    Systempartnern    –  zentraler  Dienstleister  für  die  Mobilität  von  Personen  im  Nah-  und  Fernverkehr  sowie  im  nationalen  und  internationalen  Güterverkehr.
 
--    Um    den    künftigen    Herausforderungen    und  Aufgaben    gerecht    zu    werden,    sind    folgende  Punkte  von  zentraler  Bedeutung:  
+-    Um    den    künftigen    Herausforderungen    und  Aufgaben    gerecht    zu    werden,    sind    folgende  Punkte  von  zentraler  Bedeutung:
 
   *   Chancen  der  Digitalisierung  nützen,  um  insbesondere  Kapazitäten,  Sicherheit  und  Produktivität    bei    der    Infrastruktur    zu    erhöhen  und    neue    kundenorientierte    Vertriebswege  weiterzuentwickeln
   *   Dekarbonisierung    im    Unternehmen    vorantreiben,    etwa    durch    Erhöhung    des    Elektrifizierungsgrades    bei    der    Infrastruktur    oder  durch    Erhöhung    der    Eigenversorgung    mit  nachhaltiger  Energieproduktion
@@ -224,7 +227,7 @@ Effiziente  E-Mobilität  jetzt:  Schienen  in  die  Zukunft  und  mehr  Bahn,  
 -    Bestbieterprinzip    inkl.    Anwendung    von    Qualitäts-    und    Sozialkriterien    bei    regionalen    Ausschreibungen  im  Busverkehr
 
 Radpaket  und  Zufußgehen  –  Offensive  für  aktive,  sanfte  Mobilität
-----------------------------------------------------------------
+------------------------------------------------------------------------
 
 -  Fahrradoffensive
 
@@ -287,7 +290,9 @@ Straßenverkehr
 
   *   Ziel    der    Bundesregierung    ist    ein    Maßnahmenbündel,  das  dazu  führt,  dass  ab  dem  für  die    Erreichung    der    Pariser    Klimaziele    notwendigen  Zeitpunkt  nur  mehr  emissionsfreie  PKW,    einspurige    Fahrzeuge    sowie    leichte  Nutzfahrzeuge    auf    Österreichs    Straßen    neu  zugelassen  werden.
   *   Konsequenter  Einsatz  der  Bundesregierung  auf    EU-Ebene    für    die    seitens    der    Europäschen  Kommission  mit  dem  Green  Deal  angestrebte  Neuverhandlung  der  Flotten-Emissionsvorgaben,  um  ab  2025  den  Weg  hin  zu  emissionsfreier  Mobilität  zu  ebnen
+
 -    Vorreiterrolle  und  Vorbildwirkung  der  öffentlichen  Hand  durch  verbindliche  Vorgaben:
+
   *   S  * rasch  wie  möglich  (wenn  möglich  schon  ab  2022)  wird  die  Beschaffung  von  emissionsfrei  betriebenen    Fahrzeugen    durch    die    öffentliche  Hand  zum  Standard,  die  Beschaffung  von  Fahrzeugen    mit    Verbrennungsmotoren    wird  zur  Ausnahme  und  muss  begründet  werden.  Lebenszykluskosten  (TCO/Total  Cost  of  Ownership)    sind    Grundlage    des    Beschaffungsvorgangs,  inklusive    Berücksichtigung    des  Umwelt-  und  Gesundheitsvorteils.
   *   Aus  für  Neuzulassung  von  Kfz  (PKW)  mit  Verbrennungsmotoren    in    öffentlicher    Beschaffung    (mit    Ausnahme    der    Sonderfahrzeuge,  Einsatzfahrzeuge  und  Fahrzeuge  des  Bundesheers)  ab  2027
   *   Ausbau    bundesweite    Beschaffungsaktion  emissionsfreie  Nutzfahrzeuge  für  kommunale  Flotten
@@ -314,7 +319,7 @@ Straßenverkehr
 -    Überprüfung  von  weiteren  Strafbestimmungen  bei    umwelt-    und    klimarelevanten    Manipulationen    (Abgasmanipulationen,    Chiptuning    und  dgl.)  am  Fahrzeug  durch  Hersteller  oder  Eigner  und  diese  konsequent  vollziehen
 
 Güter  in  Einklang  mit  dem  Klima  transportieren  &  Transitproblem  bekämpfen
--------------------------------------------------------------------------
+----------------------------------------------------------------------------------
 
 -  Masterplan  Güterverkehr  für  Ziele  und  Maßnahmen  zur  Verbesserung  des  Modalsplit  im  Güterverkehr,  insbesondere  durch  Verlagerung  auf  die  Schiene  im  Sinne  der  Klimaziele  und  in  Weiterentwicklung  des  Logistikaktionsplans  durch    Schaffung  eines  Gesamtkonzepts,  das  im  Ergebnis  zu  einer  Entlastung  der  Bevölkerung  insbesondere  entlang  der  Transitrouten  führt.  Dies  bedarf  einer  Neubewertung  der  insgesamt  bestehenden  steuer-  und  gebührenrechtlichen  sowie  eisenbahn-  und  straßenrechtlichen  Normen.
 
@@ -327,9 +332,9 @@ Güter  in  Einklang  mit  dem  Klima  transportieren  &  Transitproblem  bekäm
 
 -    Österreich  setzt  sich  vor  dem  Hintergrund  der  Klimaziele    und    der    Transitfrage    proaktiv    für  eine    EU-Wegekostenrichtlinie    II    mit    verlagerungswirksamen  Eckpunkten  wie  Mindest-  statt  Höchstmautsätzen    ein.    Folgende  Punkte    sind  dabei  von  besonderer  Bedeutung:
 
-  *   Kostenwahrheit  durch  eine  der  verursachten  Umwelt-    und    Klimabelastung    entsprechende  LKW-Maut  inkl.  Mindestsätze.  Verbesserung    des    EU-Rechts    und    in    Österreich    die  bestehende    mögliche    Einberechnung    für  Luftschadstoffe  und  Lärm  in  Maut-Tarife  voll  nutzen  
-  *   Einsatz  auf  EU-Ebene  für  die  Ermöglichung  wirksamer  Maßnahmen  für  weniger  Transitfahrten    bzw.    zu    deren    Verlagerung    auf  die    Bahn    (z.B.    Alpentransitbörse,    um    Lizenzen  für  eine  umweltverträgliche  Obergrenze  an  LKW-Transitfahrten  zu  handeln,  sektorales    Fahrverbot),    dazu    Aufnahme  von    Gesprächen    mit    der    EU-Kommission  und  der  Schweiz  
-  *   Korridor-Maut:  Erarbeitung  eines  Vorschlags  an  die  Europäische  Kommission  zur  Überarbeitung  der  Europäischen  Richtlinien  (Wegekostenrichtlinie,  Eurovignette),  um  eine  größere  Flexibilität  bei  der  Mauttarifgestaltung  für  LKW  zu  erreichen,  die  bei  besonders  belasteten    Räumen    Aufschläge    mit    nachhaltiger  Lenkungswirkung  gestattet.  Ziel  der  Lenkungswirkung  ist  es  –  unter  anderem  anhand  des  Beispiels  des  Brenners  –,  eine  deutliche  Verlagerung    des    Schwerverkehrs    von    der  Straße    auf    die    Schiene    zu    erreichen    und  Umweg-Transit  zu  verhindern.	
+  *   Kostenwahrheit  durch  eine  der  verursachten  Umwelt-    und    Klimabelastung    entsprechende  LKW-Maut  inkl.  Mindestsätze.  Verbesserung    des    EU-Rechts    und    in    Österreich    die  bestehende    mögliche    Einberechnung    für  Luftschadstoffe  und  Lärm  in  Maut-Tarife  voll  nutzen
+  *   Einsatz  auf  EU-Ebene  für  die  Ermöglichung  wirksamer  Maßnahmen  für  weniger  Transitfahrten    bzw.    zu    deren    Verlagerung    auf  die    Bahn    (z.B.    Alpentransitbörse,    um    Lizenzen  für  eine  umweltverträgliche  Obergrenze  an  LKW-Transitfahrten  zu  handeln,  sektorales    Fahrverbot),    dazu    Aufnahme  von    Gesprächen    mit    der    EU-Kommission  und  der  Schweiz
+  *   Korridor-Maut:  Erarbeitung  eines  Vorschlags  an  die  Europäische  Kommission  zur  Überarbeitung  der  Europäischen  Richtlinien  (Wegekostenrichtlinie,  Eurovignette),  um  eine  größere  Flexibilität  bei  der  Mauttarifgestaltung  für  LKW  zu  erreichen,  die  bei  besonders  belasteten    Räumen    Aufschläge    mit    nachhaltiger  Lenkungswirkung  gestattet.  Ziel  der  Lenkungswirkung  ist  es  –  unter  anderem  anhand  des  Beispiels  des  Brenners  –,  eine  deutliche  Verlagerung    des    Schwerverkehrs    von    der  Straße    auf    die    Schiene    zu    erreichen    und  Umweg-Transit  zu  verhindern.
 
 -    Brenner-Maut:  Ziel  einer  Korridormaut  zwischen    München    und    Verona,    um    Kosten  an    andere    Transitstrecken    über    die    Alpen  anzupassen  (z.B.  über  die  Schweiz)
 
@@ -360,7 +365,7 @@ Güter  in  Einklang  mit  dem  Klima  transportieren  &  Transitproblem  bekäm
 -    Keine  Gigaliner  auf  Österreichs  Straßen
 
 Klima-faire  Zukunft  in  Luftfahrt,  Schifffahrt,  Seilbahnwesen
-------------------------------------------------------------
+-----------------------------------------------------------------
 
 -    Stärkung    der  (öffentlichen)    Verkehrsverbindung,  besonders  für  den  Flughafen  Wien.  Errichtung  der  Flughafenspange  Richtung  Osten  und  bessere  Verknüpfung  an  das  S-Bahn-  und  U-Bahnnetz,    Verlängerung    der    S-Bahn    nach  Bratislava
 
@@ -372,7 +377,7 @@ Klima-faire  Zukunft  in  Luftfahrt,  Schifffahrt,  Seilbahnwesen
 
 -    Umsetzung    Single    European    Sky:    Schaffung  eines    einheitlichen    europäischen    Luftraums,  um    Flugdistanzen,    Kerosinverbrauch    und  CO2-Emissionen  zu  minimieren
 
--    Umsetzung    eines    Emissionsreduktionspfades  für  die  Luftfahrt  zur  Erreichung  der  Klimaziele  durch  eine  Kombination  aus  
+-    Umsetzung    eines    Emissionsreduktionspfades  für  die  Luftfahrt  zur  Erreichung  der  Klimaziele  durch  eine  Kombination  aus
 
   *   CORSIA    (Carbon    Offsetting    and    Reduction  Scheme  for  International  Aviation:  Globales  CO2-Kompensationssystem    für    den    Luftverkehr    aller    Mitgliedstaaten    der    UN-Luftfahrtorganisation    ICAO),    für    die    freiwillige  Kompensation  womöglich  weiter  steigender  CO2-Ausstöße  der  Luftfahrt  ab  2021
   *     Fortgesetzte    Einbeziehung    der    Luftfahrt  in  den  EU-Emissionshandel  (ETS)  für  eine  deutliche  Reduktion  der  CO2-Emissionen  bis  2030
@@ -397,7 +402,7 @@ Klima-faire  Zukunft  in  Luftfahrt,  Schifffahrt,  Seilbahnwesen
 
 -    Überarbeitung    des    Luftfahrtgesetzes    bezüglich  Klimaschutz  und  Ökologisierung  und  ggf.  Novellierung
 
--    Nutzung  von  Drohnen  und  anderer  Unpiloted  Aerial    Vehicles:    Schaffung    klarer    gesetzlicher  Grundlagen,    klarer    Betriebsvorschriften    und  adäquater  Flugsicherung  
+-    Nutzung  von  Drohnen  und  anderer  Unpiloted  Aerial    Vehicles:    Schaffung    klarer    gesetzlicher  Grundlagen,    klarer    Betriebsvorschriften    und  adäquater  Flugsicherung
 
 -    Der    nicht    motorisierte    Flugsport    ist    ein    interessantes    Potenzial    für    den    österreichischen  Tourismus.    Die    Weiterentwicklung    der    Rahmenbedingungen    für    den    Flugsport    unter  relevanten  Einbeziehung    der  Interessensgruppen  ist  daher  anzustreben.
 
@@ -407,20 +412,21 @@ Klima-faire  Zukunft  in  Luftfahrt,  Schifffahrt,  Seilbahnwesen
 
 -    Schifffahrt:
 
-  *   Wenn    technisch    möglich,    verpflichtende  Landstromanschlüsse  an  den  öffentlichen  Anlegestellen    am    Bundeswasserstraßennetz    sowie    die    Prüfung    eines    Maßnahmenpakets    des    Bundes    zur    Forcierung  von    Landstromanschlüssen    an    privaten  Bootsanlegestellen  an  Seen  und  Flüssen  
+  *   Wenn    technisch    möglich,    verpflichtende  Landstromanschlüsse  an  den  öffentlichen  Anlegestellen    am    Bundeswasserstraßennetz    sowie    die    Prüfung    eines    Maßnahmenpakets    des    Bundes    zur    Forcierung  von    Landstromanschlüssen    an    privaten  Bootsanlegestellen  an  Seen  und  Flüssen
   *   Prüfung  des  Einsatzes  von  umweltschonenderen  alternativen  Kraftstoffen
   *   Auf  EU-Ebene  Einsatz  für  eine  Einbeziehung  der  Schifffahrt  in  den  ETS
 
--    Einsatz    für    gerechte    Schiffsdieselbesteuerung  auf  EU-Ebene  
+-    Einsatz    für    gerechte    Schiffsdieselbesteuerung  auf  EU-Ebene
 
 -    Beibehaltung  guter  Schifffahrtsverhältnisse  und  Einbau  der  Schifffahrt  in  Logistikketten
 -    Seilbahnen:
+
   *   Die    österreichische    Seilbahnwirtschaft    leistet    sowohl    einen    maßgeblichen    Beitrag    zu  Wertschöpfungsmöglichkeiten  im  ländlichen  Raum  als  auch  in  der  österreichischen  Exportwirtschaft.    Technische    Innovationen,  insbesondere    betreffend    Ökoeffizienzsteigerung    und    Nutzung    von    Seilbahnen    als  Verkehrsmittel  werden  begrüßt.
   *   Anreize  für  Innovation  in  der  Seilbahnwirtschaft,  vor  allem  im  urbanen  Raum  (Stadtseilbahn)
 
 
 Neue  Mobilität  –  mehr  als  Verkehr
----------------------------------
+--------------------------------------
 
 -    Gelegenheitsverkehrsgesetz    zur    Förderung  neuer  Mobilitätsdienstleistungen  verbessern
 

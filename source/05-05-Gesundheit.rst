@@ -15,7 +15,7 @@ Die Verbesserung von Frauengesundheit ist ein besonderes Anliegen dieser Bundesr
 
 Die medizinische Ausbildung wird attraktiver gestaltet und durch eine Stipendienvergabe unter der befristeten Verpflichtung, in Österreich tätig zu sein, ergänzt. Im Medizinstudium wird eine Fachärztin bzw. ein Facharzt für Allgemeinmedizin geschaffen und das Berufsbild attraktiviert. Anreize werden geschaffen, um eine Abwanderung von Fachkräften ins Ausland zu verhindern.
 
-Im Rahmen der Gesundheitsförderung bekennen wir uns unter anderem zu einer Stärkung der präventiven Maßnahmen durch eine österreichweite Präventionsstrategie, damit die persönliche Gesundheit verbessert wird. Neben finanziellen und sachlichen Anreizen für die Teilnahme an Präventionsprogrammen soll die Prävention auch in Schulen und Betrieben gestärkt werden. Durch ein Anreizsystem von Präventionsprogrammen sollen allen Österreicherinnen und Österreichern mehr gesunde Jahre ermöglicht werden. 
+Im Rahmen der Gesundheitsförderung bekennen wir uns unter anderem zu einer Stärkung der präventiven Maßnahmen durch eine österreichweite Präventionsstrategie, damit die persönliche Gesundheit verbessert wird. Neben finanziellen und sachlichen Anreizen für die Teilnahme an Präventionsprogrammen soll die Prävention auch in Schulen und Betrieben gestärkt werden. Durch ein Anreizsystem von Präventionsprogrammen sollen allen Österreicherinnen und Österreichern mehr gesunde Jahre ermöglicht werden.
 
 Fortschritte der Digitalisierung sollen auch im Gesundheitsbereich einen einfacheren und verbesserten Zugang zu medizinischen Leistungen ermöglichen. Die Weiterentwicklung der E-Card als Schlüssel für papierlose Prozesse soll unter Beachtung des Datenschutzes eine deutliche Vereinfachung für alle Beteiligten im Gesundheitssystem bringen. Ebens  * wollen wir die Digitalisierung in Diagnose, Behandlung und (medizinischer) Forschung vorantreiben und somit den Gesundheitsstandort Österreich weiter stärken.
 
@@ -69,7 +69,7 @@ Sozialversicherung
 
 - Die Bundesregierung bekennt sich zum Prinzip der Selbstverwaltung im Bereich der Sozialversicherung.
 
-- Evaluierung der sozialen Absicherung der Gruppe der Selbstständigen im Rahmen der Zusammenführung der Träger SVA und SVB zur SVS 
+- Evaluierung der sozialen Absicherung der Gruppe der Selbstständigen im Rahmen der Zusammenführung der Träger SVA und SVB zur SVS
 
 Hochqualitative, abgestufte, flächendeckende und wohnortnahe Gesundheitsversorgung
 ----------------------------------------------------------------------------------
@@ -94,7 +94,7 @@ Hochqualitative, abgestufte, flächendeckende und wohnortnahe Gesundheitsversorg
 
   * Ausbau von PVE und Facharztzentren – flexible Kooperationsmodelle
 
-- Abschaffung der unechten USt-Befreiung bei Vermietung an Ärztinnen und Ärzte 
+- Abschaffung der unechten USt-Befreiung bei Vermietung an Ärztinnen und Ärzte
 
 - Stärkung der integrierten Versorgung bei chronischen Krankheiten (Ausbau von Disease-Management-Programmen)
 
@@ -131,7 +131,7 @@ Hochqualitative, abgestufte, flächendeckende und wohnortnahe Gesundheitsversorg
 
 - Wissenschaftliche Prüfung von Optionenmodellen (z.B. für Hausärzte-Einschreibemodell, Einhaltung von Behandlungspfaden und dgl.)
 
-- Ausbau der ambulanten Rehabilitation, die die stationäre Rehabilitation entlastet 
+- Ausbau der ambulanten Rehabilitation, die die stationäre Rehabilitation entlastet
 
 - Übergangspflege: Optimierung der Bettennutzung im stationären Bereich beim Übergang von der Akutversorgung in die Pflege unter Rücksichtnahme auf die Betroffenen
 
@@ -144,8 +144,7 @@ Optimale Bedingungen im Gesundheitssystem
 
 - Weiterentwicklung einer abgestimmten Versorgung im niedergelassenen, ambulanten, tagesklinischen und stationären Bereich
 
-  * Gesamthafte Weiterentwicklung und Verbesserung der Gesundheitsversorgung über den intra- und extramuralen Bereich zwischen Bund, Ländern und Sozialversicherung (Bundes- und Landes-Zielsteue-
-rung)
+  * Gesamthafte Weiterentwicklung und Verbesserung der Gesundheitsversorgung über den intra- und extramuralen Bereich zwischen Bund, Ländern und Sozialversicherung (Bundes- und Landes-Zielsteuerung)
   * Gemeinsame Definition von Leistungsund Qualitätszielen zwischen Ländern und Sozialversicherung
 
 - Transparenz und Qualität ausbauen
@@ -161,7 +160,7 @@ Frauengesundheit
 
 - Forcierung der vorgesehenen Maßnahmen im NAP Frauengesundheit
 - Erstellung eines jährlichen Frauengesundheits-Berichts
-- Verbesserte Maßnahmen zur besseren Unterstützung von Frauen, insbesondere von werdenden Müttern sowie Frauen über 60 
+- Verbesserte Maßnahmen zur besseren Unterstützung von Frauen, insbesondere von werdenden Müttern sowie Frauen über 60
 - Gezielte Maßnahmen zur Förderung der Karrierechancen von Frauen im Gesundheitsbereich und den gesetzlichen Interessenvertretungen mit dem Ziel der Parität in den Leitungsfunktionen
-- Vorsorgeprogramm zu spezifischen Frauengesundheitsproblemen, insbesondere psychische Gesundheit 
-- Forcierung von Gender-Medizin (z.B. bei Medikamentenverschreibungen), auch in den medizinischen Curricula 
+- Vorsorgeprogramm zu spezifischen Frauengesundheitsproblemen, insbesondere psychische Gesundheit
+- Forcierung von Gender-Medizin (z.B. bei Medikamentenverschreibungen), auch in den medizinischen Curricula

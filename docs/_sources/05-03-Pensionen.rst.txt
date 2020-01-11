@@ -3,274 +3,82 @@ Pensionen
 ---------
 
 .. todo::
-   Formatieren, Überarbeiten, Original gegenchecken
+  Formatieren, Überarbeiten, Original gegenchecken
 
-zu
+Das österreichische Pensionssystem zeichnet sich durch Sicherheit und Klarheit aus. Es gibt zwar immer wieder Adaptionsbedarfe, aber wir brauchen keine grundlegende Neuausrichtung. Was es braucht, sind Bemühungen, Lücken und Ungerechtigkeiten im Pensionssystem zu schließen und Nachhaltigkeit sicherzustellen. Unser Ziel ist es, ein Altern in Würde zu ermöglichen.
 
-Das österreichische Pensionssystem zeichnet
-sich  durch  Sicherheit  und  Klarheit  aus.  Es
-gibt  zwar  immer  wieder  Adaptionsbedarfe,
-aber  wir  brauchen  keine  grundlegende
-Neuausrichtung.  Was  es  braucht,  sind
-Bemühungen, Lücken und Ungerechtigkeiten
-im  Pensionssystem
-schließen  und
-Nachhaltigkeit  sicherzustellen.  Unser  Ziel  ist
-es, ein Altern in Würde zu ermöglichen.
-Um  unser  Pensionssystem  auch
-für  die
-nachkommenden  Generationen
-sichern
-zu  können,  braucht  es  neben  einer  hohen
-Beschäftigung  Maßnahmen  zur  Stärkung
-im  Erwerbsleben  und
-der  Gesundheit
-Möglichkeiten zur aktiven Wahrnehmung der
-Selbstbestimmung
-in  der  Lebensplanung.
-Dazu zählt auch die bessere Information über
-nachteilige  Folgen  eines  verfrühten  Antritts
-im Hinblick auf die verbleibenden Jahre in der
-Pension.
-Diese  Bundesregierung  verfolgt  das  Ziel,
-Armut  im  Alter  deutlich  zu  reduzieren  und
-nach Möglichkeit zu überwinden.
-Altersarmut kann aber nicht nur erst im Alter
-verhindert werden. Ein wichtiger Schlüssel dazu
-liegt in der Erwerbsphase und bei niedrigen
+Um unser Pensionssystem auch für die nachkommenden Generationen sichern zu können, braucht es neben einer hohen Beschäftigung Maßnahmen zur Stärkung der Gesundheit im Erwerbsleben und Möglichkeiten zur aktiven Wahrnehmung der Selbstbestimmung in der Lebensplanung. Dazu zählt auch die bessere Information über nachteilige Folgen eines verfrühten Antritts im Hinblick auf die verbleibenden Jahre in der Pension.
 
-wollen,
+Diese Bundesregierung verfolgt das Ziel, Armut im Alter deutlich zu reduzieren und nach Möglichkeit zu überwinden.
 
-(Frauen-)Einkommen.  Die  Bundesregierung
-wird daher zahlreiche Maßnahmen umsetzen,
-um  Fraueneinkommen  zu  erhöhen  und  die
-partnerschaftliche  Aufteilung  von  Familien-
-und  Betreuungsarbeit  zu  fördern.  In  der
-Pension  kommen  besonders  auf  Frauen  oft
-finanziell  sehr  große  Herausforderungen  zu.
-Mit  gezielten  Maßnahmen  für  diese  Gruppe
-wollen wir die Frauenaltersarmut mindern.
-Wir
-dass  Österreicherinnen
-und  Österreicher
-länger  gesundheitlich
-uneingeschränkt leben können. Dazu müssen
-wir einen Fokus auf Prävention, Rehabilitation
-und  Stärkung  der  Gesundheitskompetenz
-der  oder  des  Einzelnen  setzen,  damit  der
-Anteil  der  gesunden  Jahre  für  alle  erhöht
-wird.  Die  Gesundheit  der  Beschäftigten
-ist  das  beste  und  effektivste  Mittel,  um
-das
-tatsächliche  Pensionsalter  an  das
-gesetzliche  heranzuführen.
-in
-die  Gesundheit  von  Menschen  reduzieren
-nachweislich  Arbeitsunfähigkeit  und  Kosten
-im Gesundheits- wie auch im Pensionssystem.
-Deshalb  setzen  wir  Maßnahmen,  um  das
-effektive  Pensionsantrittsalter  deutlich  zu
-erhöhen:  Menschen  sollen  in  ihrer  Arbeit
-gesund  bis  ins  Pensionsalter  kommen.  Um
-das zu erreichen, schaffen wir ein betriebliches
+Altersarmut kann aber nicht nur erst im Alter verhindert werden. Ein wichtiger Schlüssel dazu liegt in der Erwerbsphase und bei niedrigen (Frauen-)Einkommen. Die Bundesregierung wird daher zahlreiche Maßnahmen umsetzen, um Fraueneinkommen zu erhöhen und die partnerschaftliche Aufteilung von Familienund Betreuungsarbeit zu fördern. In der Pension kommen besonders auf Frauen oft finanziell sehr große Herausforderungen zu. Mit gezielten Maßnahmen für diese Gruppe wollen wir die Frauenaltersarmut mindern.
 
-Investitionen
+Wir wollen, dass Österreicherinnen und Österreicher länger gesundheitlich uneingeschränkt leben können. Dazu müssen wir einen Fokus auf Prävention, Rehabilitation und Stärkung der Gesundheitskompetenz der oder des Einzelnen setzen, damit der Anteil der gesunden Jahre für alle erhöht wird. Die Gesundheit der Beschäftigten ist das beste und effektivste Mittel, um das tatsächliche Pensionsalter an das gesetzliche heranzuführen. Investitionen in die Gesundheit von Menschen reduzieren nachweislich Arbeitsunfähigkeit und Kosten im Gesundheits- wie auch im Pensionssystem. Deshalb setzen wir Maßnahmen, um das effektive Pensionsantrittsalter deutlich zu erhöhen: Menschen sollen in ihrer Arbeit gesund bis ins Pensionsalter kommen. Um das zu erreichen, schaffen wir ein betriebliches Gesundheitsmanagement, das den Erhalt der Gesundheit von Arbeitnehmerinnen und Arbeitnehmern besonders in den Vordergrund stellt. Dieser Zugang erleichtert auch ein Frühwarnsystem unter den Sozialversicherungsträgern und ermöglicht ein an Klientinnen und Klienten orientiertes Casemanagement, das die Gesundheitsinteressen in den Mittelpunkt stellt.
 
-Seite 250
+Gesundheitserhaltende und -fördernde Maßnahmen werden einsetzen, bevor Menschen schwere Einschränkungen ihrer Arbeitsfähigkeit erleiden. Gesundheitliche Rehabilitation wird in Zukunft bereits frühzeitig und berufsbegleitend als ambulante Rehabilitation verfügbar sein. Wir werden Menschen und Betrieben Mittel in die Hand geben, um reagieren zu können, ehe Menschen gesundheitsbedingt aus der Arbeitswelt ausscheiden. Ziel ist es, dass Menschen möglichst lange bei guter Gesundheit im Erwerbsleben bleiben können. Wir wollen die Gesundheitsinteressen der Menschen in den Mittelpunkt stellen, Türen öffnen und (bürokratische) Hürden abbauen.
 
-Regierungsprogramm 2020 – 2024Fahne Österreichund
+Kampf gegen Altersarmut und nachhaltige Finanzierung des Pensionssystems durch Heranführung des faktischen an das gesetzliche Pensionsantrittsalter
+---------------------------------------------------------------------------------------------------------------------------------------------------
 
-und
+- Aufklärung über Kündigungsanfechtung allein bei Erreichen des Pensionsalters
 
-Arbeitsfähigkeit  erleiden.  Gesundheitliche
-Gesundheitsmanagement,  das  den  Erhalt
-Rehabilitation  wird
-in  Zukunft  bereits
-der  Gesundheit  von  Arbeitnehmerinnen
-frühzeitig
-als
-berufsbegleitend
-und  Arbeitnehmern  besonders
-in  den
-ambulante Rehabilitation verfügbar sein. Wir
-Vordergrund stellt. Dieser Zugang erleichtert
-werden  Menschen  und  Betrieben  Mittel  in
-auch  ein  Frühwarnsystem  unter  den
-die  Hand  geben,  um  reagieren  zu  können,
-Sozialversicherungsträgern  und  ermöglicht
-ehe  Menschen  gesundheitsbedingt  aus
-ein  an  Klientinnen  und  Klienten  orientiertes
-der  Arbeitswelt  ausscheiden.  Ziel  ist  es,
-Casemanagement,  das  die  Gesundheits-
-dass  Menschen  möglichst  lange  bei  guter
-interessen in den Mittelpunkt stellt.
-Gesundheit im Erwerbsleben bleiben können.
-Wir  wollen  die  Gesundheitsinteressen  der
-Gesundheitserhaltende
--fördernde
-Menschen in den Mittelpunkt stellen, Türen
-Maßnahmen  werden  einsetzen,  bevor
-öffnen und (bürokratische) Hürden abbauen.
-Menschen  schwere  Einschränkungen  ihrer
-Kampf gegen Altersarmut und nachhaltige
-Finanzierung des Pensionssystems
-durch Heranführung des faktischen an
-das gesetzliche Pensionsantrittsalter
-•  Anreize setzen und fördern, die zu einer part-
-•  Aufklärung über Kündigungsanfechtung al-
-nerschaftlicheren Aufteilung der Arbeitszeit
-lein bei Erreichen des Pensionsalters
-zwischen beiden Elternteilen führen
-•  Verstärkte  Informationen  zu  den  Konse-
-•  Automatisches Pensionssplitting
-quenzen  von  Teilzeitarbeit  und  fehlenden
-Beitragsjahren (in einem Pensions-/Teilzeit-
-rechner)
-o  mit
-zeitlich
-einmaliger
-Opt-out-Möglichkeit
-•  Darstellung  der  Ab-  bzw.  Zuschläge  nicht
-nur  auf  monatlicher  Basis,  sondern  bis  zur
-o  Abgestellt auf gemeinsame Kinder
-statistischen Lebenserwartung
-o  Bis  zur  Vollendung  des  10.  Lebensjahrs,
-•  Abschluss  einer  15a-Vereinbarung  für  die
-ausgenommen KEZ
-Betreuung  von  Sozialhilfebezieherinnen
-und -bezieher im Regelpensionsalter sowie
-o  Praxistaugliche  und
-Menschen  mit  Behinderungen  durch  die
-Patchwork-Familien
-Pensionsversicherungsanstalt  bzw.  das  So-
-zialministeriumservice – Kostentragung wie
-o  Aufteilung  der  zusammengerechneten
-bisher durch die Bundesländer
-Beitragsgrundlagen  beider  Elternteile
-und Gutschrift auf dem jeweiligen Pensi-
-onskonto zu jeweils 50%
+- Verstärkte Informationen zu den Konsequenzen von Teilzeitarbeit und fehlenden Beitragsjahren (in einem Pensions-/Teilzeitrechner)
 
-faire  Lösung
+- Darstellung der Ab- bzw. Zuschläge nicht nur auf monatlicher Basis, sondern bis zur statistischen Lebenserwartung
 
-befristeter
+- Abschluss einer 15a-Vereinbarung für die Betreuung von Sozialhilfebezieherinnen und -bezieher im Regelpensionsalter sowie Menschen mit Behinderungen durch die Pensionsversicherungsanstalt bzw. das Sozialministeriumservice – Kostentragung wie bisher durch die Bundesländer
 
-für
+- Anreize setzen und fördern, die zu einer partnerschaftlicheren Aufteilung der Arbeitszeit zwischen beiden Elternteilen führen
 
-o  ausgenommen KEZ
-•  Freiwilliges Pensionssplitting
-o  für jeweils zukünftige Zeiten
-o  in jeder Form der Partnerschaft (Ehe, ein-
-getragene  Partnerschaft,  freiwillige  Ver-
-einbarung bei Lebensgemeinschaften)
-o  mit jederzeitiger Beendigung
-o  Aufteilung  der  zusammengerechneten
-•  Weitere  Maßnahmen  werden  geprüft,  um
-Beitragsgrundlagen  beider  PartnerInnen
-das  faktische  an  das  gesetzliche  Pensions-
-und Gutschrift auf dem jeweiligen Pensi-
-antrittsalter anzunähern
-onskonto zu jeweils 50%
-Gesund bis zur Pension: Verbleib
-im Erwerbsleben unterstützen
-•  Zielgerichtete  Optimierung  der  Altersteil-
-zeit  im  Hinblick  auf  Förderung  und  Erhalt
-der Gesundheit am Arbeitsplatz
-•  Verstärkte  Anreize  für  Betriebe,  gezielt
-Gesundheits-  und  Alter(ns)management
-zu  betreiben,  das  Arbeitsumfeld  altersge-
-recht und gesundheitsfördernd zu gestalten
-sowie passende Arbeitsmodelle anzubieten
-o  Verstärktes  Augenmerk  auf  den  Arbeits-
-markt der Generation 50+
-o  Bestmöglicher  Zugang  für  Kinder  und
-Jugendliche, Erwerbstätige und Seniorinnen
-und Senioren zu Rehabilitation
+- Automatisches Pensionssplitting
 
-o  Wissenschaftliche  Prüfung  von  Experien-
-ce Rating als Maßnahme zur Verhinderung
-von  berufs-  und  berufsbedingten  Erkran-
-kungen sowie aus dem daraus resultieren-
-den frühzeitigen Ausscheiden aus dem Er-
-werbsleben; Evaluierung der Schwerarbeit
-o  Verbesserung  der  Arbeitsbedingungen
-für  Bedienstete  in  Sozial-  und  Pflege-
-berufen, z.B. Gesundheitschecks etc.
-o  Wirksames Anreizsystem für Unternehmen
-zur Erhöhung der Teilnahme an betriebli-
-chen Gesundheitsprogrammen
+  * mit einmaliger zeitlich befristeter Opt-out-Möglichkeit
+  * Abgestellt auf gemeinsame Kinder
+  * Bis zur Vollendung des 10. Lebensjahrs, ausgenommen KEZ
+  * Praxistaugliche und faire Lösung für Patchwork-Familien
+  * Aufteilung der zusammengerechneten Beitragsgrundlagen beider Elternteile und Gutschrift auf dem jeweiligen Pensionskont  * zu jeweils 50%
 
-•  Prüfung  der  Ausweitung  des  Modells  der
-Wiedereingliederungsteilzeit
-•  Stärkung und Ausbau der Unterstützung des
-betrieblichen Gesundheitsmanagements
-o  Auf  betrieblicher  Ebene:  Bericht,  Zieler-
-fassung  und  Maßnahmen  auf  freiwilliger
-Basis. Für Betriebe unter 50 Mitarbeiterin-
-nen und Mitarbeitern gibt es dafür Unter-
-stützung seitens der AUVA.
+- Freiwilliges Pensionssplitting
 
-•  Kooperation zwischen Krankenversicherung,
-AMS  und  Pensionsversicherung  sicherstel-
-len,  um  Prävention  von  Berufsunfähigkeit
-effektiv  zu  betreiben  und  Frühintervention
-zu schaffen
-•  Grundsatz  Prävention,  Rehabilitation  und
-Erwerbsintegration  vor  Pension;  Early  Inter-
-vention: klientinnen- und klientenorientiertes
-Case  Management  unter  Berücksichtigung
-beruflicher Belastungen, um die Gesundheit
-der  einzelnen  Menschen  zu  erhalten  sowie
-die Wirksamkeit von Rehabilitationsmaßnah-
-men  sowohl  in  gesundheitlicher  als  auch  in
-beruflicher Hinsicht zu erhöhen.
+  * in jeder Form der Partnerschaft (Ehe, eingetragene Partnerschaft, freiwillige Vereinbarung bei Lebensgemeinschaften)
+  * Aufteilung der zusammengerechneten Beitragsgrundlagen beider PartnerInnen und Gutschrift auf dem jeweiligen Pensionskont  * zu jeweils 50%
+  * ausgenommen KEZ
+  * für jeweils zukünftige Zeiten
+  * mit jederzeitiger Beendigung
 
-Seite 251
+- Weitere Maßnahmen werden geprüft, um das faktische an das gesetzliche Pensionsantrittsalter anzunähern
 
-Seite 252
+Gesund bis zur Pension: Verbleib im Erwerbsleben unterstützen
+-------------------------------------------------------------
 
-Regierungsprogramm 2020 – 2024Regierungsprogramm 2020 – 2024Fahne ÖsterreichFahne Österreicho  Weiterentwicklung der Vorsorgeuntersuchung
-(Einbeziehung typischer beruflicher Risiken)
-o  Informationsaustausch  zwischen  den  zu-
-ständigen
-Sozialversicherungsträgern,
-um  auf  erkannte  gesundheitliche  Risiken
-reagieren  und  frühzeitig  entsprechende
-Angebote machen zu können
-o  Etablierung  von  Einladungssystemen  für
-Vorsorge-  und  Rehabilitationsmaßnah-
-men (aufgrund von Informationen aus der
-betrieblichen  Sphäre,  der  ärztlichen  Ver-
-sorgung etc.)
-o  Früherkennungssystem bei den Sozialver-
-sicherungsträgern etablieren
-o  Klientinnen-  und
-österreichweites
-durchführen und standardisieren
-o  Case-Management bereits bei drohender
-beruflicher Einschränkung (noch vor Reha-
-geldbezug) etablieren
+- Zielgerichtete Optimierung der Altersteilzeit im Hinblick auf Förderung und Erhalt der Gesundheit am Arbeitsplatz
 
-klientenorientiertes,
-Case-Management
+- Verstärkte Anreize für Betriebe, gezielt Gesundheits- und Alter(ns)management zu betreiben, das Arbeitsumfeld altersgerecht und gesundheitsfördernd zu gestalten sowie passende Arbeitsmodelle anzubieten
 
-o  Berufsbegleitende  ambulante  Rehabilita-
-tionsmaßnahmen entwickeln und ausbau-
-en auch im Bereich der Telerehabilitation,
-insbesondere für Gruppen, die bisher für
-Rehabilitationsmaßnahmen  schwer  er-
-reichbar waren
-o  Entwicklung eines Erstattungsmodells für
-ambulante Rehabilitationsmaßnahmen im
-Ausmaß der Dienstverhinderung
-o  Überprüfung der Wirkung von Rehabilita-
-tions- und Umschulungsgeld auf die sozi-
-ale Absicherung der Betroffenen
-o  Maßnahmen der beruflichen und medizi-
-nischen Rehabilitation auch für Menschen
-ohne Berufsschutz
+  * Verstärktes Augenmerk auf den Arbeitsmarkt der Generation 50+
+  * Bestmöglicher Zugang für Kinder und Jugendliche, Erwerbstätige und Seniorinnen und Senioren zu Rehabilitation
 
-•  Ausbau der ambulanten Rehabilitation
+- Prüfung der Ausweitung des Modells der Wiedereingliederungsteilzeit
 
-Seite 253
+- Stärkung und Ausbau der Unterstützung des betrieblichen Gesundheitsmanagements
 
-Regierungsprogramm 2020 – 2024Fahne Österreich
+  * Auf betrieblicher Ebene: Bericht, Zielerfassung und Maßnahmen auf freiwilliger Basis. Für Betriebe unter 50 Mitarbeiterinnen und Mitarbeitern gibt es dafür Unterstützung seitens der AUVA. Wissenschaftliche Prüfung von Experience Rating als Maßnahme zur Verhinderung von berufs- und berufsbedingten Erkrankungen sowie aus dem daraus resultierenden frühzeitigen Ausscheiden aus dem Erwerbsleben; Evaluierung der Schwerarbeit 
+  * Verbesserung der Arbeitsbedingungen für Bedienstete in Sozial- und Pflegeberufen, z.B. Gesundheitschecks etc. 
+  * Wirksames Anreizsystem für Unternehmen zur Erhöhung der Teilnahme an betrieblichen Gesundheitsprogrammen
+
+- Kooperation zwischen Krankenversicherung, AMS und Pensionsversicherung sicherstellen, um Prävention von Berufsunfähigkeit effektiv zu betreiben und Frühintervention zu schaffen
+
+- Grundsatz Prävention, Rehabilitation und Erwerbsintegration vor Pension; Early Intervention: klientinnen- und klientenorientiertes Case Management unter Berücksichtigung beruflicher Belastungen, um die Gesundheit der einzelnen Menschen zu erhalten sowie die Wirksamkeit von Rehabilitationsmaßnahmen sowohl in gesundheitlicher als auch in beruflicher Hinsicht zu erhöhen.
+
+  * Weiterentwicklung der Vorsorgeuntersuchung (Einbeziehung typischer beruflicher Risiken)
+  * Informationsaustausch zwischen den zuständigen Sozialversicherungsträgern, um auf erkannte gesundheitliche Risiken reagieren und frühzeitig entsprechende Angebote machen zu können
+  * Etablierung von Einladungssystemen für Vorsorge- und Rehabilitationsmaßnahmen (aufgrund von Informationen aus der betrieblichen Sphäre, der ärztlichen Versorgung etc.)
+  * Früherkennungssystem bei den Sozialversicherungsträgern etablieren 
+  * Klientinnen- und klientenorientiertes österreichweites Case-Management durchführen und standardisieren
+  * Case-Management bereits bei drohender beruflicher Einschränkung (noch vor Rehageldbezug) etablieren
+  * Berufsbegleitende ambulante Rehabilitationsmaßnahmen entwickeln und ausbauen auch im Bereich der Telerehabilitation, insbesondere für Gruppen, die bisher für Rehabilitationsmaßnahmen schwer erreichbar waren
+  * Entwicklung eines Erstattungsmodells für ambulante Rehabilitationsmaßnahmen im Ausmaß der Dienstverhinderung 
+  * Überprüfung der Wirkung von Rehabilitations- und Umschulungsgeld auf die soziale Absicherung der Betroffenen
+  * Maßnahmen der beruflichen und medizinischen Rehabilitation auch für Menschen ohne Berufsschutz
+
+- Ausbau der ambulanten Rehabilitation

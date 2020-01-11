@@ -150,7 +150,7 @@ Verwaltung in die Zukunft führen
 
 - Einführung einer Bürokratiebremse, damit Regulierung kein Selbstzweck ist
 
-	* Informations-, Melde- und Aushangpflichten sollen evaluiert werden mit dem Ziel, sie, falls notwendig und zweckmäßig, zu reduzieren.
+  * Informations-, Melde- und Aushangpflichten sollen evaluiert werden mit dem Ziel, sie, falls notwendig und zweckmäßig, zu reduzieren.
 
 - Aus Anlass der jüngsten EuGH-Rechtsprechung erfolgt eine Reform des Kumulationsprinzips im Verwaltungsstrafrecht; Verhältnismäßigkeitsprüfung unter Wahrung general- und spezialpräventiver Aspekte
 
