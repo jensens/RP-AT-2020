@@ -4,7 +4,7 @@
    contain the root `toctree` directive.
 
 =========================================================================
-Inoffizielles PDF-befreites österreichisches Regierungsprogramm 2020-2014
+Inoffizielles PDF-befreites Österreichisches Regierungsprogramm 2020-2014
 =========================================================================
 
 :download:`Quelle ist dieses Original PDF <../original/RP2020.pdf>`.
