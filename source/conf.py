@@ -72,3 +72,7 @@ html_static_path = ['_static']
 
 # -- Extension configuration -------------------------------------------------
 todo_include_todos = True
+html_theme_options = {
+    # https://github.com/myyasuda/sphinx_materialdesign_theme#html-theme-options
+    'accent_color': 'deep_purple',
+}
