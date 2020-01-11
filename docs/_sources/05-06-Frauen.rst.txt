@@ -5,7 +5,7 @@ Frauen
 :download:`Kapitel als PDF <../split/05-06-Frauen.pdf>` (Teil des :download:`Originals <../original/RP2020.pdf>`).
 
 .. todo::
-  Formatieren, Überarbeiten, Original gegenchecken
+   Überarbeiten, Original gegenchecken
 
 Frauenpolitik ist Gleichstellungspolitik. Sie rückt die Chancengleichheit von Frauen jeden Alters auf allen Ebenen des gesellschaftlichen, beruflichen und familiären Lebens in den Fokus. Das Ziel ist es, dass Frauen selbstbestimmt, ökonomisch unabhängig und frei von Gewalt oder Angst vor Diskriminierung leben.
 

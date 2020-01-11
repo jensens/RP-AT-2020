@@ -533,20 +533,20 @@ Die Dateien habe ich dann einigermassen sinnvoll benannt.
 Danach habe ich mit <a class="reference external" href="https://pypi.org/project/pdfminer/">PDFMiner</a> so gut wie möglich den Text pro Datei extrahiert.</p>
 <p>Dann habe ich habe ich <a class="reference external" href="https://www.sphinx-doc.org">Sphinx</a> verwendet um strukturiertes HTML daraus zu generieren.
 Der verwendete Markup ist <a class="reference external" href="https://www.sphinx-doc.org/en/2.0/usage/restructuredtext/basics.html#">RestructurendText</a> (ähnlich Markdown, aber für komplexere Dokumente besser geeignet).</p>
-<p>Da da der extrahierte Text nur recht grob ist war jetzt die manuelle Überarbeitung dran:</p>
+<p>Da da der extrahierte Text nur recht grob ist, war jetzt die manuelle Überarbeitung dran:</p>
 <ul class="simple">
 <li><p>es mussten Formatierungen eingefügt werden:</p>
 <ul>
 <li><p>vor allem Zwischenüberschriften,</p></li>
 <li><p>Absätze,</p></li>
 <li><p>Aufzählungslisten,</p></li>
-<li><p>Umbrüche und Trennzeichen sind an flasche Stellen.</p></li>
+<li><p>Umbrüche und Trennzeichen sind oft an falschen Stellen.</p></li>
 </ul>
 </li>
 </ul>
 <p>Dann hat es leider Text durcheinander gewürfelt:</p>
 <ul class="simple">
-<li><p>Spalten, die nicht richtig im Fluss definiert wurden, werden leider oft durcheinander gebracht;</p></li>
+<li><p>Spalten, die im Original-nicht richtig im Fluss definiert wurden, werden leider oft durcheinander gebracht;</p></li>
 <li><p>Ist das PDF im Entstehungsprozess überarbeitet worden, stehen diese neuen Wörter oft am Ende des Blocks;</p></li>
 <li><p>Teilweise sind auch noch Textfragmente von vor der Überarbeitung drinnen.</p></li>
 </ul>

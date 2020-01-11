@@ -32,18 +32,18 @@ Danach habe ich mit `PDFMiner <https://pypi.org/project/pdfminer/>`_ so gut wie 
 Dann habe ich habe ich `Sphinx <https://www.sphinx-doc.org>`_ verwendet um strukturiertes HTML daraus zu generieren.
 Der verwendete Markup ist `RestructurendText <https://www.sphinx-doc.org/en/2.0/usage/restructuredtext/basics.html#>`_ (ähnlich Markdown, aber für komplexere Dokumente besser geeignet).
 
-Da da der extrahierte Text nur recht grob ist war jetzt die manuelle Überarbeitung dran:
+Da da der extrahierte Text nur recht grob ist, war jetzt die manuelle Überarbeitung dran:
 
 - es mussten Formatierungen eingefügt werden:
 
   - vor allem Zwischenüberschriften,
   - Absätze,
   - Aufzählungslisten,
-  - Umbrüche und Trennzeichen sind an flasche Stellen.
+  - Umbrüche und Trennzeichen sind oft an falschen Stellen.
 
 Dann hat es leider Text durcheinander gewürfelt:
 
-- Spalten, die nicht richtig im Fluss definiert wurden, werden leider oft durcheinander gebracht;
+- Spalten, die im Original-nicht richtig im Fluss definiert wurden, werden leider oft durcheinander gebracht;
 - Ist das PDF im Entstehungsprozess überarbeitet worden, stehen diese neuen Wörter oft am Ende des Blocks;
 - Teilweise sind auch noch Textfragmente von vor der Überarbeitung drinnen.
 
