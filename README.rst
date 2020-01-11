@@ -62,7 +62,7 @@ Beteiligte
 ----------
 
 Jens Klein
-    Idee, Initiator, Überarbeitung
+    Idee, Initiator, Technik, Überarbeitung
 
 Robert Harm
     Überarbeitung der meisten Kapitel.
