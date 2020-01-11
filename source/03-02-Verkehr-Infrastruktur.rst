@@ -54,7 +54,7 @@ Umweltfreundliche, leistbare Mobilität für alle in Stadt und Land
 - 1-2-3-Österreich-Ticket zur Erreichung der Klimaziele – eine klimaschonende Alternative zum motorisierten Individualverkehr, breit leistbar und zugleich unkompliziert zugänglich
 
   * Umsetzung durch österreichweite Jahresnetzkarte für den öffentlichen Verkehr
-  * Um 1 Eur  * pr  * Tag in einem Bundesland, um 2 Eur  * pr  * Tag in einem und im Nachbarbundesland, um 3 Eur  * pr  * Tag das gesamte Bundesgebiet
+  * Um 1 Euro pro Tag in einem Bundesland, um 2 Euro pro Tag in einem und im Nachbarbundesland, um 3 Euro pro Tag das gesamte Bundesgebiet
   * Kostengünstige Variante für junge Menschen in Ausbildung und Studierende
   * Dieses Angebot soll durch die erfahrungsgemäß nachfragebedingt steigenden Markterlöse teilfinanziert und zusätzlich durch die öffentliche Hand gestützt werden, um die nötige Marktdurchdringung zu erreichen.
   * Zeitgerechte Bereitstellung der dafür benötigten Bundesmittel bei der Einführung
@@ -84,7 +84,7 @@ Verkehrssicherheit
 
 - Novelle der Straßenverkehrsordnung:
 
-  * Evaluierung der StV  * auf Benachteiligungen des Radfahrens und Zufußgehens
+  * Evaluierung der StVO auf Benachteiligungen des Radfahrens und Zufußgehens
   * Abbau von rechtlichen Barrieren zum Wohle des sicheren Radfahrens sowie Zufußgehens
   * Ermöglichung von Temporeduktionen in Ortskernen und vor Schulen sowie an Unfallhäufungsstellen (auch auf Landesstraßen)
   * Stärkung des Rücksichtnahmeprinzips in der StVO

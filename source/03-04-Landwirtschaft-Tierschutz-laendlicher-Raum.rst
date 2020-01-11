@@ -10,9 +10,9 @@ Die österreichische Landwirtschaft ist kleinstrukturiert und auf höchste Quali
 
 Die vielfältigen bäuerlichen Familienbetriebe, ob im Voll-, Zuund Nebenerwerb, ob Ackerbau oder Viehhaltung, ob konventionell oder biologisch, ob in Gunstlagen oder im Bergund benachteiligten Gebiet, leisten einen wesentlichen Beitrag dazu. Die Bäuerinnen und Bauern brauchen dafür aber auch ein faires, existenzsicherndes Einkommen sowie faire Preise für ihre hochwertigen Produkte. Durch weitere Entlastungsschritte im Bereich Steuern, der Direktvermarktung sowie der bäuerlichen Sozialversicherung unterstützt die Bundesregierung den Fortbestand und die Weiterentwicklung der bäuerlichen Betriebe.
 
-Nur eine ausreichend dotierte Gemeinsame Agrarpolitik kann die notwendigen Rahmenbedingungen für eine nachhaltige und umweltgerechte Bewirtschaftung schaffen. Die Sicherstellung dieser GAP-Mittel für Österreich im Mehrjährigen Finanzrahmen 2021 - 2027 der EU ist daher Grundvoraussetzung für die Absicherung einer bäuerlichen Landwirtschaft und ökosozialen Agrarpolitik. Eine ergebnisorientierte österreichische GAP-Strategie setzt auf den weiteren Ausbau umweltgerechter Bewirtschaftungsmethoden und des biologischen Landbaus, sichert die österreichische Berglandwirtschaft durch eine ausreichende Dotierung der Ausgleichszulage und unterstützt die Zusammenarbeit aller Akteurinnen und Akteure zur Erhaltung vitaler ländlicher Regionen. S  * leistet die Landwirtschaft einen Beitrag zur Erreichung der Pariser Klimaziele.
+Nur eine ausreichend dotierte Gemeinsame Agrarpolitik kann die notwendigen Rahmenbedingungen für eine nachhaltige und umweltgerechte Bewirtschaftung schaffen. Die Sicherstellung dieser GAP-Mittel für Österreich im Mehrjährigen Finanzrahmen 2021 - 2027 der EU ist daher Grundvoraussetzung für die Absicherung einer bäuerlichen Landwirtschaft und ökosozialen Agrarpolitik. Eine ergebnisorientierte österreichische GAP-Strategie setzt auf den weiteren Ausbau umweltgerechter Bewirtschaftungsmethoden und des biologischen Landbaus, sichert die österreichische Berglandwirtschaft durch eine ausreichende Dotierung der Ausgleichszulage und unterstützt die Zusammenarbeit aller Akteurinnen und Akteure zur Erhaltung vitaler ländlicher Regionen. So leistet die Landwirtschaft einen Beitrag zur Erreichung der Pariser Klimaziele.
 
-Österreich zählt im internationalen Vergleich zu jenen Ländern mit den höchsten Tierschutzund Lebensmittelstandards und hat sich dadurch zu einem Feinkostladen in Europa entwickelt. Der Umstieg auf mehr Tierschutz soll für alle Betriebsgrößen erleichtert werden. Die gentechnikfreie Lebensmittelproduktion steht genaus  * im Mittelpunkt wie die Stärkung regionaler und saisonaler Produkte und der Ausbau durchgängiger Qualitätsund Herkunftssysteme – im Interesse der Konsumentinnen und Konsumenten und einer vitalen und zukunftsfähigen Landwirtschaft.
+Österreich zählt im internationalen Vergleich zu jenen Ländern mit den höchsten Tierschutz und Lebensmittelstandards und hat sich dadurch zu einem Feinkostladen in Europa entwickelt. Der Umstieg auf mehr Tierschutz soll für alle Betriebsgrößen erleichtert werden. Die gentechnikfreie Lebensmittelproduktion steht genauso im Mittelpunkt wie die Stärkung regionaler und saisonaler Produkte und der Ausbau durchgängiger Qualitätsund Herkunftssysteme – im Interesse der Konsumentinnen und Konsumenten und einer vitalen und zukunftsfähigen Landwirtschaft.
 
 Existenz der bäuerlichen Landwirtschaft absichern
 -------------------------------------------------
@@ -220,7 +220,7 @@ Den Biolandbau stärken
 
 - Forschungsoffensive in Richtung Bio- und klimataugliche Landwirtschaft (zweckgebundene Mittel)
 
-- Bildung und Beratung für Bi  * ausbauen
+- Bildung und Beratung für Bio ausbauen
 
 Land- und forstwirtschaftliche Bildung und Bildungseinrichtungen stärken
 ------------------------------------------------------------------------

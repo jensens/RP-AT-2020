@@ -13,7 +13,7 @@ Darüber hinaus können wir in Österreich stolz sein auf unseren funktionierend
 
 Die Bundesregierung bekennt sich dazu, gemeinsam mit Wirtschaft, Wissenschaft und Arbeitnehmervertreterinnen bzw. -vertretern eine umfassende Standortstrategie für die Zukunft zu erarbeiten, um bestehende Stärken der heimischen Wirtschaft auszuweiten und vielversprechende Zukunftsindustrien zu identifizieren, um Wertschöpfung und Arbeitsplätze bei uns im Land zu halten und weiter auszubauen. Standortpolitik erschöpft sich nicht in Steuerpolitik, sondern beinhaltet ein breites Set an Maßnahmen, von Rechtssicherheit bis hin zu Lebensqualität.
 
-Weiters wollen wir die Verwaltung in Österreich modernisieren und effizienter gestalten, um es den Unternehmerinnen bzw. Unternehmern und Arbeitnehmerinnen bzw. Arbeitnehmern künftig s  * einfach wie möglich zu machen, in Österreich zu wirtschaften und zu arbeiten, ohne dabei unsere hohen Standards zu senken.
+Weiters wollen wir die Verwaltung in Österreich modernisieren und effizienter gestalten, um es den Unternehmerinnen bzw. Unternehmern und Arbeitnehmerinnen bzw. Arbeitnehmern künftig so einfach wie möglich zu machen, in Österreich zu wirtschaften und zu arbeiten, ohne dabei unsere hohen Standards zu senken.
 
 Fachkräfteoffensive für Österreichs Unternehmen umsetzen
 --------------------------------------------------------
@@ -97,7 +97,7 @@ Standort- und Industriepolitik
 
 - Bekenntnis zu aktiver, fairer Handelspolitik auf Basis österreichischer und europäischer Regeln und Standards
 
-  * Österreich setzt sich aktiv auf nationaler, europäischer und internationaler Ebene für eine strategische Ausrichtung der EU-Handelspolitik sowie eine Reform für eine handlungsfähige WT  * ein (insbesondere zur überholten Stellung Chinas als Entwicklungsland und der Einführung von CO2-Zöllen).
+  * Österreich setzt sich aktiv auf nationaler, europäischer und internationaler Ebene für eine strategische Ausrichtung der EU-Handelspolitik sowie eine Reform für eine handlungsfähige WTO ein (insbesondere zur überholten Stellung Chinas als Entwicklungsland und der Einführung von CO2-Zöllen).
   * Österreich tritt dafür ein, dass die EU ihr wirtschaftliches und politisches Gewicht in der Welt nutzt, um durch faire und transparente Handelsverträge weltweiten Wohlstand zu fördern und die Ökologisierung zu beschleunigen.
   * Internationale Handelsabkommen mit Beteiligung der EU müssen dabei den hohen Standards der EU entsprechen (Menschenrechte, Umweltinteressen, Sustainable Development Goals, Arbeitsrechte).
   * Österreich tritt auf OECD-Ebene dafür ein, dass die dort verhandelten Musterabkommen den oben genannten Grundsätzen der österreichischen Handelspolitik entsprechen.
@@ -118,7 +118,9 @@ Standort- und Industriepolitik
 Entbürokratisierung und Modernisierung der Verwaltung
 -----------------------------------------------------
 
-- Plan zur Steigerung der Effizienz und Qualität in der Verwaltung (Entbürokratisierung) im ersten halben Jahr in jedem Ministerium entwickeln und abstimmen   * Eine Monitoringstelle einrichten, die den Fortschritt bei der Entbürokratisierung messbar macht und als Ansprechpartner für Betroffene agieren kann
+- Plan zur Steigerung der Effizienz und Qualität in der Verwaltung (Entbürokratisierung) im ersten halben Jahr in jedem Ministerium entwickeln und abstimmen 
+
+  * Eine Monitoringstelle einrichten, die den Fortschritt bei der Entbürokratisierung messbar macht und als Ansprechpartner für Betroffene agieren kann
 
 - „Beraten vor strafen“ umsetzen: Es soll das Ziel der Verwaltung sein, Fehlverhalten zwar zu bestrafen, aber es im besten Fall gar nicht dazu kommen zu lassen, in dem man Unternehmerinnen und Unternehmer dabei unterstützt,regelkonform zu arbeiten.
 
@@ -143,7 +145,7 @@ Entbürokratisierung und Modernisierung der Verwaltung
 - Lohnverrechnung vereinfachen
 
   * Strukturelle Vereinfachung der Lohnverrechnung (bessere Koordinierung der einzelnen Player: Finanzamt, Gebietskrankenkasse und Gemeinden)
-  * Harmonisierung der Beitrags- und Bemessungsgrundlage s  * weit als möglich
+  * Harmonisierung der Beitrags- und Bemessungsgrundlage so weit als möglich
   * Reduktion der Komplexität und Dokumentationserleichterungen
   * Prüfung der Vereinfachung und Reduktion von Ausnahme- und Sonderbestimmungen
   * Verpflichtende Anführung der Dienstgeberabgaben am Lohnzettel
