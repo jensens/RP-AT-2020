@@ -48,7 +48,7 @@ Unterstützung pflegender Angehöriger
 
 - Stärkung der Selbsthilfe und Zivilgesellschaft sowie des ehrenamtlichen Engagements: Stärkere Förderung von Angehörigengruppen, Besuchsdiensten und Koordination von Freiwilligen
 
-- Pflegefreier Tag als Unterstützung für pflegende Angehörige und Burn-out-Prophylaxe: Ziel ist es, dass Angehörige, die die Pflege und Betreuung übernehmen, das Recht auf einen pflegefreien Tag pr  * Monat erhalten
+- Pflegefreier Tag als Unterstützung für pflegende Angehörige und Burn-out-Prophylaxe: Ziel ist es, dass Angehörige, die die Pflege und Betreuung übernehmen, das Recht auf einen pflegefreien Tag pro Monat erhalten
 
 - Unterstützung von Kindern und Jugendlichen als pflegende und betreuende Angehörige: erhöhte Aufmerksamkeit gegenüber dieser Gruppe und Erarbeitung zielgruppenorientierter und innovativer Unterstützungsangebote
 

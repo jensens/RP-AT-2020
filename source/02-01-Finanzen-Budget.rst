@@ -6,7 +6,7 @@ Finanzen & Budget
 
 Ein funktionierendes und verlässliches Wirtschafts- und Finanzsystem bildet dieGrundlage für den Erhalt unseres Wohlstandes, sichert die nachhaltige Finanzierung unseres Sozialstaates und spielt eine Schlüsselrolle in der Bewältigung neuer Herausforderungen wie der Globalisierung, des Klimaschutzes und der Digitalisierung.
 
-Die Bundesregierung bekennt sich zu einer Finanz- und Budgetpolitik, die fiskalische Stabilität sicherstellt und den heimischen Unternehmerinnen bzw. Unternehmern und Arbeitnehmerinnen bzw. Arbeitnehmern Planungssicherheit bietet. Der Staat soll dabei mit gutem Beispiel vorangehen und mit dem Geld der Steuerzahlenden sorgsam umgehen, während er überall dort, w  * es sinnvoll und notwendig ist, Spielräume schafft, um durch öffentliche Investitionen das Allgemeinwohl zu fördern.
+Die Bundesregierung bekennt sich zu einer Finanz- und Budgetpolitik, die fiskalische Stabilität sicherstellt und den heimischen Unternehmerinnen bzw. Unternehmern und Arbeitnehmerinnen bzw. Arbeitnehmern Planungssicherheit bietet. Der Staat soll dabei mit gutem Beispiel vorangehen und mit dem Geld der Steuerzahlenden sorgsam umgehen, während er überall dort, wo es sinnvoll und notwendig ist, Spielräume schafft, um durch öffentliche Investitionen das Allgemeinwohl zu fördern.
 
 Stabile wirtschaftliche Rahmenbedingungen sicherstellen
 -------------------------------------------------------
