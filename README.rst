@@ -1,7 +1,7 @@
 Über das Projekt
 ================
 
-Dieses Projekt befreit das Regierungsprogramm aus seinem PDF-Format und macht es so zugänglicher.
+Dieses Projekt befreit das östereichiche Regierungsprogramm 2020-2024 aus seinem PDF-Format und macht es so zugänglicher.
 
 Warum?
 
@@ -12,6 +12,7 @@ Solche wichtigen Dokumente sollten nicht auf Schönheit und Textsatz hin optimie
 Hier ist Zugänglichkeit und Offenheit wichtig.
 Das ist für OpenData wichtig.
 Ein PDF ist kein OpenData, kein offenes Dokument.
+
 Reiner Text als Quelle und daraus ordentlich generiertes HTML sind hier meiner Meinung nach eine gute Lösung.
 Durch semantisches Markup wird der Text maschinenlesbar.
 Zudem ist der Zugang so technisch niederschwellig.
