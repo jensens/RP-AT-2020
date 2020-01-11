@@ -5,14 +5,15 @@ Dieses Projekt befreit das Regierungsprogramm aus seinem PDF-Format und macht es
 
 Warum?
 
-Weil PDF kein Datenformat ist. Es ist ach nicht barrierefrei.
+Weil PDF kein Datenformat ist.
+Es ist auch nicht barrierefrei.
 Ausserdem ist es am Smartphone schlecht zu lesen.
 Solche wichtigen Dokumente sollten nicht auf Schönheit und Textsatz hin optimiert werden.
 Hier ist Zugänglichkeit und Offenheit wichtig.
 Das ist für OpenData wichtig.
 Ein PDF ist kein OpenData, kein offenes Dokument.
 Reiner Text als Quelle und daraus ordentlich generiertes HTML sind hier meiner Meinung nach eine Lösung.
-Zudem ist der Zugang technisch Niederschwellig.
+Zudem ist der Zugang so technisch niederschwellig.
 Es müssen keinen komplexen Systeme mit hohen Kosten, wie z.B. CMS dazu verwendet werden.
 
 ----------------------------
