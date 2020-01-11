@@ -14,7 +14,7 @@ Das ist für OpenData wichtig.
 Ein PDF ist kein OpenData, kein offenes Dokument.
 Reiner Text als Quelle und daraus ordentlich generiertes HTML sind hier meiner Meinung nach eine gute Lösung.
 Zudem ist der Zugang so technisch niederschwellig.
-Es müssen keine komplexen Systeme mit hohen Kosten, wie z.B. CMS dazu verwendet werden.https://www.open3.at/
+Es müssen keine komplexen Systeme mit hohen Kosten, wie z.B. CMS dazu verwendet werden.
 
 ----------------------------
 Technik & manueller Eingriff
