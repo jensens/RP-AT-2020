@@ -60,8 +60,8 @@ Aufgrund der technischen Probleme mit dem PDF, gehe ich davon aus, dass Menschen
 Vielleicht irre ich mich auch, Rückmeldungen gerne an mich.
 
 Ich habe das jetzt produzierte statische HTML mit `WAVE/WebAIM <https://wave.webaim.org/>`_ getestet.
-Bis auf kleines Kontrastproblem im Menu ist es barrierefrei.
-Das kann sicher noch verbessert werden.
+Bis auf ein kleines Kontrastproblem im Menu ist es demnach barrierefrei.
+Das kann möglicherweise noch verbessert werden.
 Für Vorschläge und Mithilfe bitte gerne an mich wenden.
 
 ---------
