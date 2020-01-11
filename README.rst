@@ -55,8 +55,9 @@ Da da der extrahierte Text teilweise ziemlich chaotisch ist, war jetzt die manue
 Barrierefreiheit
 ----------------
 
-Aufgrund der technischen Probleme mit dem PDF, gehe ich davon aus, dass Menschen mit eingeschränkter Sehfähigkeit (welche einen Screenreader oder eine Braillezeile verwenden) ebenso einige Problem haben das PDF korrekt zu lesen.
+Aufgrund der technischen Probleme mit dem PDF, gehe ich davon aus, dass Menschen mit eingeschränkter Sehfähigkeit (welche einen Screenreader oder eine Braillezeile verwenden) ebenso einige Probleme haben das PDF korrekt zu lesen.
 Vielleicht irre ich mich auch, Rückmeldungen gerne an mich.
+
 Ich habe das jetzt produzierte statische HTML mit `WAVE/WebAIM <https://wave.webaim.org/>`_ getestet.
 Bis auf kleines Kontrastproblem im Menu ist es barrierefrei.
 Das kann sicher noch verbessert werden.
