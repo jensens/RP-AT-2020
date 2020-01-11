@@ -10,7 +10,7 @@ Es ist auch nicht barrierefrei.
 Außerdem ist es am Smartphone schlecht zu lesen.
 Solche wichtigen Dokumente sollten nicht auf Schönheit und Textsatz hin optimiert werden.
 Hier ist Zugänglichkeit und Offenheit wichtig.
-Das ist für OpenData wichtig.
+Das ist für `OpenData <https://www.data.gv.at/e-learning-module-zu-open-data/>`_ wichtig.
 Ein PDF ist kein OpenData, kein offenes Dokument.
 
 Reiner Text als Quelle und daraus ordentlich generiertes HTML sind hier meiner Meinung nach eine gute Lösung.
