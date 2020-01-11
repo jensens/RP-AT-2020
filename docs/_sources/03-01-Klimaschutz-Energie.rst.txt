@@ -3,1182 +3,390 @@ Klimaschutz & Energie
 ---------------------
 
 .. todo::
-   Formatieren, Überarbeiten, Original gegenchecken
+  Formatieren, Überarbeiten, Original gegenchecken
 
-Die  besorgniserregende
-Veränderung
-Auf
-Ebene  wird  die
-europäischer
-ist  eine  der  größten
-unseres  Klimas
-Bundesregierung dazu beitragen, dass die
-Herausforderungen  unserer  Generation
-EU das Pariser Klimaschutzabkommen in die
-–
-in  ökologischer,  ökonomischer  und
-Tat umsetzt und eine globale Führungsrolle
-sozialer  Hinsicht.  Die  österreichische
-im  Klimaschutz  einnimmt.  Daher  wird  die
-Bundesregierung  bekennt  sich  zu  ihrer
-Anpassung  der  EU-Klimaziele  im  Einklang
-Verantwortung,  die  notwendigen  Schritte
-mit  dem  Pariser  Klimaabkommen,  wie
-und  Weichenstellungen  vorzunehmen,  um
-es  der  Green  Deal  der  EU-Kommission
-dieser  Herausforderung  auf  allen  Ebenen
-vorsieht, unterstützt. In Österreich setzt die
-gerecht  zu  werden  und  die  Ziele  des
-Bundesregierung  ambitionierte  nationale
-Pariser Klimaschutzabkommens zu erfüllen.
-Maßnahmen  zur  Treibhausgasreduktion.
-Wir  betrachten  Klimaschutzmaßnahmen
-Ein Klimaschutzgesetz mit klaren Treibhaus-
-als  bedeutende  Chance  für  Gerechtigkeit
-gasreduktionspfaden,
-Zuständigkeiten,
-sowie  für  die  zukunftsfähige  Entwicklung
-Zeitplänen
-entsprechenden
-und
-von  Wirtschaft  und  Arbeitsplätzen
-in
-Ressourcen  sorgt  dafür,  dass  Österreich
-Österreich. Diese Chancen gilt es zu nutzen -
-sein  CO2-Budget  nicht  übersteigt.  Durch
-Österreich hat die besten Voraussetzungen
-den
-verpflichtenden  Klimacheck  wird
-dafür.  Gemeinsam  können  wir  das  Ziel
-Klimaschutz  bei  Gesetzen  und  Verordnungen
-eines
-klimaneutralen  Österreichs  bis
-ein
-Entscheidungskriterium.
-zentrales
-spätestens  2040  erreichen  und  in  Europa
-Wichtige  Rahmenbedingungen  werden
-zum  Vorreiter  im  Klimaschutz  werden.  Für
-auch im Steuersystem gesetzt.
-uns  bedeutet  das  selbstverständlich,  dass
-Atomkraft  keine  Alternative  ist,  sondern,
-dass  wir  ausschließlich  auf  Erneuerbare
-Energieträger setzen.
-Der  klimagerechte  Umbau  aller  Sektoren,
-insbesondere des Energiesystems und der
-Infrastruktur, erfolgt unter Berücksichtigung
-der Kosten für Haushalte und Unternehmen.
-Soziale  Härtefälle  werden
-jedenfalls
-vermieden
-auch  Unternehmen
-werden  bei  der  Transformation  und  den
-notwendigen
-Anpassungsmaßnahmen
-unterstützt.
+Die besorgniserregende Veränderung unseres Klimas ist eine der größten Herausforderungen unserer Generation – in ökologischer, ökonomischer und sozialer Hinsicht. Die österreichische Bundesregierung bekennt sich zu ihrer Verantwortung, die notwendigen Schritte und Weichenstellungen vorzunehmen, um dieser Herausforderung auf allen Ebenen gerecht zu werden und die Ziele des Pariser Klimaschutzabkommens zu erfüllen. Wir betrachten Klimaschutzmaßnahmen als bedeutende Chance für Gerechtigkeit sowie für die zukunftsfähige Entwicklung von Wirtschaft und Arbeitsplätzen in Österreich. Diese Chancen gilt es zu nutzen - Österreich hat die besten Voraussetzungen dafür. Gemeinsam können wir das Ziel eines klimaneutralen Österreichs bis spätestens 2040 erreichen und in Europa zum Vorreiter im Klimaschutz werden. Für uns bedeutet das selbstverständlich, dass Atomkraft keine Alternative ist, sondern, dass wir ausschließlich auf Erneuerbare Energieträger setzen.
 
-und
+Der klimagerechte Umbau aller Sektoren, insbesondere des Energiesystems und der Infrastruktur, erfolgt unter Berücksichtigung der Kosten für Haushalte und Unternehmen. Soziale Härtefälle werden jedenfalls vermieden und auch Unternehmen werden bei der Transformation und den notwendigen Anpassungsmaßnahmen unterstützt.
 
-Seite 102
+Auf europäischer Ebene wird die Bundesregierung dazu beitragen, dass die EU das Pariser Klimaschutzabkommen in die Tat umsetzt und eine globale Führungsrolle im Klimaschutz einnimmt. Daher wird die Anpassung der EU-Klimaziele im Einklang mit dem Pariser Klimaabkommen, wie es der Green Deal der EU-Kommission vorsieht, unterstützt. In Österreich setzt die Bundesregierung ambitionierte nationale Maßnahmen zur Treibhausgasreduktion. Ein Klimaschutzgesetz mit klaren Treibhausgasreduktionspfaden, Zuständigkeiten, Zeitplänen und entsprechenden Ressourcen sorgt dafür, dass Österreich sein CO2-Budget nicht übersteigt. Durch den verpflichtenden Klimacheck wird Klimaschutz bei Gesetzen und Verordnungen ein zentrales Entscheidungskriterium. Wichtige Rahmenbedingungen werden auch im Steuersystem gesetzt.
 
-Regierungsprogramm 2020 – 2024Fahne ÖsterreichZur  vollständigen  Umstellung  unseres
-Energiesystems  tragen  alle  Sektoren  bei.
-Der  Sektor  Gebäude  durch  thermische
-Sanierung,  die  wertvolle  Energie  sparen
-hilft  und  den  konsequenten  Umstieg  auf
-Heiz- und Kühlsystemen mit Erneuerbaren
-Energien.  Die  Land-  und  Forstwirtschaft
-leistet
-ihren  Beitrag  ebenso  wie  die
-Abfallwirtschaft  und
-selbstverständlich
-der  Sektor  Verkehr.  Für  die  Industrie  und
-das  Gewerbe  werden  die  Weichen
-in
-Richtung  einer  neuen,  hoch  innovativen,
-kreislauffähigen  und
-klimafreundlichen
-Technologie-Ära  gestellt,  die  Österreich
-und Europa als führenden Industriestandort
-für  hochwertige,
-ressourcenschonende
-und  CO2-arme  Produktion  positioniert.  So
-sichern  wir  langfristig  diesen  wichtigen
-Sektor am Standort Österreich und sind im
-Wettbewerb der Zukunft, dem Wettbewerb
-um  die  ökologischsten  statt  billigsten
-Produktionsweisen,  als  Vorreiterland  po-
-sitioniert.
+Bund, Bundesländer und Gemeinden arbeiten gemeinsam und abgestimmt an der Erreichung der Klimaziele und treffen Zukunftsentscheidungen, die Planungssicherheit für die Bevölkerung und die Wirtschaft ermöglichen. S  * sichern wir den Wohlstand der österreichischen Bevölkerung und die Wettbewerbsfähigkeit der österreichischen Wirtschaft. Es gilt rasch ins Tun zu kommen, und Vorarbeiten aus dem Nationalen Energie- und Klimaplan, der Bioökonomiestrategie oder dem Sachstandsbericht Mobilität umzusetzen.
 
-Zukunftsentscheidungen,
+Wir nehmen Klimaschutz ernst: Was die öffentliche Hand selbst vorzeigt, kann auch von unserer Bevölkerung leichter angenommen werden. Die öffentliche Hand muss deshalb Vorbild für Klimaneutralität sein. Mit Initiativen in der Beschaffung, in der Sanierung und im Mobilitätsmanagement wird die Umstellung der Verwaltung in Richtung 100% Nachhaltigkeit vorangetrieben. 
 
-Bund,  Bundesländer  und  Gemeinden
-arbeiten  gemeinsam  und  abgestimmt
-an  der  Erreichung  der  Klimaziele  und
-treffen
-die
-Planungssicherheit
-für  die  Bevölkerung
-und die Wirtschaft ermöglichen. So sichern
-wir  den  Wohlstand  der  österreichischen
-Bevölkerung und die Wettbewerbsfähigkeit
-der österreichischen Wirtschaft. Es gilt rasch
-ins  Tun  zu  kommen,  und  Vorarbeiten  aus
-dem  Nationalen  Energie-  und  Klimaplan,
-der  Bioökonomiestrategie  oder  dem
-Sachstandsbericht Mobilität umzusetzen.
-Wir  nehmen  Klimaschutz  ernst:  Was
-die  öffentliche  Hand  selbst  vorzeigt,
-kann  auch  von  unserer  Bevölkerung
-leichter
-angenommen  werden.  Die
-öffentliche  Hand  muss  deshalb  Vorbild
-für  Klimaneutralität  sein.  Mit  Initiativen
-in  der  Beschaffung,
-in  der  Sanierung
-und  im  Mobilitätsmanagement  wird  die
-Umstellung  der  Verwaltung  in  Richtung
-100% Nachhaltigkeit vorangetrieben.
-sich
-bekennt
-Die
-zum  Ausbau  aller  Formen  heimischer
-Erneuerbarer  Energieträger.  Den  Rahmen
-dafür  wird  das  Erneuerbaren-Ausbau-Gesetz
-geben,  das  bis  2030  eine  100%  (national
-bilanziell) Versorgung mit Ökostrom sichert.
-Damit  einher  gehen  die  notwendigen
-Netzinfrastrukturinvestitionen. Ein wirksames
-Energieeffizienzgesetz trägt dazu bei, dass
-Österreich  –  unter  Bedachtnahme  auf  die
-wirtschaftliche Entwicklung – bis zur Mitte
-des  Jahrhunderts  mit  deutlich  weniger
-Energieverbrauch
-auskommen  und  die
-Energiewende naturverträglich gelingen kann.
+Die Bundesregierung bekennt sich zum Ausbau aller Formen heimischer Erneuerbarer Energieträger. Den Rahmen dafür wird das Erneuerbaren-Ausbau-Gesetz geben, das bis 2030 eine 100% (national bilanziell) Versorgung mit Ökostrom sichert. Damit einher gehen die notwendigen Netzinfrastrukturinvestitionen. Ein wirksames Energieeffizienzgesetz trägt dazu bei, dass Österreich – unter Bedachtnahme auf die wirtschaftliche Entwicklung – bis zur Mitte des Jahrhunderts mit deutlich weniger Energieverbrauch auskommen und die Energiewende naturverträglich gelingen kann.
 
-Bundesregierung
+Zur vollständigen Umstellung unseres Energiesystems tragen alle Sektoren bei. Der Sektor Gebäude durch thermische Sanierung, die wertvolle Energie sparen hilft und den konsequenten Umstieg auf Heiz- und Kühlsystemen mit Erneuerbaren Energien. Die Land- und Forstwirtschaft leistet ihren Beitrag ebens  * wie die Abfallwirtschaft und selbstverständlich der Sektor Verkehr. Für die Industrie und das Gewerbe werden die Weichen in Richtung einer neuen, hoch innovativen, kreislauffähigen und klimafreundlichen Technologie-Ära gestellt, die Österreich und Europa als führenden Industriestandort für hochwertige, ressourcenschonende und CO2-arme Produktion positioniert. S  * sichern wir langfristig diesen wichtigen Sektor am Standort Österreich und sind im Wettbewerb der Zukunft, dem Wettbewerb um die ökologischsten statt billigsten Produktionsweisen, als Vorreiterland positioniert.
 
-Klimaneutralität bis 2040 –
-ein klares Ziel, ein klarer Auftrag
-•  Paris-Pfad  einschlagen  mit  wissenschafts-
-basierter Klimapolitik
-o  Paris-kompatibles CO2-Budget und dem-
-entsprechende  Reduktionspfade,  um  bis
-spätestens 2040 Klimaneutralität in Öster-
-reich zu erreichen
+Klimaneutralität bis 2040 – ein klares Ziel, ein klarer Auftrag
+---------------------------------------------------------------
 
-•  Vorantreiben einer ambitionierten und fort-
-schrittsorientierten Klima- und Energiepolitik
-in Europa und der Welt:
-o  Österreich  positioniert  sich  konsequent
-in  der  Gruppe  der  Klimaschutzvorreiter
-in Europa und verfolgt eine energiepoliti-
-sche Orientierung an erneuerbaren Ener-
-gien und Klimaschutz.
-o  Konsequentes  Eintreten  für  eine  Anpas-
-sung der Zielsetzung der EU bis 2030 und
-2050  im  Hinblick  auf  die  Erreichung  der
-Paris-Ziele
-o  Konsequentes Eintreten für wirkungsvolles
-Border-Tax-Adjustment / CO2-Zölle auf eu-
-ropäischer Ebene
-o  Konsequentes  Eintreten  für  die  ausrei-
-chende  Finanzierung  von  Maßnahmen
-gegen  die  Klimakrise
-im  EU-Budget-
-rahmen bis 2027
-o  Einsatz  für  ein  Ende  der  Finanzierung  und
-der Subventionen für fossile Infrastrukturen
-und fossile Energien auf europäischer Ebene
+- Paris-Pfad einschlagen mit wissenschaftsbasierter Klimapolitik
 
-o  Einsatz für ein wirkungsvolles ETS-System
-und  einen  CO2-Mindestpreis  auf  euro-
-päischer Ebene
-o  Erhöhung der Internationalen Klimafinanzie-
-rung: Signifikante Erhöhung des österreichi-
-schen Beitrags zum Green Climate Fund
-•  Unmittelbare Nachbesserung und Konkreti-
-sierung des Nationalen Energie- und Klima-
-plans (NEKP)
-o  Erfüllung der Effort-Sharing-Ziele im Non-
-ETS-Bereich  sichern  (derzeit  minus  36%),
-mit Blick auf die zu erwartende Erhöhung
-der EU-Ziele
-o  Eine  unabhängige  und  wissenschaftlich
-fundierte  Wirkungsfolgenabschätzung,
-welche  die  Zielerreichung  belegt,  ist  Vo-
-raussetzung für den Beschluss des NEKP
-o  Der NEKP legt einen ausreichenden Detail-
-lierungsgrad von Maßnahmen, Verantwort-
-lichkeiten und einen Finanzierungsplan für
-die Gesamtheit der Maßnahmen dar.
-o  NEKP als verbindliche Grundlage für den
-Klimaschutz
+  * Paris-kompatibles CO2-Budget und dementsprechende Reduktionspfade, um bis spätestens 2040 Klimaneutralität in Österreich zu erreichen
 
-•  Gemeinsame  Prüfung  und  Ausarbeitung
-eines
-zeitgemäßen  Kompetenzrahmens
-(einschließlich der Möglichkeit von Art. 15a
-B-VG-Vereinbarungen)  zur  Erreichung  der
-Klimaziele
+- Vorantreiben einer ambitionierten und fortschrittsorientierten Klima- und Energiepolitik in Europa und der Welt:
 
-Seite 103
+  * Österreich positioniert sich konsequent in der Gruppe der Klimaschutzvorreiter in Europa und verfolgt eine energiepolitische Orientierung an erneuerbaren Energien und Klimaschutz.
+  * Konsequentes Eintreten für eine Anpassung der Zielsetzung der EU bis 2030 und 2050 im Hinblick auf die Erreichung der Paris-Ziele
+  * Konsequentes Eintreten für wirkungsvolles Border-Tax-Adjustment / CO2-Zölle auf europäischer Ebene
+  * Konsequentes Eintreten für die ausreichende Finanzierung von Maßnahmen gegen die Klimakrise im EU-Budgetrahmen bis 2027
+  * Einsatz für ein Ende der Finanzierung und der Subventionen für fossile Infrastrukturen und fossile Energien auf europäischer Ebene 
+  * Einsatz für ein wirkungsvolles ETS-System und einen CO2-Mindestpreis auf europäischer Ebene
+  * Erhöhung der Internationalen Klimafinanzierung: Signifikante Erhöhung des österreichischen Beitrags zum Green Climate Fund 
 
-Seite 104
+- Unmittelbare Nachbesserung und Konkretisierung des Nationalen Energie- und Klimaplans (NEKP)
 
-Regierungsprogramm 2020 – 2024Regierungsprogramm 2020 – 2024Fahne ÖsterreichFahne ÖsterreichDie Weichen richtig stellen:
-notwendige horizontale Maßnahmen
-•  Klimaschutzgesetz mit verbindlichen Reduk-
-tionspfaden  bis  2040  und  verbindlichen
-Zwischenzielen bis 2030
-o  Verbindliche  Gesamt-  und  Sektorziele
-für  alle  Sektoren,  Pfade,  Ressourcen  und
-Maßnahmen-Verantwortlichkeiten
-o  Verantwortlichkeitsmechanismus zwischen
-Bund und Ländern für die Zielerreichung
-und bei Zielverfehlung
-o  Verbesserter Mechanismus zum Ergreifen
-von  zusätzlichen  Maßnahmen  bei  Ziel-
-verfehlung
-o  Zeitnäheres  und  laufendes  unabhängiges
-Monitoring der Klimapolitik durch das UBA
-o  Erarbeitung  eines  Klimaschutzaktions-
-plans der Bundesregierung zur konkreten
-Umsetzung der Maßnahmen
+  * Erfüllung der Effort-Sharing-Ziele im Non-ETS-Bereich sichern (derzeit minus 36%), mit Blick auf die zu erwartende Erhöhung der EU-Ziele
+  * Eine unabhängige und wissenschaftlich fundierte Wirkungsfolgenabschätzung, welche die Zielerreichung belegt, ist Voraussetzung für den Beschluss des NEKP
+  * Der NEKP legt einen ausreichenden Detaillierungsgrad von Maßnahmen, Verantwortlichkeiten und einen Finanzierungsplan für die Gesamtheit der Maßnahmen dar.
+  * NEKP als verbindliche Grundlage für den Klimaschutz
 
-o  Weiterentwicklung und Aufwertung des NKK
-o  Verankerung im Klimaschutzgesetz
-•  Verpflichtender und unabhängiger
-Klimacheck
-o  Für alle neuen und bestehenden Gesetze,
-Verordnungen  und  Bund-Länder-Verein-
-barungen
-o  Für  die  Erstellung  von  Förderrichtlinien
-und  Investitionen  des  Bundes  unter  Be-
-dachtnahme  der  Minimierung  des  büro-
-kratischen Aufwands
-o  Einrichtung  einer  neuen  verbindlichen
-Wirkungsdimension  innerhalb  der  WFA
-„Klimaschutz“,  deren  Kriterien  jedenfalls
-Auswirkungen eines Vorhabens auf Treib-
-hausgasemissionen  (positiv,  negativ,  in-
-nerhalb  und  außerhalb  Österreichs)  und
-auf den Bodenverbrauch umfassen
-o  Bei  begründeter  Erwartung  einer  signifi-
-kanten  Auswirkung  erfolgt  die  Abschät-
-zung  der  Wirkung  auf  Grundlage  eines
-unabhängigen Gutachtens, das von einer
-geeigneten  akkreditierten  Stelle  erstellt
-wird.
-o  Entwicklung  eines  Mechanismus,  der
-Ergebnisse aus dem Klimacheck umsetzt
-•  Klimaschutzorientierte Energieraumplanung
-o  Raumplanerische Aspekte des Klimaschutzes
-sollen durch eine (auf den derzeit schon be-
-stehenden  Bundeskompetenzen  basieren-
-de) gesetzliche Regelung zur Fachplanungs-
-kompetenz des Bundes geregelt werden
+- Gemeinsame Prüfung und Ausarbeitung eines zeitgemäßen Kompetenzrahmens (einschließlich der Möglichkeit von Art. 15a B-VG-Vereinbarungen) zur Erreichung der Klimaziele
 
-•  Neue  ebenen-übergreifende  Governance
-für den Klimaschutz
-o  Auf  bestehenden  Bundeskompetenzen
-basierend  wird  die  Zusammenarbeit  mit
-den  Bundesländern  und  Gemeinden
-forciert, um die Zielerreichung zu steuern.
-o  Innerösterreichisches Effort-Sharing anhand
-klimaschutzrelevanter Indikatoren
-o  Steuerungsmaßnahmen  bei  Abweichun-
-gen vom Zielpfad ergreifen
-o  Die gesamte Bundesregierung übernimmt
-Verantwortung  für  den  Klimaschutz,  und
-der Klimaschutzaktionsplan wird durch ein
-Klimakabinett umgesetzt.
+Die Weichen richtig stellen: notwendige horizontale Maßnahmen
+-------------------------------------------------------------
 
-•  Umweltbundesamt
-o  Evaluierung  des  Umweltkontrollgesetzes
-im  Hinblick  auf  die  Stärkung  der  wissen-
-schaftlichen Unabhängigkeit
-o  Absicherung  einer  ausreichenden  Basis-
-finanzierung
+- Klimaschutzgesetz mit verbindlichen Reduktionspfaden bis 2040 und verbindlichen Zwischenzielen bis 2030
 
-•  Ausrollen  einer  Kommunikationskampagne
-Klimaschutz
-•  Prüfung der zweckgebundenen Verwendung
-der  Versteigerungserlöse  aus  dem  Zertifi-
-katshandel  (Emissionszertifikategesetz)  als
-zusätzliche  Mittel  für  den  Klimaschutz  und
-klimagerechte Innovation
+  * Verbindliche Gesamt- und Sektorziele für alle Sektoren, Pfade, Ressourcen und Maßnahmen-Verantwortlichkeiten
+  * Verantwortlichkeitsmechanismus zwischen Bund und Ländern für die Zielerreichung und bei Zielverfehlung
+  * Verbesserter Mechanismus zum Ergreifen von zusätzlichen Maßnahmen bei Zielverfehlung
+  * Zeitnäheres und laufendes unabhängiges Monitoring der Klimapolitik durch das UBA 
+  * Erarbeitung eines Klimaschutzaktionsplans der Bundesregierung zur konkreten Umsetzung der Maßnahmen
 
-•  Bund  und  Länder  verständigen  sich  auf
-abgestimmte,  mittel-  und  langfristig  aus-
-gerichtete,  planbare  und  gesicherte  sowie
-hinreichend dotierte Klima- und Energieför-
-derungen  für  die  verschiedenen  Zielgrup-
-pen zur effektiven und effizienten Erreichung
-der  im  NEKP  und  diesem  Regierungs-
-übereinkommen gesteckten Ziele.
-•  Erhöhung  der  Budgets  des  Klima-  und
-Energiefonds und der UFI
-o  Ausreichende  Finanzierung  als  zentra-
-le  Tools  zur  Umsetzung  des  Nationalen
-Klima- und Energieplans
-o  Fortführung  wichtiger  Klimaschutzpro-
-gramme wie klima.aktiv, Klima- und Ener-
-giemodellregionen,  e5-Programme  und
-Klimabündnis-Gemeinden
-Die öffentliche Hand zeigt‘s vor!
-Klimaneutrale Verwaltung
-•  Verbindliche Klimaschutz-Richtlinien für alle
-Institutionen des Bundes (inkl. nachgelager-
-ter Dienststellen und Unternehmen, die zu
-100% im Eigentum des Bundes stehen):
-o  Vorbildwirkung  der  öffentlichen  Hand
-bei  der
-thermischen  Sanierung:  3%
-Sanierungsquote,  verbindliche  Leitlinien
-für ökologisch vorbildhafte Sanierung
-o  Neubau
-dard,  PV-Anlage
-technisch und wirtschaftlich möglich
-o  100% Umweltzeichen-zertifizierter
-Ökostrom ab 2021
+- Neue ebenen-übergreifende Governance für den Klimaschutz
 
-im  Niedrigstenergiehaus-Stan-
-verpflichtend,  wo
+  * Auf bestehenden Bundeskompetenzen basierend wird die Zusammenarbeit mit den Bundesländern und Gemeinden forciert, um die Zielerreichung zu steuern.
+  * Innerösterreichisches Effort-Sharing anhand klimaschutzrelevanter Indikatoren
+  * Steuerungsmaßnahmen bei Abweichungen vom Zielpfad ergreifen
+  * Die gesamte Bundesregierung übernimmt Verantwortung für den Klimaschutz, und der Klimaschutzaktionsplan wird durch ein Klimakabinett umgesetzt.
+  * Weiterentwicklung und Aufwertung des NKK
+  * Verankerung im Klimaschutzgesetz
 
-o  Veranstaltungen  erfüllen  die  Mindestan-
-forderung  der  Umweltzeichen-Kriterien
-für Green Events sowie Green Meetings.
-o  Klimaschutz-Vorgaben für Dienstreisen so-
-wie für das Mobilitätsmanagement
-o  Der  öffentliche  Fuhrpark  wird  Vorbild
-für  alternative  Antriebstechnologien:  So
-rasch  wie  möglich  (wenn  möglich  schon
-ab 2022) wird die Beschaffung von emis-
-sionsfrei  betriebenen  Fahrzeugen  durch
-die  öffentliche  Hand  zum  Standard,  die
-Beschaffung von Fahrzeugen mit Verbren-
-nungsmotoren  wird  zur  Ausnahme  und
-muss begründet werden.
+- Verpflichtender und unabhängiger Klimacheck
 
-Seite 105
+  * Für alle neuen und bestehenden Gesetze, Verordnungen und Bund-Länder-Vereinbarungen
+  * Für die Erstellung von Förderrichtlinien und Investitionen des Bundes unter Bedachtnahme der Minimierung des bürokratischen Aufwands
+  * Einrichtung einer neuen verbindlichen Wirkungsdimension innerhalb der WFA „Klimaschutz“, deren Kriterien jedenfalls Auswirkungen eines Vorhabens auf Treibhausgasemissionen (positiv, negativ, innerhalb und außerhalb Österreichs) und auf den Bodenverbrauch umfassen
+  * Bei begründeter Erwartung einer signifikanten Auswirkung erfolgt die Abschätzung der Wirkung auf Grundlage eines unabhängigen Gutachtens, das von einer geeigneten akkreditierten Stelle erstellt wird.
+  * Entwicklung eines Mechanismus, der Ergebnisse aus dem Klimacheck umsetzt 
 
-Seite 106
+- Klimaschutzorientierte Energieraumplanung
 
-Regierungsprogramm 2020 – 2024Regierungsprogramm 2020 – 2024Fahne ÖsterreichFahne Österreicho  Aus für Neuzulassungen von Kfz (PKW) mit
-Verbrennungsmotoren in der öffentlichen
-Beschaffung  (mit  Ausnahme  der  Sonder-
-fahrzeuge,  Einsatzfahrzeuge  und  Fahr-
-zeuge des Bundesheers) ab 2027
-o  Flächendeckende Einführung von
-Umweltmanagementsystemen
-o  Ziel ist eine 100% regionale und saisonale Be-
-schaffung in Verbindung mit einer Bio-Quote
-von 30% bis 2025 und 55% bis 2030.
-o  Angebot  eines  täglichen  Klimatellers  in
-Österreichs öffentlichen Küchen
+  * Raumplanerische Aspekte des Klimaschutzes sollen durch eine (auf den derzeit schon bestehenden Bundeskompetenzen basierende) gesetzliche Regelung zur Fachplanungskompetenz des Bundes geregelt werden
 
-•  Nachhaltige und innovationsfreundliche Be-
-schaffung wird Standard:
-o  Ziel  ist  die  Umstellung  der  Bundesbe-
-schaffung nach ökologischen und sozialen
-Mindeststandards, die sich am Umweltzei-
-chen orientieren und Regionalität fördern.
-o  Darüber hinaus wird die Bundesregierung
-das Vergaberecht als wichtiges Instrument
-zur Bekämpfung des Klimawandels nutzen.
+- Bund und Länder verständigen sich auf abgestimmte, mittel- und langfristig ausgerichtete, planbare und gesicherte sowie hinreichend dotierte Klima- und Energieförderungen für die verschiedenen Zielgruppen zur effektiven und effizienten Erreichung der im NEKP und diesem Regierungsübereinkommen gesteckten Ziele.
 
-Dazu ist das Bestbieterprinzip um verbind-
-liche ökologische Kriterien für die angebo-
-tenen  Produkte  und  Dienstleistungen  zu
-erweitern (z.B. öffentliche Bautätigkeit).
-o  Überarbeitung  und  Aktualisierung  des
-„Aktionsplan
-nachhaltige  öffentliche
-Beschaffung“,  dessen  Anwendung  für
-Beschaffungsvorgänge verbindlich ist und
-evaluiert wird
-vom  Billigstbie-
-o  Paradigmenwechsel
-ter  zum  Bestbieter  sowie  Total  Cost  of
-Ownership (TCO)
+- Erhöhung der Budgets des Klima- und Energiefonds und der UFI 
 
-•  Erarbeitung  einer  Strategie  mit  einem
-konkreten  Zeitplan  für  eine  klimaneutrale
-Verwaltung bis 2040
-o  Kompensation  von  zunächst  überschie-
-ßenden  (über  Zielpfad)  bzw.  verbleibenden
-Emissionen aufgrund eines Kriterienkatalogs
+  * Ausreichende Finanzierung als zentrale Tools zur Umsetzung des Nationalen Klima- und Energieplans
+  * Fortführung wichtiger Klimaschutzprogramme wie klima.aktiv, Klima- und Energiemodellregionen, e5-Programme und Klimabündnis-Gemeinden
+
+- Umweltbundesamt
+  * Evaluierung des Umweltkontrollgesetzes im Hinblick auf die Stärkung der wissenschaftlichen Unabhängigkeit
+  * Absicherung einer ausreichenden Basisfinanzierung
+
+- Ausrollen einer Kommunikationskampagne Klimaschutz
+- Prüfung der zweckgebundenen Verwendung der Versteigerungserlöse aus dem Zertifikatshandel (Emissionszertifikategesetz) als zusätzliche Mittel für den Klimaschutz und klimagerechte Innovation
+
+Die öffentliche Hand zeigt‘s vor! Klimaneutrale Verwaltung
+----------------------------------------------------------
+
+- Verbindliche Klimaschutz-Richtlinien für alle Institutionen des Bundes (inkl. nachgelagerter Dienststellen und Unternehmen, die zu 100% im Eigentum des Bundes stehen):
+
+  * Vorbildwirkung der öffentlichen Hand bei der thermischen Sanierung: 3% Sanierungsquote, verbindliche Leitlinien für ökologisch vorbildhafte Sanierung 
+  * Neubau im Niedrigstenergiehaus-Standard, PV-Anlage verpflichtend, w  * technisch und wirtschaftlich möglich
+  * 100% Umweltzeichen-zertifizierter Ökostrom ab 2021
+  * Veranstaltungen erfüllen die Mindestanforderung der Umweltzeichen-Kriterien für Green Events sowie Green Meetings.
+  * Klimaschutz-Vorgaben für Dienstreisen sowie für das Mobilitätsmanagement
+  * Der öffentliche Fuhrpark wird Vorbild für alternative Antriebstechnologien: S  * rasch wie möglich (wenn möglich schon ab 2022) wird die Beschaffung von emissionsfrei betriebenen Fahrzeugen durch die öffentliche Hand zum Standard, die Beschaffung von Fahrzeugen mit Verbrennungsmotoren wird zur Ausnahme und muss begründet werden.
+  * Aus für Neuzulassungen von Kfz (PKW) mit Verbrennungsmotoren in der öffentlichen Beschaffung (mit Ausnahme der Sonderfahrzeuge, Einsatzfahrzeuge und Fahrzeuge des Bundesheers) ab 2027
+  * Flächendeckende Einführung von Umweltmanagementsystemen 
+  * Ziel ist eine 100% regionale und saisonale Beschaffung in Verbindung mit einer Bio-Quote von 30% bis 2025 und 55% bis 2030.
+  * Angebot eines täglichen Klimatellers in Österreichs öffentlichen Küchen
+
+- Nachhaltige und innovationsfreundliche Beschaffung wird Standard:
+
+  * Ziel ist die Umstellung der Bundesbeschaffung nach ökologischen und sozialen Mindeststandards, die sich am Umweltzeichen orientieren und Regionalität fördern.
+  * Darüber hinaus wird die Bundesregierung das Vergaberecht als wichtiges Instrument zur Bekämpfung des Klimawandels nutzen. Dazu ist das Bestbieterprinzip um verbindliche ökologische Kriterien für die angebotenen Produkte und Dienstleistungen zu erweitern (z.B. öffentliche Bautätigkeit).
+  * Überarbeitung und Aktualisierung des „Aktionsplan nachhaltige öffentliche Beschaffung“, dessen Anwendung für Beschaffungsvorgänge verbindlich ist und evaluiert wird 
+  * Paradigmenwechsel vom Billigstbieter zum Bestbieter sowie Total Cost of Ownership (TCO)
+ 
+- Erarbeitung einer Strategie mit einem konkreten Zeitplan für eine klimaneutrale Verwaltung bis 2040
+
+  * Kompensation von zunächst überschießenden (über Zielpfad) bzw. verbleibenden Emissionen aufgrund eines Kriterienkatalogs
 
 Umsetzung einer „Green Finance Agenda“
-•  Schaffung  von  geeigneten  Rahmenbedin-
-o  Die  Bundesregierung  bekennt  sich  zur
-gungen für die Mobilisierung von privatem
-Auflage  von  Green  Bonds  durch  die
-Kapital  zur  Lösung  gesellschaftlicher  Her-
-ÖBFA.  Institutionelle  Investoren  und  die
-ausforderungen,  insbesondere  im  Bereich
-Bevölkerung  können  sich  damit  an  der
-Klimaschutz und Energie
-Klimawende beteiligen.
-o  Prüfung  einer  „Bürger-Stiftung  Klima-
-o  KEST-Befreiung  für  ökologische  /  ethische
-schutz“: Anreize schaffen, Private dazu zu
-Investitionen (Ausarbeitung eines Konzepts
-bewegen, in den Klimaschutz zu investie-
-mit klarem Kriterien-Set durch die zuständi-
-ren. Gelingen soll das mithilfe einer „Bür-
-gen Ministerien für Finanzen und Klima)
-ger-Stiftung Klimaschutz“, die Bürger-An-
-leihen vergeben soll.
+--------------------------------------
 
-o  Die Bundesregierung setzt sich für die Veran-
-lagung öffentlicher Mittel (z.B. bei Beteiligun-
-gen des Bundes im Rahmen der gesellschafts-
-rechtlichen Möglichkeiten) in nachhaltige und
-ökologische Anlagenformen ein.
-o  Erarbeitung  eines  Modells  zur  aktiven
-Beratung  von  Gemeinden  und  Ländern
-hinsichtlich  ökologischer  und  nachhaltiger
-Infrastrukturprojekte und Sanierungsmaß-
-nahmen  und  deren  Finanzierung  unter
-Einhaltung des inner-österreichi schen Sta-
-bilitätspaktes
+- Schaffung von geeigneten Rahmenbedingungen für die Mobilisierung von privatem Kapital zur Lösung gesellschaftlicher Herausforderungen, insbesondere im Bereich Klimaschutz und Energie
 
-o  „Green  Supporting  Factor“  auf  europäi-
-scher Ebene: Im Kampf gegen den Klima-
-wandel werden wir auch den tatkräftigen
-Beitrag  von  Start-Ups  und  KMUs  brau-
-chen,  die  jene  Innovationen  beschleuni-
-gen, die uns ein CO2-neutrales Leben und
-Wirtschaften ermöglichen. Die Bundesre-
-gierung wird sich daher auf europäischer
-Ebene  dafür  einsetzen,  dass  Banken  für
-Kredite,  die  effektiv  dazu  beitragen,  den
-Übergang  zu  einer  nachhaltigen,  klima-
-neutralen  Wirtschaft  zu  beschleunigen,
-weniger Eigenkapital hinterlegen müssen.
-Ein  solcher  „Green  Supporting  Factor“
-würde  die  Vergabe  von  „grünen  Kredi-
-ten“ erleichtern und somit einen wertvol-
-len  Beitrag  zur  Erreichung  unserer  euro-
-päischen Klimaziele leisten.
-Gebäude: Nachhaltig und energiesparend
-heizen, kühlen, bauen und sanieren
-•  Green Jobs – Sanierungsoffensive
-o  Ausbildungs- und Sanierungsoffensive brin-
-gen zusätzliche Beschäftigung in den nächs-
-ten zehn Jahren, auch im ländlichen Raum
-•  Überarbeitung  der  „Vereinbarung  gemäß
-Art. 15a B-VG zwischen dem Bund und den
-Ländern über Maßnahmen im Gebäudesek-
-tor  zum  Zweck  der  Reduktion  des  Aussto-
-ßes an Treibhausgasen“
-•  Erhöhung  der  Sanierungsrate  in  Richtung
-des  Zielwerts  von  3%,  insbesondere  durch
-folgende Maßnahmen:
-o  Langfristige  und  mit  den  Bundesländern
-koordinierte Förderoffensive des Bundes
-o  Weiterentwicklung  der  Wohnbauförde-
+  * Prüfung einer „Bürger-Stiftung Klimaschutz“: Anreize schaffen, Private dazu zu bewegen, in den Klimaschutz zu investieren. Gelingen soll das mithilfe einer „Bürger-Stiftung Klimaschutz“, die Bürger-Anleihen vergeben soll.
+  * Die Bundesregierung bekennt sich zur Auflage von Green Bonds durch die ÖBFA. Institutionelle Investoren und die Bevölkerung können sich damit an der Klimawende beteiligen.
+  * KEST-Befreiung für ökologische / ethische Investitionen (Ausarbeitung eines Konzepts mit klarem Kriterien-Set durch die zuständigen Ministerien für Finanzen und Klima)
+  * „Green Supporting Factor“ auf europäischer Ebene: Im Kampf gegen den Klimawandel werden wir auch den tatkräftigen Beitrag von Start-Ups und KMUs brauchen, die jene Innovationen beschleunigen, die uns ein CO2-neutrales Leben und Wirtschaften ermöglichen. Die Bundesregierung wird sich daher auf europäischer Ebene dafür einsetzen, dass Banken für Kredite, die effektiv dazu beitragen, den Übergang zu einer nachhaltigen, klimaneutralen Wirtschaft zu beschleunigen, weniger Eigenkapital hinterlegen müssen. Ein solcher „Green Supporting Factor“ würde die Vergabe von „grünen Krediten“ erleichtern und somit einen wertvollen Beitrag zur Erreichung unserer europäischen Klimaziele leisten.
+  * Die Bundesregierung setzt sich für die Veranlagung öffentlicher Mittel (z.B. bei Beteiligungen des Bundes im Rahmen der gesellschaftsrechtlichen Möglichkeiten) in nachhaltige und ökologische Anlagenformen ein.
+  * Erarbeitung eines Modells zur aktiven Beratung von Gemeinden und Ländern hinsichtlich ökologischer und nachhaltiger Infrastrukturprojekte und Sanierungsmaßnahmen und deren Finanzierung unter Einhaltung des inner-österreichischen Stabilitätspaktes
 
-rung  im  Sinne  einer  Orientierung  an  Kli-
-maschutzzielen  unter  besonderer  Be-
-rücksichtigung
-raumordnungsrelevanter
-Aspekte, wie z.B. Bebauungsdichte, Quar-
-tiersqualitäten, ÖV-Erschließung etc.
-o  Einführung eines sozialverträglichen
-Sanierungsgebots
--  für  sich  rasch  amortisierende  Maßnah-
-men  wie  beispielsweise  die  Dämmung
-der obersten Geschoßdecke
--  begleitet  durch  geförderte  Beratungen
-sowie spezielle Förderangebote
--  mit Ausnahmeregelungen und
-Schwellenwerten
+Gebäude: Nachhaltig und energiesparend heizen, kühlen, bauen und sanieren
+-------------------------------------------------------------------------
 
-Seite 107
+- Green Jobs – Sanierungsoffensive
 
-Seite 108
+  * Ausbildungs- und Sanierungsoffensive bringen zusätzliche Beschäftigung in den nächsten zehn Jahren, auch im ländlichen Raum
 
-Regierungsprogramm 2020 – 2024Regierungsprogramm 2020 – 2024Fahne ÖsterreichFahne Österreicho  Förderprogramme für die thermisch-ener-
-getische Sanierung von Nutzgebäuden
-•  Steigerung der Sanierungsqualität und da-
-mit rasche Verbrauchsreduktion und Koste-
-nersparnis für die Haushalte, insbesondere
-durch folgende Maßnahmen:
-o  Erstellung  eines  Sanierungskonzepts  bei
-jeder  geplanten  größeren  Renovierungs-
-maßnahme (nach Vorbild Energieausweis),
-mit  dem  Ziel,  sinnvolle  Sanierungsabfol-
-gen  zu  gewährleisten  und  für  maximale
-Verbrauchsreduktion  zu  möglichst  gerin-
-gen Kosten zu sorgen
-o  Umsetzung  der  Leitlinien  für  bauökolo-
-gisch  vorteilhafte  Sanierungen  gemäß
-Energieeffizienzgesetz (§16 Abs. 13)
-o  Weiterführung  des  Förderschwerpunkts
-für ökologisch vorteilhafte Sanierungen
-•  Weiterentwicklung  der  Standards  in  den
-Bauvorschriften in Zusammenarbeit mit den
-Bundesländern mit folgenden Zielen:
-o  Vorbereitung  bzw.  Planung  der  nächsten
-Anpassung der OIB-Richtlinie 6
-o  Nullemissionsgebäude  Schritt  für  Schritt
-zum Standard machen
-o  Ausrichtung  der  Baustandards  in  den
-Bauordnungen  in  Neubau  und  Sanie-
-rung gemäß kostenoptimalem Niveau der
-Niedrigstenergiestandards
+- Überarbeitung der „Vereinbarung gemäß Art. 15a B-VG zwischen dem Bund und den Ländern über Maßnahmen im Gebäudesektor zum Zweck der Reduktion des Ausstoßes an Treibhausgasen“
 
-o  Anschluss-  bzw.  Lademöglichkeiten  für
-batterieelektrische  Fahrzeuge  sind  bei
-allen  Neubauten  vorzusehen.
-In  Be-
-standsgebäuden sind die rechtlichen Rah-
-menbedingungen  so  zu  gestalten,  dass
-entsprechende  Nachrüstungen
-leicht
-erfolgen können.
+- Erhöhung der Sanierungsrate in Richtung des Zielwerts von 3%, insbesondere durch folgende Maßnahmen:
 
-•  Forcierung des Holzbaus und ökologischer
-Baumaterialien
-o  Anpassung der Baunormen und Vereinba-
-rungen mit den Ländern zur Veränderung
-der Bauordnungen und Förderinstrumente
-o  Vorbildwirkung  der  öffentlichen  Hand
-in  ihren  zu  errichtenden  Gebäuden  und
-Schwerpunkt Holzbauforschung
-•  Klimaanpassung im Gebäudesektor
-o  Planung  und  Bau  von  Gebäuden  jedwe-
-der Nutzungskategorie in Hinblick auf zu-
-nehmende Außentemperaturen
-o  Implementierung  von  folgenden  Maß-
-nahmen  in  einschlägigen  Rechtsmateri-
-en und Förderinstrumenten: hochwertige
-Quartiersentwicklung  mit  Grünräumen,
-Reduktion der versiegelten Flächen, Nut-
-zung von Grauwasser, Dachbegrünungen,
-konstruktiver  Überwärmungsschutz,  Aus-
-bau  von  Energienetzen  und  aktive  Kühl-
-möglichkeiten
+  * Langfristige und mit den Bundesländern koordinierte Förderoffensive des Bundes
+  * Weiterentwicklung der Wohnbauförderung im Sinne einer Orientierung an Klimaschutzzielen unter besonderer Berücksichtigung raumordnungsrelevanter Aspekte, wie z.B. Bebauungsdichte, Quartiersqualitäten, ÖV-Erschließung etc.
 
-Phase-out-Plan für fossile Energieträger
-in der Raumwärme
-•  Um die Erreichung der Klimaschutzziele Ös-
-terreichs bis 2040 zu gewährleisten, muss auf
-die Verbrennung von Heizöl, Kohle und fos-
-silem Gas für die Bereitstellung von Wärme
-und Kälte weitestgehend verzichtet werden.
-•  Forcierung der Nah- und Fernwärme. Fern-
-wärme  wird  in  Räumen  mit  ausreichender
-Wärmedichte in der Wärmeversorgung der
-Zukunft an Bedeutung gewinnen. Sie leistet
-einen großen Beitrag zur Erreichung des ös-
-terreichischen CO2-Reduktionsziels im Non-
-ETS-Sektor.
-•  Zur Priorisierung der Anwendungsbereiche
-im Sinne eines größtmöglichen Klimaschutz-
-nutzens  wird  eine  Mobilisierungsstrategie
-Grünes Gas erarbeitet. Klare Rahmenbedin-
-gungen  und  Zeitpläne  schaffen  Planungs-
-sicherheit  und  vermeiden  Lock-in-Effekte.
-Grünes  Gas  ist  ein  hochwertiger  Energie-
-träger, der quantitativ begrenzt ist und soll
-daher  bevorzugt  in  Anwendungen  einge-
-setzt  werden,  in  denen  die  Hochwertigkeit
-notwendig ist.
-•  Im Dialog mit den Bundesländern, Energie-
-versorgern  und  Gasnetzbetreibern  ist  ein
-Fahrplan zur stufenweisen Entflechtung der
-Wärmenetze zu entwickeln.
-•  Phase-out  für  Öl  und  Kohle  in  der  Raum-
-wärme:  Ein  Bundesgesetz  regelt  in  einem
-Stufenplan das Phase-out von Öl und Kohle
-im Gebäudesektor. Zur Vermeidung sozialer
-Härtefälle  werden  alle  Maßnahmen  durch
-eine langfristig angelegte, degressiv gestaltete
-und sozial gestaffelte Förderung flankiert:
+- Einführung eines sozialverträglichen Sanierungsgebots
+  * für sich rasch amortisierende Maßnahmen wie beispielsweise die Dämmung der obersten Geschoßdecke
+  * begleitet durch geförderte Beratungen sowie spezielle Förderangebote
+  * mit Ausnahmeregelungen und Schwellenwerten
+  * Förderprogramme für die thermisch-energetische Sanierung von Nutzgebäuden
 
-o  für den Neubau (ab 2020)
-o  bei Heizungswechsel (ab 2021)
-o  einen verpflichtenden Austausch von Kes-
-seln älter als 25 Jahre (ab 2025)
-o  und allen Kesseln spätestens im Jahr 2035
-•  Analog  zum  Stufenplan  Öl  und  Kohle  in
-der  Raumwärme  werden  die  gesetzlichen
-Grundlagen  zum  Ersatz  von  Gasheizsyste-
-men geschaffen:
-o  Im Neubau sind ab 2025 keine Gaskessel/
-Neuanschlüsse mehr zulässig.
-o  Kein  weiterer  Ausbau  von  Gasnetzen  zur
-Raumwärmeversorgung,  ausgenommen
-Verdichtung innerhalb bestehender Netze
-•  Wärmestrategie erstellen: In enger Zusam-
-menarbeit mit den Bundesländern erarbei-
-tet  die  Bundesregierung  eine  österreichi-
-sche  Wärmestrategie  mit  der  Zielsetzung
-der  vollständigen  Dekarbonisierung  des
-Wärmemarktes.
-o  Pfade  und  Möglichkeiten  der  vollständi-
-gen Wärmeversorgung auf Basis erneuer-
-barer  Energieträger  (Biomassetechnolo-
-gien, Fernwärme, direkte Solarnutzungen,
-Geothermie und Umgebungswärme), inkl.
-Maßnahmen und Fahrpläne
-o  Verbindliche Grundlage der strategischen
-Zielerreichung
+- Steigerung der Sanierungsqualität und damit rasche Verbrauchsreduktion und Kostenersparnis für die Haushalte, insbesondere durch folgende Maßnahmen:
 
-Seite 109
+  * Erstellung eines Sanierungskonzepts bei jeder geplanten größeren Renovierungsmaßnahme (nach Vorbild Energieausweis), mit dem Ziel, sinnvolle Sanierungsabfolgen zu gewährleisten und für maximale Verbrauchsreduktion zu möglichst geringen Kosten zu sorgen
 
-Seite 110
+  * Umsetzung der Leitlinien für bauökologisch vorteilhafte Sanierungen gemäß Energieeffizienzgesetz (§16 Abs. 13)
+  * Weiterführung des Förderschwerpunkts für ökologisch vorteilhafte Sanierungen 
 
-Regierungsprogramm 2020 – 2024Regierungsprogramm 2020 – 2024Fahne ÖsterreichFahne Österreich•  Sicherstellung der Versorgung:
-o  Verankerung  der  Nutzung  von  Wärme  in
-tiefen  Erdschichten
-(Tiefengeothermie)
-im  MinRoG,  mit  der  Möglichkeit,  die
-Nutzungsrechte Dritten zu überlassen
-o  Verankerung  einer  Verpflichtung  zur  Pel-
-letsbevorratung für Produzenten und Im-
-porteure im Rohstoffbevorratungsgesetz
+- Weiterentwicklung der Standards in den Bauvorschriften in Zusammenarbeit mit den Bundesländern mit folgenden Zielen:
 
-o  Forcierung der Nah- und Fernwärme
-o  Raumplanerische  Rahmenbedingungen
-verbessern: Festlegung von Versorgungs-
-zonen mit der Möglichkeit von Anschluss-
-verpflichtungen
-in  Raumplanungsins-
-trumenten,  gesetzliche  Regelung  zur
-Begründung  von  Leitungsrechten
-für
-Fernwärme, Regelungen für die Erfassung
-und  einfache  Einbindung  von  Abwärme-
-quellen etc. begleitet durch entsprechen-
-de Förderprogramme
--  Förderung für erneuerbare Großanlagen
-und Geothermie in Fernwärmenetzen für
-die Anhebung des durchschnittlichen er-
-neuerbaren Anteils in der Fernwärme um
-mindestens 1,5 Prozent pro Jahr
+  * Vorbereitung bzw. Planung der nächsten Anpassung der OIB-Richtlinie 6
+  * Nullemissionsgebäude Schritt für Schritt zum Standard machen 
+  * Ausrichtung der Baustandards in den Bauordnungen in Neubau und Sanierung gemäß kostenoptimalem Niveau der Niedrigstenergiestandards
+  * Anschluss- bzw. Lademöglichkeiten für batterieelektrische Fahrzeuge sind bei allen Neubauten vorzusehen. In Bestandsgebäuden sind die rechtlichen Rahmenbedingungen s  * zu gestalten, dass entsprechende Nachrüstungen leicht erfolgen können.
 
-Erneuerbare Energie für eine
-saubere Zukunft
-•  Aufbauend  auf  die  bisherige  Arbeit  –  die
-#mission2030  und  den  Nationalen  Ener-
-gie- und Klima-Plan – sollen folgende Maß-
-nahmen gesetzt werden:
-o  Klare  Zieldefinition  für  die  Steigerung
-des  Anteils  von  erneuerbaren  Energien
-am  nationalen  Gesamtverbrauch:  100  %
-(national bilanziell) Strom aus erneuerba-
-ren Energiequellen bis 2030
-o  Verstärkte  Nutzung  und  Koppelung  von
-in  Österreich  vorhandenen  Ressourcen
-zur nachhaltigen Erzeugung von erneuer-
-barer Energie in allen Anwendungsberei-
-chen (Strom, Wärme und Kälte, Mobilität)
+- Forcierung des Holzbaus und ökologischer Baumaterialien
 
-o  Konkrete Maßnahmen zur Steigerung der
-Energie-  und  Versorgungssicherheit
-in
-Österreich  durch  den  erleichterten  Aus-
-bau  bestehender  und  Errichtung  neuer
-Energieerzeugungsanlagen  für  erneuer-
-bare Energien
-o  Ausbau  heimischer  Ressourcen  statt
-Energieimporte
-o  Maßnahmen
-Energieeffizienz (speziell im Wohnbau)
-o  Einsatz  von  Cross-Cutting-Technologies
-und  Aufbau  von  Hybridnetzen  für  die
-Energieversorgung
-o  Wasserstoff als Speichermedium verstärkt
-nutzen
+  * Anpassung der Baunormen und Vereinbarungen mit den Ländern zur Veränderung der Bauordnungen und Förderinstrumente
+  * Vorbildwirkung der öffentlichen Hand in ihren zu errichtenden Gebäuden und Schwerpunkt Holzbauforschung
 
-der
+- Klimaanpassung im Gebäudesektor
 
-zur
+  * Planung und Bau von Gebäuden jedweder Nutzungskategorie in Hinblick auf zunehmende Außentemperaturen
+  * Implementierung von folgenden Maßnahmen in einschlägigen Rechtsmaterien und Förderinstrumenten: hochwertige Quartiersentwicklung mit Grünräumen, Reduktion der versiegelten Flächen, Nutzung von Grauwasser, Dachbegrünungen, konstruktiver Überwärmungsschutz, Ausbau von Energienetzen und aktive Kühlmöglichkeiten
 
-Steigerung
+Phase-out-Plan für fossile Energieträger in der Raumwärme
+---------------------------------------------------------
 
-Nutzung  erneuerbarer  Energie,  insbeson-
-dere Verkehrsflächen (ASFINAG, ÖBB) oder
-Flächen  an  Gebäuden  oder  auf  Liegen-
-schaften. Erfassung und Bewertung: Geeig-
-nete  Flächen  können  selbst  genutzt  oder
-Dritten zugänglich gemacht werden für eine
-Nutzung (Contracting oder Pacht).
+- Um die Erreichung der Klimaschutzziele Österreichs bis 2040 zu gewährleisten, muss auf die Verbrennung von Heizöl, Kohle und fossilem Gas für die Bereitstellung von Wärme und Kälte weitestgehend verzichtet werden.
 
-•  Ausbau-  und  Unterstützungsprogramm  für
-„grünes  Gas“  (Biomethan,  grüner  Wasser-
-stoff  und  synthetisches  Gas  auf  Basis  er-
-neuerbaren Stroms) mit dem Ziel, bis 2030
-5 TWh ins Gasnetz einzuspeisen. Dazu wird
-auf  Basis  von  Verfügbarkeiten,  klimapoli-
-tischem  und  volkswirtschaftlichem  Nutzen
-ein  Ausbaupfad  definiert.  Die  Herstellung
-von synthetischem Gas erfolgt vorwiegend
-auf  Basis  von  Überschussstrom.  Begleitet
-wird  der  Ausbau  zum  Beispiel  mit  Förder-
-programmen und Quoten, die die Zielerrei-
-chung  ermöglichen,  sowie  durch  ein  strin-
-gentes System für Herkunftsnachweise und
-Kennzeichnung.
-•  Mobilisierung von Flächen im direkten oder
-indirekten  Eigentum  des  Bundes  für  die
+- Forcierung der Nah- und Fernwärme. Fernwärme wird in Räumen mit ausreichender Wärmedichte in der Wärmeversorgung der Zukunft an Bedeutung gewinnen. Sie leistet einen großen Beitrag zur Erreichung des österreichischen CO2-Reduktionsziels im Non-ETS-Sektor.
+
+- Zur Priorisierung der Anwendungsbereiche im Sinne eines größtmöglichen Klimaschutznutzens wird eine Mobilisierungsstrategie Grünes Gas erarbeitet. Klare Rahmenbedingungen und Zeitpläne schaffen Planungssicherheit und vermeiden Lock-in-Effekte. Grünes Gas ist ein hochwertiger Energieträger, der quantitativ begrenzt ist und soll daher bevorzugt in Anwendungen eingesetzt werden, in denen die Hochwertigkeit notwendig ist.
+
+- Im Dialog mit den Bundesländern, Energieversorgern und Gasnetzbetreibern ist ein Fahrplan zur stufenweisen Entflechtung der Wärmenetze zu entwickeln.
+
+- Phase-out für Öl und Kohle in der Raumwärme: Ein Bundesgesetz regelt in einem Stufenplan das Phase-out von Öl und Kohle im Gebäudesektor. Zur Vermeidung sozialer Härtefälle werden alle Maßnahmen durch eine langfristig angelegte, degressiv gestaltete und sozial gestaffelte Förderung flankiert:
+
+  * für den Neubau (ab 2020)
+  * bei Heizungswechsel (ab 2021)
+  * einen verpflichtenden Austausch von Kesseln älter als 25 Jahre (ab 2025)
+  * und allen Kesseln spätestens im Jahr 2035
+
+- Analog zum Stufenplan Öl und Kohle in der Raumwärme werden die gesetzlichen Grundlagen zum Ersatz von Gasheizsystemen geschaffen:
+
+  * Im Neubau sind ab 2025 keine Gaskessel/Neuanschlüsse mehr zulässig.
+  * Kein weiterer Ausbau von Gasnetzen zur Raumwärmeversorgung, ausgenommen Verdichtung innerhalb bestehender Netze
+
+- Wärmestrategie erstellen: In enger Zusammenarbeit mit den Bundesländern erarbeitet die Bundesregierung eine österreichische Wärmestrategie mit der Zielsetzung der vollständigen Dekarbonisierung des Wärmemarktes.
+
+  * Pfade und Möglichkeiten der vollständigen Wärmeversorgung auf Basis erneuerbarer Energieträger (Biomassetechnologien, Fernwärme, direkte Solarnutzungen, Geothermie und Umgebungswärme), inkl. Maßnahmen und Fahrpläne
+  * Verbindliche Grundlage der strategischen Zielerreichung
+  * Forcierung der Nah- und Fernwärme
+  * Raumplanerische Rahmenbedingungen verbessern: Festlegung von Versorgungszonen mit der Möglichkeit von Anschlussverpflichtungen in Raumplanungsinstrumenten, gesetzliche Regelung zur Begründung von Leitungsrechten für Fernwärme, Regelungen für die Erfassung und einfache Einbindung von Abwärmequellen etc. begleitet durch entsprechende Förderprogramme 
+  * Förderung für erneuerbare Großanlagen und Geothermie in Fernwärmenetzen für die Anhebung des durchschnittlichen erneuerbaren Anteils in der Fernwärme um mindestens 1,5 Prozent pr  * Jahr 
+
+- Sicherstellung der Versorgung:
+
+  * Verankerung der Nutzung von Wärme in tiefen Erdschichten (Tiefengeothermie) im MinRoG, mit der Möglichkeit, die Nutzungsrechte Dritten zu überlassen 
+  * Verankerung einer Verpflichtung zur Pelletsbevorratung für Produzenten und Importeure im Rohstoffbevorratungsgesetz
+
+Erneuerbare Energie für eine saubere Zukunft
+--------------------------------------------
+
+- Aufbauend auf die bisherige Arbeit – die #mission2030 und den Nationalen Energie- und Klima-Plan – sollen folgende Maßnahmen gesetzt werden:
+
+  * Klare Zieldefinition für die Steigerung des Anteils von erneuerbaren Energien am nationalen Gesamtverbrauch: 100 % (national bilanziell) Strom aus erneuerbaren Energiequellen bis 2030 
+  * Verstärkte Nutzung und Koppelung von in Österreich vorhandenen Ressourcen zur nachhaltigen Erzeugung von erneuerbarer Energie in allen Anwendungsbereichen (Strom, Wärme und Kälte, Mobilität)
+  * Konkrete Maßnahmen zur Steigerung der Energie- und Versorgungssicherheit in Österreich durch den erleichterten Ausbau bestehender und Errichtung neuer Energieerzeugungsanlagen für erneuerbare Energien
+  * Ausbau heimischer Ressourcen statt Energieimporte
+  * Maßnahmen zur Steigerung der Energieeffizienz (speziell im Wohnbau)
+  * Einsatz von Cross-Cutting-Technologies und Aufbau von Hybridnetzen für die Energieversorgung
+  * Wasserstoff als Speichermedium verstärkt nutzen
+
+- Ausbau- und Unterstützungsprogramm für „grünes Gas“ (Biomethan, grüner Wasserstoff und synthetisches Gas auf Basis erneuerbaren Stroms) mit dem Ziel, bis 2030 5 TWh ins Gasnetz einzuspeisen. Dazu wird auf Basis von Verfügbarkeiten, klimapolitischem und volkswirtschaftlichem Nutzen ein Ausbaupfad definiert. Die Herstellung von synthetischem Gas erfolgt vorwiegend auf Basis von Überschussstrom. Begleitet wird der Ausbau zum Beispiel mit Förderprogrammen und Quoten, die die Zielerreichung ermöglichen, sowie durch ein stringentes System für Herkunftsnachweise und Kennzeichnung. 
+
+- Mobilisierung von Flächen im direkten oder indirekten Eigentum des Bundes für die Nutzung erneuerbarer Energie, insbesondere Verkehrsflächen (ASFINAG, ÖBB) oder Flächen an Gebäuden oder auf Liegenschaften. Erfassung und Bewertung: Geeignete Flächen können selbst genutzt oder Dritten zugänglich gemacht werden für eine Nutzung (Contracting oder Pacht).
+
 Erneuerbaren-Ausbau-Gesetz im Detail
-•  Der Ausbau soll, unter Berücksichtigung von
-•  Ein  Erneuerbaren-Ausbau-Gesetz
-(EAG)
-Vorlaufzeiten,  einem  zehnjährigen  linearen
-wird  so  rasch  wie  möglich  erlassen,  es  im-
-Pfad folgen. Bei signifikanten Pfadabweichun-
-plementiert  als  Sammelgesetznovelle  fol-
-gen  sind  entsprechende  Maßnahmen  zur
-gende  Eckpunkte  in  den  entsprechenden
-durchschnittlichen Pfadeinhaltung zu setzen.
-Materiegesetzen und zieht eine Reform der
-Ökostromförderung nach sich.
-•  Der  Ausbau  soll  unter  Beachtung  strenger
-Kriterien in Bezug auf Ökologie und Natur-
-•  Ziel  ist  es,  die  Stromversorgung  bis  2030
-verträglichkeit erfolgen.
-auf 100% (national bilanziell) Ökostrom bzw.
-Strom  aus  erneuerbaren  Energieträgern
-umzustellen  und  gleichzeitig  die  Wettbe-
-•  Es erfolgt ein laufender Ausbau: Statt Stop-
-werbsfähigkeit  des  Wirtschaftsstandorts
-and-Go aufgrund jährlicher Kontingente er-
-Österreich zu stärken.
-folgt  ein  kontinuierlicher  Ausbau,  mit  Aus-
-nahme  der  Förderung  von  Speichern  im
-Zusammenhang mit PV-Anlagen.
-•  100% Strom aus Erneuerbaren bedeutet ei-
-nen  Zubau  von  rund  27  TWh.  Zielsetzung
-ist, bis 2030 eine Photovoltaik-Erzeugungs-
-•  Das  Ausmaß  des  Unterstützungsvolumens
-kapazität von 11 TWh zuzubauen, bei Wind
-orientiert sich am Ausbaufahrplan. Im 3-jäh-
-beträgt das Ausbauziel 10 TWh, bei Wasser-
-rigen Mittel darf dabei ein Jahres-Maximum
-kraft  5  TWh  (wobei  eine  am  ökologischen
-von  1  Milliarde  Euro  nicht  überschritten
-Potential  orientierte  Aufteilung  zwischen
-werden.  Innovative  Sonderprogramme  im
-Kleinwasserkraft  und  Großwasserkraft  vor-
-Klima- und Energiefonds bleiben möglich.
-zunehmen ist) und bei Biomasse 1 TWh.
+------------------------------------
 
-Seite 111
+- Ein Erneuerbaren-Ausbau-Gesetz (EAG) wird s  * rasch wie möglich erlassen, es implementiert als Sammelgesetznovelle folgende Eckpunkte in den entsprechenden Materiegesetzen und zieht eine Reform der Ökostromförderung nach sich.
 
-Seite 112
+- Ziel ist es, die Stromversorgung bis 2030 auf 100% (national bilanziell) Ökostrom bzw. Strom aus erneuerbaren Energieträgern umzustellen und gleichzeitig die Wettbewerbsfähigkeit des Wirtschaftsstandorts Österreich zu stärken.
 
-Regierungsprogramm 2020 – 2024Regierungsprogramm 2020 – 2024Fahne ÖsterreichFahne Österreichkus auf versiegelte Flächen (z.B. P&R-Anla-
-gen, Parkplätze etc.) und Doppelnutzung
-•  Prüfung der Tarifstruktur auf Änderungsbe-
-darf, um abzufedern, dass unterschiedliche
-Ausgangsbedingungen  in  Bezug  auf  den
-nächsten  verfügbaren  Netzanschlusspunkt
-zu  Benachteiligungen  bei  den  Kontrahie-
-rungen von Erzeugungskapazitäten führen
-•  Erweiterung  der  Möglichkeiten  der  Ge-
-staltung  von  „Erneuerbaren  Energiege-
-meinschaften“
-„Bürgerenergiege-
-und
-meinschaften“
-für  verstärkte  dezentrale
-Energieversorgung  und  die  Stärkung  von
-regionalen  Versorgungskonzepten,  mit  Fo-
-kus  auf  Gemeinnützigkeit  und  genossen-
-schaftliche  Systeme,
-lokale  Mikro-Netze
-und  Speicherbetreiber,  Etablierung  eines
-One-Stop-Shops zur Beratung
-•  Ermöglichung einer unkomplizierten Direkt-
-vermarktung  bei  Eigenstromerzeugungen,
-sofern  das  öffentliche  Netz  nicht  benutzt
-wird
-•  Streichung der Eigenstromsteuer auf alle er-
-neuerbaren Energieträger
-•  Forcierung der Revitalisierung großer Was-
-serkraftanlagen
+- 100% Strom aus Erneuerbaren bedeutet einen Zubau von rund 27 TWh. Zielsetzung ist, bis 2030 eine Photovoltaik-Erzeugungskapazität von 11 TWh zuzubauen, bei Wind beträgt das Ausbauziel 10 TWh, bei Wasserkraft 5 TWh (wobei eine am ökologischen Potential orientierte Aufteilung zwischen Kleinwasserkraft und Großwasserkraft vorzunehmen ist) und bei Biomasse 1 TWh.
 
-•  Die Unterstützung erfolgt mit einem Fokus
-auf  einen  Mix  aus  Investitionsförderungen
-und gleitenden Marktprämien, unter Einbe-
-ziehung von Ausschreibungen, wo im Sinne
-der Zielerreichung sinnvoll einsetzbar.
-•  Die Laufzeiten für die Gewährung der Markt-
-prämien werden generell auf 20 Jahre aus-
-gedehnt.
-•  Die Errichtung von PV-Anlagen und das Ziel,
-1 Million Dächer mit Photovoltaik auszustat-
-ten, wird durch folgende Änderungen admi-
-nistrativ erleichtert:
-o  Abbau von bürokratischen Hürden bei be-
-stehenden  Anlagen,  dazu  gehört  die  Er-
-möglichung der Erweiterung bestehender
-Anlagen, ohne dass ein Einspeisetarifver-
-lust für die bisherige Kapazität eintritt
-o  vereinfachter Netzzugang für Anlagen bis
-10 kW
-o  Ausweitung der leistungsbezogenen För-
-dergrenzen
-o  Vereinfachung der rechtlichen Rahmenbe-
-dingungen für PV-Anlagen
-o  Förderfähigkeit  auch  auf  Flächen  außer-
-halb von Gebäuden, mit besonderem Fo-
-Weiterentwicklung des
-Energieeffizienzgesetzes
-Novellierung  des  Energieeffizienzgesetzes
-auf Basis der folgenden Grundsätze:
-•  Einsparungen  werden  weiterhin  mit  einer
-Kombination  aus  strategischen  Maßnahmen
-(Steuerrecht,  Ordnungsrecht,  Förderungen)
-und einer Verpflichtung der Energielieferanten,
-Einsparmaßnahmen zu setzen, erzielt.
+- Der Ausbau soll, unter Berücksichtigung von Vorlaufzeiten, einem zehnjährigen linearen Pfad folgen. Bei signifikanten Pfadabweichungen sind entsprechende Maßnahmen zur durchschnittlichen Pfadeinhaltung zu setzen. 
 
-•  Einsparverpflichtung  um  die  Möglichkeit
-einer Ersatzzahlungsleistung in einen Fonds
-ergänzen.  Aufgebrachte  Mittel  fließen  zur
-Finanzierung  von  Energieeffizienzmaßnah-
-men in Haushalten (mit besonderer Berück-
-sichtigung sozialer Härtefälle) der UFI zu.
+- Der Ausbau soll unter Beachtung strenger Kriterien in Bezug auf Ökologie und Naturverträglichkeit erfolgen.
 
-•  Geeignete  Übergangsbedingungen  erhal-
-ten  den  Anreiz  für  Unternehmen,  bereits
-2020  neue  Einsparmaßnahmen  zu  setzen,
-die über 2020 hinaus wirksam sind.
-•  Prüfung einer neuen Kompetenzgrundlage
-für  die  Umsetzung  der  EnergieeffizienzRL
-2021 sowie der Notwendigkeit und Zweck-
-mäßigkeit  weiterer  bundeseinheitlicher
-Regelungen
+- Es erfolgt ein laufender Ausbau: Statt Stop and-G  * aufgrund jährlicher Kontingente erfolgt ein kontinuierlicher Ausbau, mit Ausnahme der Förderung von Speichern im Zusammenhang mit PV-Anlagen.
 
-•  Katalog  anrechenbarer  Maßnahmen  wird
-deutlich  eingeschränkt  auf  Maßnahmen,  die
-auf  Basis  einer  fachlich  verbesserten  Berech-
-nungsbasis belegbare Energiereduktionen ge-
-währleisten. Wechsel zu Technologien auf Basis
-fossiler Energieträger werden keine anrechen-
-baren Maßnahmenfelder mehr darstellen.
-•  Die Abwicklung soll möglichst unbürokratisch
-erfolgen.
-•  Energieaudits  werden  auf  einen  größeren
-Kreis  von  Unternehmen  ausgeweitet,  um
-Reduktionen im Non-ETS-Sektor zu verstär-
-ken,  und  in  ihrer  Wirksamkeit  verbessert,
-damit  Unternehmen  sich  rasch  amortisie-
-rende Maßnahmen umsetzen.
+- Das Ausmaß des Unterstützungsvolumens orientiert sich am Ausbaufahrplan. Im 3-jährigen Mittel darf dabei ein Jahres-Maximum von 1 Milliarde Eur  * nicht überschritten werden. Innovative Sonderprogramme im Klima- und Energiefonds bleiben möglich.
 
-Versorgungs- und Netzsicherheit
-gewährleisten
-•  Österreichischen
-Integrierten  Netzinfra-
-strukturplan entwickeln – strategische Ener-
-gieplanung  mit  Ländern  und  Gemeinden
-sowie Wirtschaft sicherstellen
-•  Erforderliche  Reservekapazitäten  sind  für
-einen  stabilen  Netzbetrieb  unabdingbar
-und  benötigen  daher  entsprechende  In-
-vestitions-  und  Betriebssicherheit.  Das  er-
-forderliche  Ausmaß  wird  auf  Basis  einer
-entsprechenden  transparenten  Bedarfspro-
-gnose bzw. Evaluierung festgestellt. Ein Fo-
-kus erfolgt auf die Einbindung erneuerbarer
-Energieträger.  Um  kleineren  Erzeugungs-
-kapazitäten  und  industriellen  Anlagen  die
-Teilnahme  am  Reservekapazitätsmarkt  zu
-erleichtern,  sollen  die  Losgrößen  reduziert
-und Pooling ermöglicht werden.
+- Die Unterstützung erfolgt mit einem Fokus auf einen Mix aus Investitionsförderungen und gleitenden Marktprämien, unter Einbeziehung von Ausschreibungen, w  * im Sinne der Zielerreichung sinnvoll einsetzbar. 
 
-•  Evaluierung  der  netzgebundenen  Tarif-
-strukturen hinsichtlich Vereinfachungen und
-mehr Transparenz für Kunden
-•  Prüfung von Erleichterungen im Starkstromwe-
-gerecht  für  Erweiterungen  und  Änderungen
-bereits bestehender Leitungen
+- Die Laufzeiten für die Gewährung der Marktprämien werden generell auf 20 Jahre ausgedehnt.
 
-Seite 113
+- Die Errichtung von PV-Anlagen und das Ziel, 1 Million Dächer mit Photovoltaik auszustatten, wird durch folgende Änderungen administrativ erleichtert:
 
-Seite 114
+  * Abbau von bürokratischen Hürden bei bestehenden Anlagen, dazu gehört die Ermöglichung der Erweiterung bestehender Anlagen, ohne dass ein Einspeisetarifverlust für die bisherige Kapazität eintritt
+  * vereinfachter Netzzugang für Anlagen bis 10 kW 
+  * Ausweitung der leistungsbezogenen Fördergrenzen 
+  * Vereinfachung der rechtlichen Rahmenbedingungen für PV-Anlagen
+  * Förderfähigkeit auch auf Flächen außerhalb von Gebäuden, mit besonderem Fokus auf versiegelte Flächen (z.B. P&R-Anlagen, Parkplätze etc.) und Doppelnutzung
 
-Regierungsprogramm 2020 – 2024Regierungsprogramm 2020 – 2024Fahne ÖsterreichFahne ÖsterreichTechnologieoffensive, Digitalisierung
-und Innovation
-•  Integrierte  Energiesysteme  (Sektorkopplung):
-Gesamthafte  Betrachtung  der  Systeme  für
-Strom, Wärme und Mobilität
+- Prüfung der Tarifstruktur auf Änderungsbedarf, um abzufedern, dass unterschiedliche Ausgangsbedingungen in Bezug auf den nächsten verfügbaren Netzanschlusspunkt zu Benachteiligungen bei den Kontrahierungen von Erzeugungskapazitäten führen
 
-•  Strategie  zur  Verwendung  alternativer  Ener-
-gieträger  in  der  Mobilität  (E-Mobilität,  Was-
-serstoff, synthetische Treibstoffe) mit Fokus auf
-Gesamt-Klimabilanz
+- Erweiterung der Möglichkeiten der Gestaltung von „Erneuerbaren Energiegemeinschaften“ und „Bürgerenergiegemeinschaften“ für verstärkte dezentrale Energieversorgung und die Stärkung von regionalen Versorgungskonzepten, mit Fokus
+ auf Gemeinnützigkeit und genossenschaftliche Systeme, lokale Mikro-Netze und Speicherbetreiber, Etablierung eines One-Stop-Shops zur Beratung 
+ 
+- Ermöglichung einer unkomplizierten Direktvermarktung bei Eigenstromerzeugungen, sofern das öffentliche Netz nicht benutzt wird
 
-•  Technologieoffene  Energieforschungsoffensive
-zur Dekarbonisierung
+- Streichung der Eigenstromsteuer auf alle erneuerbaren Energieträger
 
-o  Schwerpunkte: Smart Grids, neue Speicher-
-technologien,  Wasserstoff,  Demand  Side
-Management
+- Forcierung der Revitalisierung großer Wasserkraftanlagen
 
-o  Energieeffizienz
+Weiterentwicklung des Energieeffizienzgesetzes
+----------------------------------------------
 
-o  ggf.  neue  Projekte  (z.B.  „energieeffiziente
-Stadt“ und „energieeffizientes Dorf“)
+Novellierung des Energieeffizienzgesetzes auf Basis der folgenden Grundsätze:
 
-•  Experimentierklausel (nach deutschem Vorbild)
-für Unternehmen ermöglichen
+- Einsparungen werden weiterhin mit einer Kombination aus strategischen Maßnahmen (Steuerrecht, Ordnungsrecht, Förderungen) und einer Verpflichtung der Energielieferanten, Einsparmaßnahmen zu setzen, erzielt. 
 
-•  Innovation  –  von  Start-ups  bis
-Energie-Cluster & Open Energy Innovation
+- Einsparverpflichtung um die Möglichkeit einer Ersatzzahlungsleistung in einen Fonds ergänzen. Aufgebrachte Mittel fließen zur Finanzierung von Energieeffizienzmaßnahmen in Haushalten (mit besonderer Berücksichtigung sozialer Härtefälle) der UFI zu.
 
-Industrie.
+- Katalog anrechenbarer Maßnahmen wird deutlich eingeschränkt auf Maßnahmen, die auf Basis einer fachlich verbesserten Berechnungsbasis belegbare Energiereduktionen gewährleisten. Wechsel zu Technologien auf Basis fossiler Energieträger werden keine anrechenbaren Maßnahmenfelder mehr darstellen.
 
-•  Digitalisierung:  Vorteile  nutzen,  Datenschutz
+- Die Abwicklung soll möglichst unbürokratisch erfolgen.
+
+- Energieaudits werden auf einen größeren Kreis von Unternehmen ausgeweitet, um Reduktionen im Non-ETS-Sektor zu verstärken, und in ihrer Wirksamkeit verbessert, damit Unternehmen sich rasch amortisierende Maßnahmen umsetzen.
+
+- Geeignete Übergangsbedingungen erhalten den Anreiz für Unternehmen, bereits 2020 neue Einsparmaßnahmen zu setzen, die über 2020 hinaus wirksam sind.
+
+- Prüfung einer neuen Kompetenzgrundlage für die Umsetzung der Energieeffizienz RL 2021 sowie der Notwendigkeit und Zweckmäßigkeit weiterer bundeseinheitlicher Regelungen
+
+Versorgungs- und Netzsicherheit gewährleisten
+---------------------------------------------
+
+- Österreichischen Integrierten Netzinfrastrukturplan entwickeln – strategische Energieplanung mit Ländern und Gemeinden sowie Wirtschaft sicherstellen
+
+- Erforderliche Reservekapazitäten sind für einen stabilen Netzbetrieb unabdingbar und benötigen daher entsprechende Investitions- und Betriebssicherheit. Das erforderliche Ausmaß wird auf Basis einer entsprechenden transparenten Bedarfsprognose bzw. Evaluierung festgestellt. Ein Fokus erfolgt auf die Einbindung erneuerbarer Energieträger. Um kleineren Erzeugungskapazitäten und industriellen Anlagen die Teilnahme am Reservekapazitätsmarkt zu erleichtern, sollen die Losgrößen reduziert und Pooling ermöglicht werden.
+
+- Evaluierung der netzgebundenen Tarifstrukturen hinsichtlich Vereinfachungen und mehr Transparenz für Kunden 
+
+- Prüfung von Erleichterungen im Starkstromwegerecht für Erweiterungen und Änderungen bereits bestehender Leitungen
+
+Den österreichischen Anti-Atom-kraft-Weg konsequent fortsetzen und Einsatz gegen die Kohlekraft
+-----------------------------------------------------------------------------------------------
+
+- Fortsetzen der konsequenten Anti-Atom-kraft-Linie: keine öffentlichen Gelder für Atomkraft, insbesondere bei öffentlichen Beihilfen für Bau/Betrieb von AKWs, bei Forschungsgeldern, der Anrechnung von MFR-Geldern im Sinne des Klimaschutzes und bei Kriterien zur Nachhaltigen Finanzierung („Taxonomie“)
+
+- Die Bundesregierung tritt für die Schaffung eines EU-weiten einheitlichen nuklearen Haf tungsregimes ohne Haftungsobergrenzen und mit der Festlegung des Schadensorts als Gerichtsort ein.
+
+- Energieunion ohne Kernenergie forcieren: Österreich wird sich weiterhin dafür einsetzen, dass Atomkraft auch in Zukunft nicht über Mechanismen des Pariser Abkommens unterstützt wird.
+
+- Dem Neu- und Ausbau von Atomkraftwerken in Europa, insbesondere in den Nachbarländern, mit allen zur Verfügung stehenden politischen und rechtlichen Mitteln entgegenwirken 
+
+- Setzung aller notwendigen politischen und diplomatischen Schritte auf nationaler und bilateraler sowie EU-Ebene, um zu erreichen, dass Überprüfungen von Kernkraftwerken in den Nachbarstaaten und der von diesen ausgehenden Gefahren mit modernsten Methoden sowie unter Einbindung unabhängiger nationaler und internationaler Expertinnen und Experten unter verbindlicher Transparenz durchgeführt werden 
+
+- Konsequentes Einschreiten gegen grenznahe Atommülllager
+
+- Reform Euratom-Vertrag: Mittel sind nur noch zu verwenden für die Frage der Entsorgung bzw. langfristigen Lagerung radioaktiver Abfälle sowie des Strahlenschutzes, der Sicherheit und des Rückbaus von Atomkraftwerken sowie der Forschung im Bereich der medizinischen Nutzung.
+
+- Gegen den Neubau von AKW in Europa wird mit allen zur Verfügung stehenden Mitteln vorgegangen. Die Bundesregierung setzt sich entschieden und mit Vehemenz gegen die Inbetriebnahme der slowakischen Reaktoren Mochovce 3 und 4 und für eine erneute UVP ein.
+
+- Gründung einer Allianz der EU-Mitgliedstaaten für einen europaweiten Atomausstieg
+
+- Die Bundesregierung verfolgt konsequent und mit allen rechtlichen und diplomatischen Mitteln die Forderung nach einer Umweltverträglichkeitsprüfung auch bei Laufzeitverlängerungen von AKW. Sie setzt sich für die Schaffung klarer EU-Regeln wie zeitliche Obergrenze für Laufzeitverlängerungen und verpflichtende grenzüberschreitende UVP ein.
+
+- Kohleausstieg in ganz Europa umsetzen
+
+  * Einen europaweiten Kohleausstieg forcieren, um dem Import von billigem Kohlestrom nach Österreich entgegenzuwirken und die Wettbewerbsfähigkeit heimischer Stromer- zeuger zu gewährleisten
+
+Technologieoffensive, Digitalisierung und Innovation
+----------------------------------------------------
+
+- Integrierte Energiesysteme (Sektorkopplung): Gesamthafte Betrachtung der Systeme für Strom, Wärme und Mobilität 
+
+- Technologieoffene Energieforschungsoffensive zur Dekarbonisierung
+
+  * Schwerpunkte: Smart Grids, neue Speichertechnologien, Wasserstoff, Demand Side Management
+  * Energieeffizienz
+  * ggf. neue Projekte (z.B. „energieeffiziente Stadt“ und „energieeffizientes Dorf“)
+
+- Experimentierklausel (nach deutschem Vorbild) für Unternehmen ermöglichen
+
+- Innovation – von Start-ups bis Energie-Cluster & Open Energy Innovation Industrie.
+
+- Digitalisierung: Vorteile nutzen, Datenschutz
 sicherstellen
 
-•  Neue  Österreichische  Wasserstoffstrategie:
-Wasserstofftechnologie  speziell  für  den  Wirt-
-schafts- und Verkehrsbereich entwickeln
+- Strategie zur Verwendung alternativer Energieträger in der Mobilität (E-Mobilität, Wasserstoff, synthetische Treibstoffe) mit Fokus auf Gesamt-Klimabilanz 
 
-o  Damit  soll  Österreich  zur  Wasserstoffnation
-Nummer 1 werden.
+- Neue Österreichische Wasserstoffstrategie: Wasserstofftechnologie speziell für den Wirtschafts- und Verkehrsbereich entwickeln 
 
-o  Klimaschutz-  und  Wasserstoffzentrum  als
-Cluster für Forschung, Innovation und Tech-
-nologie umsetzen
+  * Damit soll Österreich zur Wasserstoffnation Nummer 1 werden.
+  * Klimaschutz- und Wasserstoffzentrum als Cluster für Forschung, Innovation und Technologie umsetzen
 
-•  Internationale  Positionierung  Österreichs  als
-Vorreiter im Bereich der erneuerbaren Energie
-als Unterstützung der österreichischen Export-
-wirtschaft
+- Internationale Positionierung Österreichs als Vorreiter im Bereich der erneuerbaren Energie als Unterstützung der österreichischen Exportwirtschaft
 
-o  Vorreiter  bei  Stromerzeugung  aus  erneu-
-erbaren
-Anti-Atomkraft/An-
-ti-Kohlekraft;  Innovationsführer  bei  Wasser-
-stofftechnologie
+  * Vorreiter bei Stromerzeugung aus erneuerbaren Anti-Atomkraft/Anti-Kohlekraft; Innovationsführer bei Wasserstofftechnologie Energien;
 
-Energien;
+Industrie und Gewerbe: ein Green Deal für Österreichs Wirtschaft
+----------------------------------------------------------------
 
-Den österreichischen Anti-Atom-
-kraft-Weg konsequent fortsetzen und
-Einsatz gegen die Kohlekraft
-•  Fortsetzen  der  konsequenten  Anti-Atom-
-kraft-Linie: keine öffentlichen Gelder für Atom-
-kraft,  insbesondere  bei  öffentlichen  Beihilfen
-für Bau/Betrieb von AKWs, bei Forschungsgel-
-dern,  der  Anrechnung  von  MFR-Geldern  im
-Sinne des Klimaschutzes und bei Kriterien zur
-Nachhaltigen Finanzierung („Taxonomie“)
+- Umfassende, sektorübergreifende Klima- und Kreislaufwirtschaftsstrategie mit prioritärer Ausrichtung auf die besonders energie- und emissionsintensiven Sektoren Stahlerzeugung, Chemie und Zement sowie die Abfallwirtschaft. Sie orientiert sich einerseits an den Pariser und europäischen Klimazielen, andererseits an der EU Circular Economy Strategy und dem EU Circular Economy Action Plan. Die zentrale Herausforderung besteht in der Technologieentwicklung in Richtung industrieller Skalierung und Umsetzung neuer, CO2-armer bzw. CO2-zirkulärer Prozesstechnologien sowie deren wirtschaftlicher Darstellbarkeit. Die sektorübergreifende Koppelung von Klima- und Kreislaufwirtschaftsstrategie erfordert eine rasche Transformation des Energiesystems hin zu gesamtsystemischer Energieeffizienz und zu erneuerbaren Energietechnologien bei gleichzeitigem Erhalt internationaler Wettbewerbsfähigkeit, nachhaltiger Standortsicherung und der Positionierung Österreichs als internationaler Vorreiter:
 
-•  Die  Bundesregierung  tritt  für  die  Schaffung
-eines  EU-weiten  einheitlichen  nuklearen  Haf-
-tungsregimes  ohne  Haftungsobergrenzen
-und mit der Festlegung des Schadensorts als
-Gerichtsort ein.
+  * Nutzung bestehender Instrumente für sektorenübergreifende Cluster-Initiativen zur Abdeckung von Mehrkosten für die Technologieentwicklung und -um-stellung auf nationaler und europäischer Ebene (EU-ETS-Innovationsfonds, Horizon Europe, European Cluster Collaboration Platform [IPCEI]).
 
-•  Energieunion  ohne  Kernenergie  forcieren:
-Österreich wird sich weiterhin dafür einset-
-zen,  dass  Atomkraft  auch  in  Zukunft  nicht
-über Mechanismen des Pariser Abkommens
-unterstützt wird.
+  * Spezielle Förderungen für industrielle Cluster-Leitprojekte von Branchenführern, bei denen Klimaschutz, F&E und Innovation einen hohen Stellenwert genießen, durch obengenannte Instrumente
 
-•  Dem Neu- und Ausbau von Atomkraftwerken
-in  Europa,  insbesondere  in  den  Nachbarlän-
-dern, mit allen zur Verfügung stehenden politi-
-schen und rechtlichen Mitteln entgegenwirken
+- Förderung der Energieeffizienz in der Produktion in Industrie- und Gewerbeunternehmen sowie der Erzeugnisse über deren Lebenszyklus, Einrichtung von Anreizsystemen für Unternehmen zum Ersatz ineffizienter Technologien
 
-•  Setzung aller notwendigen politischen und
-diplomatischen  Schritte  auf  nationaler  und
-bilateraler sowie EU-Ebene, um zu erreichen,
-dass  Überprüfungen  von  Kernkraftwerken
-in den Nachbarstaaten und der von diesen
-ausgehenden  Gefahren  mit  modernsten
-Methoden  sowie  unter  Einbindung  unab-
-hängiger nationaler und internationaler Ex-
-pertinnen und Experten unter verbindlicher
-Transparenz durchgeführt werden
+- Investitionsprämien: Zur Erhöhung der Transformationsgeschwindigkeit sollen Unternehmen mittelfristig und planbar angelegt Investitionsprämien für Investitionen in klimaschonende Technologien erhalten.
 
-•  Konsequentes Einschreiten gegen grenzna-
-he Atommülllager
-
-•  Reform Euratom-Vertrag: Mittel sind nur noch zu
-verwenden  für  die  Frage  der  Entsorgung  bzw.
-langfristigen  Lagerung  radioaktiver  Abfälle  so-
-wie  des  Strahlenschutzes,  der  Sicherheit  und
-des  Rückbaus  von  Atomkraftwerken  sowie  der
-Forschung im Bereich der medizinischen Nutzung.
-
-•  Gegen den Neubau von AKW in Europa wird
-mit  allen  zur  Verfügung  stehenden  Mitteln
-vorgegangen. Die Bundesregierung setzt sich
-entschieden  und  mit  Vehemenz  gegen  die
-Inbetriebnahme  der  slowakischen  Reaktoren
-Mochovce 3 und 4 und für eine erneute UVP
-ein.
-
-•  Gründung einer Allianz der EU-Mitgliedstaaten
-für einen europaweiten Atomausstieg
-
-•  Die Bundesregierung verfolgt konsequent und
-mit allen rechtlichen und diplomatischen Mit-
-teln die Forderung nach einer Umweltverträg-
-lichkeitsprüfung auch bei Laufzeitverlängerun-
-gen von AKW. Sie setzt sich für die Schaffung
-klarer EU-Regeln wie zeitliche Obergrenze für
-Laufzeitverlängerungen  und  verpflichtende
-grenzüberschreitende UVP ein.
-
-•  Kohleausstieg in ganz Europa umsetzen
-
-o  Einen europaweiten Kohleausstieg forcieren,
-um  dem  Import  von  billigem  Kohlestrom
-nach Österreich entgegenzuwirken und die
-Wettbewerbsfähigkeit  heimischer  Stromer-
-zeuger zu gewährleisten
-
-Seite 115
-
-Seite 116
-
-Regierungsprogramm 2020 – 2024Regierungsprogramm 2020 – 2024Fahne ÖsterreichFahne ÖsterreichIndustrie und Gewerbe: ein Green Deal
-für Österreichs Wirtschaft
-•  Umfassende,
-Kli-
-ma-  und  Kreislaufwirtschaftsstrategie  mit
-prioritärer  Ausrichtung  auf  die  besonders
-energie-  und  emissionsintensiven  Sekto-
-ren  Stahlerzeugung,  Chemie  und  Zement
-sowie die Abfallwirtschaft. Sie orientiert sich
-einerseits an den Pariser und europäischen
-Klimazielen, andererseits an der EU Circular
-Economy Strategy und dem EU Circular Eco-
-nomy  Action  Plan.  Die  zentrale  Herausfor-
-derung besteht in der Technologieentwick-
-lung in Richtung industrieller Skalierung und
-Umsetzung  neuer,  CO2-armer  bzw.  CO2-zir-
-kulärer  Prozesstechnologien  sowie  deren
-wirtschaftlicher  Darstellbarkeit.  Die  sektor-
-übergreifende  Koppelung  von  Klima-  und
-Kreislaufwirtschaftsstrategie  erfordert  eine
-rasche  Transformation  des  Energiesystems
-hin  zu  gesamtsystemischer  Energieeffizienz
-und  zu  erneuerbaren  Energietechnologien
-bei  gleichzeitigem  Erhalt
-internationaler
-Wettbewerbsfähigkeit,  nachhaltiger  Stand-
-ortsicherung und der Positionierung Öster-
-reichs als internationaler Vorreiter:
-
-•  Förderung  der  Energieeffizienz  in  der  Pro-
-duktion in Industrie- und Gewerbeunterneh-
-men sowie der Erzeugnisse über deren Le-
-benszyklus, Einrichtung von Anreizsystemen
-für  Unternehmen  zum  Ersatz  ineffizienter
-Technologien
-
-•  Investitionsprämien:  Zur  Erhöhung  der
-Transformationsgeschwindigkeit  sollen  Un-
-ternehmen  mittelfristig  und  planbar  ange-
-legt Investitionsprämien für Investitionen in
-klimaschonende Technologien erhalten.
-
-•  Einsetzen  auf  europäischer  Ebene  für  ein-
-heitliche  Regelungen  zur  Verhinderung
-des  indirekten  Carbon  Leakage  –  falls  auf
-europäischer  Ebene  keine  einheitliche  Re-
-gelung  erfolgt,  Prüfung  einer  nationalen
-Möglichkeit zur Aufrechterhaltung der Wett-
-bewerbsfähigkeit
-
-sektorübergreifende
-
-für
-
-o  Spezielle  Förderungen
-industrielle
-Cluster-Leitprojekte von Branchenführern,
-bei denen Klimaschutz, F&E und Innova-
-tion  einen  hohen  Stellenwert  genießen,
-durch obengenannte Instrumente
-
-Instrumente
-o  Nutzung  bestehender
-für
-sektorenübergreifende
-Cluster-Initiati-
-ven  zur  Abdeckung  von  Mehrkosten  für
-die  Technologieentwicklung  und
--um-
-stellung  auf  nationaler  und  europäischer
-Ebene (EU-ETS-Innovationsfonds, Horizon
-Europe,  European  Cluster  Collaboration
-Platform [IPCEI]).
+- Einsetzen auf europäischer Ebene für einheitliche Regelungen zur Verhinderung des indirekten Carbon Leakage – falls auf europäischer Ebene keine einheitliche Regelung erfolgt, Prüfung einer nationalen Möglichkeit zur Aufrechterhaltung der Wett-bewerbsfähigkeit
 
 Klimaschutz durch Bioökonomie
-•  Entwicklung  geeigneter  Instrumente  zur  For-
-cierung  von  erneuerbaren  Rohstoffen  in  allen
-Produktbereichen  bzw.  Wirtschaftssektoren
-unter  Berücksichtigung  der  Verfügbarkeit  von
-Flächen und Klimazielen in der Landwirtschaft
+-----------------------------
 
-•  Erhöhung der Anstrengungen im Bereich Pro-
-dukt- und Prozessentwicklungen bei stofflicher
-und energetischer Verwertung biogener Mate-
-rialien in der angewandten Forschung
+- Entwicklung geeigneter Instrumente zur Forcierung von erneuerbaren Rohstoffen in allen Produktbereichen bzw. Wirtschaftssektoren unter Berücksichtigung der Verfügbarkeit von Flächen und Klimazielen in der Landwirtschaft
 
-•  Vorbildwirkung  der  öffentlichen  Hand  (Nach-
-haltige Beschaffung)
+- Vorbildwirkung der öffentlichen Hand (Nachhaltige Beschaffung)
 
-•  Umsetzung  der  Bioökonomiestrategie  des
-Bundes  samt  zugehörigem  Aktionsplan,  Eta-
-blierung  des  Bioökonomieclusters  und  zuge-
-höriger  Geschäftsstelle  mit  den  bestehenden
-Ressourcen in der Verwaltung
+- Umsetzung der Bioökonomiestrategie des Bundes samt zugehörigem Aktionsplan, Etablierung des Bioökonomieclusters und zugehöriger Geschäftsstelle mit den bestehenden Ressourcen in der Verwaltung
 
-•  Sicherstellung der regionalen Verfügbarkeit von
-nachwachsenden Rohstoffen für die Bioökono-
-mie;  die  Importabhängigkeit  von  natürlichen
-Ressourcen muss minimiert werden
+- Sicherstellung der regionalen Verfügbarkeit von nachwachsenden Rohstoffen für die Bioökonomie; die Importabhängigkeit von natürlichen Ressourcen muss minimiert werden
 
-•  Aufstockung  der  Grundlagenforschung  zu
-Ressourcen-Verfügbarkeit,
-ökologischen
-Funktionen
-(Boden,  Biodiversität  etc.),
-Standortbedingungen  und  sozialen  Rah-
-menbedingungen  biobasierter  Wirtschaft,
-(physikalische,
-chemische,  biologische)
-Analytik von Materialeigenschaften
+- Aufstockung der Grundlagenforschung zu Ressourcen-Verfügbarkeit, ökologischen Funktionen (Boden, Biodiversität etc.), Standortbedingungen und sozialen Rahmenbedingungen biobasierter Wirtschaft, (physikalische, chemische, biologische) Analytik von Materialeigenschaften
 
-•  Bessere Rahmenbedingungen für die Entwick-
-lung  neuer  Produkte  aus  biogenen  Roh-  und
-Reststoffen  bzw.  Abfällen  und  Nebenproduk-
-ten  sowie  deren  zugehörige  Lagerungs-  und
-Logistikkapazitäten, bei gleichzeitiger Redukti-
-on der Lebensmittelabfälle
+- Erhöhung der Anstrengungen im Bereich Produkt- und Prozessentwicklungen bei stofflicher und energetischer Verwertung biogener Materialien in der angewandten Forschung
 
-•  Start einer Imagekampagne für bioökonomie-
-basierte  Produkte  zur  Kommunikation  ökolo-
-gischer  und  ökonomischer  Vorteile  (Bewusst-
-seinsbildung in der Bevölkerung)
+- Bessere Rahmenbedingungen für die Entwicklung neuer Produkte aus biogenen Roh- und Reststoffen bzw. Abfällen und Nebenprodukten sowie deren zugehörige Lagerungs- und Logistikkapazitäten, bei gleichzeitiger Reduktion der Lebensmittelabfälle
 
-•  Weiterentwicklung  und  Anpassung  bestehen-
-der  nationaler  und  europäischer  Gütesiegel
-sowie Labels zur Ausweisung bioökonomieba-
-sierter Produkte
+- Start einer Imagekampagne für bioökonomiebasierteProdukte zur Kommunikation ökologischer und ökonomischer Vorteile (Bewusstseinsbildung in der Bevölkerung) 
 
-•  Stärkere Einbindung von Bioökonomie in schu-
-lische und akademische Ausbildungen sowie in
-berufliche Weiterbildungsangebote
+- Weiterentwicklung und Anpassung bestehender nationaler und europäischer Gütesiegel sowie Labels zur Ausweisung bioökonomiebasierter Produkte
 
-Seite 117
-
-Seite 118
-
-Regierungsprogramm 2020 – 2024Regierungsprogramm 2020 – 2024Fahne ÖsterreichFahne Österreich
+- Stärkere Einbindung von Bioökonomie in schulische und akademische Ausbildungen sowie in berufliche Weiterbildungsangebote

@@ -98,27 +98,27 @@ Volksgruppen
 
 * Volksgruppenförderung
 
-    * Bekenntnis zur zeitnahen Erhöhung der Volksgruppenförderung und Absicherung der Medienförderung durch einen eigenen Budgetansatz (ein Publikationsorganje Volksgruppe)
-    * Der Bund bekennt sich zu Gesprächen mit den Ländern und Gemeinden mit dem Ziel, die nötigen Finanzierungsmittel wirkungsorientiert (Qualitätssicherung in der Bildungsgruppe) gemeinschaftlich bereitzustellen, damit die Errichtung, Erhaltung und Förderung zwei- und mehrsprachiger Kindergärten der Volksgruppen sowie sonstiger frühkindlicher Betreuungsangebote gewährleistet ist.
+  * Bekenntnis zur zeitnahen Erhöhung der Volksgruppenförderung und Absicherung der Medienförderung durch einen eigenen Budgetansatz (ein Publikationsorganje Volksgruppe)
+  * Der Bund bekennt sich zu Gesprächen mit den Ländern und Gemeinden mit dem Ziel, die nötigen Finanzierungsmittel wirkungsorientiert (Qualitätssicherung in der Bildungsgruppe) gemeinschaftlich bereitzustellen, damit die Errichtung, Erhaltung und Förderung zwei- und mehrsprachiger Kindergärten der Volksgruppen sowie sonstiger frühkindlicher Betreuungsangebote gewährleistet ist.
 
 * Bekenntnis zur stärkeren Sichtbarmachung der Volksgruppen im ORF
 
-    * Sicherstellung der Radioprogramme in Volksgruppensprachen
-    * Verstärkte Berücksichtigung der Volksgruppen entsprechend den öffentlich-rechtlichen Verpflichtungen des ORF
-    * Erweiterung der Fernsehprogrammfläche auf das Programm ORF III
-    * Berücksichtigung der Sprachen der anerkannten Volksgruppen
+  * Sicherstellung der Radioprogramme in Volksgruppensprachen
+  * Verstärkte Berücksichtigung der Volksgruppen entsprechend den öffentlich-rechtlichen Verpflichtungen des ORF
+  * Erweiterung der Fernsehprogrammfläche auf das Programm ORF III
+  * Berücksichtigung der Sprachen der anerkannten Volksgruppen
 
 * Einrichtung einer Arbeitsgruppe unter Einbeziehung der Volksgruppenvertretungen zur Prüfung einer Modernisierung der Volksgruppenvertretung
 
 * Volksgruppensprachen im virtuellen Raum
 
-    * Amtssprache im virtuellen Raum
-    * Finanzamt
-    * Gemeinde-Websites und Online-Dienste der Gemeinden (kann über FA kommen)
+  * Amtssprache im virtuellen Raum
+  * Finanzamt
+  * Gemeinde-Websites und Online-Dienste der Gemeinden (kann über FA kommen)
 
 * Zweisprachige Bezirksgerichtsbarkeit der Volksgruppen
 
-    * Absicherung der zweisprachigen Bezirksgerichtsbarkeit im Siedlungsgebiet; bei Zusammenlegungen von Bezirksgerichten im zweisprachigen Gebiet ist sicherzustellen, dass in den Volksgruppensprachen ein gleichberechtigter und leistungsfähiger Teil der österreichischen Justiz bleibt
+  * Absicherung der zweisprachigen Bezirksgerichtsbarkeit im Siedlungsgebiet; bei Zusammenlegungen von Bezirksgerichten im zweisprachigen Gebiet ist sicherzustellen, dass in den Volksgruppensprachen ein gleichberechtigter und leistungsfähiger Teil der österreichischen Justiz bleibt
 
 * Prüfung der Annerkung der jenischen Volksgruppe
 
@@ -150,7 +150,7 @@ Verwaltung in die Zukunft führen
 
 * Einführung einer Bürokratiebremse, damit Regulierung kein Selbstzweck ist
 
-	* Informations-, Melde- und Aushangpflichten sollen evaluiert werden mit dem Ziel, sie, falls notwendig und zweckmäßig, zu reduzieren.
+  * Informations-, Melde- und Aushangpflichten sollen evaluiert werden mit dem Ziel, sie, falls notwendig und zweckmäßig, zu reduzieren.
 
 * Aus Anlass der jüngsten EuGH-Rechtsprechung erfolgt eine Reform des Kumulationsprinzips im Verwaltungsstrafrecht; Verhältnismäßigkeitsprüfung unter Wahrung general- und spezialpräventiver Aspekte
 
@@ -158,7 +158,7 @@ Verwaltung in die Zukunft führen
 
 * Weiterer Ausbau von zweckmäßigen Shared Services nach den Grundsätzen Sparsamkeit, Wirtschaftlichkeit, Zweckmäßigkeit (IT-Konsolidierung, Beteiligungsmanagement, Gebäudemanagement, Fördermanagement etc.) und verbesserte Rahmenbedingungen für Verwaltungskooperationen im Sinne einer modernen Verwaltung.
 
-    * Weitere Bündelung und Koordinierung von operativen Personaleinsatz (IT- und Supportaufgaben)
+  * Weitere Bündelung und Koordinierung von operativen Personaleinsatz (IT- und Supportaufgaben)
 
 * Vereinfachung und Forcierung von Gemeindekooperationen
 
@@ -170,20 +170,20 @@ Verwaltung in die Zukunft führen
 
 * Verfahrensbeschleunigung und Effizienz steigerung verwaltungsgerichtlichen Verfahren:
 
-    * Bessere Strukturierung von VwG-Verfahren und Nachbesserungen beim Schluss des Ermittlungsverfahrens
-    * Prüfung der Möglichkeit, bei technischen Fragen Ermittlungs- bzw. Berechnungsaufträge an die belangten Behörden zu richten
-    * Stärkung des Rechtsstaates durch Zuständigkeitsübertragung zwischen Landesverwaltungsgerichten in Fällen, wo ein Richter bzw. Richterin oder Mitarbeiter bzw. Mitarbeiterin eines LVwG Verfahrenspartei ist
-    * Bei einer Säumnisbeschwerde soll der säumigen Verwaltungsbehörde eine Nachfrist zur Entscheidung gesetzt werden, in welcher diese verpflichtet ist, die Entscheidung nachzuholen, bevor die Entscheidungspflicht an das Verwaltungsgericht übergeht
-    * Klarstellung, dass die Landesverwaltungsgerichte als „mitbeteiligte Behörden“ im Sinne des UVP-G anzusehen sind und daher Feststellungsanträge stellen können.
-    * Modernisierung des Dienstrechts fortsetzen mit dem Ziel eines einheitlichen, modernen und durchlässigen Dienstrechts für alle neu eintretenden Bediensteten in Bund und in allen Ländern
-    * Abgeflachte (höhere Einstiegsbezüge) bei gleichbleibendem Lebenseinkommen
-    * Durchlässigkeit zwischen den Gebietskörperschaften und zur Privatwirtschaft fördern (eventuell dienstrechtliche Anpassungen)
-    * Prüfung eines Modelles für die Altersteilzeit für Beamtinnen und Beamte
-    * Adäquate Miteinbeziehung der bevorstehenden Pensionierungswelle und damit der Altersstruktur im Bundesdienst in strategische Planungen
-    * Demografiesensible Personalpolitik zur Gewährleistung des notwendigen Wissenstransfers
-    * Aufgabenorientierte Sicherstellung von ausreichend Personal- und Sachressourcen
-    * Schaffung einer einheitlichen Basis des Dienstrechts für vertragliche wie auch öffentlich-rechtliche Dienstverhältnisse. Wichtig ist die Berücksichtigung von Berufsspezifika im Rahmen des Beamten-Dienstrechtsgesetzes
-    * Bürokratieabbau bei der Nachbesetzung von Planstellen vorantreiben
+  * Bessere Strukturierung von VwG-Verfahren und Nachbesserungen beim Schluss des Ermittlungsverfahrens
+  * Prüfung der Möglichkeit, bei technischen Fragen Ermittlungs- bzw. Berechnungsaufträge an die belangten Behörden zu richten
+  * Stärkung des Rechtsstaates durch Zuständigkeitsübertragung zwischen Landesverwaltungsgerichten in Fällen, wo ein Richter bzw. Richterin oder Mitarbeiter bzw. Mitarbeiterin eines LVwG Verfahrenspartei ist
+  * Bei einer Säumnisbeschwerde soll der säumigen Verwaltungsbehörde eine Nachfrist zur Entscheidung gesetzt werden, in welcher diese verpflichtet ist, die Entscheidung nachzuholen, bevor die Entscheidungspflicht an das Verwaltungsgericht übergeht
+  * Klarstellung, dass die Landesverwaltungsgerichte als „mitbeteiligte Behörden“ im Sinne des UVP-G anzusehen sind und daher Feststellungsanträge stellen können.
+  * Modernisierung des Dienstrechts fortsetzen mit dem Ziel eines einheitlichen, modernen und durchlässigen Dienstrechts für alle neu eintretenden Bediensteten in Bund und in allen Ländern
+  * Abgeflachte (höhere Einstiegsbezüge) bei gleichbleibendem Lebenseinkommen
+  * Durchlässigkeit zwischen den Gebietskörperschaften und zur Privatwirtschaft fördern (eventuell dienstrechtliche Anpassungen)
+  * Prüfung eines Modelles für die Altersteilzeit für Beamtinnen und Beamte
+  * Adäquate Miteinbeziehung der bevorstehenden Pensionierungswelle und damit der Altersstruktur im Bundesdienst in strategische Planungen
+  * Demografiesensible Personalpolitik zur Gewährleistung des notwendigen Wissenstransfers
+  * Aufgabenorientierte Sicherstellung von ausreichend Personal- und Sachressourcen
+  * Schaffung einer einheitlichen Basis des Dienstrechts für vertragliche wie auch öffentlich-rechtliche Dienstverhältnisse. Wichtig ist die Berücksichtigung von Berufsspezifika im Rahmen des Beamten-Dienstrechtsgesetzes
+  * Bürokratieabbau bei der Nachbesetzung von Planstellen vorantreiben
 
 * Schaffung von Rahmenbedingungen für die (temporäre) Verfügbarkeit von projektbezogenen Spezialistinnen und Spezialisten (IT, Technik, Wirtschaft etc.)
 
@@ -191,12 +191,12 @@ Verwaltung in die Zukunft führen
 
 * Ehrenamtliche Tätigkeit und zivilgesellschaftliches Engagement anerkennen und wertschätzen
 
-    * Förderung der Anerkennung für das Engagement von Ehrenamtlichen in der Öffentlichkeit und in der Gesellschaft
-    * Bündelung und Ausbau auf Bundesebene bestehender Initiativen zu einer „Servicestelle Ehrenamt“ für Ehrenamtliche zu den verschiedensten Problemstellungen
-    * Prüfung versicherungs- und arbeitsrechtlicher Aspekte ehrenamtlich Tätiger
-    * Etablierung eines bundesweiten Preises für besonderes ehrenamtliches Engagement.
-    * Anerkennung der Bedeutung des zivilgesellschaftlichen Engagements und dessen Organisationen für die Demokratie; die Bundesregierung bekennt sich weiterhin dazu, einen aktiven Dialog und respektvollen Umgang mit Nichtregierungsorganisationen zu fördern.
-    * Evaluierung des Vollzuges und der Effizienz des Rechtsschutzes im Versammlungsrecht.
+  * Förderung der Anerkennung für das Engagement von Ehrenamtlichen in der Öffentlichkeit und in der Gesellschaft
+  * Bündelung und Ausbau auf Bundesebene bestehender Initiativen zu einer „Servicestelle Ehrenamt“ für Ehrenamtliche zu den verschiedensten Problemstellungen
+  * Prüfung versicherungs- und arbeitsrechtlicher Aspekte ehrenamtlich Tätiger
+  * Etablierung eines bundesweiten Preises für besonderes ehrenamtliches Engagement.
+  * Anerkennung der Bedeutung des zivilgesellschaftlichen Engagements und dessen Organisationen für die Demokratie; die Bundesregierung bekennt sich weiterhin dazu, einen aktiven Dialog und respektvollen Umgang mit Nichtregierungsorganisationen zu fördern.
+  * Evaluierung des Vollzuges und der Effizienz des Rechtsschutzes im Versammlungsrecht.
 
 * Evaluierung und Prüfung des Lehredienstrechts
 
@@ -204,8 +204,8 @@ Verwaltung in die Zukunft führen
 
 * Stärkung der Bewusstseinsbildung über die Leistung des öffentlichen Dienstes nach dem Motto: „Wer sind wir, was macht der Staat, wofür wird unser Steuergeld verwendet“
 
-    * Projekt beim BM für Öff. Dienst unter Einbindung aller Ressorts und der GÖD
-    * Niederschwellig, Nutzung von Social Media
+  * Projekt beim BM für Öff. Dienst unter Einbindung aller Ressorts und der GÖD
+  * Niederschwellig, Nutzung von Social Media
 
 * Die Länder werden aufgefordert, Bautechnikverordnungen zu harmonisieren, damit die bautechnischen Vorschriften künftig für Unternehmen, die länderübergreifend arbeiten, anwenderfreundlicher, einfacher und klarer gestaltet sowie insgesamt reduziert werden können.
 
@@ -213,12 +213,12 @@ Verwaltung in die Zukunft führen
 
 * Abbau von überschneidenden Kompetenzen innerhalb der Verwaltung.
 
-    * Heben von Synergien zwischen der Bundeswettbewerbshörde und dem Kartellanwalt sowie Prüfung einer eventuellen Zusammenführung
+  * Heben von Synergien zwischen der Bundeswettbewerbshörde und dem Kartellanwalt sowie Prüfung einer eventuellen Zusammenführung
 
 * Prüfung der Zweckmäßigkeit von ausgelagerten Stellen
 
-    * Insbesondere auch Schaffung klarer Zielvorgaben für ausgegliederte Rechtsträger durch die öffentliche Hand
-    * Kosten-Nutzen-Analyse und eingehende Prüfung der budgetären Auswirkungen
+  * Insbesondere auch Schaffung klarer Zielvorgaben für ausgegliederte Rechtsträger durch die öffentliche Hand
+  * Kosten-Nutzen-Analyse und eingehende Prüfung der budgetären Auswirkungen
 
 Modernes Förderwesen
 --------------------
@@ -232,8 +232,8 @@ Nachhaltige öffentliche Vergabe sicherstellen
 
 * Einführung von ökosozialen Vergabekriterien, die bindend für die bundesweite Beschaffung sind
 
-    * Einsatz für eine Stärkung der Regionalität im Rahmen EU-rechtlicher Vergaberichtlinien
-    * Im Sinne des beschlossenen Best-Bieter-Prinzips muss der Fokus auf Qualitätskriterien liegen.
+  * Einsatz für eine Stärkung der Regionalität im Rahmen EU-rechtlicher Vergaberichtlinien
+  * Im Sinne des beschlossenen Best-Bieter-Prinzips muss der Fokus auf Qualitätskriterien liegen.
 
 * Verlängerung der Schwellenwerte-Verordnung und Prüfung der Anhebung der Schwellenwerte im Sinne der Förderung der regionalen und ökosozialen Marktwirtschaft
 
@@ -246,11 +246,11 @@ Wahlrechtsreform
 
 * Drei Wochen vor einer Wahl müssen Wahlberechtigte die Möglichkeit haben, die Briefwahl persönlich zu beantragen und unmittelbar im Anschluss auch auf der Gemeinde ihre Stimme abzugeben.
 
-    * Dafür ist es notwendig, sich an die Lebensrealität der Bürgerinnen und Bürger anzupassen und beispielsweise auch Abendtermine zu ermöglichen.
-    * Den Wahlberechtigten, die selbstverständlich einen Identitätsnachweis liefern müssen, sind adäquate Rahmenbedingungen zu bieten (getrennter Raum, Wahlzelle, ausreichend Zeit). Die Verwahrung der Stimmen liegt in der Verantwortung der Gemeinde und muss durch eine versiegelte Urne sichergestellt werden.
-    * Bestehende Regelungen zur Mitnahme von Briefwahlkarten sowie deren Versand bleiben aufrecht.
-    * Die Regelung bzgl. der Abgabe der Stimme mittels Briefwahlkarte in einem fremden Wahllokal bleibt bestehen. Wie bisher zählt die Bezirkswahlkommission diese Stimmen aus.
-    * Fliegende Wahlkommissionen werden weiterhin bei Krankheitsfällen eingesetzt. Die betreffenden Wahlkommissionen sollten unter möglichst weitgehender Einbindung der wahlwerbenden Gruppen gebildet werden.
+  * Dafür ist es notwendig, sich an die Lebensrealität der Bürgerinnen und Bürger anzupassen und beispielsweise auch Abendtermine zu ermöglichen.
+  * Den Wahlberechtigten, die selbstverständlich einen Identitätsnachweis liefern müssen, sind adäquate Rahmenbedingungen zu bieten (getrennter Raum, Wahlzelle, ausreichend Zeit). Die Verwahrung der Stimmen liegt in der Verantwortung der Gemeinde und muss durch eine versiegelte Urne sichergestellt werden.
+  * Bestehende Regelungen zur Mitnahme von Briefwahlkarten sowie deren Versand bleiben aufrecht.
+  * Die Regelung bzgl. der Abgabe der Stimme mittels Briefwahlkarte in einem fremden Wahllokal bleibt bestehen. Wie bisher zählt die Bezirkswahlkommission diese Stimmen aus.
+  * Fliegende Wahlkommissionen werden weiterhin bei Krankheitsfällen eingesetzt. Die betreffenden Wahlkommissionen sollten unter möglichst weitgehender Einbindung der wahlwerbenden Gruppen gebildet werden.
 
 * Wahlkartenbeantragung kann nur individuell übertragen werden und nicht durch eine Organisation.
 
@@ -289,17 +289,17 @@ Kontroll- und Transparenzpaket Informationsfreiheit
 
 * Richtet sich an:
 
-    * die Organe der Gesetzgebung,
-    * die mit der Besorgung von Geschäften der Bundesverwaltung und der Landesverwaltung betrauten Organe,
-    * Organe der Selbstverwaltung
-    * Organe der Justizverwaltung
-    * die Volksanwaltschaft sowie eine vom Land für den Bereich der Landesverwaltung geschaffene Einrichtung mit gleichwertigen Aufgaben wie die Volksanwaltschaft
-    * Unternehmen, die der RH Kontrolle unterliegen – mit Ausnahme börsennotierter Unternehmen
+  * die Organe der Gesetzgebung,
+  * die mit der Besorgung von Geschäften der Bundesverwaltung und der Landesverwaltung betrauten Organe,
+  * Organe der Selbstverwaltung
+  * Organe der Justizverwaltung
+  * die Volksanwaltschaft sowie eine vom Land für den Bereich der Landesverwaltung geschaffene Einrichtung mit gleichwertigen Aufgaben wie die Volksanwaltschaft
+  * Unternehmen, die der RH Kontrolle unterliegen – mit Ausnahme börsennotierter Unternehmen
 
 * Pflicht zur aktiven Informationsveröffentlichung (im Verfassungsrang)
 
-    * Informationen von allgemeinem Interesse (einfachgesetzlich zu regeln) sind in einer für jedermann zugänglichen Art und Weise zu veröffentlichen, insbesondere Studien, Gutachten, Stellungnahmen, Verträge ab einem festzulegenden Schwellenwert (Veröffentlichung in angemessener Frist, einfachgesetzlich festzulegen)
-    * Schaffung eines zentralen Transparenzregisters
+  * Informationen von allgemeinem Interesse (einfachgesetzlich zu regeln) sind in einer für jedermann zugänglichen Art und Weise zu veröffentlichen, insbesondere Studien, Gutachten, Stellungnahmen, Verträge ab einem festzulegenden Schwellenwert (Veröffentlichung in angemessener Frist, einfachgesetzlich festzulegen)
+  * Schaffung eines zentralen Transparenzregisters
 
 * Recht auf Zugang zu Informationen (unabhängig von der Form der Speicherung)
 
@@ -307,14 +307,14 @@ Kontroll- und Transparenzpaket Informationsfreiheit
 
 * Kein Informationsrecht, soweit und solange die Geheimhaltung erforderlich und verhältnismäßig ist:
 
-    * aufgrund der Vertraulichkeit personenbezogener Daten im Sinne der DSGVO,
-    * aufgrund außen– und integrationspolitischer Gründe,
-    * im Interesse der nationalen Sicherheit, der umfassenden Landesverteidigung oder der Aufrechterhaltung der öffentlichen Ordnung und Sicherheit,
-    * zur Vorbereitung einer behördlichen Entscheidung,
-    * sofern ein erheblicher wirtschaftlicher oder finanzieller Schaden einer Gebietskörperschaft oder eines sonstigen Selbstverwaltungskörpers droht,
-    * zur Wahrung von Geschäfts- oder Betriebsgeheimnissen, sofern diese durch innerstaatliches oder EU-Recht geschützt sind,
-    * wegen der Vertraulichkeit von Beratungen von Behörden, sofern eine derartige Vertraulichkeit gesetzlich vorgesehen ist,
-    * zum Schutz laufender Ermittlungs-, Gerichts- und Disziplinarverfahren.
+  * aufgrund der Vertraulichkeit personenbezogener Daten im Sinne der DSGVO,
+  * aufgrund außen– und integrationspolitischer Gründe,
+  * im Interesse der nationalen Sicherheit, der umfassenden Landesverteidigung oder der Aufrechterhaltung der öffentlichen Ordnung und Sicherheit,
+  * zur Vorbereitung einer behördlichen Entscheidung,
+  * sofern ein erheblicher wirtschaftlicher oder finanzieller Schaden einer Gebietskörperschaft oder eines sonstigen Selbstverwaltungskörpers droht,
+  * zur Wahrung von Geschäfts- oder Betriebsgeheimnissen, sofern diese durch innerstaatliches oder EU-Recht geschützt sind,
+  * wegen der Vertraulichkeit von Beratungen von Behörden, sofern eine derartige Vertraulichkeit gesetzlich vorgesehen ist,
+  * zum Schutz laufender Ermittlungs-, Gerichts- und Disziplinarverfahren.
 
 * Missbrauchsklausel in Anlehnung an das UIG bzw. Auskunftspflichtsgesetz
 
@@ -334,14 +334,14 @@ Mehr Transparenz
 
 * Stärkung der Prüfungsrechte des Rechnungshofs: Zusätzlich zu den bestehenden Befugnissen des Rechnungshofs nach dem Rechnungshofgesetz, insbesondere die Parteienförderung zu kontrollieren, werden folgende Ausweitungen der Kontrollrechte angestrebt:
 
-    * Der Rechnungshof erhält originäre und direkte Kontroll- und Einschaurechte bei konkreten Anhaltspunkten zur Feststellung der Vollständigkeit und Richtigkeit des Rechenschaftsberichts der Parteien und der Einhaltung des Parteiengesetzes.
-    * Zusätzlich kann der Rechnungshof bei begründetem Verdacht auf Verletzung des Parteiengesetzes von sich aus jederzeit tätig werden und prüfen.
+  * Der Rechnungshof erhält originäre und direkte Kontroll- und Einschaurechte bei konkreten Anhaltspunkten zur Feststellung der Vollständigkeit und Richtigkeit des Rechenschaftsberichts der Parteien und der Einhaltung des Parteiengesetzes.
+  * Zusätzlich kann der Rechnungshof bei begründetem Verdacht auf Verletzung des Parteiengesetzes von sich aus jederzeit tätig werden und prüfen.
 
 * Alle Spenden (Einzelspenden) über 500 Euro sollen bis spätestens drei Monate nach Erhalt der Spende veröffentlicht werden.
 
-    * Offenlegung, auf welcher Organisationsebene (Bund/Land/Bezirk/Gemeinde) bzw. bei welcher Teilorganisation oder nahestehenden Organisation die Spende angefallen ist
-    * Einzelspenden ab 2.500 Euro sind wie bisher unverzüglich zu veröffentlichen.
-    * Legistische Präzisierung einer Frist, innerhalb der die politischen Parteien eingehende Spenden zu überprüfen und gegebenenfalls abzulehnen haben
+  * Offenlegung, auf welcher Organisationsebene (Bund/Land/Bezirk/Gemeinde) bzw. bei welcher Teilorganisation oder nahestehenden Organisation die Spende angefallen ist
+  * Einzelspenden ab 2.500 Euro sind wie bisher unverzüglich zu veröffentlichen.
+  * Legistische Präzisierung einer Frist, innerhalb der die politischen Parteien eingehende Spenden zu überprüfen und gegebenenfalls abzulehnen haben
 
 * Klarstellung: Über rechtlich verbindlich festgelegte Mitgliedsbeiträge hinausgehende Zuwendungen des einzelnen Mitglieds werden als Spende behandelt.
 
@@ -371,11 +371,11 @@ Inhalte des Rechenschaftsberichts
 
 * Neustrukturierung der Gliederung des Rechenschaftsberichts hinsichtlich der Einnahmen und Ausgaben bzw. Erträge und Aufwendungen in Anlehnung an das UGB (und Festlegung der Rechnungslegungsgrundsätze)
 
-    * unter Beibehaltung der über Kredittilgungen
-    * unter Beibehaltung der über Investitionen
-    * unter Beibehaltung der über Beteiligungen
-    * unter Beibehaltung der Informationen von Geldflüssen nahestehender Organisationen
-    * unter zusätzlicher Ausweisung von Geldflüssen innerhalb der Parteiorganisationen
+  * unter Beibehaltung der über Kredittilgungen
+  * unter Beibehaltung der über Investitionen
+  * unter Beibehaltung der über Beteiligungen
+  * unter Beibehaltung der Informationen von Geldflüssen nahestehender Organisationen
+  * unter zusätzlicher Ausweisung von Geldflüssen innerhalb der Parteiorganisationen
 
 * Bund: Bilanzierung der Bundespartei
 
@@ -400,10 +400,10 @@ Wahlwerbungskosten
 * Pflicht zur Veröffentlichung eines eigenen Rechenschaftsberichts nach definierter Gliederung über die Wahlwerbungsausgaben innerhalb von sechs Monaten nach der Wahl (RH-Prüfung dann im Rahmen der regulären Prüfung des jährlichen Rechenschaftsberichts)
 
 * Fixe und erhöhte Strafen bei Überschreitung der Wahlwerbungsausgaben:
-    * 0 -10% Überschreitung: 15%
-    * 10 - 25% Überschreitung: 50% des 2. Überschreitungsbetrages
-    * 25 - 50% Überschreitung: 150% des 3. Überschreitungsbetrages
-    * Über 50% Überschreitung: 200% des 4. Überschreitungsbetrages
+  * 0 -10% Überschreitung: 15%
+  * 10 - 25% Überschreitung: 50% des 2. Überschreitungsbetrages
+  * 25 - 50% Überschreitung: 150% des 3. Überschreitungsbetrages
+  * Über 50% Überschreitung: 200% des 4. Überschreitungsbetrages
 
 * Ausdrückliche legistische Klarstellung, dass unter Wahlwerbungsausgaben ausschließlich Aufwendungen im Zeitraum vom Stichtag bis zum Wahltag zu verstehen sind (unabhängig von Rechnungs- und Zahlungsterminen)
 
@@ -422,15 +422,15 @@ Sponsoring und Inserate
 Sanktionen
 
 * Grundsätzliche Überprüfung des Sanktionensystems des PartG auf Vollständigkeit und Transparenz, insbesondere:
-    * Sanktionen für nicht fristgerechte Abgabe des Rechenschaftsberichts
-    * Sanktion für fehlenden Ausweis der Wahlwerbungsausgaben im Rechenschaftsbericht
-    * Klare Verjährungsfristen für Verstöße gegen das Parteiengesetz
-    * Beginn der einjährigen Verjährungsfrist bei verwaltungsstrafrechtlichen Regelungen gegen individuelle Entscheidungsträger erst ab dem Zeitpunkt der Übermittlung des Rechenschaftsberichts
+  * Sanktionen für nicht fristgerechte Abgabe des Rechenschaftsberichts
+  * Sanktion für fehlenden Ausweis der Wahlwerbungsausgaben im Rechenschaftsbericht
+  * Klare Verjährungsfristen für Verstöße gegen das Parteiengesetz
+  * Beginn der einjährigen Verjährungsfrist bei verwaltungsstrafrechtlichen Regelungen gegen individuelle Entscheidungsträger erst ab dem Zeitpunkt der Übermittlung des Rechenschaftsberichts
 
 Weniger Bürokratie
 
 * Klare Differenzierung zwischen Aktivitäten der politischen Parteien und der Zivilgesellschaft
-    * Ehrenamtliches zivilgesellschaftliches Engagement, das ohne Gegenleistung getätigt wird, soll durch die Regelung des Parteiengesetzes nicht beschränkt werden. Diesbezüglich ist eine Regelung speziell zu Sachspenden zu prüfen.
+  * Ehrenamtliches zivilgesellschaftliches Engagement, das ohne Gegenleistung getätigt wird, soll durch die Regelung des Parteiengesetzes nicht beschränkt werden. Diesbezüglich ist eine Regelung speziell zu Sachspenden zu prüfen.
 
 Mehr Transparenz bei Stellenbesetzungen
 ---------------------------------------

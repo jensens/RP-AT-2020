@@ -5,7 +5,7 @@ Digitalisierung & Innovation
 :download:`Kapitel als PDF <../split/06-03-Digitalisierung-Innovation.pdf>` (Teil des :download:`Originals <../original/RP2020.pdf>`).
 
 .. todo::
-  Formatieren, Überarbeiten, Original gegenchecken
+  Original gegenchecken
 
 Digitalisierung & Innovation
 ----------------------------
@@ -14,7 +14,7 @@ Wir leben in Zeiten des Umbruchs – der technologische Fortschritt wird immer r
 
 Die Bundesregierung bekennt sich zu dem Ziel, Österreich zu einer der führenden Digitalnationen innerhalb der Europäischen Union zu machen. Jede Österreicherin und jeder Österreicher soll die Vorteile der Digitalisierung in allen Lebensbereichen möglichst eigenverantwortlich, transparent und erfolgreich nützen können. Eine aktive Digitalisierungspolitik schafft dafür gesellschaftspolitische, wirtschaftliche, rechtliche, infrastrukturelle und demokratische Rahmenbedingungen und sichert den Aufbau digitaler Kompetenzen.
 
-Die Grundlage für diesen Fortschritt bildet eine flächendeckende, technologieneutrale Breitband-Versorgung in ganz Österreich. Eine umfassende Breitbandstrategie sorgt für effizienten und raschen Ausbau der benötigten Breitband-Infrastrukturen. Empfehlungen des Rechnungshofes im Bereich digitale Infrastrukturen werden dabei berücksichtigt. 
+Die Grundlage für diesen Fortschritt bildet eine flächendeckende, technologieneutrale Breitband-Versorgung in ganz Österreich. Eine umfassende Breitbandstrategie sorgt für effizienten und raschen Ausbau der benötigten Breitband-Infrastrukturen. Empfehlungen des Rechnungshofes im Bereich digitale Infrastrukturen werden dabei berücksichtigt.
 
 Darauf aufbauend soll die öffentliche Verwaltung durch die Digitalisierung einfacher werden – modern, effizient und bürgerorientiert – mit Fokus auf die Menschen und deren Lebenssituationen. Höchstmöglicher und vollumfängliche Kontrolle über die eigenen Daten sind dafür Grundvoraussetzungen. Open Data schafft neue Möglichkeiten für gesteigerte Transparenz von Politik und eine vorausschauende Netzpolitik sichert Grund-
 und Persönlichkeitsrechte im digitalen Raum.
@@ -98,7 +98,7 @@ Eine staatliche Verwaltung für das 21. Jahrhundert mit den Bürgerinnen und Bü
 - Entwicklung eines Konzeptes für Green IT im Bund: Ziel ist es, den Energieverbrauch der IT des Bundes und seiner Tochterorganisationen durch energiesparende Hardware, Betriebssysteme und Anwendungs-Software abzusenken.
 
   * Z.B. BRZ CO2-neutral betreiben. Betrieb durch 100% erneuerbare Energie und intelligente Kühlsysteme
-  * Berücksichtigung von Nachhaltigkeitskriterien sowie EU-rechtlicher Vorgaben zu Datenschutz durch Technik-Gestaltung und datenschutzfreundliche Voreinstellungen in Vergabeverfahren insb. im Bereich IT (Hardware, Software, Dienstleistungen) 
+  * Berücksichtigung von Nachhaltigkeitskriterien sowie EU-rechtlicher Vorgaben zu Datenschutz durch Technik-Gestaltung und datenschutzfreundliche Voreinstellungen in Vergabeverfahren insb. im Bereich IT (Hardware, Software, Dienstleistungen)
 
 - Zugang zu Rechtsinformation erheblich verbessern, indem das Rechtsinformationssystem des Bundes (RIS) zu einer intelligenten Plattform RIS+ weiterentwickelt wird, die intelligente Such-, Aggregations- und Visualisierungsfunktionen bietet (unter Beibehaltung der Gebührenfreiheit)
 
@@ -126,7 +126,7 @@ Eine staatliche Verwaltung für das 21. Jahrhundert mit den Bürgerinnen und Bü
   * Erhöhung der Transparenz für die Bevölkerung sicherstellen
   * Das Prinzip der bereichsspezifischen Trennung der Bürgerdaten ist aufrechtzuerhalten.
 
-- Digitale Aktivitäten der Bundesinstitutionen abstimmen (CDOs beibehalten, ressortübergreifende Projekte umsetzen) 
+- Digitale Aktivitäten der Bundesinstitutionen abstimmen (CDOs beibehalten, ressortübergreifende Projekte umsetzen)
 
 - Building Information Modelling (BIM) verstärkt in der öffentlichen Beschaffung berücksichtigen
 
@@ -182,15 +182,15 @@ Zukunftstechnologien – Chancen nutzen
 - Erstellung eines Masterplans für Blockchain-Technologie und Kryptowährungen
 
   * Schaffung einer vorausschauenden österreichischen Positionierung zur Förderung, Anwendung und Regulierung der Blockchain-Technologie und ihrer unterschiedlichen Anwendungen (z.B. Kryptowährungen). Unter Miteinbeziehung relevanter Stakeholder in Politik (z.B. Finanzministerium, Wirtschaftsministerium, Infrastruktur und Technologieressort) und Forschung. Einsatz auf EU-Ebene, um Österreichs Beitrag zu Europas Blockchain-Strategie sicherzustellen (in Anwendung und Regulierung)
-  * Schaffung eines einheitlichen rechtlichen Rahmens für Investitionen im Blockchain-Bereich (in Abstimmung mit der EU) 
+  * Schaffung eines einheitlichen rechtlichen Rahmens für Investitionen im Blockchain-Bereich (in Abstimmung mit der EU)
   * Prüfung der Entwicklungsmöglichkeiten vielversprechender Anwendungsbereiche in der Verwaltung: Piloten zur Blockchain-Anwendung zentraler Registertätigkeiten
   * Aufbau auf Österreichs bestehende Exzellenzzentren im Blockchain-Bereich (z.B. ABC-Kompetenzzentrum)
- 
+
 - Österreichs Beitrag auf dem Gebiet neu entstehender Technologiefelder weiter stärken
 
   * Forcierung eines österreichischen Beitrags zur EU-weiten Forschung in den Bereichen Quantum Communication, Quantum Computing und Quantum Cryptography
   * Teilnahme am QCI-Programm der EU (Quantum Communication Infrastructure)
- 
+
 - Der Auftrag und die Wirkungsentfaltung der innovationsfördernden öffentlichen Beschaffung werden evaluiert. Das Leitkonzept für eine innovationsfördernde öffentliche Beschaffung in Österreich wird aktualisiert und die Aufgaben der Servicestelle „Innovationsfördernde öffentliche Beschaffung“ (IÖB) wird den aktuellen Herausforderungen angepasst.
 
 - Schaffung von „Innovation Labs“ an wichtigen Bildungsstandorten und damit Schaffung eines Zugangs für alle Angehörigen der Hochschulen sowie für Lehrlinge und andere Auszubildende zu u.a. Medienlabs, Prototypenfertigung (unter Anleitung von Technikerinnen und Technikern), Arbeitsplätzen und Beratungen
@@ -202,7 +202,7 @@ Netzpolitik vorausschauend gestalten
 
   * Eine Erweiterung des Rekrutierungskreises außerhalb des Personenkreises der öffentlich Bediensteten ist zu prüfen.
 
-- Prüfung der Einrichtung einer Kompetenzstelle für IT-Sicherheit, Cybersicherheit sowie Datenschutztechnik und als Prüf- und Beratungsstelle für die öffentliche Verwaltung, Wirtschaft sowie Bürgerinnen und Bürger. Zusammenarbeit mit österreichischen, europäischen und internationalen Datenschutz- und Datensicherheitseinrichtungen 
+- Prüfung der Einrichtung einer Kompetenzstelle für IT-Sicherheit, Cybersicherheit sowie Datenschutztechnik und als Prüf- und Beratungsstelle für die öffentliche Verwaltung, Wirtschaft sowie Bürgerinnen und Bürger. Zusammenarbeit mit österreichischen, europäischen und internationalen Datenschutz- und Datensicherheitseinrichtungen
 
 - Durchführung hersteller- bzw. betreiberunabhängiger Technikfolgenabschätzungen bei wesentlichen öffentlichen Digitalisierungsvorhaben sowie verstärkte Durchführung von Technikfolgenabschätzungen bei risikogeneigten Regelungsmaterien (z.B. intelligente Transportsysteme, selbstfahrende Fahrzeuge, Assistenz- und Leitsysteme etc.)
 
@@ -210,7 +210,7 @@ Netzpolitik vorausschauend gestalten
 
 - Durchgängige Etablierung des Prinzips der anonymen Nutzung von technischen Infrastruktur-Systemen
 
-- Bei der nationalen Umsetzung der Urheberrechtsrichtlinie ist der Schutz der Privatsphäre zu gewährleisten und mit den Rechten der Urheberinnen und Urheber in Einklang zu bringen. Dies insbesondere im Zusammenhang mit Überprüfungen nutzergenerierter Inhalte (Upload-Filter). Evaluierung des Umgangs mit urheberrechtsverletzenden Websites 
+- Bei der nationalen Umsetzung der Urheberrechtsrichtlinie ist der Schutz der Privatsphäre zu gewährleisten und mit den Rechten der Urheberinnen und Urheber in Einklang zu bringen. Dies insbesondere im Zusammenhang mit Überprüfungen nutzergenerierter Inhalte (Upload-Filter). Evaluierung des Umgangs mit urheberrechtsverletzenden Websites
 
 
 Zukunftssichere Rahmenbedingungen für künstliche Intelligenz schaffen

@@ -3,9 +3,9 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-========================================================================
+=========================================================================
 Inoffizielles PDF-befreites österreichisches Regierungsprogramm 2020-2014
-========================================================================
+=========================================================================
 
 :download:`Quelle ist dieses Original PDF <../original/RP2020.pdf>`.
 

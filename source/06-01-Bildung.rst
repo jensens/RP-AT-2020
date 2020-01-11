@@ -2,8 +2,10 @@
 Bildung
 -------
 
+:download:`Kapitel als PDF <../split/06-01-Bildung.pdf>` (Teil des :download:`Originals <../original/RP2020.pdf>`).
+
 .. todo::
-  Formatieren, Überarbeiten, Original gegenchecken
+  Original gegenchecken
 
 Bildung ist eine unserer wichtigsten Investitionen in die Zukunft. Sie ermöglicht die Entfaltung der Persönlichkeit und Talente, bewirkt mehr Chancengerechtigkeit, ebnet den Weg zu einer passenden Berufswahl und schafft so das Fundament für ökonomische Unabhängigkeit sowie für ein selbstbestimmtes Leben. Österreich hat ein gutes und starkes öffentliches Bildungssystem, das für alle offensteht. Gleichzeitig gibt es auch Bereiche, in denen wir besser werden müssen und wollen.
 
@@ -14,7 +16,7 @@ Neben den betroffenen Schülerinnen und Schülern werden besonders die Pädagogi
 Stärkung der elementaren Bildung
 --------------------------------
 
-- Errichtung eines Beirates für Elementarpädagogik (Mitglieder dieses Beirats sind NGOS/Expertinnen und Experten, Länder sowie Gemeinden) zur Förderung der österreichweiten Zusammenarbeit und um Vorschläge für einheitliche Qualitätsmindeststandards in der Elementarpädagogik zu erarbeiten. Die Bundesregierung strebt hierzu eine Bund-Länder-Vereinbarung ab 2022/23 an. 
+- Errichtung eines Beirates für Elementarpädagogik (Mitglieder dieses Beirats sind NGOS/Expertinnen und Experten, Länder sowie Gemeinden) zur Förderung der österreichweiten Zusammenarbeit und um Vorschläge für einheitliche Qualitätsmindeststandards in der Elementarpädagogik zu erarbeiten. Die Bundesregierung strebt hierzu eine Bund-Länder-Vereinbarung ab 2022/23 an.
 
   * Verankerung von qualitätsgesicherten Maßnahmen zur präventiv-pädagogischen Arbeit, z.B. Bewegungs- und Gesundheitserziehung, Persönlichkeitsentwicklung, Gewaltprävention, Aufbau von Resilienz etc.
   * Österreichweit einheitliche Strategien zur Qualitätssicherung in elementarpädagogischen Einrichtungen (Bildungsziele, Standards, Besuch, Haltung zu demokratischen Grundwerten und zur Gleichstellung der Geschlechter)
@@ -31,7 +33,7 @@ Stärkung der elementaren Bildung
   * Eröffnung von Möglichkeiten zur Ausbildung und für den Berufseinstieg für Quereinsteigerinnen und Quereinsteiger
   * Kriterien für eine qualitätsvolle, bundesweit einheitliche Ausbildung für Tageseltern (auch Betriebstageseltern) sind zu definieren und in den Bildungsrahmenplan aufzunehmen.
 
-- Qualitätsvolle Bildung und Förderung von Anfang an und für alle Kinder 
+- Qualitätsvolle Bildung und Förderung von Anfang an und für alle Kinder
 
   * Wir setzen uns als Bundesregierung für eine Bund-Ländervereinbarung zum möglichst flächendeckenden, qualitätsvollen, VIF-konformen Ausbau elementarer Bildungsplätze ein (Kindergärten und Kinderkrippen für unter 3-Jährige) zur Erreichung der Barcelona-Ziele – inklusive der bedarfsgerechten Errichtung von Betriebskindergärten und -kindergruppen.
   * Der Zweckzuschuss in der 15a-Vereinbarung in der Elementarpädagogik wird ab dem Kindergartenjahr 2020/21 wesentlich erhöht.
@@ -83,7 +85,7 @@ Starke Schulen brauchen gute Organisation, bedarfsgerechte Ressourcen und modern
 
 - Die österreichische Bundesregierung bekennt sich zur Fortführung der aktiven Erinnerungspolitik im Bildungsbereich: Ein besonderer Schwerpunkt wird der konsequenten und langfristigen Sicherung der Erinnerungsarbeit an die Opfer des Nationalsozialismus sowie der Bildungsarbeit gegen Antisemitismus und Rassismus in allen Schultypen gewidmet sein. Die Maßnahmen werden evaluiert.
 
-- Bildungspflicht und Mittlere Reife einführen: Beherrschen der Grundkompetenzen im Bereich Mathematik, Deutsch und Englisch als Grundvoraussetzung für das Beenden der Schullaufbahn 
+- Bildungspflicht und Mittlere Reife einführen: Beherrschen der Grundkompetenzen im Bereich Mathematik, Deutsch und Englisch als Grundvoraussetzung für das Beenden der Schullaufbahn
 
   * Einführung einer Bildungspflicht, wodurch nicht mehr Schulpflichtige erst dann aus dem Bildungssystem aussteigen, wenn sie die Mindeststandards in den Grundkompetenzen erreicht haben (bis maximal zur Vollendung des 18. Lebensjahres). Dies gilt für alle in Österreich lebenden Jugendlichen.
   * Vor Ende der 9. Schulstufe soll die Mittlere Reife stehen, die ein qualitätsgesichertes Erreichen der nötigen Grundkompetenzen in Mathematik, Deutsch und Englisch bestätigt (über die Verwendung der Bildungsstandards).
@@ -113,14 +115,13 @@ Starke Schulen brauchen gute Organisation, bedarfsgerechte Ressourcen und modern
 
 Bedarfsgerechte Ressourcen für unsere Schulen
 
-- Bereitstellung von Supportpersonal: Schulisches Unterstützungspersonal (administrativ und psychosozial) bedarfsgerecht aufstocken, damit sich Pädagoginnen und Pädagogen auf den bestmöglichen Unterricht
-konzentrieren können
+- Bereitstellung von Supportpersonal: Schulisches Unterstützungspersonal (administrativ und psychosozial) bedarfsgerecht aufstocken, damit sich Pädagoginnen und Pädagogen auf den bestmöglichen Unterricht konzentrieren können
 
   * Mehr Support durch unterstützendes Personal (z.B. Schulsozialarbeit, Schulpsychologie, Assistenz, administratives Personal). Klare Aufgabenteilung und Konsolidierung unterschiedlicher Aufgaben (und Titel) des Unterstützungspersonals
   * Unterstützendes Personal ist dienstrechtlich bei den Bildungsdirektionen anzudocken, soll aber als Teil des pädagogischen Teams an den Schulen agieren. Prüfung einer Verwaltungsvereinfachung durch Anstellung des neuen Supportpersonals bei einer Personalagentur des Bundes
   * Langfristige Absicherung der Finanzierung über den FAG und gesetzliche Vorgaben über den Bund
-  * Studierende an pädagogischen Hochschulen sollen mehr Praxis an Schulen sammeln wie z.B. in der Nachmittags- und Ferienbetreuung und dadurch zusätzliche Unterstützung in ihrem Fachgebiet gewährleisten 
-  * Mobilisierung und Umschulung von zusätzlichem Personal soll in Zusammenarbeit mit Gebietskörperschaften (AMS, Arbeitsstiftungen) geschehen 
+  * Studierende an pädagogischen Hochschulen sollen mehr Praxis an Schulen sammeln wie z.B. in der Nachmittags- und Ferienbetreuung und dadurch zusätzliche Unterstützung in ihrem Fachgebiet gewährleisten
+  * Mobilisierung und Umschulung von zusätzlichem Personal soll in Zusammenarbeit mit Gebietskörperschaften (AMS, Arbeitsstiftungen) geschehen
   * Schulleiterinnen und Schulleiter als Führungskräfte weiterentwickeln (Personalverantwortung, Umsetzung Bildungsziele, Unterstützung durch Supportpersonal)
 
 - Schulen mit besonderen Herausforderungen stützen – Pilotprogramm an 100 ausgewählten Schulen in ganz Österreich umsetzen, die anhand eines zu entwickelnden Chancen- und Entwicklungsindex grundsätzlich infrage kommen:
@@ -143,19 +144,19 @@ konzentrieren können
 
   * Mehr Förderstunden für Schülerinnen und Schüler am Nachmittag (unter Nutzung des bestehenden Systems der verpflichtenden Förderstunden)
   * Ausarbeitung eines Konzepts als Angebot für die Gemeinden zur verstärkten Einbeziehung der Eltern in die Sprachförderung (aktive Elternarbeit, „Mama lernt Deutsch“)
-  * Fachliche und pädagogische Konzeption von speziellen Ferienangeboten sowie österreichweit einheitliche Angebotsumsetzung (z.B. Schwerpunktkurse, Praxiswochen, Unternehmenswochen, Sprach-, Sport- und Kulturangebote etc.) mit sozial gestaffelten Beiträgen (in Zusammenarbeit mit den Ländern) 
-  * Schaffung eines schulpraktischen Moduls für Lehramtsstudierende in den Ferienmonaten mit Anrechnungsmöglichkeit auf das Studium 
+  * Fachliche und pädagogische Konzeption von speziellen Ferienangeboten sowie österreichweit einheitliche Angebotsumsetzung (z.B. Schwerpunktkurse, Praxiswochen, Unternehmenswochen, Sprach-, Sport- und Kulturangebote etc.) mit sozial gestaffelten Beiträgen (in Zusammenarbeit mit den Ländern)
+  * Schaffung eines schulpraktischen Moduls für Lehramtsstudierende in den Ferienmonaten mit Anrechnungsmöglichkeit auf das Studium
   * Flexibilisierungsmöglichkeit der Arbeitszeit für Lehrerinnen und Lehrer auf freiwilliger Basis sowie Erarbeitung eines Jahresarbeitszeitmodells für Erzieherinnen und Erzieher zur Ermöglichung der Ferienbetreuung
 
 Schulorganisation verbessern
 
 - Größtmögliche Bündelung der Bildungsagenden des Bundes (von der Elementarpädagogik bis zur Hochschule sowie Teilen der Erwachsenenbildung) im Bildungsministerium
 
-- Evaluierung der Bildungsdirektionen hinsichtlich interner und externer Kommunikation und Verwaltung (Effizienz, Personalbedarf) 
+- Evaluierung der Bildungsdirektionen hinsichtlich interner und externer Kommunikation und Verwaltung (Effizienz, Personalbedarf)
 
   * Schülerverwaltungsprogramme des Bundes weiterführen und weiterentwickeln, um Nutzerfreundlichkeit zu erhöhen und Abfragen zu vereinfachen
   * Entwicklung einer integrierten EDV-Lösung in der Verwaltung
-  * Reduktion der Zahl von Rundschreiben und Erlässen zugunsten eines konsolidierten, webbasierten Informationsmanagements 
+  * Reduktion der Zahl von Rundschreiben und Erlässen zugunsten eines konsolidierten, webbasierten Informationsmanagements
   * Berufliche E-Mailadressen für das gesamte Personal der Bildungsdirektionen bereitstellen und nutzen
 
 - Transparente Personalsteuerung – gemeinsam mit den Bundesländern: Umsetzung eines einheitlichen Systems zur Sicherstellung des effektiven Einsatzes von Pädagoginnen und Pädagogen österreichweit
@@ -163,7 +164,7 @@ Schulorganisation verbessern
 - Zügiger Schuljahresbeginn
 
   * Etablierung eines rechtlich abgesicherten, verbindlichen und österreichweit einheitlichen Systems der An- und Abmeldungen von Schülerinnen und Schülern an den Schulen sowie Vereinheitlichung der Stichtage und Schuleinschreibungstermine, um einen zügigen Schulstart zu gewährleisten
-  * Einführung eines Bonus-Systems für Schulen, die die Nachprüfungen vollständig in der letzten Ferienwoche durchführen 
+  * Einführung eines Bonus-Systems für Schulen, die die Nachprüfungen vollständig in der letzten Ferienwoche durchführen
 
 - Etablierung eines gesamtheitlichen Bildungsmonitorings durch Zusammenführung relevanter Datenquellen, um wichtige bildungspolitische Analysen durchführen zu können, unter Wahrung sämtlicher datenschutzrechtlicher Standards
 
@@ -171,7 +172,7 @@ Schulorganisation verbessern
 
 - Entwicklung einer wertschätzenden, konstruktiven, transparenten Feedbackkultur („360-Grad Feedback“) zur Qualitätssteigerung des Unterrichts und zur Verbesserung der Beziehungen sowie verpflichtende schulinterne Evaluierung an jedem Standort
 
-- Die Schulen baulich modernisieren – neuer Schulentwicklungsplan unter Berücksichtigung pädagogischer Ziele: klimagerechte ökologische Standards im Schulbau, bei Sanierungen und Neubauten in Abstimmung mit Ländern und Gemeinden, wie dies im Pflichtschulbau umgesetzt werden kann 
+- Die Schulen baulich modernisieren – neuer Schulentwicklungsplan unter Berücksichtigung pädagogischer Ziele: klimagerechte ökologische Standards im Schulbau, bei Sanierungen und Neubauten in Abstimmung mit Ländern und Gemeinden, wie dies im Pflichtschulbau umgesetzt werden kann
 
 - Klare Regeln für das Zusammenspiel Schule und Unternehmen: Einrichtung einer Servicestelle, die bei Fragen zum Thema Schulen und Unternehmen beratend zur Seite steht (z.B. bzgl. Berufsinformation durch Unternehmen)
 
@@ -185,16 +186,16 @@ Schulorganisation verbessern
 
 - Schulen und Lehrende bei der Gewaltprävention unterstützen
 
-  * Friedenspädagogisches Training und Deeskalationstraining für Pädagoginnen und Pädagogen im Rahmen der Aus- bzw. Fort- und Weiterbildung einführen 
+  * Friedenspädagogisches Training und Deeskalationstraining für Pädagoginnen und Pädagogen im Rahmen der Aus- bzw. Fort- und Weiterbildung einführen
   * Schnellere und treffsichere Entscheidungsfindung bei Vorfällen an Schulstandorten durch bessere rechtliche Handhabe ermöglichen (qualitative Bewertung bei der Schule und Aufsicht, formale Bewertung bei Bildungsdirektionen – rechtliche Abwicklung, raschere Handlungsmöglichkeiten betreffend Suspendierung und Ausschluss für nicht Schulpflichtige)
-  * Entwicklung eines pädagogischen Betreuungskonzepts für den Umgang mit gewaltbereiten Schülerinnen und Schülern (z.B. „Cool-down“-Phase, „Time-out“-Phasen, psychosoziale Unterstützung) 
+  * Entwicklung eines pädagogischen Betreuungskonzepts für den Umgang mit gewaltbereiten Schülerinnen und Schülern (z.B. „Cool-down“-Phase, „Time-out“-Phasen, psychosoziale Unterstützung)
 
 - Ausbau ganztägiger Schulen: bedarfsgerechter Ausbau ganztägiger Schulformen zur Ermöglichung der Wahlfreiheit für Eltern. Ein unverschränktes bzw. verschränktes Angebot soll auch in jenen Regionen zur Verfügung stehen, in denen es dieses bisher nicht gibt.
 
 - Qualitätskriterien für externe Angebote an Schulen
 
   * Rasche Fertigstellung des bundesweiten Kriterienkatalogs für alle extern hinzugeholten Fachkräfte und Vereine
-  * Spezieller Fokus auf geschlechtersensible Mädchen- und Burschenarbeit, auch mit dem Ziel, Kinder und Jugendliche aus patriarchalen Milieus zu stärken und ihre Selbstbestimmung zu fördern 
+  * Spezieller Fokus auf geschlechtersensible Mädchen- und Burschenarbeit, auch mit dem Ziel, Kinder und Jugendliche aus patriarchalen Milieus zu stärken und ihre Selbstbestimmung zu fördern
   * Erarbeitung von Qualitätskriterien für die Sicherung einer weltanschaulich neutralen, wissenschaftsbasierten Sexualpädagogik und die Entwicklung eines Akkreditierungsverfahrens für Vereine bzw. Personen, die sexualpädagogische Workshops an Schulen anbieten wollen
   * Regeln zur Anwesenheit der Pädagoginnen und Pädagogen sind zu definieren. Die qualitativ hochstehende Aus-, Fort- und Weiterbildung der Lehrerinnen und Lehrer im Bereich Sexualpädagogik für die Primarstufe sowie die Sekundarstufe (im Unterrichtsfach Biologie und Umweltkunde) soll sichergestellt werden.
 
@@ -204,9 +205,9 @@ Schulorganisation verbessern
 
 - Schulische Profilierung und Individualisierung – eine weitere Modularisierung der Oberstufe prüfen und in Absprache mit Betroffenen und Interessenvertretungen pilotieren und ausbauen. Auf Basis der 2019 abgeschlossenen Evaluierung muss zeitnah entschieden werden, ob die NOST (Neue Oberstufe) in ihrem vorgeschlagenen System umgesetzt wird oder es zu einer Reform im Sinne einer echten Modularisierung kommt. Insbesondere ist den Ergebnissen einer Evaluierung der bestehenden „Nicht-genügend-Regelung“ Rechnung zu tragen.
 
-- Überprüfung und Weiterentwicklung der Standardisierten Reife- und Diplomprüfung („Zentralmatura“); Verbesserung der Modalitäten und Bedingungen, verstärkte Individualisierung und Förderung von Interessen und Begabungen unter Berücksichtigung des differenzierten Schulsystems und seiner Schwerpunkte 
+- Überprüfung und Weiterentwicklung der Standardisierten Reife- und Diplomprüfung („Zentralmatura“); Verbesserung der Modalitäten und Bedingungen, verstärkte Individualisierung und Förderung von Interessen und Begabungen unter Berücksichtigung des differenzierten Schulsystems und seiner Schwerpunkte
 
-- Ausweitung von Bewegung und Sport im Rahmen des schulischen Unterrichts 
+- Ausweitung von Bewegung und Sport im Rahmen des schulischen Unterrichts
 
   * Tägliche Bewegungseinheit soll realisiert werden (z.B. mit Sportvereinen).
   * Prüfung der ganzjährigen Öffnung der Schulinfrastruktur für Sportvereine und Organisationen sowie Öffnung der Infrastruktur von Sportvereinen, Organisationen oder Ländern und Gemeinden für die Schulen (wo immer logistisch möglich)
@@ -233,12 +234,12 @@ Schulorganisation verbessern
   * Regelmäßige Kontrollen und Ausweitung der Kontrollkompetenzen der Schulaufsicht auf bestimmte, derzeit nicht erfasste Bildungseinrichtungen (z.B. private Schülerheime)
   * Konsequente Schließung der Einrichtungen bei Nicht-Erfüllung der gesetzlichen Voraussetzungen
   * Weltanschauungen, die in Widerspruch zu unseren demokratischen Werten und unserer liberalen Grundordnung stehen, dürfen in Schulen nicht verbreitet werden. Präventive Maßnahmen im Bildungsbereich, die das Abdriften von Kindern und Jugendlichen in radikale Milieus möglichst früh verhindern, sind auszubauen.
-  * Mehr Transparenz und verstärkte Kontrollen in Bildungseinrichtungen (insbesondere islamischen) wie Kindergärten, Privatschulen, Schülerheimen, auch zur Verhinderung von ausländischen Einflüssen an Bildungsorten jeder Art insbesondere zum Schutz von Frauen und Mädchen 
+  * Mehr Transparenz und verstärkte Kontrollen in Bildungseinrichtungen (insbesondere islamischen) wie Kindergärten, Privatschulen, Schülerheimen, auch zur Verhinderung von ausländischen Einflüssen an Bildungsorten jeder Art insbesondere zum Schutz von Frauen und Mädchen
   * Prüfung von Möglichkeiten, den Anteil von Kindern mit Förderbedarf an Privatschulen zu erhöhen
 
 - Qualitätsvolles Essen in Kinderbetreuungseinrichtungen und Schulen; der Anteil regionaler, saisonaler und biologischer Lebensmittel in Kinderbetreuungseinrichtungen und Schulen ist zu steigern, der Bio-Anteil zu erhöhen.
 
-- Stärkung von freiwilligen, hochqualitativen Mentoring-Programmen an Schulen und Kindergärten – mit dem Ziel der Stärkung von Integration, positiven Bildungswegen und gesellschaftlichem Zusammenhalt 
+- Stärkung von freiwilligen, hochqualitativen Mentoring-Programmen an Schulen und Kindergärten – mit dem Ziel der Stärkung von Integration, positiven Bildungswegen und gesellschaftlichem Zusammenhalt
 
 - Begabungen und Kreativität fördern: Das Erkennen und Fördern von speziellen Begabungen werden im Rahmen der neuen Lehrpläne als verbindliches Bildungsziel festgelegt und als Bestandteil der Lehreraus- und Weiterbildung verankert.
 
@@ -256,7 +257,7 @@ Stärkung der dualen Ausbildung
   * Alle Jugendlichen sollen bei der Suche nach einem qualitätsvollen Ausbildungsplatz unterstützt werden. Der Bildungs- und Berufsorientierung ist bereits in der Schule mehr Bedeutung beizumessen. Jugendliche sollen dort frühzeitig über die Vielfalt der Berufsmöglichkeiten infor miert werden.
   * Weiterführung einer gezielten Aufwertung der 9. Schulstufe, berufsbildenden mittleren Schulen und der dualen Ausbildung durch eine Reform der Lehrpläne, durch stärkere Einbindung von Berufsorientierung sowie durch breitere Berufsausbildungen (im Zuge der Bildungspflicht)
   * Prüfung unterschiedlicher Modelle zur Aufwertung der 9. Schulstufe, z.B. eines „Berufsbildungscampus“, um in Modulen die Vermittlung von mehr Allgemeinbildung sicherzustellen oder Modularisierung der 9. Schulstufe (AHS, BHS, Polytechnische Schule) oder Einführung des ersten Lehrjahres in die PTS – in Zusammenarbeit mit den bestehenden Berufsschulen
-  * Beste Qualität in der Ausbildung durch Qualitätssicherung und Ausbildungsfortschrittskontrolle: Ausweitung von Anreizmodellen zur Förderung von Lehrlingsausbildung in Betrieben. „Blum-Bonus Neu“ zur Förderung betrieblicher Lehrstellen mit inkludierter Qualitätssicherung prüfen. Zielgruppe: Klein- und Mittelbetriebe (speziell Gewerbe/Handwerk) 
+  * Beste Qualität in der Ausbildung durch Qualitätssicherung und Ausbildungsfortschrittskontrolle: Ausweitung von Anreizmodellen zur Förderung von Lehrlingsausbildung in Betrieben. „Blum-Bonus Neu“ zur Förderung betrieblicher Lehrstellen mit inkludierter Qualitätssicherung prüfen. Zielgruppe: Klein- und Mittelbetriebe (speziell Gewerbe/Handwerk)
   * Eine Steigerung der Qualität in der Lehre wird angestrebt. Dafür wird das bestehende System hinsichtlich Qualitätssicherung überprüft und bedarfsorientiert ergänzt (unabhängige Qualitätskontrollen, Weiterbildung der Ausbildnerinnen und Ausbildner sowie Absicherung des Lehrlingscoachings).
   * Qualitative Weiterentwicklung und Attraktivierung der „Lehre mit Reifeprüfung“ und die Erhöhung der Zahl von Absolventinnen und Absolventen
   * Lehre nach Matura verstärkt ermöglichen und fördern (z.B. Duale Akademie in Oberösterreich)
@@ -268,7 +269,7 @@ Stärkung der dualen Ausbildung
 
 - Berufsbildung aufwerten und Berufsausbildungsgesetz modernisieren
 
-  * Überarbeitung der mehr als 200 bestehenden Lehrberufe, mit Hinblick auf digitale Inhalte, MINT sowie regionale und ökologische Schwerpunkte 
+  * Überarbeitung der mehr als 200 bestehenden Lehrberufe, mit Hinblick auf digitale Inhalte, MINT sowie regionale und ökologische Schwerpunkte
   * Verpflichtende Evaluierung und Modernisierung aller Lehrberufe alle fünf Jahre
   * Lenkungsmaßnahmen erarbeiten, um mehr Frauen in technische Lehrberufe zu bringen
   * Möglichkeit zur „Flexi-Lehre“ für Wiedereinsteigerinnen und Wiedereinsteiger sowie betreuende Angehörige prüfen
@@ -282,7 +283,7 @@ Lebensbegleitendes Lernen: Gute Bildungsangebote für Erwachsene
 
 - Lebensbegleitendes Lernen im Bildungssystem stärken
 
-  * Zeitgemäße Neufassung der gesetzlichen Grundlage der Erwachsenenbildung mit dem Ziel, die Erwachsenenbildung als Teil des Bildungssystems zu sehen 
+  * Zeitgemäße Neufassung der gesetzlichen Grundlage der Erwachsenenbildung mit dem Ziel, die Erwachsenenbildung als Teil des Bildungssystems zu sehen
   * Stärkere strategische Ausrichtung und gesamthafte Steuerung der Erwachsenenbildung in Österreich – Evaluierung der Bildungsangebote, Qualitätssicherungsmaßnahmen und Entwicklung eines Anforderungskatalogs (z.B. Lernunterstützung für Menschen mit Beeinträchtigung)
   * Weiterentwicklung der Leistungsvereinbarungen mit Erwachsenenbildungseinrichtungen (inkl. möglicher Valorisierungen)
 
