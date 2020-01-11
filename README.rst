@@ -1,7 +1,7 @@
 Über das Projekt
 ================
 
-Dieses Projekt befreit das östereichiche Regierungsprogramm 2020-2024 aus seinem PDF-Format und macht es so zugänglicher.
+Dieses Projekt befreit das österreichische Regierungsprogramm 2020-2024 aus seinem PDF-Format und macht es so zugänglicher.
 
 Warum?
 
