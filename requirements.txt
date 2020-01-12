@@ -1,2 +1,2 @@
 Sphinx
-sphinx_materialdesign_theme
+-e git+git@github.com:jensens/sphinx_materialdesign_theme.git#egg=sphinx_materialdesign_theme

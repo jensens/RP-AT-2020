@@ -1,7 +1,7 @@
 Präambel
 ========
 
-:download:`Kapitel als PDF <../split/00-01-Praeambel.pdf>` (Teil des :download:`Originals <../original/RP2020.pdf>`).
+Kapitel als PDF :download:`Kapitel als PDF <../split/00-01-Praeambel.pdf>` (Teil des Originals :download:`Originals <../original/RP2020.pdf>`).
 
 Österreich ist ein wunderbares Land. Geprägt von Natur und Landschaft in Vielfalt und Schönheit.
 Getragen von einer innovativen Wirtschaft. Gelegen im Herzen Europas. Gerühmt für seine Kunst und Kultur.
