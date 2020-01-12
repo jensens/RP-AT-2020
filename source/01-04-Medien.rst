@@ -4,11 +4,22 @@ Medien
 
 :download:`Kapitel als PDF <../split/01-04-Medien.pdf>` (Teil des :download:`Originals <../original/RP2020.pdf>`).
 
-Wir bekennen uns zu einer Medienpolitik, die Grundwerte wie Pluralismus, Unabhängigkeit, Medien- und Pressefreiheit sowie Innovation sicherstellt und fördert. Zusätzlich sehen wir es als zentrale Aufgabe, auf die veränderten Rahmenbedingungen durch die fortschreitende Digitalisierung und Globalisierung zu reagieren. Digitale Technologien verändern die Art und Weise, wie Inhalte produziert, verbreitet und konsumiert werden. Das birgt Chancen, aber auch große Herausforderungen, die völlig neue Antworten und Ansätze erfordern.
+Wir bekennen uns zu einer Medienpolitik, die Grundwerte wie Pluralismus, Unabhängigkeit, Medien- und Pressefreiheit sowie Innovation sicherstellt und fördert. 
+Zusätzlich sehen wir es als zentrale Aufgabe, auf die veränderten Rahmenbedingungen durch die fortschreitende Digitalisierung und Globalisierung zu reagieren. 
+Digitale Technologien verändern die Art und Weise, wie Inhalte produziert, verbreitet und konsumiert werden. 
+Das birgt Chancen, aber auch große Herausforderungen, die völlig neue Antworten und Ansätze erfordern.
 
-Österreichische Medien sehen sich einem ungleichen Wettbewerb mit international agierenden Plattformen ausgesetzt. Hier braucht es dringend faire Rahmenbedingungen, damit österreichische Medienunternehmen konkurrenzfähig bleiben. Klar ist: In der digitalen Welt müssen die gleichen Prinzipien gelten wie in der realen Welt! Gerade auch im Kampf gegen Hass und Gewalt im Netz müssen international agierende Plattformen stärker in die Verantwortung genommen werden.
+Österreichische Medien sehen sich einem ungleichen Wettbewerb mit international agierenden Plattformen ausgesetzt. 
+Hier braucht es dringend faire Rahmenbedingungen, damit österreichische Medienunternehmen konkurrenzfähig bleiben. 
+Klar ist: In der digitalen Welt müssen die gleichen Prinzipien gelten wie in der realen Welt! 
+Gerade auch im Kampf gegen Hass und Gewalt im Netz müssen international agierende Plattformen stärker in die Verantwortung genommen werden.
 
-Medien tragen zur Information und Aufklärung maßgeblich bei. Wir sehen es als unsere Aufgabe, ein Medienangebot mit österreichischen und internationalen Inhalten für unser Land und seine Bevölkerung, unter anderem durch Berücksichtigung und Stärkung des „Public Value“, sicherzustellen. Österreich ist dabei mit einem zehnmal so großen, gleichsprachigen Nachbarn und digitalen Weltmarktführer konfrontiert. Die Tragfähigkeit und der kreative Output österreichischer Medien sowie Produzentinnen und Produzenten muss daher in seiner Vielfalt erhalten und gefördert werden, um eigenständige österreichische Inhalte weiter entwickeln zu können. Dafür braucht es eine Stärkung des dualen Rundfunksystems unter Berücksichtigung des nichtkommerziellen Sektors, zum Beispiel durch Kooperation zwischen Öffentlich- Rechtlichem Rundfunk und privaten Rundfunkund Fernsehunternehmen im Zusammenhang mit Internetplattformen sowie anderen digitalen Angeboten. Der Öffentlich- Rechtliche Rundfunk muss dabei an die medialen Anforderungen der Zeit angepasst und die dafür notwendige, unabhängige Finanzierung erhalten.
+Medien tragen zur Information und Aufklärung maßgeblich bei. 
+Wir sehen es als unsere Aufgabe, ein Medienangebot mit österreichischen und internationalen Inhalten für unser Land und seine Bevölkerung, unter anderem durch Berücksichtigung und Stärkung des „Public Value“, sicherzustellen. 
+Österreich ist dabei mit einem zehnmal so großen, gleichsprachigen Nachbarn und digitalen Weltmarktführer konfrontiert. 
+Die Tragfähigkeit und der kreative Output österreichischer Medien sowie Produzentinnen und Produzenten muss daher in seiner Vielfalt erhalten und gefördert werden, um eigenständige österreichische Inhalte weiter entwickeln zu können. 
+Dafür braucht es eine Stärkung des dualen Rundfunksystems unter Berücksichtigung des nichtkommerziellen Sektors, zum Beispiel durch Kooperation zwischen Öffentlich-Rechtlichem Rundfunk und privaten Rundfunkund Fernsehunternehmen im Zusammenhang mit Internetplattformen sowie anderen digitalen Angeboten. 
+Der Öffentlich- Rechtliche Rundfunk muss dabei an die medialen Anforderungen der Zeit angepasst und die dafür notwendige, unabhängige Finanzierung erhalten.
 
 Österreichischen und Europäischen Medienstandort stärken
 --------------------------------------------------------
