@@ -79,7 +79,7 @@ Sobald ich den Pull-Request übernommen (merged) habe, werde ich das HTML neu ge
 
 Wer GIT kennt, kann sich auch eine lokale Arbeitskopie erstellen.
 Dann kann man auch Sphinx installieren und lokal den HTML-Generator laufen lassen.
-Blos bitte das generierte HTML nicht im Pullrequest inkludieren, sonst kann es zu Konflikten im Git kommen.
+Bloß bitte das generierte HTML nicht im Pullrequest inkludieren, sonst kann es zu Konflikten im Git kommen.
 
 Bei Fragen dazu könnt ihr mich gerne kontaktieren:
 - E-Mail `Jens Klein <mailto:jk@kleinundpartner>`_
