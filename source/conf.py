@@ -18,6 +18,7 @@
 # -- Project information -----------------------------------------------------
 
 project = 'Barrierefreies und maschinenlesbares Österreichisches Regierungsprogramm 2020-2024'
+html_title = "Österreichisches Regierungsprogramm 2020-2024, barrierefrei, maschinenlesbar"
 copyright = '2020, erstellt und publiziert durch "Die neue Volkspartei/Die Grünen – Die Grüne Alternative", maschinenlesbar und barrierefrei bearbeitet von Jens Klein, Robert Harm und Helfern.'
 author = 'Die neue Volkspartei/Die Grünen – Die Grüne Alternative - nachbearbeitet durch Jens Klein, Robert Harm und Helfern'
 
@@ -75,6 +76,11 @@ todo_include_todos = True
 html_theme_options = {
     # https://github.com/myyasuda/sphinx_materialdesign_theme#html-theme-options
     'accent_color': 'deep_purple',
+    'header_links' : [
+        ('Regierungsprogramm 2020-2024', 'index', False, 'home'),
+        ("Open3", "https://www.open3.at", True, 'group'),
+        ("GitHub", "https://github.com/jensens/RP-AT-2020", True, 'link')
+    ],
 }
 
 # -- Additional config -------------------------------------------------------
@@ -91,5 +97,6 @@ html_search_language = 'de'
 # Default: None.
 
 html_logo = 'open3-logo.png'
-
+html_add_permalinks = True
+html_split_index = True
 

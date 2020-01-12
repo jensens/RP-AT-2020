@@ -3,11 +3,14 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-=========================================================================
-PDF-befreites Österreichisches Regierungsprogramm 2020-2014 (inoffiziell)
-=========================================================================
+=============================================
+Österreichisches Regierungsprogramm 2020-2014
+=============================================
 
-:download:`Quelle ist dieses Original PDF <../original/RP2020.pdf>`.
+- barrierefrei
+- maschinenlesbar
+- inoffizielle Veröffentlichung
+- Quelle ist dieses :download:`Original PDF <../original/RP2020.pdf>` (lokale Kopie).
 
 Regierungsprogramm
 ==================
