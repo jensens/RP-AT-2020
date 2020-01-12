@@ -24,8 +24,8 @@ Technik & manueller Eingriff
 
 Technisch habe ich aus dem PDF den reinen Text extrahiert.
 Da PDF kein strukturiertes Dokumentenformat ist (sondern ein Seitenbeschreibungsformat), kann der Text nicht perfekt heraus geholt werden.
-Wenn die Hintergründe dazu interessieren:
-Die 30 Minuten Video `How to Extract Text Contents from PDF <https://www.youtube.com/watch?v=k34wRxaxA_c>`_ (3 Teile) erklären das ganz gut.
+Wenn sich jemand für den Hintergrund dazu interessiert:
+Die 30 Minuten Video `How to Extract Text Contents from PDF <https://www.youtube.com/watch?v=k34wRxaxA_c>`_ (3 Teile, Englisch) erklären das ganz gut.
 
 Vor dem Extrahieren habe ich mit `PDFSAM Basic <https://pdfsam.org/de/>`_ das lange Original-PDF Kapitelweise in kleinere PDFs zerlegt.
 Die Dateien habe ich dann einigermaßen sinnvoll benannt.
