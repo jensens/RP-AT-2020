@@ -4,19 +4,38 @@ Klimaschutz & Energie
 
 :download:`Kapitel als PDF <../split/03-01-Klimaschutz-Energie.pdf>` (Teil des :download:`Originals <../original/RP2020.pdf>`).
 
-Die besorgniserregende Veränderung unseres Klimas ist eine der größten Herausforderungen unserer Generation – in ökologischer, ökonomischer und sozialer Hinsicht. Die österreichische Bundesregierung bekennt sich zu ihrer Verantwortung, die notwendigen Schritte und Weichenstellungen vorzunehmen, um dieser Herausforderung auf allen Ebenen gerecht zu werden und die Ziele des Pariser Klimaschutzabkommens zu erfüllen. Wir betrachten Klimaschutzmaßnahmen als bedeutende Chance für Gerechtigkeit sowie für die zukunftsfähige Entwicklung von Wirtschaft und Arbeitsplätzen in Österreich. Diese Chancen gilt es zu nutzen - Österreich hat die besten Voraussetzungen dafür. Gemeinsam können wir das Ziel eines klimaneutralen Österreichs bis spätestens 2040 erreichen und in Europa zum Vorreiter im Klimaschutz werden. Für uns bedeutet das selbstverständlich, dass Atomkraft keine Alternative ist, sondern, dass wir ausschließlich auf Erneuerbare Energieträger setzen.
+Die besorgniserregende Veränderung unseres Klimas ist eine der größten Herausforderungen unserer Generation – in ökologischer, ökonomischer und sozialer Hinsicht.
+Die österreichische Bundesregierung bekennt sich zu ihrer Verantwortung, die notwendigen Schritte und Weichenstellungen vorzunehmen, um dieser Herausforderung auf allen Ebenen gerecht zu werden und die Ziele des Pariser Klimaschutzabkommens zu erfüllen.
+Wir betrachten Klimaschutzmaßnahmen als bedeutende Chance für Gerechtigkeit sowie für die zukunftsfähige Entwicklung von Wirtschaft und Arbeitsplätzen in Österreich.
+Diese Chancen gilt es zu nutzen - Österreich hat die besten Voraussetzungen dafür. Gemeinsam können wir das Ziel eines klimaneutralen Österreichs bis spätestens 2040 erreichen und in Europa zum Vorreiter im Klimaschutz werden.
+Für uns bedeutet das selbstverständlich, dass Atomkraft keine Alternative ist, sondern, dass wir ausschließlich auf Erneuerbare Energieträger setzen.
 
-Der klimagerechte Umbau aller Sektoren, insbesondere des Energiesystems und der Infrastruktur, erfolgt unter Berücksichtigung der Kosten für Haushalte und Unternehmen. Soziale Härtefälle werden jedenfalls vermieden und auch Unternehmen werden bei der Transformation und den notwendigen Anpassungsmaßnahmen unterstützt.
+Der klimagerechte Umbau aller Sektoren, insbesondere des Energiesystems und der Infrastruktur, erfolgt unter Berücksichtigung der Kosten für Haushalte und Unternehmen.
+Soziale Härtefälle werden jedenfalls vermieden und auch Unternehmen werden bei der Transformation und den notwendigen Anpassungsmaßnahmen unterstützt.
 
-Auf europäischer Ebene wird die Bundesregierung dazu beitragen, dass die EU das Pariser Klimaschutzabkommen in die Tat umsetzt und eine globale Führungsrolle im Klimaschutz einnimmt. Daher wird die Anpassung der EU-Klimaziele im Einklang mit dem Pariser Klimaabkommen, wie es der Green Deal der EU-Kommission vorsieht, unterstützt. In Österreich setzt die Bundesregierung ambitionierte nationale Maßnahmen zur Treibhausgasreduktion. Ein Klimaschutzgesetz mit klaren Treibhausgasreduktionspfaden, Zuständigkeiten, Zeitplänen und entsprechenden Ressourcen sorgt dafür, dass Österreich sein CO2-Budget nicht übersteigt. Durch den verpflichtenden Klimacheck wird Klimaschutz bei Gesetzen und Verordnungen ein zentrales Entscheidungskriterium. Wichtige Rahmenbedingungen werden auch im Steuersystem gesetzt.
+Auf europäischer Ebene wird die Bundesregierung dazu beitragen, dass die EU das Pariser Klimaschutzabkommen in die Tat umsetzt und eine globale Führungsrolle im Klimaschutz einnimmt.
+Daher wird die Anpassung der EU-Klimaziele im Einklang mit dem Pariser Klimaabkommen, wie es der Green Deal der EU-Kommission vorsieht, unterstützt.
+In Österreich setzt die Bundesregierung ambitionierte nationale Maßnahmen zur Treibhausgasreduktion.
+Ein Klimaschutzgesetz mit klaren Treibhausgasreduktionspfaden, Zuständigkeiten, Zeitplänen und entsprechenden Ressourcen sorgt dafür, dass Österreich sein CO2-Budget nicht übersteigt.
+Durch den verpflichtenden Klimacheck wird Klimaschutz bei Gesetzen und Verordnungen ein zentrales Entscheidungskriterium.
+Wichtige Rahmenbedingungen werden auch im Steuersystem gesetzt.
 
-Bund, Bundesländer und Gemeinden arbeiten gemeinsam und abgestimmt an der Erreichung der Klimaziele und treffen Zukunftsentscheidungen, die Planungssicherheit für die Bevölkerung und die Wirtschaft ermöglichen. So sichern wir den Wohlstand der österreichischen Bevölkerung und die Wettbewerbsfähigkeit der österreichischen Wirtschaft. Es gilt rasch ins Tun zu kommen, und Vorarbeiten aus dem Nationalen Energie- und Klimaplan, der Bioökonomiestrategie oder dem Sachstandsbericht Mobilität umzusetzen.
+Bund, Bundesländer und Gemeinden arbeiten gemeinsam und abgestimmt an der Erreichung der Klimaziele und treffen Zukunftsentscheidungen, die Planungssicherheit für die Bevölkerung und die Wirtschaft ermöglichen.
+So sichern wir den Wohlstand der österreichischen Bevölkerung und die Wettbewerbsfähigkeit der österreichischen Wirtschaft.
+Es gilt rasch ins Tun zu kommen, und Vorarbeiten aus dem Nationalen Energie- und Klimaplan, der Bioökonomiestrategie oder dem Sachstandsbericht Mobilität umzusetzen.
 
-Wir nehmen Klimaschutz ernst: Was die öffentliche Hand selbst vorzeigt, kann auch von unserer Bevölkerung leichter angenommen werden. Die öffentliche Hand muss deshalb Vorbild für Klimaneutralität sein. Mit Initiativen in der Beschaffung, in der Sanierung und im Mobilitätsmanagement wird die Umstellung der Verwaltung in Richtung 100% Nachhaltigkeit vorangetrieben.
+Wir nehmen Klimaschutz ernst: Was die öffentliche Hand selbst vorzeigt, kann auch von unserer Bevölkerung leichter angenommen werden.
+Die öffentliche Hand muss deshalb Vorbild für Klimaneutralität sein. Mit Initiativen in der Beschaffung, in der Sanierung und im Mobilitätsmanagement wird die Umstellung der Verwaltung in Richtung 100% Nachhaltigkeit vorangetrieben.
 
-Die Bundesregierung bekennt sich zum Ausbau aller Formen heimischer Erneuerbarer Energieträger. Den Rahmen dafür wird das Erneuerbaren-Ausbau-Gesetz geben, das bis 2030 eine 100% (national bilanziell) Versorgung mit Ökostrom sichert. Damit einher gehen die notwendigen Netzinfrastrukturinvestitionen. Ein wirksames Energieeffizienzgesetz trägt dazu bei, dass Österreich – unter Bedachtnahme auf die wirtschaftliche Entwicklung – bis zur Mitte des Jahrhunderts mit deutlich weniger Energieverbrauch auskommen und die Energiewende naturverträglich gelingen kann.
+Die Bundesregierung bekennt sich zum Ausbau aller Formen heimischer Erneuerbarer Energieträger.
+Den Rahmen dafür wird das Erneuerbaren-Ausbau-Gesetz geben, das bis 2030 eine 100% (national bilanziell) Versorgung mit Ökostrom sichert.
+Damit einher gehen die notwendigen Netzinfrastrukturinvestitionen. Ein wirksames Energieeffizienzgesetz trägt dazu bei, dass Österreich – unter Bedachtnahme auf die wirtschaftliche Entwicklung – bis zur Mitte des Jahrhunderts mit deutlich weniger Energieverbrauch auskommen und die Energiewende naturverträglich gelingen kann.
 
-Zur vollständigen Umstellung unseres Energiesystems tragen alle Sektoren bei. Der Sektor Gebäude durch thermische Sanierung, die wertvolle Energie sparen hilft und den konsequenten Umstieg auf Heiz- und Kühlsystemen mit Erneuerbaren Energien. Die Land- und Forstwirtschaft leistet ihren Beitrag ebenso wie die Abfallwirtschaft und selbstverständlich der Sektor Verkehr. Für die Industrie und das Gewerbe werden die Weichen in Richtung einer neuen, hoch innovativen, kreislauffähigen und klimafreundlichen Technologie-Ära gestellt, die Österreich und Europa als führenden Industriestandort für hochwertige, ressourcenschonende und CO2-arme Produktion positioniert. So sichern wir langfristig diesen wichtigen Sektor am Standort Österreich und sind im Wettbewerb der Zukunft, dem Wettbewerb um die ökologischsten statt billigsten Produktionsweisen, als Vorreiterland positioniert.
+Zur vollständigen Umstellung unseres Energiesystems tragen alle Sektoren bei.
+Der Sektor Gebäude durch thermische Sanierung, die wertvolle Energie sparen hilft und den konsequenten Umstieg auf Heiz- und Kühlsystemen mit Erneuerbaren Energien.
+Die Land- und Forstwirtschaft leistet ihren Beitrag ebenso wie die Abfallwirtschaft und selbstverständlich der Sektor Verkehr.
+Für die Industrie und das Gewerbe werden die Weichen in Richtung einer neuen, hoch innovativen, kreislauffähigen und klimafreundlichen Technologie-Ära gestellt, die Österreich und Europa als führenden Industriestandort für hochwertige, ressourcenschonende und CO2-arme Produktion positioniert.
+So sichern wir langfristig diesen wichtigen Sektor am Standort Österreich und sind im Wettbewerb der Zukunft, dem Wettbewerb um die ökologischsten statt billigsten Produktionsweisen, als Vorreiterland positioniert.
 
 Klimaneutralität bis 2040 – ein klares Ziel, ein klarer Auftrag
 ---------------------------------------------------------------
@@ -337,7 +356,7 @@ Technologieoffensive, Digitalisierung und Innovation
 
 - Experimentierklausel (nach deutschem Vorbild) für Unternehmen ermöglichen
 
-- Innovation – von Start-ups bis Energie-Cluster & Open Energy Innovation Industrie.
+- Innovation – von Start-ups bis Energie-Cluster & :index:`Open Energy` Innovation Industrie.
 
 - Digitalisierung: Vorteile nutzen, Datenschutz sicherstellen
 

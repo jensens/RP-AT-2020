@@ -23,7 +23,7 @@ Forcierung eines wettbewerbsfähigen und verantwortungsvollen Tourismusstandorts
 - Umsetzung von Maßnahmen auf Grundlagen der existierenden Leitlinien des Plans T mitlaufendem und zeitnahem Monitoring
 
   * Sicherstellung des Zugangs der Wissenschaft zu verknüpfbaren anonymisierten Registerdaten durch eine Novellierung des Bundesstatistikgesetzes
-  * Erstellung von Maßnahmenindikatoren, die wissenschaftliche Evaluierung sicherstellen 
+  * Erstellung von Maßnahmenindikatoren, die wissenschaftliche Evaluierung sicherstellen
   * Prüfung eines Kompetenzzentrums für Tourismusforschung
   * Auf dieser Basis Maßnahmen auf ihre Wirkungen auf Klima und Ökologie und soziale Verträglichkeit überprüfen
   * Ergebnisse des Berichts zu Klimawandel und Tourismus im Auftrag des ACRP (Austrian Climate Research Program) berücksichtigen
@@ -46,7 +46,7 @@ Forcierung eines wettbewerbsfähigen und verantwortungsvollen Tourismusstandorts
   * Flächendeckendes Datennetz
   * Nutzung der Digitalisierung für Entbürokratisierung
   * Schulungen im Direkt- und Plattformbetrieb
-  * Tourismus-Open Data-Leuchtturmprojekt der ÖW
+  * Tourismus-:index:`Open Data-Leuchtturmprojekt` der ÖW
 
 - Besondere Berücksichtigung der regionalen Schwerpunkte in der Tourismusstrategie im Sinne einer zukunftsfitten Tourismusstrategie, die auch massentouristischen Phänomenen entgegenwirken soll (Stichwort „Overtourism“)
 
@@ -163,9 +163,9 @@ Bekämpfung des Fachkräftemangels im Tourismus
 Nachhaltige Mobilität
 ---------------------
 
-- Ausbau des Nachtzugangebotes im Fernverkehr, innerösterreichisch und zu internationalen Destinationen 
+- Ausbau des Nachtzugangebotes im Fernverkehr, innerösterreichisch und zu internationalen Destinationen
 
-- Anteil von Urlauben im eigenen Land steigern 
+- Anteil von Urlauben im eigenen Land steigern
 
   * Werbemaßnahmen für Tourismusland Österreich sind verstärkt auf den heimischen Gast auszurichten.
 
@@ -178,12 +178,12 @@ Nachhaltige Mobilität
 Klimawandel und Wintertourismus
 -------------------------------
 
-- Umweltgerechte und wirtschaftliche Strategie im Umgang mit Beschneiung in Skigebieten   
+- Umweltgerechte und wirtschaftliche Strategie im Umgang mit Beschneiung in Skigebieten
 
   * Einsatz auf europäischer Ebene für die Einführung von Energieeffizienz-Klassen für Schneeerzeugungsanlagen
   * Forcierter Einsatz von erneuerbaren Energien für weiteren Ausbau
 
-- Die Bundesregierung wird sich im Rahmen der österreichischen Raumordnungskonferenz und in Zusammenarbeit mit dem Generalsekretariat der Alpenkonvention für die Ausarbeitung eines gebietskörperschaftenübergreifenden und sektorenübergreifenden Raumentwicklungskonzeptes für alpine Raumordnung einsetzen. 
+- Die Bundesregierung wird sich im Rahmen der österreichischen Raumordnungskonferenz und in Zusammenarbeit mit dem Generalsekretariat der Alpenkonvention für die Ausarbeitung eines gebietskörperschaftenübergreifenden und sektorenübergreifenden Raumentwicklungskonzeptes für alpine Raumordnung einsetzen.
 
 - Die Bundesregierung bekennt sich zur Unterstützung der Tourismusregionen im Hinblick auf Kapazitätssteigerungen im öffentlichen Personennahverkehr und Einführung von Mobilitätsberaterinnen und -beratern für die Schulung der Tourismusverbände.
 

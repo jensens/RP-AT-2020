@@ -7,16 +7,24 @@ Digitalisierung & Innovation
 Digitalisierung & Innovation
 ----------------------------
 
-Wir leben in Zeiten des Umbruchs – der technologische Fortschritt wird immer rasanter und die digitale Vernetzung immer globaler. Die damit einhergehenden Fragestellungen betreffen Veränderungen in unserer Verwaltung, in unserem Alltagsleben und unserer Demokratie genauso wie in österreichischen Unternehmen. Zentrale Herausforderung für die Politik ist es hierbei, Chancen bestmöglich zu nutzen und Risiken frühzeitig zu minimieren.
+Wir leben in Zeiten des Umbruchs – der technologische Fortschritt wird immer rasanter und die digitale Vernetzung immer globaler.
+Die damit einhergehenden Fragestellungen betreffen Veränderungen in unserer Verwaltung, in unserem Alltagsleben und unserer Demokratie genauso wie in österreichischen Unternehmen.
+Zentrale Herausforderung für die Politik ist es hierbei, Chancen bestmöglich zu nutzen und Risiken frühzeitig zu minimieren.
 
-Die Bundesregierung bekennt sich zu dem Ziel, Österreich zu einer der führenden Digitalnationen innerhalb der Europäischen Union zu machen. Jede Österreicherin und jeder Österreicher soll die Vorteile der Digitalisierung in allen Lebensbereichen möglichst eigenverantwortlich, transparent und erfolgreich nützen können. Eine aktive Digitalisierungspolitik schafft dafür gesellschaftspolitische, wirtschaftliche, rechtliche, infrastrukturelle und demokratische Rahmenbedingungen und sichert den Aufbau digitaler Kompetenzen.
+Die Bundesregierung bekennt sich zu dem Ziel, Österreich zu einer der führenden Digitalnationen innerhalb der Europäischen Union zu machen.
+Jede Österreicherin und jeder Österreicher soll die Vorteile der Digitalisierung in allen Lebensbereichen möglichst eigenverantwortlich, transparent und erfolgreich nützen können.
+Eine aktive Digitalisierungspolitik schafft dafür gesellschaftspolitische, wirtschaftliche, rechtliche, infrastrukturelle und demokratische Rahmenbedingungen und sichert den Aufbau digitaler Kompetenzen.
 
-Die Grundlage für diesen Fortschritt bildet eine flächendeckende, technologieneutrale Breitband-Versorgung in ganz Österreich. Eine umfassende Breitbandstrategie sorgt für effizienten und raschen Ausbau der benötigten Breitband-Infrastrukturen. Empfehlungen des Rechnungshofes im Bereich digitale Infrastrukturen werden dabei berücksichtigt.
+Die Grundlage für diesen Fortschritt bildet eine flächendeckende, technologieneutrale Breitband-Versorgung in ganz Österreich.
+Eine umfassende Breitbandstrategie sorgt für effizienten und raschen Ausbau der benötigten Breitband-Infrastrukturen.
+Empfehlungen des Rechnungshofes im Bereich digitale Infrastrukturen werden dabei berücksichtigt.
 
-Darauf aufbauend soll die öffentliche Verwaltung durch die Digitalisierung einfacher werden – modern, effizient und bürgerorientiert – mit Fokus auf die Menschen und deren Lebenssituationen. Höchstmöglicher und vollumfängliche Kontrolle über die eigenen Daten sind dafür Grundvoraussetzungen. Open Data schafft neue Möglichkeiten für gesteigerte Transparenz von Politik und eine vorausschauende Netzpolitik sichert Grund-
-und Persönlichkeitsrechte im digitalen Raum.
+Darauf aufbauend soll die öffentliche Verwaltung durch die Digitalisierung einfacher werden – modern, effizient und bürgerorientiert – mit Fokus auf die Menschen und deren Lebenssituationen.
+Höchstmöglicher und vollumfängliche Kontrolle über die eigenen Daten sind dafür Grundvoraussetzungen. :index:`Open Data` schafft neue Möglichkeiten für gesteigerte Transparenz von Politik und eine vorausschauende Netzpolitik sichert Grund- und Persönlichkeitsrechte im digitalen Raum.
 
-Österreichs Beitrag auf in in Bezug Zukunftstechnologien und neuen Technologiefeldern wird weiter gestärkt (Wirtschaft 4.0). Die Künstliche-Intelligenz-Strategie des Bundes umfasst die Klärung regulativer Fragen, die Schaffung von Infrastrukturen sowie die Definition von Schwerpunkten. Der öffentliche Sektor sowie der Wirtschaftsstandort stehen dabei ebenso im Fokus wie Fragen der Menschenwürde und Demokratie.
+Österreichs Beitrag auf in in Bezug Zukunftstechnologien und neuen Technologiefeldern wird weiter gestärkt (Wirtschaft 4.0).
+Die Künstliche-Intelligenz-Strategie des Bundes umfasst die Klärung regulativer Fragen, die Schaffung von Infrastrukturen sowie die Definition von Schwerpunkten.
+Der öffentliche Sektor sowie der Wirtschaftsstandort stehen dabei ebenso im Fokus wie Fragen der Menschenwürde und Demokratie.
 
 Flächendeckende technologieneutrale Breitband-Versorgung österreichweit sicherstellen
 -------------------------------------------------------------------------------------
@@ -48,7 +56,7 @@ Flächendeckende technologieneutrale Breitband-Versorgung österreichweit sicher
 
 - Fairen Wettbewerb im Leitungsnetz sicherstellen
 
-- Zugangsbedingungen zu bestehenden und künftigen Open-Access Netzen zu standardisierten Sätzen evaluieren
+- Zugangsbedingungen zu bestehenden und künftigen :index:`Open-Access` Netzen zu standardisierten Sätzen evaluieren
 
 - Die Bundesregierung bekennt sich zur Netzneutralität nach Vorgaben der EU.
 
@@ -130,31 +138,31 @@ Eine staatliche Verwaltung für das 21. Jahrhundert mit den Bürgerinnen und Bü
 
 - Die Bundesregierung bekennt sich zur Schaffung europäischer Infrastruktur und Innovation, um europäische Kräfte zu bündeln.
 
-- Bug-Bounty-Programme für mögliche vom Bund eingesetzte Open Source Software
+- Bug-Bounty-Programme für mögliche vom Bund eingesetzte :index:`Open Source` Software
 
 - Weiterentwicklung des USP mit besonderem Fokus auf der Erleichterung der Eingabe von Daten durch die Gemeinden
 
-Open Data: Offene Daten als Chance für Transparenz
---------------------------------------------------
+:index:`Open Data: Offene Daten als Chance für Transparenz`
+-----------------------------------------------------------
 
-- Die Bundesregierung bekennt sich zur umfassenden und rechtzeitigen Umsetzung der Public-Sector-Information (PSI)/Open Data-Richtlinie der Europäischen Union und wird die PSI-Taskforce tatkräftig unterstützen und im kontinuierlichen Austausch sein.
+- Die Bundesregierung bekennt sich zur umfassenden und rechtzeitigen Umsetzung der Public-Sector-Information (PSI)/:index:`Open Data-Richtlinie` der Europäischen Union und wird die PSI-Taskforce tatkräftig unterstützen und im kontinuierlichen Austausch sein.
 
-  * Eine Öffnung der Verkehrsauskunft Österreich als Open Service und Open Data soll koordiniert durch den Bund ermöglicht werden.
+  * Eine Öffnung der Verkehrsauskunft Österreich als :index:`Open Service` und :index:`Open Data` soll koordiniert durch den Bund ermöglicht werden.
 
-- Entwicklung einer Umsetzungsstrategie, um das Prinzip Open by Default für nicht personalisierte Daten des Bundes zu etablieren. Ausnahmen zum Schutz von Bürgerinnen und Bürgern sowie unternehmensspezifischen Daten sind zu definieren.
+- Entwicklung einer Umsetzungsstrategie, um das Prinzip :index:`Open by Default` für nicht personalisierte Daten des Bundes zu etablieren. Ausnahmen zum Schutz von Bürgerinnen und Bürgern sowie unternehmensspezifischen Daten sind zu definieren.
 
-- Basierend auf dem Open Data Screening 2017 erstellt die Bundesregierung einen Maßnahmenplan, um die Verwaltungstransparenz anzuheben.
+- Basierend auf dem :index:`Open Data Screening 2017` erstellt die Bundesregierung einen Maßnahmenplan, um die Verwaltungstransparenz anzuheben.
 
   * Unterstützungsangebote für Bundesinstitutionen, Länder und Gemeinden sollen erarbeitet werden.
   * Ziel ist die Zurverfügungstellung der veröffentlichten Daten zum Budget in einer maschinenlesbaren Form.
 
-- Eine Teilnahme an Open Government Partnership wird geprüft.
+- Eine Teilnahme an :index:`Open Government Partnership` wird geprüft.
 
-- Erstellung eines Masterplans (inklusive Machbarkeitsstudie), um eine Strategie zur Nutzung von Open Source Software im Bund zu entwickeln.
+- Erstellung eines Masterplans (inklusive Machbarkeitsstudie), um eine Strategie zur Nutzung von :index:`Open Source` Software im Bund zu entwickeln.
 
 - Prüfung der Digitalisierung/Erschließung von Archiven des Bundes
 
-- Aufbau eines Digital Data Hubs innerhalb der Open Data Struktur des Bundes, der kuratierte, aufbereitete und anonymisierte Daten für gemeinwohlorientierte Forschung und Entwicklung zur Verfügung stellt
+- Aufbau eines Digital Data Hubs innerhalb der :index:`Open Data` Struktur des Bundes, der kuratierte, aufbereitete und anonymisierte Daten für gemeinwohlorientierte Forschung und Entwicklung zur Verfügung stellt
 
   * Möglichkeit schaffen, dass Unternehmen hierzu ihre Daten (anonymisiert) miteinander auf freiwilliger Basis teilen können
   * Kriterien zur wirkungsvollen Anonymisierung von personenbezogenen Daten sind zu entwickeln.
