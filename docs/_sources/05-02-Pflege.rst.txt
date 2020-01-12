@@ -4,22 +4,19 @@ Pflege
 
 :download:`Kapitel als PDF <../split/05-02-Pflege.pdf>` (Teil des :download:`Originals <../original/RP2020.pdf>`).
 
-.. todo::
-  Formatieren, Überarbeiten, Original gegenchecken
-
 Pflegebedürftigkeit ist eines der großen unberechenbaren Risiken des Lebens wie Unfall, Krankheit oder Arbeitslosigkeit. Mehr als 460.000 Menschen beziehen in Österreich Pflegegeld und mehr als 950.000 Menschen pflegen ihre Angehörigen. Die demographischen Entwicklungen lassen diese Zahlen in den nächsten Jahren deutlich ansteigen. Die Bündelung und der Ausbau der bestehenden Finanzierungsströme (Pflegeversicherung) seitens des Bundes werden dazu beitragen, diese Herausforderungen zu meistern.
 
 Qualitätsvolle Pflege ermöglicht ein Leben in Würde. Daher soll jeder Mensch, der sie benötigt, die bestmögliche Pflege erhalten. Die neue Bundesregierung erkennt die großartige Arbeit, die bereits jetzt in diesem Bereich, sowohl von engagierten Pflegerinnen und Pflegern als auch im Rahmen der Familienarbeit, in der Regel von Frauen, mit großer Sorgfalt und Zuwendung geleistet wird, an. Der Staat Österreich darf die Verantwortung dafür aber nicht allein auf die Schultern der Angehörigen laden, sondern hat seine wichtige Aufgabe wahrnehmen. Das bestmögliche Zusammenspiel zwischen der professionellen Pflege, den Unterstützungsstrukturen und der Betreuung zu Hause gilt es, politisch auszuloten.
 
 Es ist deshalb unsere Aufgabe, pflegebedürftigen älteren Menschen Hilfe zu leisten, die wegen der Schwere der Pflegebedürftigkeit auf solidarische Unterstützung angewiesen sind. Es ist daher notwendig, in Abstimmung mit den zuständigen Bundesländern eine grundlegende Reform der Pflege sicherzustellen. Wir werden einen Fokus auf die bestmögliche Unterstützung von betreuungs- und pflegebedürftigen Menschen sowie ihrer An- und Zugehörigen und Pflegenden legen. Dazu zählt neben mehr Wertschätzung auch die Möglichkeit, durch präventive Maßnahmen persönliche, gesundheitliche oder gar finanzielle Folgen im Alter abzufedern. Gerade sog. „young carers“ (pflegende Kinder und Jugendliche) sind verstärkt präventiv zu entlasten.
 
-Um Menschen zu ermöglichen, weiterhin in ihrem Zuhause betreut zu werden, wird zur Entlastung der pflegenden Angehörigen die mobile Pflege und Betreuung ausgebaut und weiterentwickelt. Ziel ist es, Entlastungsangebote, wie zum Beispiel eine Ersatzpflege und die Möglichkeit, einmal pr  * Monat einen pflegefreien Tag zu bekommen, zu schaffen. Die Pflege eines bzw. einer Angehörigen soll möglich und mit dem Beruf vereinbar sein, wenn sie gebraucht wird. Durch ein ausgeweitetes Angebot an Beratung und Information sollen Pflegende zusätzlich in ihrer Arbeit unterstützt werden.
+Um Menschen zu ermöglichen, weiterhin in ihrem Zuhause betreut zu werden, wird zur Entlastung der pflegenden Angehörigen die mobile Pflege und Betreuung ausgebaut und weiterentwickelt. Ziel ist es, Entlastungsangebote, wie zum Beispiel eine Ersatzpflege und die Möglichkeit, einmal pro Monat einen pflegefreien Tag zu bekommen, zu schaffen. Die Pflege eines bzw. einer Angehörigen soll möglich und mit dem Beruf vereinbar sein, wenn sie gebraucht wird. Durch ein ausgeweitetes Angebot an Beratung und Information sollen Pflegende zusätzlich in ihrer Arbeit unterstützt werden.
 
 Ziel der neuen Bundesregierung ist es, qualitätsvolle Pflege auch in Zukunft zu sichern. Eine Personaloffensive sowie eine Erweiterung und Flexibilisierung des Ausbildungsangebots werden dem Pflegekräftemangel entgegengesetzt. Um die vorhandenen finanziellen, personellen und fachlichen Ressourcen und Mittel bestmöglich einzusetzen und die zukünftigen Versorgungsstrukturen zu planen, wird es eine neue, engere und strukturierte Zusammenarbeit zwischen allen Akteurinnen und Akteuren geben.
 
 Eine besondere Form der Pflege stellt die Palliativ- und Hospizpflege dar. Diese versucht, Menschen mit unheilbaren Krankheiten ein Lebensende in Würde zu ermöglichen. Diese Form der Pflege hat in Österreich oftmals durch das Engagement von vielen Freiwilligen funktioniert. Gerade in dieser schwierigen Zeit braucht es aber eine unkomplizierte und vor allem sichere Stütze für pflegebedürftige Menschen und ihre Angehörigen. In dieser Legislaturperiode wird die Finanzierung der Palliativpflege und des Hospizes auf sichere Beine gestellt.
 
-Weiters ist es wichtig, den Gesundheits- sowie Pflegebereich stets gesamthaft zu betrachten. Ziel muss es sein, durch Prävention und Rehabilitation den Anteil an gesunden Jahren zu erhöhen und somit Pflegebedürftigkeit s  * lange wie möglich zu vermeiden.
+Weiters ist es wichtig, den Gesundheits- sowie Pflegebereich stets gesamthaft zu betrachten. Ziel muss es sein, durch Prävention und Rehabilitation den Anteil an gesunden Jahren zu erhöhen und somit Pflegebedürftigkeit solange wie möglich zu vermeiden.
 
 Grundprinzipien
 ---------------
@@ -28,7 +25,7 @@ Grundprinzipien
 
 - Schwerpunkt rechtzeitige Prävention, bei Pflegebedürftigen, pflegenden Angehörigen und Pflegekräften
 
-- S  * viel wie möglich daheim und ambulant – s  * viel wie nötig stationär
+- Soviel wie möglich daheim und ambulant – soviel wie nötig stationär
 
 - Wohnortnahe und dezentrale Angebote
 
@@ -51,7 +48,7 @@ Unterstützung pflegender Angehöriger
 
 - Stärkung der Selbsthilfe und Zivilgesellschaft sowie des ehrenamtlichen Engagements: Stärkere Förderung von Angehörigengruppen, Besuchsdiensten und Koordination von Freiwilligen
 
-- Pflegefreier Tag als Unterstützung für pflegende Angehörige und Burn-out-Prophylaxe: Ziel ist es, dass Angehörige, die die Pflege und Betreuung übernehmen, das Recht auf einen pflegefreien Tag pr  * Monat erhalten
+- Pflegefreier Tag als Unterstützung für pflegende Angehörige und Burn-out-Prophylaxe: Ziel ist es, dass Angehörige, die die Pflege und Betreuung übernehmen, das Recht auf einen pflegefreien Tag pro Monat erhalten
 
 - Unterstützung von Kindern und Jugendlichen als pflegende und betreuende Angehörige: erhöhte Aufmerksamkeit gegenüber dieser Gruppe und Erarbeitung zielgruppenorientierter und innovativer Unterstützungsangebote
 
@@ -63,7 +60,7 @@ Unterstützung pflegender Angehöriger
 
 - Demenzstrategie österreichweit ausrollen und mit Ressourcen versehen
 
-- Projekt Community Nurses in 500 Gemeinden: Angehörige erhalten professionelle Unterstützung von Community Nurses als zentrale Ansprechpersonen für die zu Pflegenden, die Angehörigen, zur Koordination von mobilen Pflege- und Betreuungsdiensten, medizinischen und sozialen Leistungen sowie zur Koordination von Therapien. Community Nurses haben eine zentrale Bedeutung im Präventionsbereich, als  * VOR Eintreten der Pflegebedürftigkeit (präventive Hausbesuche ab dem 75. Lebensjahr, Ernährung, Mobilität etc.)
+- Projekt Community Nurses in 500 Gemeinden: Angehörige erhalten professionelle Unterstützung von Community Nurses als zentrale Ansprechpersonen für die zu Pflegenden, die Angehörigen, zur Koordination von mobilen Pflege- und Betreuungsdiensten, medizinischen und sozialen Leistungen sowie zur Koordination von Therapien. Community Nurses haben eine zentrale Bedeutung im Präventionsbereich, also VOR Eintreten der Pflegebedürftigkeit (präventive Hausbesuche ab dem 75. Lebensjahr, Ernährung, Mobilität etc.)
 
 - Rechtssicherheit für Eltern von Kindern mit chronischer Krankheit bze. Behinderung in Abstimmung mit den Ländern: Kinder mit chronischen Erkrankungen oder einer Behinderung brauchen Sicherheit für ihr weiteres, selbstbestimmtes und abgesichertes Leben nach dem Tod der sie pflegenden Eltern, auch wenn diese Kinder im Erwachsenenalter sind. Dazu gilt es, Wohn- und Arbeitsmodelle zu erarbeiten und zur Verfügung zu stellen.
 

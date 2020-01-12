@@ -4,9 +4,6 @@ Gesundheit
 
 :download:`Kapitel als PDF <../split/05-05-Gesundheit.pdf>` (Teil des :download:`Originals <../original/RP2020.pdf>`).
 
-.. todo::
-   Überarbeiten, Original gegenchecken
-
 Österreichs Gesundheitssystem bietet qualitativ hochwertige Versorgung für alle Österreicherinnen und Österreicher unabhängig ihres Krankheitsrisikos und ihrer finanziellen Möglichkeiten. Diese hohe Qualität soll nachhaltig finanziell abgesichert sein. Daher suchen wir neue Wege zur Attraktivierung für die Versicherten, aber auch für im Gesundheitsbereich tätigen Berufsgruppen. Damit auch in Zukunft ein niederschwelliger Zugang zur bestmöglichen medizinischen Versorgung mit möglichst kurzen Wartezeiten gewährleistet werden kann, bedarf es vor allem eines Ausbaus der flächendeckenden wohnortnahen Versorgung und eines besonderen Fokus auf das Thema Prävention. Eine verbesserte Abstimmung der medizinischen Versorgung zwischen Bund, Ländern und Sozialversicherung und damit eine Stärkung der Bundeszielsteuerung mit zielgerichteten Angeboten für die Versicherten ist daher unser Ziel.
 
 Die Weiterentwicklung des Gesundheitssystems umfasst neben einer bedarfsorientierten Ausbildung von u.a. Ärztinnen und Ärzten die Aufwertung von Diplomierten Gesundheits- und Pflegefachkräften sowie deren optimierte Zusammenarbeit in neuen Versorgungsformen. Dies beinhaltet auch den Ausbau der Primärversorgungseinheiten zur zielgerichteten Inanspruchnahme medizinischer und therapeutischer Leistungen. Einschreibmodelle mit Anreizsystemen sind für alle Patientinnen und Patienten zu etablieren. Um die Zusammenarbeit der Gesundheitsberufe zu verbessern, sollen auch neue Gesundheits- und Sozialberufe gestärkt werden, psychotherapeutische Leistungen ausgeweitet und ein besonderer Fokus auf Kindergesundheit gelegt werden.
@@ -19,7 +16,7 @@ Die medizinische Ausbildung wird attraktiver gestaltet und durch eine Stipendien
 
 Im Rahmen der Gesundheitsförderung bekennen wir uns unter anderem zu einer Stärkung der präventiven Maßnahmen durch eine österreichweite Präventionsstrategie, damit die persönliche Gesundheit verbessert wird. Neben finanziellen und sachlichen Anreizen für die Teilnahme an Präventionsprogrammen soll die Prävention auch in Schulen und Betrieben gestärkt werden. Durch ein Anreizsystem von Präventionsprogrammen sollen allen Österreicherinnen und Österreichern mehr gesunde Jahre ermöglicht werden.
 
-Fortschritte der Digitalisierung sollen auch im Gesundheitsbereich einen einfacheren und verbesserten Zugang zu medizinischen Leistungen ermöglichen. Die Weiterentwicklung der E-Card als Schlüssel für papierlose Prozesse soll unter Beachtung des Datenschutzes eine deutliche Vereinfachung für alle Beteiligten im Gesundheitssystem bringen. Ebens  * wollen wir die Digitalisierung in Diagnose, Behandlung und (medizinischer) Forschung vorantreiben und somit den Gesundheitsstandort Österreich weiter stärken.
+Fortschritte der Digitalisierung sollen auch im Gesundheitsbereich einen einfacheren und verbesserten Zugang zu medizinischen Leistungen ermöglichen. Die Weiterentwicklung der E-Card als Schlüssel für papierlose Prozesse soll unter Beachtung des Datenschutzes eine deutliche Vereinfachung für alle Beteiligten im Gesundheitssystem bringen. Ebenso wollen wir die Digitalisierung in Diagnose, Behandlung und (medizinischer) Forschung vorantreiben und somit den Gesundheitsstandort Österreich weiter stärken.
 
 Dadurch bleibt Menschen in Gesundheitsberufen mehr Zeit für Kontakte zu Patientinnen und Patienten.
 
@@ -150,8 +147,8 @@ Optimale Bedingungen im Gesundheitssystem
   * Gemeinsame Definition von Leistungsund Qualitätszielen zwischen Ländern und Sozialversicherung
 
 - Transparenz und Qualität ausbauen
-  * Unabhängige Qualitätssicherung für den niedergelassenen und stationären Bereich sicherstellen
 
+  * Unabhängige Qualitätssicherung für den niedergelassenen und stationären Bereich sicherstellen
   * Für Patientenentscheidungen relevante Informationen sollen niederschwellig zugänglich sein
   * Rahmenbedingungen für Innovation und Planungssicherheit (z.B. Pilotprojekte, Forschung) optimieren
   * Bekämpfung von Parallelexporten

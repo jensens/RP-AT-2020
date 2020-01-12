@@ -4,11 +4,20 @@ Bildung
 
 :download:`Kapitel als PDF <../split/06-01-Bildung.pdf>` (Teil des :download:`Originals <../original/RP2020.pdf>`).
 
-Bildung ist eine unserer wichtigsten Investitionen in die Zukunft. Sie ermöglicht die Entfaltung der Persönlichkeit und Talente, bewirkt mehr Chancengerechtigkeit, ebnet den Weg zu einer passenden Berufswahl und schafft so das Fundament für ökonomische Unabhängigkeit sowie für ein selbstbestimmtes Leben. Österreich hat ein gutes und starkes öffentliches Bildungssystem, das für alle offensteht. Gleichzeitig gibt es auch Bereiche, in denen wir besser werden müssen und wollen.
+Bildung ist eine unserer wichtigsten Investitionen in die Zukunft.
+Sie ermöglicht die Entfaltung der Persönlichkeit und Talente, bewirkt mehr Chancengerechtigkeit, ebnet den Weg zu einer passenden Berufswahl und schafft so das Fundament für ökonomische Unabhängigkeit sowie für ein selbstbestimmtes Leben.
+Österreich hat ein gutes und starkes öffentliches Bildungssystem, das für alle offensteht.
+Gleichzeitig gibt es auch Bereiche, in denen wir besser werden müssen und wollen.
 
-Kinderbetreuungseinrichtungen und Schulen sind Orte der Gemeinschaft, an denen Gesellschaft entsteht. Wir wollen für diese ersten prägenden Lebensphasen einen stabilen, stützenden und schützenden Rahmen schaffen und damit Eltern auch die Sicherheit geben, dass ihre Kinder gut aufgehoben sind. Die Bundesregierung bekennt sich dazu, unser Bildungssystem zu stärken, indem wir auf Bewährtes aufbauen und nötige Reformen nach internationalen Erfolgsbeispielen umsetzen. Unser Ziel muss es sein, dass in Österreich kein junger Mensch das Bildungssystem verlässt, ohne die nötigen Grundkompetenzen zu beherrschen, die für ein selbstständiges Leben, gesellschaftliche und politische Teilhabe sowie Erfolg am Arbeitsmarkt notwendig sind.
+Kinderbetreuungseinrichtungen und Schulen sind Orte der Gemeinschaft, an denen Gesellschaft entsteht.
+Wir wollen für diese ersten prägenden Lebensphasen einen stabilen, stützenden und schützenden Rahmen schaffen und damit Eltern auch die Sicherheit geben, dass ihre Kinder gut aufgehoben sind.
+Die Bundesregierung bekennt sich dazu, unser Bildungssystem zu stärken, indem wir auf Bewährtes aufbauen und nötige Reformen nach internationalen Erfolgsbeispielen umsetzen.
+Unser Ziel muss es sein, dass in Österreich kein junger Mensch das Bildungssystem verlässt, ohne die nötigen Grundkompetenzen zu beherrschen, die für ein selbstständiges Leben, gesellschaftliche und politische Teilhabe sowie Erfolg am Arbeitsmarkt notwendig sind.
 
-Neben den betroffenen Schülerinnen und Schülern werden besonders die Pädagoginnen und Pädagogen im Zentrum unserer Bemühungen stehen. Sie leisten hervorragende Arbeit und verdienen dabei weitere Unterstützung für ihre verantwortungsvollen Aufgaben. Darüber hinaus werden wir die Berufsbildung für die Fachkräfte der Zukunft stärken und das Angebot für lebensbegleitende Erwachsenenbildung ausbauen. Wir wollen Rahmenbedingungen für alle Kinder und Jugendlichen zur Verfügung stellen, die Leistung ebenso ermöglichen wie Kreativität, Bewegung und die Entwicklung sozialer Fähigkeiten.
+Neben den betroffenen Schülerinnen und Schülern werden besonders die Pädagoginnen und Pädagogen im Zentrum unserer Bemühungen stehen.
+Sie leisten hervorragende Arbeit und verdienen dabei weitere Unterstützung für ihre verantwortungsvollen Aufgaben.
+Darüber hinaus werden wir die Berufsbildung für die Fachkräfte der Zukunft stärken und das Angebot für lebensbegleitende Erwachsenenbildung ausbauen.
+Wir wollen Rahmenbedingungen für alle Kinder und Jugendlichen zur Verfügung stellen, die Leistung ebenso ermöglichen wie Kreativität, Bewegung und die Entwicklung sozialer Fähigkeiten.
 
 Stärkung der elementaren Bildung
 --------------------------------
@@ -220,7 +229,7 @@ Schulorganisation verbessern
 
   * Erstellung einer MINT-Bedarfslandkarte in Zusammenarbeit mit den regionalen Stakeholdern und darauf aufbauend eine bedarfsgerechte Erhöhung der derzeitigen Ausbildungsplätze im höher qualifizierten MINT-Bereich
   * Reform des Mathematik-Unterrichts unter Berücksichtigung international anerkannter Beispiele und bereits bestehender Programme in Österreich. Mathematik soll auch ohne digitale Rechenhilfen beherrscht werden.
-  * Prüfung der Entwicklung einer Cyber-HTL-Fachrichtung und IT-HTL mit Schwerpunkt auf Cyber Security
+  * Prüfung der Entwicklung einer :index:`Cyber-HTL-Fachrichtung` und IT-HTL mit Schwerpunkt auf :index:`Cyber Security`
 
 - Auslandserfahrung und europäische Vernetzung fördern: Stärkere Nutzung von Erasmus+
 

@@ -199,7 +199,7 @@ Netzpolitik vorausschauend gestalten
 
   * Eine Erweiterung des Rekrutierungskreises außerhalb des Personenkreises der öffentlich Bediensteten ist zu prüfen.
 
-- Prüfung der Einrichtung einer Kompetenzstelle für IT-Sicherheit, Cybersicherheit sowie Datenschutztechnik und als Prüf- und Beratungsstelle für die öffentliche Verwaltung, Wirtschaft sowie Bürgerinnen und Bürger. Zusammenarbeit mit österreichischen, europäischen und internationalen Datenschutz- und Datensicherheitseinrichtungen
+- Prüfung der Einrichtung einer Kompetenzstelle für IT-Sicherheit, :index:`Cybersicherheit` sowie Datenschutztechnik und als Prüf- und Beratungsstelle für die öffentliche Verwaltung, Wirtschaft sowie Bürgerinnen und Bürger. Zusammenarbeit mit österreichischen, europäischen und internationalen Datenschutz- und Datensicherheitseinrichtungen
 
 - Durchführung hersteller- bzw. betreiberunabhängiger Technikfolgenabschätzungen bei wesentlichen öffentlichen Digitalisierungsvorhaben sowie verstärkte Durchführung von Technikfolgenabschätzungen bei risikogeneigten Regelungsmaterien (z.B. intelligente Transportsysteme, selbstfahrende Fahrzeuge, Assistenz- und Leitsysteme etc.)
 

@@ -229,7 +229,7 @@ Strafrecht an aktuelle Herausforderungen anpassen
 
 - Strukturierte Mitwirkung der Staatsanwaltschaft bei der Bekämpfung des organisierten Schlepperwesens
 
-- Maßnahmenpaket für die Bekämpfung im Bereich der organisierten Kriminalität, u.a. durch härtere Strafen für Hintermänner und mehr Unterstützung für Betroffene mit klarer Unterscheidung zwischen Opfer und Täter:  
+- Maßnahmenpaket für die Bekämpfung im Bereich der organisierten Kriminalität, u.a. durch härtere Strafen für Hintermänner und mehr Unterstützung für Betroffene mit klarer Unterscheidung zwischen Opfer und Täter:
 
   * Menschenhandel und Ausbeutung,
   * Zwangsprostitution,
@@ -246,7 +246,7 @@ Strafrecht an aktuelle Herausforderungen anpassen
 
 - Stärkung von Sicherheit, Rechtsfrieden und des Schutzes der höchsten Rechtsgüter, nicht nur in der analogen Welt, sondern auch in der digitalen Welt:
 
-  * Erarbeitung zeitgemäßer und Erweiterung bzw. Präzisierung vorhandener Straftatbestände zur Bekämpfung aller Arten von Cyberkriminalität sowie Prüfung der Erhöhung der derzeit in Geltung stehenden Strafrahmen.
+  * Erarbeitung zeitgemäßer und Erweiterung bzw. Präzisierung vorhandener Straftatbestände zur Bekämpfung aller Arten von :index:`Cyberkriminalität` sowie Prüfung der Erhöhung der derzeit in Geltung stehenden Strafrahmen.
   * Bündelung staatsanwaltlicher Ermittlungskompetenzen zur Bekämpfung digitaler Verbrechen
 
 - Kampf gegen Umweltkriminalität:
@@ -382,7 +382,7 @@ Schutz vor Gewalt und Hass im Netz
 
 - Verfolgung von „Hass im Netz“
 
-  * Bündelung der Ressourcen im Zusammenhang mit Cyberkriminalität für die Staatsanwaltschaften (Spezialzuständigkeit).
+  * Bündelung der Ressourcen im Zusammenhang mit :index:`Cyberkriminalität` für die Staatsanwaltschaften (Spezialzuständigkeit).
   * Schulungen für Mitarbeiterinnen und Mitarbeiter der Justiz in Kooperation mit dem Innenministerium.
   * Bei Privatanklagedelikten sollte in der StPo für bestimmte Fälle (Hasskriminalität) eine Ermittlungspflicht der Strafverfolgungsbehörden eingeführt werden, weil die Ausforschung zeit- und kostenintensiv ist.
 

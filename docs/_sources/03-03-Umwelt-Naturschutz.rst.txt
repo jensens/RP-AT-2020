@@ -4,14 +4,11 @@ Umwelt- und Naturschutz
 
 :download:`Kapitel als PDF <../split/03-03-Umwelt-Naturschutz.pdf>` (Teil des :download:`Originals <../original/RP2020.pdf>`).
 
-.. todo::
-  Überarbeiten, Original gegenchecken
-
 Gute Luft, sauberes Trinkwasser, fruchtbare Böden und Artenvielfalt sind unsere Lebensgrundlagen. Österreich genießt das Privileg vielfältiger, wunderschöner Natur. Unsere Umwelt steht aber auch unter Druck: Flächenversiegelung, Artensterben, Bodenerosion oder Luftverschmutzung sind die Herausforderungen, die gemeinsam bearbeitet und gelöst werden sollen. Dies bedarf der Unterstützung aller. Denn der Schutz unserer Lebensgrundlage hat Priorität. Dafür ist ein Umsteuern notwendig: Anstatt ständig mehr Ressourcen zu verbrauchen, soll intelligenter produziert und konsumiert werden. Durch eine ambitionierte Umweltpolitik sichern wir Lebensqualität und ermöglichen damit Gesundheit, gute Ernährung, Wohlstand, einen zukunftsfähigen Standort und eine lebenswerte Welt für nachfolgende Generationen.
 
 Österreich ist Vorreiter in der Umwelttechnologie – wir exportieren unser Wissen in die ganze Welt. Dabei zeigen wir immer wieder, dass Umweltund Wirtschaftspolitik kein Widerspruch sein müssen. Vielmehr können sie Hand in Hand gehen. Echte Kreislaufwirtschaft arbeitet dabei nach den Prinzipien „Vermeiden, Wiederverwenden und Verwerten“, denn wertvolle Ressourcen müssen verantwortungsbewusst, sparsam und effizient genutzt werden. Der Abfall von heute ist der Rohstoff von morgen. Längere Lebenszyklen machen nicht nur aus ökologischer und ökonomischer Sicht Sinn: Auch die Konsumentinnen und Konsumenten genießen die Vorteile von langlebigen und innovativen Produkten. Wir werden die Lebensmittelverschwendung reduzieren und das Reparieren fördern.
 
-Die Vielfalt der Ökosysteme, der Tier- und Pflanzenarten und die genetische Vielfalt innerhalb der Arten sind die Basis unserer Ernährung und gewährleisten eine gesunde Lebenswelt für uns alle. Intakte Ökosysteme bieten zudem Schutz vor Naturgefahren und tragen zur Klimaregulierung bei. Die Bundesregierung übernimmt die Verantwortung für den Schutz der Biodiversität. Sie setzt in allen Sektoren Initiativen zum Erhalt der Artenvielfalt, zum Verbund von Lebensräumen und zur Förderung der Strukturvielfalt.Der Schutz von Gewässern, Luft und Böden ist der Bundesregierung ein großes Anliegen. Wir wollen einen Zielpfad einschlagen, um das Sustainable Development Goal „Gesundes Leben“ umzusetzen, das heißt, bis 2030 die Belastungen aufgrund gefährlicher Chemikalien und der Verschmutzung und Verunreinigung von Luft, Wasser und Boden erheblich zu verringern. Unser Land profitiert in jeglicher Hinsicht von hohen Umwelt- und Naturschutzstandards, diese gilt es zu verteidigen und zu stärken. Es ist ein Privileg, dass sauberes Trinkwasser rund um die Uhr in bester Qualität bereitsteht. Wasser ist ein wesentliches Element der Daseinsvorsorge und darf nicht privatisiert werden. Saubere und ökologisch intakte Gewässer sichern aber nicht nur die Versorgung mit Trinkwasser, sondern auch die Artenvielfalt und bieten Schutz vor Hochwasser. Gewässerökologische Maßnahmen und Maßnahmen zur Einhaltung der Grenzwerte für die Wasserqualität tragen dazu bei, die wertvollen österreichischen Wasserressourcen nachhaltig zu sichern. Ebens  * wichtig ist es, die Luftqualität in Österreich weiter zu verbessern - für die Gesundheit der Österreicherinnen und Österreicher und den Schutz unserer Ökosysteme. Ziel ist die Annäherung an die Richtwerte der Weltgesundheitsorganisation WHO, insbesondere durch die Weiterentwicklung und Umsetzung des nationalen Luftreinhalteprogramms und durch ambitionierte Maßnahmen zur Reduktion verkehrsbedingter Emissionen.
+Die Vielfalt der Ökosysteme, der Tier- und Pflanzenarten und die genetische Vielfalt innerhalb der Arten sind die Basis unserer Ernährung und gewährleisten eine gesunde Lebenswelt für uns alle. Intakte Ökosysteme bieten zudem Schutz vor Naturgefahren und tragen zur Klimaregulierung bei. Die Bundesregierung übernimmt die Verantwortung für den Schutz der Biodiversität. Sie setzt in allen Sektoren Initiativen zum Erhalt der Artenvielfalt, zum Verbund von Lebensräumen und zur Förderung der Strukturvielfalt.Der Schutz von Gewässern, Luft und Böden ist der Bundesregierung ein großes Anliegen. Wir wollen einen Zielpfad einschlagen, um das Sustainable Development Goal „Gesundes Leben“ umzusetzen, das heißt, bis 2030 die Belastungen aufgrund gefährlicher Chemikalien und der Verschmutzung und Verunreinigung von Luft, Wasser und Boden erheblich zu verringern. Unser Land profitiert in jeglicher Hinsicht von hohen Umwelt- und Naturschutzstandards, diese gilt es zu verteidigen und zu stärken. Es ist ein Privileg, dass sauberes Trinkwasser rund um die Uhr in bester Qualität bereitsteht. Wasser ist ein wesentliches Element der Daseinsvorsorge und darf nicht privatisiert werden. Saubere und ökologisch intakte Gewässer sichern aber nicht nur die Versorgung mit Trinkwasser, sondern auch die Artenvielfalt und bieten Schutz vor Hochwasser. Gewässerökologische Maßnahmen und Maßnahmen zur Einhaltung der Grenzwerte für die Wasserqualität tragen dazu bei, die wertvollen österreichischen Wasserressourcen nachhaltig zu sichern. Ebenso wichtig ist es, die Luftqualität in Österreich weiter zu verbessern - für die Gesundheit der Österreicherinnen und Österreicher und den Schutz unserer Ökosysteme. Ziel ist die Annäherung an die Richtwerte der Weltgesundheitsorganisation WHO, insbesondere durch die Weiterentwicklung und Umsetzung des nationalen Luftreinhalteprogramms und durch ambitionierte Maßnahmen zur Reduktion verkehrsbedingter Emissionen.
 
 Unsere Böden bilden die Grundlage für Nahrungsproduktion, sauberes Trinkwasser, Naturräume und Siedlungsentwicklung. Mit einer österreichweiten Bodenschutzstrategie werden gemeinsam mit den Bundesländern Grundsätze zur Reduktion des Flächenverbrauchs und zur Verbesserung der Bodenqualität festgelegt. Bei Fachplanungen des Bundes werden raumplanerische Aspekte des Klimaschutzes verstärkt berücksichtigt.
 
@@ -54,13 +51,9 @@ Kreislaufwirtschaft fördern und Abfallpolitik gestalten
 - Österreichisches Kunststoffprogramm – Reduktion von Plastik weiter vorantreiben:
 
   * Konsequente Umsetzung der Europäischen Einwegplastikrichtlinie mit dem Verbot bestimmter Einwegprodukte
-
   * Gesetzliche Verankerung des Reduktionsziels von Plastikverpackungen um 20%
-
   * Gezielte Maßnahmen zur Reduktion von Einwegplastikverpackungen, u.a. forcierte Kooperation mit Handel, Gastronomie und Herstellern zur Reduktion von Einweggebinden
-
   * Recyclierbarkeit als Produktionsvoraussetzung
-
   * Einsatz von Recyclatanteilen in der öffentlichen Beschaffung
 
 - Aktionsplan gegen Mikroplastik
@@ -68,6 +61,7 @@ Kreislaufwirtschaft fördern und Abfallpolitik gestalten
   * Datenerhebung und Evaluierung für Mikroplastikemissionen und Belastungen unter Einbeziehung aller einschlägigen Fachbereiche inklusive der Umwelttoxikologie mit dem Ziel, rechtliche Grundlagen für die Reduktion von Mikroplastik zu entwickeln
 
 - Einsetzen auf europäischer Ebene für:
+
   * Verbot von Mikroplastik in der Produktion (Ziel einer österreichischen Lösung, sollte es keine europäische Lösung geben)
   * Europaweiter Ausstieg aus der Verwendung von Mikroplastik in Kosmetika und Reinigungsmitteln
   * sollte kein europäisches Verbot kommen, Anstreben eines nationalen Verbotes von „add-ons“ (Mikroplastikpartikel in Produkten)
@@ -185,6 +179,7 @@ Saubere Luft und besserer Lärmschutz
 ------------------------------------
 
 - Zielpfad zur raschen Einhaltung der EU-Richtwerte zum Gesundheitsschutz und zur Einhaltung von SDG 3 Gesundes Leben
+
 - Weiterentwicklung und Umsetzung des nationalen Luftreinhalteprogramms
   * mit konkreten und quantifizierbaren Maßnahmen zur Erfüllung der europäischen Emissionsreduktionsverpflichtungen insbesondere für Ammoniak, Stickoxide und Feinstaub
   * mit Kostenschätzung und finanzieller Sicherstellung
@@ -222,7 +217,7 @@ Gesunde Böden und zukunftsfähige Raumordnung
 - Österreichweite Bodenschutzstrategie für sparsameren Flächenverbrauch
 
   * Umsetzung der ÖROK-Empfehlungen zur Stärkung der Orts- und Stadtkerne und zum Flächensparen, Flächenmanagement und zur aktiven Bodenpolitik
-  * Zielpfad zur Reduktion des Flächenverbrauchs auf Nett  * 2,5 ha/Tag bis 2030 und mittelfristig zusätzliche Bodenversiegelung durch Entsiegelung von entsprechenden Flächen kompensieren
+  * Zielpfad zur Reduktion des Flächenverbrauchs auf Netto 2,5 ha/Tag bis 2030 und mittelfristig zusätzliche Bodenversiegelung durch Entsiegelung von entsprechenden Flächen kompensieren
   * Ausweisung von landwirtschaftlichen Produktionsflächen und ökologischen Vorrangflächen
   * Bodenfunktionsbewertung inkl. CO2-Speicherkapazität
   * Verankerung von Regelungen zur Bodenschonung und zum Schutz der Agrarstruktur

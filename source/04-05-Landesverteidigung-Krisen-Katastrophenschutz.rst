@@ -2,11 +2,18 @@
 Landesverteidigung und Krisen- und Katastrophenschutz
 ------------------------------------------------------
 
-Österreich liegt heute als neutrales Land im Herzen eines geeinten und friedlichen Europas. Dennoch müssen wir neue Herausforderungen und Bedrohungen ernst nehmen und entsprechend vorbereitet sein.
+Österreich liegt heute als neutrales Land im Herzen eines geeinten und friedlichen Europas.
+Dennoch müssen wir neue Herausforderungen und Bedrohungen ernst nehmen und entsprechend vorbereitet sein.
 
-Auch und gerade weil sich die Anforderungen an eine umfassende Sicherheitsvorsorge und die in ihr eingebettete umfassende Landesverteidigung in unserem Land verändert haben, braucht es ein modernes, weiterentwickeltes, vielseitig einsetzbares Bundesheer. Deshalb muss sichergestellt sein, dass das Bundesheer ausreichend finanziell, personell und materiell ausgestattet ist, um weiterhin den Herausforderungen der Gegenwart, aber auch den Bedrohungen der Zukunft kompetent begegnen zu können. Das bedeutet, die Einsatzfähigkeit unseres Bundesheeres im In- und Ausland zielorientiert zu verbessern und den Grundwehr- und Zivildienst attraktiver zu machen. Darüber hinaus wollen wir Schwerpunkte auf die Bereiche Krisenund Katastrophenmanagement sowie neue Bedrohungsbilder wie etwa Cyber- Attacken legen. Denn unser Bundesheer ist die Sicherheitsgarantie, auf die wir uns alle verlassen.
+Auch und gerade weil sich die Anforderungen an eine umfassende Sicherheitsvorsorge und die in ihr eingebettete umfassende Landesverteidigung in unserem Land verändert haben, braucht es ein modernes, weiterentwickeltes, vielseitig einsetzbares Bundesheer.
+Deshalb muss sichergestellt sein, dass das Bundesheer ausreichend finanziell, personell und materiell ausgestattet ist, um weiterhin den Herausforderungen der Gegenwart, aber auch den Bedrohungen der Zukunft kompetent begegnen zu können.
+Das bedeutet, die Einsatzfähigkeit unseres Bundesheeres im In- und Ausland zielorientiert zu verbessern und den Grundwehr- und Zivildienst attraktiver zu machen.
+Darüber hinaus wollen wir Schwerpunkte auf die Bereiche Krisenund Katastrophenmanagement sowie neue Bedrohungsbilder wie etwa :index:`Cyber-Attacken` legen.
+Denn unser Bundesheer ist die Sicherheitsgarantie, auf die wir uns alle verlassen.
 
-In den kommenden Jahren und Jahrzehnten werden trotz unseres massiv gesteigerten Engagements für den Klimaschutz, auch klimawandelbedingte Naturkatastrophen immer häufiger und schwerer. Darum gilt es, das staatliche Krisen- und Katastrophenmanagement auf die neuen Herausforderungen vorzubereiten und dadurch eine Steigerung der Resilienz Österreichs zu gewährleisten. Die Sicherheit und Versorgung unserer Bevölkerung ist hier unser oberstes Ziel.
+In den kommenden Jahren und Jahrzehnten werden trotz unseres massiv gesteigerten Engagements für den Klimaschutz, auch klimawandelbedingte Naturkatastrophen immer häufiger und schwerer.
+Darum gilt es, das staatliche Krisen- und Katastrophenmanagement auf die neuen Herausforderungen vorzubereiten und dadurch eine Steigerung der Resilienz Österreichs zu gewährleisten.
+Die Sicherheit und Versorgung unserer Bevölkerung ist hier unser oberstes Ziel.
 
 Landesverteidigung
 ------------------
@@ -14,16 +21,14 @@ Landesverteidigung
 Rahmenbedingungen der österreichischen Sicherheitspolitik
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-- Österreich ist als Mitglied der Europäischen Union Teil eines erfolgreichen Friedensprojekts (mit Vorbildcharakter) und an unseren unmittelbaren Landesgrenzen von keinen Feinden umgeben. Österreichs Stellung mitten in der EU bietet eine umfassend ge änderte Sicherheits- und Friedensperspektive. Gleichzeitig müssen neue Bedrohungen ernst genommen werden.
-
-- Die finanzielle Situation und der Zustand des Bundesheeres erfordern neue Konzepte für ein zukunftsträchtiges, modernes Heer. Daher müssen auch die Aufgaben, Strukturen und Mittel der Landesverteidigung weiterentwickelt und zeitgemäß neu gestaltet werden.
-
+- Österreich ist als Mitglied der Europäischen Union Teil eines erfolgreichen Friedensprojekts (mit Vorbildcharakter) und an unseren unmittelbaren Landesgrenzen von keinen Feinden umgeben.
+  Österreichs Stellung mitten in der EU bietet eine umfassend ge änderte Sicherheits- und Friedensperspektive.
+  Gleichzeitig müssen neue Bedrohungen ernst genommen werden.
+- Die finanzielle Situation und der Zustand des Bundesheeres erfordern neue Konzepte für ein zukunftsträchtiges, modernes Heer.
+  Daher müssen auch die Aufgaben, Strukturen und Mittel der Landesverteidigung weiterentwickelt und zeitgemäß neu gestaltet werden.
 - Die Neutralität Österreichs ist unumstößlich.
-
 - Diese steht nicht im Widerspruch zur Solidarität innerhalb der Europäischen Union.
-
 - Erforderlich ist daher eine Weiterentwicklung der österreichischen Sicherheitspolitik, unter dem Aspekt der Bewahrung der Neutralität und der Änderung der sicherheitspolitischen Aufgaben in Europa.
-
 - Klares Bekenntnis als neutrales Land zum Österreichischen Bundesheer als Sicherheitsgarantie und zur umfassenden Landesverteidigung entsprechend der Österreichischen Bundesverfassung sowie zur allgemeinen Wehrpflicht entsprechend dem Ergebnis der Volksbefragung vom 20. Jänner 2013
 
 Eine zukunftsfähige Struktur für das Bundesheer
@@ -93,13 +98,13 @@ Neue Aufgaben mit neuer Struktur
 
 - Sicherstellung und Weiterentwicklung der Kernkompetenzen des Österreichischen Bundesheeres unter Berücksichtigung der Eintrittswahrscheinlichkeiten von Bedrohungsszenarien
 
-- Weiterentwicklung aller Teilstreitkräfte Land, Luft, Spezialeinsatzkräfte und der Cyberkräfte 
+- Weiterentwicklung aller Teilstreitkräfte Land, Luft, Spezialeinsatzkräfte und der :index:`Cyberkräfte`
 
 - Das Bundesheer soll in Anbetracht der neuen Herausforderungen im 21. Jahrhundert weiterentwickelt werden und sich, über die Kernkompetenzen hinaus, auf konkrete Schwerpunkte fokussieren:
 
-  * ABC-Einheiten zum Schutz bei atomaren, biotoxischen und chemieverursachten Katastrophen 
+  * ABC-Einheiten zum Schutz bei atomaren, biotoxischen und chemieverursachten Katastrophen
   * Erhalt der Eigenständigkeit der militärischen Nachrichtendienste
-  * Cyber Defense
+  * :index:`Cyber Defense`
   * Internationale Friedenseinsätze nach Zustimmung des Hauptausschusses des Nationalrats
   * Assistenzleistungen insbesondere Katastrophenschutz und -hilfe
   * Nutzung von Drohnen (Schutzoperation bis zur Katastrophenhilfe) und Drohnenabwehr
@@ -110,12 +115,12 @@ Neue Aufgaben mit neuer Struktur
 
 - Verstärkter Einsatz des ÖBH im Rahmen von Assistenzeinsätzen nach geltender Rechtslage zur Aufrechterhaltung der öffentlichen Sicherheit
 
-- Anpassung des ÖBH an aktuelle Bedrohungslagen, wie z.B. Cyber Defense und hybride Bedrohungen
+- Anpassung des ÖBH an aktuelle Bedrohungslagen, wie z.B. :index:`Cyber` Defense und hybride Bedrohungen
 
-  * Prioritärer Ausbau der Cyber- und Drohnenabwehrfähigkeiten und Ausbau einer Cyber-Truppe unter besonderer Berücksichtigung der Ausbildungserfordernisse für Cyber-Defense-Personal
+  * Prioritärer Ausbau der :index:`Cyber- und Drohnenabwehrfähigkeiten` und Ausbau einer :index:`Cyber-Truppe` unter besonderer Berücksichtigung der Ausbildungserfordernisse für :index:`Cyber-Defense-Personal`
   * Verstärkte Zusammenarbeit mit Bildungsund Forschungseinrichtungen, um zusätzliches Know-how aufzubauen, und Rekrutierung von IT-Fachkräften im Rahmen der Miliz
 
-- Mitwirkung am nationalen Cyberlagezentrum und am gesamtstaatlichen Cybersicherheitszentrum
+- Mitwirkung am nationalen :index:`Cyberlagezentrum` und am gesamtstaatlichen :index:`Cybersicherheitszentrum`
 
 - Beteiligung an europäischen Forschungsprojekten im Bereich der Verteidigungsforschung (z.B. European Defense Fund)
 
@@ -144,14 +149,14 @@ Krisen- und Katastrophenschutz
 - Entwicklung umfassender rechtlicher Rahmenbedingungen für das staatliche Krisen- und Katastrophenschutzmanagement (unter Beachtung der Bundes- und Landeskompetenzen)
 
   * Rechtliche Klarstellung für bundesländer- oder länderübergreifende Krisen und Katastrophen in Hinblick auf Zuständigkeiten, Befugnisse und die Informationsweitergabe
-  * Erhöhung der gesamtstaatlichen Resilienz und Stärkung des Zivilschutzes 
+  * Erhöhung der gesamtstaatlichen Resilienz und Stärkung des Zivilschutzes
   * Ausrüstung und Strukturen für den Katastrophenschutz sind weiterzuentwickeln und an den zu erwartenden Bedarf anzupassen.
   * Schaffung der rechtlichen Voraussetzungen für eine vereinfachte und raschere Beschaffung in Krisen- und Katastrophenfällen
   * Im Fall dringender humanitärer Einsätze (auch abseits von Naturkatastrophen) sind flexible Regelungen zur Abgeltung der Einsatzentscheidungen von Blaulichtorganisationen zu erarbeiten.
 
 - Das Bundesheer ist insofern zu stärken und entsprechend auszustatten, um für Assistenzeinsätze vor allem auch im Katastrophenschutz gerüstet zu sein, im Sinne eines Gesamtkonzepts in Abstimmung mit den zivilen Einsatzkräften ist insbesondere die Ausstattung der Pioniere zu verbessern. (Siehe Kapitel Landesverteidigung)
 
-- Überprüfung der Notfallinfrastruktur und etwaige Anpassung des Notfallplans 
+- Überprüfung der Notfallinfrastruktur und etwaige Anpassung des Notfallplans
 
 - Sicherstellung der Fähigkeit der gesamtstaatlichen Kommunikation im Krisenfall (Krisenkommunikation)
 
@@ -161,7 +166,7 @@ Krisen- und Katastrophenschutz
 
 - Prüfung der Schaffung einer Möglichkeit zur Auszahlung von Mitteln aus dem Katastrophenfonds für Rettungsorganisationen, ohne Reduktion der Mittel für die Feuerwehr
 
-- Stärkung des Zivilschutzes und der Eigenvorsorge bzw. des Selbstschutzgedankens in der Bevölkerung in Not- und Krisensituationen (z.B. Naturkatastrophen oder zivilisationsbedingte Gefahren wie Blackout); rechtliche Verankerung des Zivilschutzes und Sicherstellung der Basisfinanzierung 
+- Stärkung des Zivilschutzes und der Eigenvorsorge bzw. des Selbstschutzgedankens in der Bevölkerung in Not- und Krisensituationen (z.B. Naturkatastrophen oder zivilisationsbedingte Gefahren wie Blackout); rechtliche Verankerung des Zivilschutzes und Sicherstellung der Basisfinanzierung
 
 - Aus diesem Grund ist es notwendig, verschiedene Szenarien durchzuspielen und zu üben.
 

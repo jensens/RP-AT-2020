@@ -2,9 +2,6 @@
 Tourismus
 ---------
 
-.. todo::
-  Formatieren, Überarbeiten, Original gegenchecken
-
 Für Österreich ist der Tourismus in vielerlei Hinsicht von großer Bedeutung. Er ist ein wichtiger Wirtschafts- und Wohlstandsmotor und schafft hunderttausende Arbeitsplätze. Jeder fünfte Vollarbeitsplatz in Österreich wird durch die Tourismus- und Freizeitwirtschaft gesichert, vor allem auch in den ländlichen Regionen. Sowohl im Sommer als auch im Winter sorgen unsere Tourismusbetriebe dafür, Österreich als attraktive Reise- und Freizeitdestination zu positionieren. Darüber hinaus schafft unsere Tourismuskultur die Identifikation für unser Land. Nicht nur der internationale Wettbewerb soll zukünftig im Fokus stehen, insbesondere soll auch Lust auf Urlaub im eigenen Land gemacht werden.
 
 Die Schaffung und der Erhalt von Arbeitsplätzen ist von immenser Bedeutung für regionale Betriebe, und damit auch für die Regionen als solche. Als österreichische Bundesregierung bekennen wir uns daher zur Bedeutung von Österreich als Tourismusdestination und zur Weiterentwicklung dieses wichtigen Sektors.
@@ -55,7 +52,7 @@ Forcierung eines wettbewerbsfähigen und verantwortungsvollen Tourismusstandorts
 
 - Weiterentwicklung der Österreich Werbung
 
-  * Das ÖW-Netz im Ausland wird immer wichtiger für das Funktionieren des österreichischen Tourismussystems und um die Marke „Urlaub in Österreich“ in die Welt zu tragen. Um Synergien zu nutzen, sollen ÖW und AW  * zukünftig ein weltweites Netz für die österreichischen Destinationen und Betriebe bilden.
+  * Das ÖW-Netz im Ausland wird immer wichtiger für das Funktionieren des österreichischen Tourismussystems und um die Marke „Urlaub in Österreich“ in die Welt zu tragen. Um Synergien zu nutzen, sollen ÖW und AWO zukünftig ein weltweites Netz für die österreichischen Destinationen und Betriebe bilden.
   * Die ÖW soll ihr Know-how verstärkt den österreichischen Betrieben zugänglich machen, um Produktinnovationen und Markenerlebnisse anzuregen.
   * Die ÖW soll die digitale Kommunikation und Gestaltung von Reiseerlebnissen forcieren und der Branche digitale Kooperationsmöglichkeiten anbieten.
   * Urlaub der Österreicherinnen und Österreicher im eigenen Land stärker bewerben
@@ -66,7 +63,7 @@ Forcierung eines wettbewerbsfähigen und verantwortungsvollen Tourismusstandorts
 
   * Die ÖHT als Spezialkreditinstitut für die investierenden Tourismusbetriebe sorgt dafür, dass der „Plan T – Masterplan für Tourismus“ die betriebliche Ebene erreicht.
   * Erkenntnisse der laufenden Evaluierung werden berücksichtigt.
-  * In der Folge wird die gewerbliche Tourismusförderung ab 2021 mit Fokus auf Familienbetriebe neu ausgerichtet und durch die Zusammenführung der Haftungsrahmen für die Tourismusbetriebe auf 575 Mio. Eur  * sowie die Schaffung eines mit 50 Mio. Eur  * dotierten Eigenkapitalfonds gestärkt.
+  * In der Folge wird die gewerbliche Tourismusförderung ab 2021 mit Fokus auf Familienbetriebe neu ausgerichtet und durch die Zusammenführung der Haftungsrahmen für die Tourismusbetriebe auf 575 Mio. Euro sowie die Schaffung eines mit 50 Mio. Euro dotierten Eigenkapitalfonds gestärkt.
 
 - Neugestaltung der Richtlinien der Österreichischen Hotel- und Tourismusbank 2020 und Inkrafttreten mit Beginn 2021
 
@@ -121,7 +118,7 @@ Entlastungen für die Tourismuswirtschaft
 - Erleichterungen für Schulsportwochen: Bessere Rahmenbedingungen für Schulveranstaltungen an Bundesschulen, schulautonome Gestaltung und Abrechnungsmodalitäten von Schulsportwochen sowie Verbesserung bei der Abwicklung von Unterstützungsleistungen
 
 - Förderung konkreter Projekte zur unmittelbaren Kooperation (z.B. Plattformen zum Direktbezug von regionalen Lebensmitteln)
-- Prüfung der Allergen-Verordnung auf ihre Effizienz hin und Entbürokratisierung, w  * sinnvoll
+- Prüfung der Allergen-Verordnung auf ihre Effizienz hin und Entbürokratisierung, wo sinnvoll
 
 Qualitätsvoller und regionaler Tourismus
 ----------------------------------------
@@ -181,8 +178,9 @@ Nachhaltige Mobilität
 Klimawandel und Wintertourismus
 -------------------------------
 
-- Umweltgerechte und wirtschaftliche Strategie im Umgang mit Beschneiung in Skigebieten   * Einsatz auf europäischer Ebene für die Einführung von Energieeffizienz-Klassen für Schneeerzeugungsanlagen
+- Umweltgerechte und wirtschaftliche Strategie im Umgang mit Beschneiung in Skigebieten   
 
+  * Einsatz auf europäischer Ebene für die Einführung von Energieeffizienz-Klassen für Schneeerzeugungsanlagen
   * Forcierter Einsatz von erneuerbaren Energien für weiteren Ausbau
 
 - Die Bundesregierung wird sich im Rahmen der österreichischen Raumordnungskonferenz und in Zusammenarbeit mit dem Generalsekretariat der Alpenkonvention für die Ausarbeitung eines gebietskörperschaftenübergreifenden und sektorenübergreifenden Raumentwicklungskonzeptes für alpine Raumordnung einsetzen. 
