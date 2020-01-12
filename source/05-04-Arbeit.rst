@@ -4,15 +4,15 @@ Arbeit
 
 :download:`Kapitel als PDF <../split/05-04-Arbeit.pdf>` (Teil des :download:`Originals <../original/RP2020.pdf>`).
 
-Wir als Bundesregierung werden alles tun, damit ein gutes Leben für alle in unserem Land erhalten bleibt und von Herausforderungen wie der fortschreitenden Digitalisierung und Klimakrise nicht gefährdet wird. Wir werden einen breiten gesellschaftlichen Dialog unter Einbindung aller relevanten Stakeholder (Sozialpartner, Zivilgesellschaft etc.) über die Zukunft der Arbeit und dabei vor allem der Aspekte Digitalisierung, Vereinbarkeit von Familie und Beruf, Arbeits- und Lebensqualität führen.
+Wir als Bundesregierung werden alles tun, damit ein gutes Leben für alle in unserem Land erhalten bleibt und von Herausforderungen wie der fortschreitenden Digitalisierung und :index:`Klimakrise` nicht gefährdet wird. Wir werden einen breiten gesellschaftlichen Dialog unter Einbindung aller relevanten Stakeholder (Sozialpartner, Zivilgesellschaft etc.) über die Zukunft der Arbeit und dabei vor allem der Aspekte Digitalisierung, Vereinbarkeit von Familie und Beruf, Arbeits- und Lebensqualität führen.
 
-Die Bundesregierung hat sich daher zum Ziel gesetzt, Umwelt, Wirtschaft und Arbeitswelt angesichts dieser Herausforderungen gemeinsam zu denken und für eine sozial verträgliche Bewältigung der Herausforderungen (Just Transition) zu sorgen. Das umfasst, dass Erwerbseinkommen auch vor Armut schützen. Verstärkter Einsatz in den Bereichen Bildung, Weiterbildung, nachhaltige Qualifikation und berufliche Umorientierung sollen sicherstellen, dass auch in Zukunft ausreichend gut ausgebildete und motivierte Fachkräfte zur Verfügung stehen. Gerade Branchen und Betriebe, bei denen die Digitalisierung oder die Klimakrise eine besondere Rolle spielt, sollen aktiv dabei unterstützt werden, zukunftsfit zu werden.
+Die Bundesregierung hat sich daher zum Ziel gesetzt, Umwelt, Wirtschaft und Arbeitswelt angesichts dieser Herausforderungen gemeinsam zu denken und für eine sozial verträgliche Bewältigung der Herausforderungen (Just Transition) zu sorgen. Das umfasst, dass Erwerbseinkommen auch vor Armut schützen. Verstärkter Einsatz in den Bereichen Bildung, Weiterbildung, nachhaltige Qualifikation und berufliche Umorientierung sollen sicherstellen, dass auch in Zukunft ausreichend gut ausgebildete und motivierte Fachkräfte zur Verfügung stehen. Gerade Branchen und Betriebe, bei denen die Digitalisierung oder die :index:`Klimakrise` eine besondere Rolle spielt, sollen aktiv dabei unterstützt werden, zukunftsfit zu werden.
 
 Die Arbeitsmarktsituation hat sich in den letzten Jahren positiv entwickelt. Einige Gruppen konnten davon jedoch weniger profitieren. Genau für jene Gruppen wollen wir gezielte Maßnahmen setzen, dazu zählen Unterstützungsangebote sowie Maßnahmenpakete, um Perspektiven zu geben und den Wiedereinstieg in die Erwerbsarbeit zu ermöglichen. Dabei spielen auch gemeinnützige, sozialökonomische Betriebe und Beschäftigung eine wichtige Rolle.
 
 Ziel ist es, dass Österreich wieder zu einem der Länder mit der geringsten Arbeitslosigkeit im EU-Vergleich wird. Zur Attraktivierung der Beschäftigung in Österreich wird eine zielgerichtete Arbeitsmarktpolitik verfolgt, die positive Beschäftigungsanreize schafft, betriebsnahe Qualifizierung fördert sowie eine passende Vermittlung ermöglicht.
 
-Die neue Bundesregierung wird dem Fachkräftemangel aktiv entgegenwirken. Dazu haben wir mit dem System der dualen Ausbildung ausgezeichnete Voraussetzungen. Deshalb wollen wir den Stellenwert der Lehre aufwerten und die Durchlässigkeit zwischen höherer Schul- und Berufsausbildung erhöhen. Es geht dabei auch um die Unterstützung der Lehre als zweiten Bildungsweg und die Förderung von Mädchen in technischen Berufen. Gleichzeitig wollen wir durch die Modernisierung der Curricula und die Schaffung neuer Lehrberufe, unter anderem im Digital-, Klima- und Umweltbereich, den Lehrberuf fit für die Anforderungen des 21. Jahrhunderts machen.
+Die neue Bundesregierung wird dem Fachkräftemangel aktiv entgegenwirken. Dazu haben wir mit dem System der dualen Ausbildung ausgezeichnete Voraussetzungen. Deshalb wollen wir den Stellenwert der Lehre aufwerten und die Durchlässigkeit zwischen höherer Schul- und Berufsausbildung erhöhen. Es geht dabei auch um die Unterstützung der Lehre als zweiten Bildungsweg und die Förderung von Mädchen in technischen Berufen. Gleichzeitig wollen wir durch die Modernisierung der Curricula und die Schaffung neuer Lehrberufe, unter anderem im Digital-, :index:`Klima- und Umweltbereich`, den Lehrberuf fit für die Anforderungen des 21. Jahrhunderts machen.
 
 Unser Ziel als Bundesregierung ist es, so viele Menschen wie möglich in ein nachhaltiges Beschäftigungsverhältnis zu bringen, auch weil Erwerbsarbeit eine der besten Maßnahmen gegen Armut ist. Für das Arbeitsmarktservice (AMS) muss in der Arbeit ein klarer Fokus darauf liegen, so viele Menschen wie möglich in nachhaltige Arbeitsverhältnisse zu vermitteln.
 
@@ -23,7 +23,7 @@ Die Bundesregierung setzt sich zusätzlich das Ziel, die finanzielle Eigenständ
 Fachkräftebedarf sichern – betriebliche Lehrausbildung stärken
 --------------------------------------------------------------
 
-- Schaffung neuer Lehrberufe und Berufsbilder im Umwelt- und Klimaschutzbereich und Curricula bestehender Lehrberufe laufend modernisieren
+- Schaffung neuer Lehrberufe und Berufsbilder im Umwelt- und :index:`Klimaschutzbereich` und Curricula bestehender Lehrberufe laufend modernisieren
 
 - Aufwertung der Lehre
 
@@ -52,12 +52,12 @@ Fachkräftebedarf sichern – betriebliche Lehrausbildung stärken
   * Weiterführung der Förderung der Lehre 18 plus
   * Prüfung des Vorarlberger Modells zur Lehrlingsfinanzierung
 
-Schnittstelle Arbeitsmarkt / Digitalisierung / Klimaschutz / Zukunftsherausforderungen
+Schnittstelle Arbeitsmarkt / Digitalisierung / :index:`Klimaschutz` / Zukunftsherausforderungen
 --------------------------------------------------------------------------------------
 
 - Auf Basis einer Sozialpartnereinigung Einführung eines Bildungskontos: berufliche Umorientierung, Aus- und Weiterbildung sozial abgesichert
 
-- Weiterentwicklung von Kurzarbeit mit Qualifikation: Möglichkeit von Kurzarbeit nicht nur bei wirtschaftlichen Schwierigkeiten, sondern auch bei der Umstellung von Betrieben auf ökologische und klimafreundliche Produktionsweisen bzw. digitaler Umrüstung zur Sicherung von Beschäftigung
+- Weiterentwicklung von Kurzarbeit mit Qualifikation: Möglichkeit von Kurzarbeit nicht nur bei wirtschaftlichen Schwierigkeiten, sondern auch bei der Umstellung von Betrieben auf ökologische und :index:`klimafreundliche Produktionsweisen` bzw. digitaler Umrüstung zur Sicherung von Beschäftigung
 
 - Kreislaufwirtschaftsentwicklungspaket: Sozialökonomische Betriebe mit Kreislaufwirtschaft (ökologisch und sozial) fördern. Zielgruppe: Langzeitarbeitslose, Menschen mit Vermittlungshindernissen
 

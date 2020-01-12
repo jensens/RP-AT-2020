@@ -4,7 +4,7 @@ Finanzen & Budget
 
 :download:`Kapitel als PDF <../split/02-01-Finanzen-Budget.pdf>` (Teil des :download:`Originals <../original/RP2020.pdf>`).
 
-Ein funktionierendes und verlässliches Wirtschafts- und Finanzsystem bildet dieGrundlage für den Erhalt unseres Wohlstandes, sichert die nachhaltige Finanzierung unseres Sozialstaates und spielt eine Schlüsselrolle in der Bewältigung neuer Herausforderungen wie der Globalisierung, des Klimaschutzes und der Digitalisierung.
+Ein funktionierendes und verlässliches Wirtschafts- und Finanzsystem bildet dieGrundlage für den Erhalt unseres Wohlstandes, sichert die nachhaltige Finanzierung unseres Sozialstaates und spielt eine Schlüsselrolle in der Bewältigung neuer Herausforderungen wie der Globalisierung, des :index:`Klimaschutzes` und der Digitalisierung.
 
 Die Bundesregierung bekennt sich zu einer Finanz- und Budgetpolitik, die fiskalische Stabilität sicherstellt und den heimischen Unternehmerinnen bzw. Unternehmern und Arbeitnehmerinnen bzw. Arbeitnehmern Planungssicherheit bietet. Der Staat soll dabei mit gutem Beispiel vorangehen und mit dem Geld der Steuerzahlenden sorgsam umgehen, während er überall dort, wo es sinnvoll und notwendig ist, Spielräume schafft, um durch öffentliche Investitionen das Allgemeinwohl zu fördern.
 
@@ -13,19 +13,19 @@ Stabile wirtschaftliche Rahmenbedingungen sicherstellen
 
 - Die Bundesregierung bekennt sich zu dem wirtschaftspolitischen Ziel eines ausgeglichenen Bundeshaushalts, abhängig von konjunkturellen Entwicklungen und Erfordernissen.
 
-- Die Bundesregierung bekennt sich zu dem wirtschaftspolitischen Ziel, die Schuldenquote der Republik weiter in Richtung Maastricht-Ziel von 60% zu senken. Unabhängig davon, werden die notwendigen Klima- und Zukunftsinvestitionen sichergestellt. Die Bundesregierung verbindet damit fiskalische Stabilität und Verantwortung gegenüber zukünftigen Generationen.
+- Die Bundesregierung bekennt sich zu dem wirtschaftspolitischen Ziel, die Schuldenquote der Republik weiter in Richtung Maastricht-Ziel von 60% zu senken. Unabhängig davon, werden die notwendigen :index:`Klima- und Zukunftsinvestitionen` sichergestellt. Die Bundesregierung verbindet damit fiskalische Stabilität und Verantwortung gegenüber zukünftigen Generationen.
 
-- Die Bundesregierung verfolgt mit ihrer Budgetpolitik ökonomische, ökologische und soziale Ziele. Als Handlungsgrundlage dienen auch europäische und internationale Verpflichtungen, insbesondere das Pariser Klimaabkommen.
+- Die Bundesregierung verfolgt mit ihrer Budgetpolitik ökonomische, ökologische und soziale Ziele. Als Handlungsgrundlage dienen auch europäische und internationale Verpflichtungen, insbesondere das Pariser :index:`Klimaabkommen`.
 
-- Die Bundesregierung ändert die Steuer- und Abgabenstruktur. Ziele sind: eine Entlastung der Menschen, eine Senkung der Steuer- und Abgabenquote, eine ökologisch-soziale Reform mit Lenkungseffekten zur erfolgreichen Bekämpfung des Klimawandels sowie der Erhalt und Ausbau von Innovationskraft, Nachhaltigkeit und Wettbewerbsfähigkeit der österreichischen Wirtschaft.
+- Die Bundesregierung ändert die Steuer- und Abgabenstruktur. Ziele sind: eine Entlastung der Menschen, eine Senkung der Steuer- und Abgabenquote, eine ökologisch-soziale Reform mit Lenkungseffekten zur erfolgreichen Bekämpfung des :index:`Klimawandels` sowie der Erhalt und Ausbau von Innovationskraft, Nachhaltigkeit und Wettbewerbsfähigkeit der österreichischen Wirtschaft.
 
 - Die Bundesregierung setzt sich für die Veranlagung öffentlicher Mittel (z.B. bei Beteiligungen des Bundes im Rahmen der gesellschaftsrechtlichen Möglichkeiten) in nachhaltige und ökologische Anlagenformen ein.
 
 - Berücksichtigung der Gleichstellungsziele der Ressorts bei großen Regierungsvorhaben (z.B. Steuerreform). Weiterentwicklung und Verbesserung des Berichtswesens (z.B. Förderbericht)
 
-- Prüfung einer „Bürger-Stiftung Klimaschutz“: Anreize schaffen, Private dazu zu bewegen, in den Klimaschutz zu investieren. Gelingen soll das mithilfe einer „Bürger-Stiftung Klimaschutz“, die Bürger-Anleihen vergeben soll.
+- Prüfung einer „Bürger-Stiftung :index:`Klimaschutz`“: Anreize schaffen, Private dazu zu bewegen, in den Klimaschutz zu investieren. Gelingen soll das mithilfe einer „Bürger-Stiftung Klimaschutz“, die Bürger-Anleihen vergeben soll.
 
-- Die Bundesregierung bekennt sich zur Auflage von Green Bonds durch die ÖBFA. Institutionelle Investoren und die Bevölkerung können sich damit an der Klimawende beteiligen.
+- Die Bundesregierung bekennt sich zur Auflage von Green Bonds durch die ÖBFA. Institutionelle Investoren und die Bevölkerung können sich damit an der :index:`Klimawende` beteiligen.
 
 Zukünftiger Finanzausgleich
 ---------------------------
@@ -85,9 +85,9 @@ Einsatz auf EU-Ebene für einen starken Kapitalmarkt
 
 - Erarbeitung eines Modells zur aktiven Beratung von Gemeinden und Ländern hinsichtlich ökologischer und nachhaltiger Infrastrukturprojekte und Sanierungsmaßnahmen sowie deren Finanzierung unter Einhaltung des innerösterreichischen Stabilitätspaktes
 
-- „Green Supporting Factor“ auf europäischer Ebene: Im Kampf gegen den Klimawandel werden wir auch den tatkräftigen Beitrag von Start-ups und KMUs brauchen, die jene Innovationen beschleunigen, die uns ein CO2-neutrales Leben und Wirtschaften ermöglichen. Die Bundesregierung wird sich daher auf europäischer Ebene dafür einsetzen, dass Banken für Kredite, die effektiv dazu beitragen, den Übergang zu einer nachhaltigen, klimaneutralen Wirtschaft zu beschleunigen, weniger Eigenkapital hinterlegen müssen. Ein solcher „Green Supporting Factor“ würde die Vergabe von „grünen Krediten“ erleichtern und somit einen wertvollen Beitrag zur Erreichung unserer europäischen Klimaziele leisten.
+- „Green Supporting Factor“ auf europäischer Ebene: Im Kampf gegen den :index:`Klimawandel` werden wir auch den tatkräftigen Beitrag von Start-ups und KMUs brauchen, die jene Innovationen beschleunigen, die uns ein CO2-neutrales Leben und Wirtschaften ermöglichen. Die Bundesregierung wird sich daher auf europäischer Ebene dafür einsetzen, dass Banken für Kredite, die effektiv dazu beitragen, den Übergang zu einer nachhaltigen, :index:`klimaneutralen Wirtschaft` zu beschleunigen, weniger Eigenkapital hinterlegen müssen. Ein solcher „Green Supporting Factor“ würde die Vergabe von „grünen Krediten“ erleichtern und somit einen wertvollen Beitrag zur Erreichung unserer europäischen :index:`Klimaziele` leisten.
 
-- Die Bundesregierung wird das Vergaberecht als wichtiges Instrument zur Bekämpfung des Klimawandels nutzen. Dazu ist das Bestbieterprinzip um verbindliche ökologische Kriterien für die angebotenen Produkte und Dienstleistungen zu erweitern (z.B. öffentliche Bautätigkeit).
+- Die Bundesregierung wird das Vergaberecht als wichtiges Instrument zur Bekämpfung des :index:`Klimawandels` nutzen. Dazu ist das Bestbieterprinzip um verbindliche ökologische Kriterien für die angebotenen Produkte und Dienstleistungen zu erweitern (z.B. öffentliche Bautätigkeit).
 
 Entbürokratisierung im Kapitalmarkt-Bereich
 -------------------------------------------

@@ -63,7 +63,7 @@ Innovation durch Risikokapital ermöglichen
   * Verstärkte Kooperation des Bundes mit der Österreichischen Kontrollbank (OeKB)
   * Vergabeprozess der Österreichischen Entwicklungsbank AG (OeB) weniger bürokratisch gestalten, um zügigere Entscheidungen zu ermöglichen, z.B. Genehmigungsverfahren für Afrika-Fazilität
   * Ausbau der Verfügbarkeit von Wachstumskapital für Start-Ups und KMUs (Finanzierungsvolumen € 2 Mio. bis € 20 Mio.) in Zusammenarbeit mit privaten Investorinnen und Investoren. Mögliche internationale Beispiele wären z.B. Modell Schweiz (Corporate Venture Fund unter Einbindung österreichischer Leitbetriebe) oder Modell Dänemark (Dachfonds/Fund of Funds Lösung).
-  * Verstärkte Zusammenarbeit des Bundes mit der Kommunalkredit Public Consulting (KPC) zur zielorientierten Förderung von Klima- und Umweltschutzprojekten
+  * Verstärkte Zusammenarbeit des Bundes mit der Kommunalkredit Public Consulting (KPC) zur zielorientierten Förderung von :index:`Klima- und Umweltschutzprojekten`
   * Verstärkte Koordinierung und mögliche Zusammenführung der Finanzierungsaktivitäten von aws und FFG
   * Verbesserte Governance der österreichischen Förderlandschaft/Risikokapitalstruktur, zur Vermeidung von Doppelgleisigkeiten
 

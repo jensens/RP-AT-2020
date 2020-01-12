@@ -8,7 +8,7 @@ Steuern und Abgaben sind die wichtigsten Einkommensquellen des Staates, mit dene
 
 Die Bundesregierung bekennt sich dazu, im Zuge einer geplanten Steuerstrukturreform die Menschen in Österreich spürbar zu entlasten und unser Steuersystem zu vereinfachen. Dabei geht es besonders darum, dass Haushalte mit kleinen und mittleren Einkommen am Ende des Monats wieder mehr zum Leben haben und sich Eigentum schaffen können. Bei der bevorstehenden Reform steht neben dieser Entlastung besonders die ökologischsoziale Umsteuerung im Vordergrund – ökologisch-nachhaltiges Verhalten soll künftig stärker attraktiviert werden, während es bei ökologisch-schädlichem Verhalten einer stärkeren Kostenwahrheit bedarf (unter Rücksicht auf die soziale Verträglichkeit bzw. die Wettbewerbsfähigkeit unserer Wirtschaft).
 
-Die Bundesregierung ändert die Steuerund Abgabenstruktur. Ziele sind: eine Entlastung der Menschen, eine Senkung der Steuer- und Abgabenquote in Richtung 40%, eine ökologisch-soziale Reform mit Lenkungseffekten zur erfolgreichen Bekämpfung des Klimawandels und der Erhalt und Ausbau von Innovationskraft, Nachhaltigkeit und Wettbewerbsfähigkeit der österreichischen Wirtschaft.
+Die Bundesregierung ändert die Steuerund Abgabenstruktur. Ziele sind: eine Entlastung der Menschen, eine Senkung der Steuer- und Abgabenquote in Richtung 40%, eine ökologisch-soziale Reform mit Lenkungseffekten zur erfolgreichen Bekämpfung des :index:`Klimawandels` und der Erhalt und Ausbau von Innovationskraft, Nachhaltigkeit und Wettbewerbsfähigkeit der österreichischen Wirtschaft.
 
 Steuerentlastung
 ----------------
@@ -27,7 +27,7 @@ Um diese Ziele zu erreichen, werden folgende Entlastungsmaßnahmen umgesetzt:
 
 - KöSt-Entlastung auf 21%
 
-- KESt-Befreiung für ökologische bzw. ethische Investitionen (Ausarbeitung eines Konzepts mit klarem Kriterien-Set durch die zuständigen Ministerien für Finanzen und Klima)
+- KESt-Befreiung für ökologische bzw. ethische Investitionen (Ausarbeitung eines Konzepts mit klarem Kriterien-Set durch die zuständigen Ministerien für Finanzen und :index:`Klima`)
 
 - Analog der Begünstigung für Beteiligung von Mitarbeiterinnen und Mitarbeitern am Kapital eines Unternehmens soll alternativ auch die Möglichkeit geschaffen werden, die Belegschaft am Gewinn zu beteiligen. - Sicherstellung der sozialen Absicherung für die Landwirtschaft (Erhöhung der Buchführungsgrenze auf 700.000 Euro, Absenkung fiktives Ausgedinge auf 10%, Erhöhung der PV-Beitragsgrundlage für hauptberuflich Beschäftigte bis 27 Jahre, Angleichung der KV-Mindestbeitragsgrundlage auf das ASVG-Niveau)
 
@@ -38,15 +38,15 @@ Um diese Ziele zu erreichen, werden folgende Entlastungsmaßnahmen umgesetzt:
 Ökosoziale Steuerreform
 -----------------------
 
-Die Bekämpfung der Klimakrise ist der Bundesregierung ein zentrales Anliegen. Um diese Aufgabe erfolgreich zu bewerkstelligen, ist ein Gesamtpaket an Klimamaßnahmen zu setzen.
+Die Bekämpfung der :index:`Klimakrise` ist der Bundesregierung ein zentrales Anliegen. Um diese Aufgabe erfolgreich zu bewerkstelligen, ist ein Gesamtpaket an :index:`Klimamaßnahmen` zu setzen.
 
 Bei diesem Gesamtpaket legt die Bundesre gierung ein besonderes Augenmerk auf die soziale Verträglichkeit, berücksichtigt regionale Unterschiede und die Wettbewerbsfä higkeit des Standorts Österreich.
 
 Neben Forschung und Innovationsförderung, gezielten Investitionen und ordnungspoliti schen Maßnahmen, ist das Steuersystem ein wirksamer Hebel, um die Dekarbonisierung voranzutreiben und Natur und Lebensgrundlagen auch für künftige Generationen nachhaltig zu erhalten. Die Herstellung von Kos tenwahrheit bei den CO2-Emissionen ist dafür erforderlich.
 
-Die Bundesregierung treibt eine ambitionier- te und fortschrittsorientierte Klima- und Energiepolitik in Europa und der Welt voran (siehe Kapitel Klima & Energie). Die bisher auf europäischer Ebene gesetzten Maßnahmen bleiben hinter dem zurück, was für die Erfüllung des Klimavertrags von Paris nötig wäre. Auch in jenen Bereichen, für die die nationale Klimaschutzpolitik verantwortlich ist, wie z.B. Verkehr und Gebäude, gibt es deutlichen Handlungsbedarf. Angesichts drohender Strafzahlungen bei Nichterreichung unserer Klimaziele ist eine ambitionierte Reduktion nationaler Treibhausgasemissionen auch aus finanzieller Sicht sinnvoll.
+Die Bundesregierung treibt eine ambitionierte und fortschrittsorientierte :index:`Klima- und Energiepolitik` in Europa und der Welt voran (siehe Kapitel Klima & Energie). Die bisher auf europäischer Ebene gesetzten Maßnahmen bleiben hinter dem zurück, was für die Erfüllung des :index:`Klimavertrags` von Paris nötig wäre. Auch in jenen Bereichen, für die die nationale :index:`Klimaschutzpolitik` verantwortlich ist, wie z.B. Verkehr und Gebäude, gibt es deutlichen Handlungsbedarf. Angesichts drohender Strafzahlungen bei Nichterreichung unserer :index:`Klimaziele` ist eine ambitionierte Reduktion nationaler Treibhausgasemissionen auch aus finanzieller Sicht sinnvoll.
 
-Daher wird die Bundesregierung – um ihrer angestrebten Rolle als Klimaschutzvorreiter in Europa gerecht zu werden – nationale Maßnahmen vorbereiten und setzen.
+Daher wird die Bundesregierung – um ihrer angestrebten Rolle als :index:`Klimaschutzvorreiter` in Europa gerecht zu werden – nationale Maßnahmen vorbereiten und setzen.
 
 Die Schaffung von Kostenwahrheit für den Ausstoß von CO2-Emissionen geht Hand in Hand mit der Schaffung von Wahlmöglichkeiten, einer sozialen Abfederung, der Berücksichtigung von regionalen Unterschieden und der Schaffung von Umstiegsmöglichkeiten für Unternehmen.
 
@@ -66,13 +66,13 @@ Dazu werden in einem ersten Schritt die oben skizzierten Entlastungsmaßnahmen u
 
 - Ökologisierung und Erhöhung der Treffsicherheit des Pendlerpauschales
 
-Mit dem zweiten Schritt dieser ökosozialen Steuerreform sollen aufkommensneutral klimaschädliche Emissionen wirksam bepreist und Unternehmen sowie Private sektoral entlastet werden. Dieser Schritt erfolgt 2022. Dazu setzt die Bundesregierung unverzüglich eine „Task Force ökosoziale Steuerreform“ unter der gemeinsamen Leitung des für Klimaschutz zuständigen Ministeriums und des BMF ein. Der von der Task Force zu erarbeitende Umsetzungsfahrplan orientiert sich an folgenden Punkten:
+Mit dem zweiten Schritt dieser ökosozialen Steuerreform sollen aufkommensneutral :index:`klimaschädliche Emissionen` wirksam bepreist und Unternehmen sowie Private sektoral entlastet werden. Dieser Schritt erfolgt 2022. Dazu setzt die Bundesregierung unverzüglich eine „Task Force ökosoziale Steuerreform“ unter der gemeinsamen Leitung des für :index:`Klimaschutz` zuständigen Ministeriums und des BMF ein. Der von der Task Force zu erarbeitende Umsetzungsfahrplan orientiert sich an folgenden Punkten:
 
 - Erarbeitung des effizientesten ökonomischen Instrumentes zur schrittweisen Herstellung von Kostenwahrheit bei den CO2-Emissionen in den Sektoren, die nicht dem EU ETS unterworfen sind, z.B. durch CO2-Bepreisung über bestehende Abgaben oder ein nationales Emissionshandelssystem
 
 - Ermittlung der volkswirtschaftlichen Kosten von CO2-Emissionen als Referenzwert für Kostenwahrheit
 
-- Erarbeitung eines Implementierungspfades inklusive konkreter Maßnahmen zur Herstellung von Kostenwahrheit für CO2-Emissionen, die klare Lenkungseffekte haben, Planbarkeit sicherstellen, und die Erreichung der Pariser Klimaziele ermöglichen.
+- Erarbeitung eines Implementierungspfades inklusive konkreter Maßnahmen zur Herstellung von Kostenwahrheit für CO2-Emissionen, die klare Lenkungseffekte haben, Planbarkeit sicherstellen, und die Erreichung der Pariser :index:`Klimaziele` ermöglichen.
 
 - Ausarbeitung sektoral differenzierter Entlastungsmaßnahmen für Unternehmen und Private, um sicherzustellen, dass es keine Mehrbelastungen für die Wirtschaft und für Private gibt, unter Berücksichtigung vorhan dener Umstiegsmöglichkeiten, sektoraler Auswirkungen, regionaler Unterschiede der Lebensverhältnisse und sozialer Abfederung bei gleichzeitiger Wahrung des CO2-Lenkungseffektes.
 
@@ -80,7 +80,7 @@ Mit dem zweiten Schritt dieser ökosozialen Steuerreform sollen aufkommensneutra
 
 Die Task Force berücksichtigt europäische Entwicklungen und jene in den Nachbarländern, bei der Entwicklung der geplanten nationalen Maßnahmen. Nationale Maßnahmen sind dabei so auf Instrumente auf der europäischen Ebene abzustimmen, dass durch Anrechenbarkeit Doppelbepreisungen ausgeschlossen sind.
 
-Angesichts der Herausforderungen, vor der unsere Gesellschaft steht, müssen wir über Parteigrenzen hinweg zusammenarbeiten. Die Bundesregierung lädt daher alle Parlamentsparteien zur Mitarbeit ein, sodass die österreichische Klimapolitik und Maßnahmen zur Ökologisierung des Steuer- und Wirtschaftssystems von einem breiten nationalen Konsens getragen werden.
+Angesichts der Herausforderungen, vor der unsere Gesellschaft steht, müssen wir über Parteigrenzen hinweg zusammenarbeiten. Die Bundesregierung lädt daher alle Parlamentsparteien zur Mitarbeit ein, sodass die österreichische :index:`Klimapolitik` und Maßnahmen zur Ökologisierung des Steuer- und Wirtschaftssystems von einem breiten nationalen Konsens getragen werden.
 
 Sonstige steuerliche Maßnahmen
 ------------------------------
@@ -113,7 +113,7 @@ Steuerstrukturreform – das Steuersystem vereinfachen
 Einsatz auf internationaler Ebene
 ---------------------------------
 
-- Einsatz für CO2-Zölle auf internationaler und europäischer Ebene: Es braucht weltweit mehr klima- und umweltpolitische Gerechtigkeit. Für Importe in den europäischen Binnenmarkt aus Drittstaaten, die den nötigen Standards im Klima- und Umweltschutz nicht entsprechen, sollten – in Abstimmung mit der Welthandelsorganisation (WTO) – CO2-Zölle eingeführt werden.
+- Einsatz für CO2-Zölle auf internationaler und europäischer Ebene: Es braucht weltweit mehr :index:`klima- und umweltpolitische Gerechtigkeit`. Für Importe in den europäischen Binnenmarkt aus Drittstaaten, die den nötigen Standards im :index:`Klima- und Umweltschutz` nicht entsprechen, sollten – in Abstimmung mit der Welthandelsorganisation (WTO) – CO2-Zölle eingeführt werden.
 
 - Einsatz für Besteuerung von Kerosin und Schiffsdiesel auf internationaler bzw. europäischer Ebene: Die Bundesregierung strebt eine verursachergerechte Besteuerung von Kraftstoffen im Flugverkehr und in der Schifffahrt an. Dafür ist international bzw. europäisch akkordiertes Handeln nötig.
 

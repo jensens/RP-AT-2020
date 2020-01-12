@@ -446,9 +446,9 @@ Investitionsanreize für Sanierungen und Neubau (insbesondere auch durch Abschlu
 
 - Ziel: Durch Abschluss eines neuen FAG soll Österreich in die Lage versetzt werden, europäischer Spitzenreiter bei Energieeffizienz und der Verwendung von ökologischen Baustoffen zu werden.
 
-- Aufnahme von Gesprächen mit den Bundesländern mit dem Ziel, dass Bauordnungen zum Erreichen der Pariser Klimaziele gemäß dem Reduktionspfad beitragen.
+- Aufnahme von Gesprächen mit den Bundesländern mit dem Ziel, dass Bauordnungen zum Erreichen der Pariser :index:`Klimaziele` gemäß dem Reduktionspfad beitragen.
 
-- Die Länder sollen klimarelevante Maßnahmen in den Bauordnungen implementieren.
+- Die Länder sollen :index:`klimarelevante Maßnahmen` in den Bauordnungen implementieren.
 
 - Die Länder sollen zur Unterstützung der E-Mobilität im Rahmen der Bauordnungen Leerverrohrungen allenfalls verpflichtend vorsehen.
 

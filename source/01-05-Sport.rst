@@ -31,7 +31,7 @@ Struktur- und Organisationsentwicklung im österreichischen Sport
 
 - Sicherung der medialen Aufmerksamkeit für österreichischen Sport in seiner Breite und Vielfalt.
 
-- Green Sport stärken: Sportveranstaltungen und hier insbesondere Großveranstaltungen sollen in Zukunft zumindest den Kriterien von Green Event Austria gerecht werden, insbesondere unter dem Aspekt der Nachhaltigkeit, Mobilität und des Klimaschutzes.
+- Green Sport stärken: Sportveranstaltungen und hier insbesondere Großveranstaltungen sollen in Zukunft zumindest den Kriterien von Green Event Austria gerecht werden, insbesondere unter dem Aspekt der Nachhaltigkeit, Mobilität und des :index:`Klimaschutzes`.
 
 - Ausbau der Transparenz bei Beiräten und Gremien
 
