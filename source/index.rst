@@ -1,10 +1,10 @@
-.. PDF befreites österreichisches Regierungs-Programm 2020-2014 documentation master file, created by
+.. PDF befreites österreichisches Regierungs-Programm 2020-2024 documentation master file, created by
    sphinx-quickstart on Fri Jan 10 11:44:20 2020.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
 =============================================
-Österreichisches Regierungsprogramm 2020-2014
+Österreichisches Regierungsprogramm 2020-2024
 =============================================
 
 - barrierefrei
