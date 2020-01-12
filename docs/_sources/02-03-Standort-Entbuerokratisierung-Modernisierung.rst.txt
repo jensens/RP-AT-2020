@@ -4,9 +4,6 @@ Standort, Entbürokratisierung & Modernisierung
 
 :download:`Kapitel als PDF <../split/02-03-Standort-Entbuerokratisierung-Modernisierung.pdf>` (Teil des :download:`Originals <../original/RP2020.pdf>`).
 
-.. todo::
-  Original gegenchecken
-
 Unsere Wirtschaft und unsere Arbeitswelt verändern sich – in Österreich, in Europa und auf der ganzen Welt. Österreich ist hier dank seiner starken, diversifizierten und exportorientierten Wirtschaft in einer guten Position. Gleichzeitig müssen wir darauf achten, dass wir aktiv jene Zukunftsindustrien identifizieren, in denen Österreich in den kommenden Jahren und Jahrzenten international Vorreiter sein kann. Der Wirtschaftsstandort Österreich soll international wettbewerbsfähig bleiben, um Wertschöpfung und Arbeitsplätze in Österreich zu halten und auszubauen.
 
 Darüber hinaus können wir in Österreich stolz sein auf unseren funktionierenden Rechtsstaat, mit klaren Gesetzen und Vorschriften, die unser Leben und Wirtschaften regeln. Das ist eine unserer größten Stärken. Über die Jahre wurden dabei allerdings, durch europäische und heimische Gesetzgebung, viele Bereiche des Lebens und Wirtschaftens immer stärker reguliert, wodurch in einzelnen Bereichen mit der Zeit teilweise eine aufwendige und komplexe Bürokratie entstanden ist.
@@ -54,8 +51,8 @@ Standort- und Industriepolitik
 
   * Österreich 2040:
 
-  * Erarbeitung einer umfassenden Strategie durch die Politik, Wirtschaft, Wissenschaft und Sozialpartner, um aktiv jene Zukunftsbranchen zu identifizieren, in denen Österreich international Vorreiter sein kann. Ziel ist es, in den kommenden Jahren und Jahrzehnten Wertschöpfung und Arbeitsplätze in Österreich zu halten und weiter auszubauen sowie einen Beitrag zu Klimaund Umweltschutz zu leisten.
-  * Enge Abstimmung mit anderen politischen Zielsetzungen, wie etwa der FTI-Strategie, der Klima- und Energiepolitik, der arbeitsmarktpolitischen Zielsetzung und der Bildungspolitik
+  * Erarbeitung einer umfassenden Strategie durch die Politik, Wirtschaft, Wissenschaft und Sozialpartner, um aktiv jene Zukunftsbranchen zu identifizieren, in denen Österreich international Vorreiter sein kann. Ziel ist es, in den kommenden Jahren und Jahrzehnten Wertschöpfung und Arbeitsplätze in Österreich zu halten und weiter auszubauen sowie einen Beitrag zu :index:`Klima` und Umweltschutz zu leisten.
+  * Enge Abstimmung mit anderen politischen Zielsetzungen, wie etwa der FTI-Strategie, der :index:`Klima- und Energiepolitik`, der arbeitsmarktpolitischen Zielsetzung und der Bildungspolitik
   * Auf Stärken bauen: Bestehende Stärken wie z.B. die Mobilitätsindustrie, erneuerbare Energien und Umwelttechnik, Biotechnologie, Mikroelektronik, Landwirtschaft, Tourismus und andere müssen weiter ausgebaut, weiterentwickelt und durch gemeinsame Bemühungen der Wirtschaft und der Politik international beworben werden.
   * Neue Sektoren erschließen: Entstehende Stärken, in denen Österreich relevante Wettbewerbsvorteile aufweist, müssen vor dem Hintergrund der Technologieneutralität weiterentwickelt werden, Österreichs internationales Profil darin gestärkt und durch österreichische Produkte weltweit ein Beitrag zur CO2-Reduktion geleistet werden – wie z.B. digitale Geschäftsmodelle, forschungsintensive Industrien, Modelle der Kreislaufwirtschaft, die E-Mobilität, die Nutzung von grünem Wasserstoff in Verkehr und Industrie, Gesundheitswirtschaft und andere Bereiche, die auf Österreichs Verbindung von Grundlagenforschung, angewandter Forschung und industriellem Know-how bauen.
   * Im Rahmen der Umsetzung dieser Strategie bekennt sich die Bundesregierung dazu, Investitionen anzuziehen. In einem Schulterschluss aus Politik, Wirtschaft und Arbeitnehmervertreterinnen und -vertretern, wollen wir uns in Zukunft koordiniert dafür einsetzen, internationale Unternehmensansiedlungen und Investitionsentscheidungen für den Standort Österreich zu gewinnen.
@@ -113,7 +110,7 @@ Standort- und Industriepolitik
 
 - Einrichtung eines Produktivitätsrates gemäß der EU-Ratsempfehlung: Prüfung einer Ansiedelung beim bereits bestehenden Fiskalrat oder anderen Institutionen (z.B. WIFO, IHS etc.).
 
-- Die Bundesregierung bekennt sich zum aktiven Beteiligungsmanagement der ÖBAG, dazu zählt die aktive Wahrnehmung der Eigentümerrechte der Republik. Auch die ÖBAG soll zur Umsetzung der Standortstrategiebeitragen, um in den kommenden Jahren und Jahrzehnten Wertschöpfung und Arbeitsplätze in Österreich zu halten und weiter auszubauen sowie einen Beitrag zu Klima- und Umweltschutz zu leisten, z.B. Incentivierung Flottenumbau E-Mobilität, Car-Sharing Mitarbeiterinnen und Mitarbeiter, Einsatz von ökologischen Baustoffen bzw. erneuerbaren Energieträgern in der öffentlichen Bauwirtschaft.
+- Die Bundesregierung bekennt sich zum aktiven Beteiligungsmanagement der ÖBAG, dazu zählt die aktive Wahrnehmung der Eigentümerrechte der Republik. Auch die ÖBAG soll zur Umsetzung der Standortstrategiebeitragen, um in den kommenden Jahren und Jahrzehnten Wertschöpfung und Arbeitsplätze in Österreich zu halten und weiter auszubauen sowie einen Beitrag zu :index:`Klima- und Umweltschutz` zu leisten, z.B. Incentivierung Flottenumbau E-Mobilität, Car-Sharing Mitarbeiterinnen und Mitarbeiter, Einsatz von ökologischen Baustoffen bzw. erneuerbaren Energieträgern in der öffentlichen Bauwirtschaft.
 
 Entbürokratisierung und Modernisierung der Verwaltung
 -----------------------------------------------------

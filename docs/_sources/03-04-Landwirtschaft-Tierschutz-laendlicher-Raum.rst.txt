@@ -4,13 +4,13 @@ Landwirtschaft, Tierschutz & ländlicher Raum
 
 :download:`Kapitel als PDF <../split/03-04-Landwirtschaft-Tierschutz-laendlicher-Raum.pdf>` (Teil des :download:`Originals <../original/RP2020.pdf>`).
 
-Die Bundesregierung bekennt sich zur Bedeutung der heimischen Land- und Forstwirtschaft und der bäuerlichen Familienbetriebe. Unsere Bäuerinnen und Bauern versorgen uns täglich mit hochqualitativen, leistbaren und regionalen Lebensmitteln und erhalten mit ihrer Arbeit unsere einzigartige Kulturlandschaft und vielfältigen Lebensräume. Sie leisten Enormes in der Bereitstellung von erneuerbaren Rohstoffen, dem Erhalt der natürlichen Ressourcen und der Artenvielfalt sowie dem Schutz des Bodens und der Wasserqualität. Diese gesellschaftlich anerkannten Leistungen der Bäuerinnen und Bauern sind auch in Zukunft ein wesentlicher Beitrag im Kampf gegen den Klimawandel.
+Die Bundesregierung bekennt sich zur Bedeutung der heimischen Land- und Forstwirtschaft und der bäuerlichen Familienbetriebe. Unsere Bäuerinnen und Bauern versorgen uns täglich mit hochqualitativen, leistbaren und regionalen Lebensmitteln und erhalten mit ihrer Arbeit unsere einzigartige Kulturlandschaft und vielfältigen Lebensräume. Sie leisten Enormes in der Bereitstellung von erneuerbaren Rohstoffen, dem Erhalt der natürlichen Ressourcen und der Artenvielfalt sowie dem Schutz des Bodens und der Wasserqualität. Diese gesellschaftlich anerkannten Leistungen der Bäuerinnen und Bauern sind auch in Zukunft ein wesentlicher Beitrag im Kampf gegen den :index:`Klimawandel`.
 
 Die österreichische Landwirtschaft ist kleinstrukturiert und auf höchste Qualität ausgerichtet – Agrarfabriken sind für uns keine Alternative. Unser Fokus liegt darauf, Österreich als Vorzeigemodell in Europa weiter zu stärken. Übergeordnetes Ziel ist dabei die Versorgung mit hochwertigen Lebensmitteln, der Erhalt einer multifunktionalen, nachhaltigen, wettbewerbsfähigen und flächendeckenden Land- und Forstwirtschaft sowie ein hoher Selbstversorgungsgrad. Der Erhalt unserer Wälder und die Unterstützung der Forstwirtschaft bei der nachhaltigen Bewirtschaftung sind ein zentrales Anliegen.
 
 Die vielfältigen bäuerlichen Familienbetriebe, ob im Voll-, Zuund Nebenerwerb, ob Ackerbau oder Viehhaltung, ob konventionell oder biologisch, ob in Gunstlagen oder im Bergund benachteiligten Gebiet, leisten einen wesentlichen Beitrag dazu. Die Bäuerinnen und Bauern brauchen dafür aber auch ein faires, existenzsicherndes Einkommen sowie faire Preise für ihre hochwertigen Produkte. Durch weitere Entlastungsschritte im Bereich Steuern, der Direktvermarktung sowie der bäuerlichen Sozialversicherung unterstützt die Bundesregierung den Fortbestand und die Weiterentwicklung der bäuerlichen Betriebe.
 
-Nur eine ausreichend dotierte Gemeinsame Agrarpolitik kann die notwendigen Rahmenbedingungen für eine nachhaltige und umweltgerechte Bewirtschaftung schaffen. Die Sicherstellung dieser GAP-Mittel für Österreich im Mehrjährigen Finanzrahmen 2021 - 2027 der EU ist daher Grundvoraussetzung für die Absicherung einer bäuerlichen Landwirtschaft und ökosozialen Agrarpolitik. Eine ergebnisorientierte österreichische GAP-Strategie setzt auf den weiteren Ausbau umweltgerechter Bewirtschaftungsmethoden und des biologischen Landbaus, sichert die österreichische Berglandwirtschaft durch eine ausreichende Dotierung der Ausgleichszulage und unterstützt die Zusammenarbeit aller Akteurinnen und Akteure zur Erhaltung vitaler ländlicher Regionen. So leistet die Landwirtschaft einen Beitrag zur Erreichung der Pariser Klimaziele.
+Nur eine ausreichend dotierte Gemeinsame Agrarpolitik kann die notwendigen Rahmenbedingungen für eine nachhaltige und umweltgerechte Bewirtschaftung schaffen. Die Sicherstellung dieser GAP-Mittel für Österreich im Mehrjährigen Finanzrahmen 2021 - 2027 der EU ist daher Grundvoraussetzung für die Absicherung einer bäuerlichen Landwirtschaft und ökosozialen Agrarpolitik. Eine ergebnisorientierte österreichische GAP-Strategie setzt auf den weiteren Ausbau umweltgerechter Bewirtschaftungsmethoden und des biologischen Landbaus, sichert die österreichische Berglandwirtschaft durch eine ausreichende Dotierung der Ausgleichszulage und unterstützt die Zusammenarbeit aller Akteurinnen und Akteure zur Erhaltung vitaler ländlicher Regionen. So leistet die Landwirtschaft einen Beitrag zur Erreichung der Pariser :index:`Klimaziele`.
 
 Österreich zählt im internationalen Vergleich zu jenen Ländern mit den höchsten Tierschutz und Lebensmittelstandards und hat sich dadurch zu einem Feinkostladen in Europa entwickelt. Der Umstieg auf mehr Tierschutz soll für alle Betriebsgrößen erleichtert werden. Die gentechnikfreie Lebensmittelproduktion steht genauso im Mittelpunkt wie die Stärkung regionaler und saisonaler Produkte und der Ausbau durchgängiger Qualitätsund Herkunftssysteme – im Interesse der Konsumentinnen und Konsumenten und einer vitalen und zukunftsfähigen Landwirtschaft.
 
@@ -93,7 +93,7 @@ Gute Lebensmittel für alle und Transparenz für Bürgerinnen und Bürger
 
 - Aktionsprogramm für den schrittweisen Ausstieg aus Gentechnik-Futtermitteln im Rahmen der österreichischen Eiweißstrategie
 
-  * Klimaschutzpartnerschaft mit dem österreichischen Handel: Regalflächenanteil für österreichische Produkte wird zumindest beibehalten.
+  * :index:`Klimaschutzpartnerschaft` mit dem österreichischen Handel: Regalflächenanteil für österreichische Produkte wird zumindest beibehalten.
   * Regionale Kreisläufe, Verarbeiter und Branchenlösungen werden unterstützt.
   * Unterstützung des Umstiegs auf heimische und europäische Eiweißquellen für Futtermittel
   * „Gentechnikfrei aus Europa“ im Rahmen der europäischen Eiweißstrategie
@@ -130,7 +130,7 @@ Landwirtschaftliche Institutionen und Strukturen
 
 - LKÖ als Körperschaft öffentlichen Rechts
 
-- Zur bestmöglichen Umsetzung der GAP in Österreich enthalten die Beraterverträge mit Landwirtschaftskammern und AMA transparente und evaluierbare Leistungspakete für die GAP-Abwicklung und Maßnahmen für Klima und Umweltschutz
+- Zur bestmöglichen Umsetzung der GAP in Österreich enthalten die Beraterverträge mit Landwirtschaftskammern und AMA transparente und evaluierbare Leistungspakete für die GAP-Abwicklung und Maßnahmen für :index:`Klima` und Umweltschutz
 
 - Bessere Dotierung der AGES mit dem Ziel:
 
@@ -148,9 +148,9 @@ Sicherstellung einer wettbewerbsfähigen, multifunktionalen und flächendeckende
 
 - Ausfinanzierung der derzeitigen GAP auf dem bisherigen Niveau in den Übergangsjahren (2021 und 2022) bzw. gemeinsame Vorgangsweise für allfällige inhaltliche Änderungen und Anpassungen
 
-- Positionierung Österreichs im Rat bei GAP- Verhandlungen: öffentliches Geld für öffentliche Leistungen
+- Positionierung Österreichs im Rat bei GAP-Verhandlungen: öffentliches Geld für öffentliche Leistungen
 
-  * Verpflichtender Umwelt/Klimabeitrag von 40% der GAP-Mittel
+  * Verpflichtender Umwelt/:index:`Klimabeitrag` von 40% der GAP-Mittel
 
 - Positionierung zu Capping und Degression auf europäischer Ebene zu den kommenden GAP-Verhandlungen: Bekenntnis zu einer einheitlichen Obergrenze (maximal 100.000 EUR) auf europäischer Ebene im Sinne eines degressiven Modells (ab 60.000 EUR)
 
@@ -163,12 +163,12 @@ Sicherstellung einer wettbewerbsfähigen, multifunktionalen und flächendeckende
 
 - Agrarumweltprogramm (ÖPUL= Agrarumwelt, Bio, Naturschutz, Tierwohl)
 
-  * Positionierung des Agrarumweltprogramms mit ÖPUL, Bio, Naturschutz und Tierwohl als Beitrag zur Erreichung der Pariser Klimaziele, wobei insbesondere dem Biolandbau eine wesentliche Bedeutung zukommt
+  * Positionierung des Agrarumweltprogramms mit ÖPUL, Bio, Naturschutz und Tierwohl als Beitrag zur Erreichung der Pariser :index:`Klimaziele`, wobei insbesondere dem Biolandbau eine wesentliche Bedeutung zukommt
   * Bekenntnis zu folgenden Zielen: Erhalt und Ausbau der Wasserqualität (Unterstützung im vorbeugenden Grundwasserschutz), Verbesserung der Luftqualität in Hinblick auf Feinstaub, Ammoniak etc., Vermeidung von Bodenerosion, Humusaufbau,  nachhaltige Forstbewirtschaftung, Erhalt nicht produktiver Landschaftselemente oder Landschaftsbereiche zur Verbesserung der Biodiversität, Erhalt der Bodenfruchtbarkeit, Reduktion und nachhaltiges, effizientes und optimiertes Dünge- und Schädlingsbekämpfungsmanagement
-  * Verstärkung der (finanziellen) Anreizkomponente für Landwirtinnen und Landwirte (bei der Maßnahmenkalkulation) aufgrund des hohen gesellschaftlichen Mehrwerts des Programms (z.B. Schutz der Biodiversität) für die Umwelt sowie zusätzliche finanzielle Abgeltung von Klimamaßnahmen
+  * Verstärkung der (finanziellen) Anreizkomponente für Landwirtinnen und Landwirte (bei der Maßnahmenkalkulation) aufgrund des hohen gesellschaftlichen Mehrwerts des Programms (z.B. Schutz der Biodiversität) für die Umwelt sowie zusätzliche finanzielle Abgeltung von :index:`Klimamaßnahmen`
   * Zusätzliche nationale Mittel zur Reduktion von Ammoniakemissionen zur Umsetzung des Luftreinhalteprogramms
 
-- Ausgleichszulage (Bergbauernförderung): Weiterführung und positive Weiterentwicklung der Ausgleichszulage für Bergbäuerinnen und -bauern als einfache Maßnahme zur gezielten Abgeltung betriebsindividueller und klimatischer Erschwernisse sowie Berücksichtigung der Tierhaltung
+- Ausgleichszulage (Bergbauernförderung): Weiterführung und positive Weiterentwicklung der Ausgleichszulage für Bergbäuerinnen und -bauern als einfache Maßnahme zur gezielten Abgeltung betriebsindividueller und :index:`klimatischer Erschwernisse` sowie Berücksichtigung der Tierhaltung
 
 - Erarbeitung neuer Perspektiven für unterschiedliche und innovative Formen der Landwirtschaftsbetriebe, der bäuerlichen Familienbetriebe und landwirtschaftlichen Bewirtschaftung
 
@@ -186,10 +186,10 @@ Sicherstellung einer wettbewerbsfähigen, multifunktionalen und flächendeckende
 
 - Umsetzung der GAP auf nationaler Ebene
 
-  * Weiterführung der Prüfung von GAP-Maßnahmen auf Klimatauglichkeit sowie Umweltfolgenabschätzung
+  * Weiterführung der Prüfung von GAP-Maßnahmen auf :index:`Klimatauglichkeit` sowie Umweltfolgenabschätzung
   * Ausschöpfen der Möglichkeiten zur ökonomischen und ökologischen Treffsicherheit der GAP-Maßnahmen in Hinblick auf den Erhalt der regionstypischen agrarischen Strukturen
   * Bodengebundene Tierhaltung unter Einhaltung des Aktionsprogramms Nitrat verankern
-  * Ökologische, klimagerechte und Tierwohl-Kriterien für Investitionsförderungen im Rahmen der Ländlichen Entwicklung forcieren, z.B. Förderungen primär für Investitionen, die der Marktentwicklung und den gesellschaftlichen Anforderungen entsprechen, wie Tierwohlgerechter Stallbau
+  * Ökologische, :index:`klimagerechte` und Tierwohl-Kriterien für Investitionsförderungen im Rahmen der Ländlichen Entwicklung forcieren, z.B. Förderungen primär für Investitionen, die der Marktentwicklung und den gesellschaftlichen Anforderungen entsprechen, wie Tierwohlgerechter Stallbau
   * Keine Einführung von Zuzahlungen zu Risikoversicherungsprämien (insbesondere Einkommensversicherung) im Rahmen der GAP
   * Die Bedeckung von allenfalls seitens der Europäischen Kommission vorgenommenen Finanzkorrekturen in der GAP erfolgt im Rahmen des Budgetvollzugs durch zusätzlich zur Verfügung gestellte Mittel
 
@@ -204,7 +204,7 @@ Den Biolandbau stärken
 
 - Ambitionierte Weiterentwicklung des Bio-Aktionsplans
 
-- Positionierung der biologischen und nachhaltigen Wirtschaftsweise als strategisches Element zur Erreichung der umwelt- und klimapolitischen Ziele in der Landwirtschaft
+- Positionierung der biologischen und nachhaltigen Wirtschaftsweise als strategisches Element zur Erreichung der umwelt- und :index:`klimapolitischen Ziele` in der Landwirtschaft
 
 - Vorreiterrolle Österreichs in der biologischen Wirtschaftsweise in Europa weiter ausbauen
 
@@ -218,7 +218,7 @@ Den Biolandbau stärken
 
 - Prüfung der rechtlichen Umsetzung einer einheitlichen Bio-Zertifizierung für die Außer-Haus-Verpflegung auf Basis der Vorschläge des Biobeirats
 
-- Forschungsoffensive in Richtung Bio- und klimataugliche Landwirtschaft (zweckgebundene Mittel)
+- Forschungsoffensive in Richtung Bio- und :index:`klimataugliche Landwirtschaft` (zweckgebundene Mittel)
 
 - Bildung und Beratung für Bio ausbauen
 
@@ -231,7 +231,7 @@ Land- und forstwirtschaftliche Bildung und Bildungseinrichtungen stärken
 
 - Attraktivierung des land- und forstwirtschaftlichen Bildungs- und Forschungssystems sowie der Hochschule für Agrar- und Umweltpädagogik durch gezielte Öffentlichkeitsarbeit
 
-- Positionierung der Schulen und der Hochschule für Agrar- und Umweltpädagogik als „Role Model“ nachhaltiger Bildungseinrichtungen (Einsatz von PV-Anlagen, E-Mobilität, regionale Versorgung der Kantinen, Schulbau mit klimaaktiv-Kriterien, Umweltzeichenschulen etc.)
+- Positionierung der Schulen und der Hochschule für Agrar- und Umweltpädagogik als „Role Model“ nachhaltiger Bildungseinrichtungen (Einsatz von PV-Anlagen, E-Mobilität, regionale Versorgung der Kantinen, Schulbau mit :index:`klimaaktiv-Kriterien`, Umweltzeichenschulen etc.)
 
 - Stärkung des Bio-Ausbildung auf allen Ausbildungsebenen (HBLA, HLA, FH etc.)
 
@@ -305,9 +305,9 @@ Forstwirtschaft
 
 - Heimische Wälder als wesentlicher Wirtschaftsfaktor:
 
-  * Stärkung der aktiven, nachhaltigen Waldbewirtschaftung (klimafitter Wald) unter Berücksichtigung der CO2-Speicherfähigkeit und Multifunktionalität der heimischen Wälder als wesentlicher Wirtschaftsfaktor zur Sicherstellung der Schutz-, Erholungs-, Wirtschafts- und Wohlfahrtsfunktion
+  * Stärkung der aktiven, nachhaltigen Waldbewirtschaftung (:index:`klimafitter Wald`) unter Berücksichtigung der CO2-Speicherfähigkeit und Multifunktionalität der heimischen Wälder als wesentlicher Wirtschaftsfaktor zur Sicherstellung der Schutz-, Erholungs-, Wirtschafts- und Wohlfahrtsfunktion
   * Vollständige Umsetzung des „Aktionsprogramms Schutzwald“ bis 2024
-  * Unterstützung bei standortgemäßer und klimafitter Wiederaufforstung und Pflege nach wetter- und klimabedingten Kalamitäten
+  * Unterstützung bei standortgemäßer und klimafitter Wiederaufforstung und Pflege nach wetter- und :index:`klimabedingten Kalamitäten`
   * Österreich (international) als Forstland positionieren
 
 - Ausbau eines Biotop-Verbund-Systems, Retentionsräume (in Zusammenarbeit mit den Ländern)
@@ -322,9 +322,9 @@ Forstwirtschaft
 
 - Stufenweiser Ausstieg aus der Verwendung bleihaltiger Munition gemäß der REACH-Verordnung
 
-- Forst-Förderungen auf Auswirkungen/Anpassung Klimawandel ausrichten, um Wald klimafitter zu machen
+- Forst-Förderungen auf Auswirkungen/Anpassung :index:`Klimawandel` ausrichten, um Wald :index:`klimafitter` zu machen
 
-- Weiterführung der Unterstützung bei Schäden durch Klimawandel (Dürre, Stürme)
+- Weiterführung der Unterstützung bei Schäden durch :index:`Klimawandel` (Dürre, Stürme)
 
 - Beibehaltung der Maßnahmen zur Errichtung von Nasslagern für Schadholz
 

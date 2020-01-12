@@ -1,6 +1,6 @@
----------------------
-:index:`Klimaschutz` & Energie
----------------------
+------------------------------
+:index:`Klimaschutz & Energie`
+------------------------------
 
 :download:`Kapitel als PDF <../split/03-01-Klimaschutz-Energie.pdf>` (Teil des :download:`Originals <../original/RP2020.pdf>`).
 
@@ -37,8 +37,8 @@ Die Land- und Forstwirtschaft leistet ihren Beitrag ebenso wie die Abfallwirtsch
 Für die Industrie und das Gewerbe werden die Weichen in Richtung einer neuen, hoch innovativen, kreislauffähigen und klimafreundlichen Technologie-Ära gestellt, die Österreich und Europa als führenden Industriestandort für hochwertige, ressourcenschonende und CO2-arme Produktion positioniert.
 So sichern wir langfristig diesen wichtigen Sektor am Standort Österreich und sind im Wettbewerb der Zukunft, dem Wettbewerb um die ökologischsten statt billigsten Produktionsweisen, als Vorreiterland positioniert.
 
-Klimaneutralität bis 2040 – ein klares Ziel, ein klarer Auftrag
----------------------------------------------------------------
+:index:`Klimaneutralität` bis 2040 – ein klares Ziel, ein klarer Auftrag
+------------------------------------------------------------------------
 
 - Paris-Pfad einschlagen mit wissenschaftsbasierter :index:`Klimapolitik`
 
@@ -111,7 +111,7 @@ Die Weichen richtig stellen: notwendige horizontale Maßnahmen
 - Prüfung der zweckgebundenen Verwendung der Versteigerungserlöse aus dem Zertifikatshandel (Emissionszertifikategesetz) als zusätzliche Mittel für den :index:`Klimaschutz` und :index:`klimagerechte Innovation`
 
 Die öffentliche Hand zeigt‘s vor! :index:`Klimaneutrale Verwaltung`
-----------------------------------------------------------
+-------------------------------------------------------------------
 
 - Verbindliche :index:`Klimaschutz-Richtlinien` für alle Institutionen des Bundes (inkl. nachgelagerter Dienststellen und Unternehmen, die zu 100% im Eigentum des Bundes stehen):
 
@@ -133,7 +133,7 @@ Die öffentliche Hand zeigt‘s vor! :index:`Klimaneutrale Verwaltung`
   * Überarbeitung und Aktualisierung des „Aktionsplan nachhaltige öffentliche Beschaffung“, dessen Anwendung für Beschaffungsvorgänge verbindlich ist und evaluiert wird
   * Paradigmenwechsel vom Billigstbieter zum Bestbieter sowie Total Cost of Ownership (TCO)
 
-- Erarbeitung einer Strategie mit einem konkreten Zeitplan für eine :index:`klimaneutrale Verwaltung? bis 2040
+- Erarbeitung einer Strategie mit einem konkreten Zeitplan für eine :index:`klimaneutrale Verwaltung` bis 2040
 
   * Kompensation von zunächst überschießenden (über Zielpfad) bzw. verbleibenden Emissionen aufgrund eines Kriterienkatalogs
 
@@ -386,7 +386,7 @@ Industrie und Gewerbe: ein Green Deal für Österreichs Wirtschaft
 - Einsetzen auf europäischer Ebene für einheitliche Regelungen zur Verhinderung des indirekten Carbon Leakage – falls auf europäischer Ebene keine einheitliche Regelung erfolgt, Prüfung einer nationalen Möglichkeit zur Aufrechterhaltung der Wett-bewerbsfähigkeit
 
 :index:`Klimaschutz` durch Bioökonomie
------------------------------
+--------------------------------------
 
 - Entwicklung geeigneter Instrumente zur Forcierung von erneuerbaren Rohstoffen in allen Produktbereichen bzw. Wirtschaftssektoren unter Berücksichtigung der Verfügbarkeit von Flächen und :index:`Klimazielen` in der Landwirtschaft
 

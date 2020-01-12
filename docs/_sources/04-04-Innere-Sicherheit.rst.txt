@@ -134,9 +134,9 @@ Gute Rahmenbedingungen für eine moderne Polizei
 
   * Alle Polizeiinspektionen sind barrierefrei zu gestalten, wie gesetzlich seit 2019 verpflichtend
   * Freundliche Gestaltung des Eingangsbereichs von PIs unter Berücksichtigung von Sicherheitserfordernissen
-  * Klimataugliche Arbeitsbedingungen schaffen
+  * :index:`Klimataugliche Arbeitsbedingungen` schaffen
 
-- Auch die Polizei kann und soll einen Beitrag zur Steigerung der Nachhaltigkeit und Erreichung der Klimaziele leisten. Dahingehendes Potenzial soll erhoben und genutzt werden.
+- Auch die Polizei kann und soll einen Beitrag zur Steigerung der Nachhaltigkeit und Erreichung der :index:`Klimaziele` leisten. Dahingehendes Potenzial soll erhoben und genutzt werden.
 
 - Erhöhung der Anzahl von Amtsärztinnen und Amtsärzten
 

@@ -11,7 +11,7 @@ Das bedeutet, die Einsatzfähigkeit unseres Bundesheeres im In- und Ausland ziel
 Darüber hinaus wollen wir Schwerpunkte auf die Bereiche Krisenund Katastrophenmanagement sowie neue Bedrohungsbilder wie etwa :index:`Cyber-Attacken` legen.
 Denn unser Bundesheer ist die Sicherheitsgarantie, auf die wir uns alle verlassen.
 
-In den kommenden Jahren und Jahrzehnten werden trotz unseres massiv gesteigerten Engagements für den Klimaschutz, auch klimawandelbedingte Naturkatastrophen immer häufiger und schwerer.
+In den kommenden Jahren und Jahrzehnten werden trotz unseres massiv gesteigerten Engagements für den :index:`Klimaschutz`, auch :index:`klimawandelbedingte Naturkatastrophen` immer häufiger und schwerer.
 Darum gilt es, das staatliche Krisen- und Katastrophenmanagement auf die neuen Herausforderungen vorzubereiten und dadurch eine Steigerung der Resilienz Österreichs zu gewährleisten.
 Die Sicherheit und Versorgung unserer Bevölkerung ist hier unser oberstes Ziel.
 

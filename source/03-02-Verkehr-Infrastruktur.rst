@@ -17,7 +17,7 @@ Seilbahnwirtschaft sind im Zusammenhang mit den Bereichen Verkehr und Infrastruk
 Neben der Dekarbonisierung sind Digitalisierung und Sharing die größten Innovationstreiber für moderne Mobilität. Wir wollen die Rahmenbedingungen für neue Mobilitätsdienste optimieren und dabei vor allem den Nutzen für alle sicherstellen.
 
 :index:`Klimaschutz-Rahmen` für Verkehrssektor
----------------------------------------
+----------------------------------------------
 
 - Mobilitätsmasterplan 2030 für eine wirkungsorientierte integrierte Strategie für Luft-, Wasser-, Schienen- und Straßenverkehr, von der sich konkrete Maßnahmen für einzelne Sektoren ableiten, die Österreichs :index:`Klima- und Wirtschaftsziele` unterstützen
 
@@ -34,7 +34,7 @@ Neben der Dekarbonisierung sind Digitalisierung und Sharing die größten Innova
 - Einsatz im nationalen und europäischen Rahmen in Richtung einer verursachergerechten Kostenwahrheit
 
 Umweltfreundliche, leistbare Mobilität für alle in Stadt und Land
--------------------------------------------------------------------------
+-----------------------------------------------------------------
 
 - Garantiert mobil: Ausbauen, vernetzen, verstärken
 
@@ -115,7 +115,7 @@ Verkehrssicherheit
 - Evaluierung und Novelle der OffroadVo und des KFG in Bezug auf den missbräuchlichen
 
 Effiziente E-Mobilität jetzt: Schienen in die Zukunft und mehr Bahn, Bim & Bus
-------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------
 
 - Bus, Bahn & Co. – innovativ, aufeinander abgestimmt, benutzerfreundlich
 
@@ -226,7 +226,7 @@ Effiziente E-Mobilität jetzt: Schienen in die Zukunft und mehr Bahn, Bim & Bus
 - Bestbieterprinzip inkl. Anwendung von Qualitäts- und Sozialkriterien bei regionalen Ausschreibungen im Busverkehr
 
 Radpaket und Zufußgehen – Offensive für aktive, sanfte Mobilität
-------------------------------------------------------------------------
+----------------------------------------------------------------
 
 - Fahrradoffensive
 
@@ -364,7 +364,7 @@ Güter in Einklang mit dem :index:`Klima` transportieren & Transitproblem bekäm
 - Keine Gigaliner auf Österreichs Straßen
 
 :index:`Klima-faire` Zukunft in Luftfahrt, Schifffahrt, Seilbahnwesen
------------------------------------------------------------------
+---------------------------------------------------------------------
 
 - Stärkung der (öffentlichen) Verkehrsverbindung, besonders für den Flughafen Wien. Errichtung der Flughafenspange Richtung Osten und bessere Verknüpfung an das S-Bahn- und U-Bahnnetz, Verlängerung der S-Bahn nach Bratislava
 
@@ -424,7 +424,7 @@ Güter in Einklang mit dem :index:`Klima` transportieren & Transitproblem bekäm
   * Anreize für Innovation in der Seilbahnwirtschaft, vor allem im urbanen Raum (Stadtseilbahn)
 
 Neue Mobilität – mehr als Verkehr
---------------------------------------
+---------------------------------
 
 - Gelegenheitsverkehrsgesetz zur Förderung neuer Mobilitätsdienstleistungen verbessern
 

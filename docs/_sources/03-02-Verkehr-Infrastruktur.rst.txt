@@ -4,11 +4,11 @@ Verkehr & Infrastruktur
 
 :download:`Kapitel als PDF <../split/03-01-Klimaschutz-Energie.pdf>` (Teil des :download:`Originals <../original/RP2020.pdf>`).
 
-Mobilität ist ein Grundbedürfnis der Menschen, der Transport von Waren eine Voraussetzung für unsere Wirtschaft. Ein zukunftsfähiger Standort braucht ein innovatives, effizientes und gut funktionierendes Mobilitäts- und Transportsystem. Gleichzeitig wissen wir um die Notwendigkeit, das Verkehrssystem neuen Anforderungen anzupassen: Digitalisierung, Energieeffizienz und Dekarbonisierung im Einklang mit den Klimazielen von Paris sind unabdingbar. Um die im Verkehrssektor notwendige Trendwende bei den CO2- Emissionen zu schaffen, bedarf es klarer Rahmenbedingungen und engagierter Umsetzungsprogramme. Deshalb werden Maßnahmen entwickelt, um Verkehr zu vermeiden, Verkehr zu verlagern und Verkehr zu verbessern und den Anteil des Umweltverbunds (Fuß- und Radverkehr, öffentliche Verkehrsmittel und Shared Mobility) deutlich zu steigern.
+Mobilität ist ein Grundbedürfnis der Menschen, der Transport von Waren eine Voraussetzung für unsere Wirtschaft. Ein zukunftsfähiger Standort braucht ein innovatives, effizientes und gut funktionierendes Mobilitäts- und Transportsystem. Gleichzeitig wissen wir um die Notwendigkeit, das Verkehrssystem neuen Anforderungen anzupassen: Digitalisierung, Energieeffizienz und Dekarbonisierung im Einklang mit den :index:`Klimazielen` von Paris sind unabdingbar. Um die im Verkehrssektor notwendige Trendwende bei den CO2- Emissionen zu schaffen, bedarf es klarer Rahmenbedingungen und engagierter Umsetzungsprogramme. Deshalb werden Maßnahmen entwickelt, um Verkehr zu vermeiden, Verkehr zu verlagern und Verkehr zu verbessern und den Anteil des Umweltverbunds (Fuß- und Radverkehr, öffentliche Verkehrsmittel und Shared Mobility) deutlich zu steigern.
 
 Die Bundesregierung bekennt sich zum gemeinsamen Voranbringen der notwendigen Innovationen im Verkehrssektor hin zu umweltfreundlicher Mobilität für alle, um zukunftsfähige Lösungen für unser individuelles Mobilitätsbedürfnis zu bieten. Dadurch sollen die Menschen echte Wahlfreiheit auf ihren alltäglichen Wegen erhalten, nicht nur in unseren Städten, sondern auch und besonders im ländlichen Raum. Wir wollen ein Verkehrssystem, das im Sinne der österreichischen Bevölkerung ist und den Anforderungen des 21. Jahrhunderts gerecht wird. Deshalb schaffen wir ein gutes, sicheres, barrierefreies und preisgünstiges sowie flächendeckendes Mobilitätsangebot für die Österreicherinnen und Österreicher.
 
-Der Bahnverkehr steht vor Herausforderungen wie die der Kapazitätssteigerung. Um diese zu bewältigen wird zeitgerecht und mittels mehrjährig fixierter Prioritäten in die nötige Infrastruktur investiert. Dies ist die Basis für Angebotsausweitungen und dichte Taktfahrpläne. Der Güterverkehr hat großes Potential, einen wesentlichen Beitrag für die Erreichung der Pariser Klimaziele zu leisten. Er soll energieeffizient, umweltund klimaschonend abgewickelt und die Chancen dieses Effizienzsprungs für den Beschäftigungs- und Wirtschaftsstandort sollen umfassend genützt werden. Der Logistik-Hub Österreich wird damit zukunftsfähig aufgestellt und nachhaltig gestärkt.
+Der Bahnverkehr steht vor Herausforderungen wie die der Kapazitätssteigerung. Um diese zu bewältigen wird zeitgerecht und mittels mehrjährig fixierter Prioritäten in die nötige Infrastruktur investiert. Dies ist die Basis für Angebotsausweitungen und dichte Taktfahrpläne. Der Güterverkehr hat großes Potential, einen wesentlichen Beitrag für die Erreichung der Pariser :index:`Klimaziele` zu leisten. Er soll energieeffizient, umweltund :index:`klimaschonend` abgewickelt und die Chancen dieses Effizienzsprungs für den Beschäftigungs- und Wirtschaftsstandort sollen umfassend genützt werden. Der Logistik-Hub Österreich wird damit zukunftsfähig aufgestellt und nachhaltig gestärkt.
 
 Österreich hat eines der dichtesten Straßennetze Europas. Zur Erhaltung, Optimierung und verkehrsträgerübergreifenden Weiterentwicklung der Verkehrsinfrastruktur braucht es fachliche Entscheidungs- und Planungsprozesse. Der Mobilitätsmasterplan 2030 soll den wirkungsorientierten strategischen Rahmen bieten, um Österreichs Mobilitätssektor nach ökologischen, ökonomischen und sozialen Zielen auszurichten. Der Radund Fußgängerverkehr nimmt stetig an Bedeutung zu. Dieser positive Trend muss weiterhin unterstützt und gestärkt werden. Luftfahrt, Schifffahrt und auch
 
@@ -16,25 +16,25 @@ Seilbahnwirtschaft sind im Zusammenhang mit den Bereichen Verkehr und Infrastruk
 
 Neben der Dekarbonisierung sind Digitalisierung und Sharing die größten Innovationstreiber für moderne Mobilität. Wir wollen die Rahmenbedingungen für neue Mobilitätsdienste optimieren und dabei vor allem den Nutzen für alle sicherstellen.
 
-Klimaschutz-Rahmen für Verkehrssektor
----------------------------------------
+:index:`Klimaschutz-Rahmen` für Verkehrssektor
+----------------------------------------------
 
-- Mobilitätsmasterplan 2030 für eine wirkungsorientierte integrierte Strategie für Luft-, Wasser-, Schienen- und Straßenverkehr, von der sich konkrete Maßnahmen für einzelne Sektoren ableiten, die Österreichs Klima- und Wirtschaftsziele unterstützen
+- Mobilitätsmasterplan 2030 für eine wirkungsorientierte integrierte Strategie für Luft-, Wasser-, Schienen- und Straßenverkehr, von der sich konkrete Maßnahmen für einzelne Sektoren ableiten, die Österreichs :index:`Klima- und Wirtschaftsziele` unterstützen
 
-  * Langfristige strategische Ausrichtung des Mobilitätssektors in Richtung Erfüllung des Pariser Klimaabkommens
-  * Das gesamtstaatliche Klimaziel für den Bereich Verkehr fungiert als übergeordnete verbindliche Handlungsanleitung, an der sich die strategische Planung für alle Verkehrsträger ausrichten muss.
-  * Der Mobilitätsmasterplan 2030 adressiert die Transformationstreiber Dekarbonisierung und Digitalisierung. Er nutzt die Potentiale der Digitalisierung (Daten als Grundlage für modiübergreifende Steuerung und Nutzung neuer Geschäftsmodelle zur Erreichung der Klimaziele). Im Mittelpunkt stehen Lebensqualität und Wettbewerbsfähigkeit. Hierfür müssen neue Mobilitätskonzepte und Innovationen gestärkt werden, u.a. auch mit der Etablierung von Experimentierräumen.
+  * Langfristige strategische Ausrichtung des Mobilitätssektors in Richtung Erfüllung des Pariser :index:`Klimaabkommens`
+  * Das gesamtstaatliche :index:`Klimaziel` für den Bereich Verkehr fungiert als übergeordnete verbindliche Handlungsanleitung, an der sich die strategische Planung für alle Verkehrsträger ausrichten muss.
+  * Der Mobilitätsmasterplan 2030 adressiert die Transformationstreiber Dekarbonisierung und Digitalisierung. Er nutzt die Potentiale der Digitalisierung (Daten als Grundlage für modiübergreifende Steuerung und Nutzung neuer Geschäftsmodelle zur Erreichung der :index:`Klimaziele`). Im Mittelpunkt stehen Lebensqualität und Wettbewerbsfähigkeit. Hierfür müssen neue Mobilitätskonzepte und Innovationen gestärkt werden, u.a. auch mit der Etablierung von Experimentierräumen.
   * Aufgebaut wird der Mobilitätsmasterplan 2030 auf Vorarbeiten wie der #mission2030, dem NEKP oder dem Sachstandsbericht Mobilität. Er entwickelt Einzelmaßnahmen in den Bereichen „Verkehr vermeiden“, „Verkehr verlagern“ und „Verkehr verbessern“ – von Mobilitätsdienstleistungen bis hin zu Infrastrukturmaßnahmen.
   * Besondere Berücksichtigung finden attraktive Mobilitätsdienstleistungen sowohl für urbane Zentren als auch für ländliche Gebiete.
   * Nutzung der Beteiligungen des Bundes in den Bereichen Infrastruktur und Verkehr und Erarbeitung einer Portfolio-Strategie, die die Ziele des Mobilitätsmasterplans 2030 unterstützt und eine serviceorientierte Mobilitätspolitik verwirklicht
-  * Verkehrsträgerübergreifende strategische Planung beim Bau und Ausbau von Infrastruktur sowie Prüfung der Effizienzsteigerung durch bessere Kooperation im Infrastrukturausbau inklusive Berücksichtigung der Sektorintegration (beispielsweise Bau, Breitbandausbau oder Klimaschutzprojekte)
+  * Verkehrsträgerübergreifende strategische Planung beim Bau und Ausbau von Infrastruktur sowie Prüfung der Effizienzsteigerung durch bessere Kooperation im Infrastrukturausbau inklusive Berücksichtigung der Sektorintegration (beispielsweise Bau, Breitbandausbau oder :index:`Klimaschutzprojekte`)
 
 - Effizienzsteigerung durch den Digitalen Tiefbauatlas für Infrastrukturausbau ermöglichen
 
 - Einsatz im nationalen und europäischen Rahmen in Richtung einer verursachergerechten Kostenwahrheit
 
 Umweltfreundliche, leistbare Mobilität für alle in Stadt und Land
--------------------------------------------------------------------------
+-----------------------------------------------------------------
 
 - Garantiert mobil: Ausbauen, vernetzen, verstärken
 
@@ -51,7 +51,7 @@ Umweltfreundliche, leistbare Mobilität für alle in Stadt und Land
   * Gesetzliche Festlegung der Gesamthöhe der Mittel und des Verteilungsschlüssels, orientiert an den ÖV-Mindeststandards (Beschlüsse 2014) sowie Zweckbindung für ÖPNV
   * Prüfung einer Neuorganisation (Integration in die Linienverkehre etc.) des Schüler-Gelegenheitsverkehrs, um eine Steigerung der Planungseffizienz und eine faire Ausfinanzierung zu erreichen
 
-- 1-2-3-Österreich-Ticket zur Erreichung der Klimaziele – eine klimaschonende Alternative zum motorisierten Individualverkehr, breit leistbar und zugleich unkompliziert zugänglich
+- 1-2-3-Österreich-Ticket zur Erreichung der :index:`Klimaziele` – eine :index:`klimaschonende` Alternative zum motorisierten Individualverkehr, breit leistbar und zugleich unkompliziert zugänglich
 
   * Umsetzung durch österreichweite Jahresnetzkarte für den öffentlichen Verkehr
   * Um 1 Euro pro Tag in einem Bundesland, um 2 Euro pro Tag in einem und im Nachbarbundesland, um 3 Euro pro Tag das gesamte Bundesgebiet
@@ -115,7 +115,7 @@ Verkehrssicherheit
 - Evaluierung und Novelle der OffroadVo und des KFG in Bezug auf den missbräuchlichen
 
 Effiziente E-Mobilität jetzt: Schienen in die Zukunft und mehr Bahn, Bim & Bus
-------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------
 
 - Bus, Bahn & Co. – innovativ, aufeinander abgestimmt, benutzerfreundlich
 
@@ -226,7 +226,7 @@ Effiziente E-Mobilität jetzt: Schienen in die Zukunft und mehr Bahn, Bim & Bus
 - Bestbieterprinzip inkl. Anwendung von Qualitäts- und Sozialkriterien bei regionalen Ausschreibungen im Busverkehr
 
 Radpaket und Zufußgehen – Offensive für aktive, sanfte Mobilität
-------------------------------------------------------------------------
+----------------------------------------------------------------
 
 - Fahrradoffensive
 
@@ -244,7 +244,7 @@ Radpaket und Zufußgehen – Offensive für aktive, sanfte Mobilität
   * Fußgängerverkehr bei Gestaltung rechtlicher Rahmenbedingungen der Verkehrsorganisation wie der StVo und bei Gestaltung des Straßenraums stärker berücksichtigen
   * Verstärkte Förderung von Investitionen im Fußgängerverkehr
   * Förderschiene Mobilitätsmanagement ausbauen
-  * Anpassung der Kriterien für Klimaförderungen aus Bundesmitteln, damit auch Infrastruktur für den Fußverkehr förderungswürdig wird (klimaaktiv)
+  * Anpassung der Kriterien für :index:`Klimaförderungen` aus Bundesmitteln, damit auch Infrastruktur für den Fußverkehr förderungswürdig wird (:index:`klimaaktiv`)
   * Infrastrukturentscheidungen sollen die Planung und Errichtung begleitender und vernetzender Fuß- und Radwege berücksichtigen
   * Der Unterausschuss Radverkehr des BMVIT wird um die Agenden des Fußverkehrs erweitert.
 
@@ -256,7 +256,7 @@ Straßenverkehr
 - Bürokratieabbau im Straßenverkehr
 
   * Evaluierung der Beschilderung und damit Prüfung der Kundmachung von diversen Geboten und Verboten durch Schilder (Dotierung möglicherweise via Verkehrssicherheitsfonds des BMVIT)
-  * Evaluierung und Überarbeitung der Rahmenbedingungen bzgl. Rechtssicherheit für Parkraumbewirtschaftungssysteme im Zusammenhang mit Effizienz, Nutzungsorientierung und Klimafreundlichkeit
+  * Evaluierung und Überarbeitung der Rahmenbedingungen bzgl. Rechtssicherheit für Parkraumbewirtschaftungssysteme im Zusammenhang mit Effizienz, Nutzungsorientierung und :index:`Klimafreundlichkeit`
 
 - Predictive Maintenance in der Infrastrukturwartung (Straßenbau, Brücken, etc.): Sensoren messen präzise die täglichen Verschleißerscheinungen und können dadurch extrapolierte Aussagen liefern, wann eine Wartung notwendig ist.
 
@@ -264,7 +264,7 @@ Straßenverkehr
 
   * Teilnahme an IPCEI „Batterien“ (Important Project of Common European Interest, europäische Ausnahme vom Beihilfenrecht zur gebündelten Investition privater und öffentlicher Gelder)
 
-- Strategie zur Verwendung alternativer Energieträger in der Mobilität (E-Mobilität, Wasserstoff, synthetische Treibstoffe) mit Fokus auf Gesamt-Klimabilanz und im Sinne von verkehrspolitischen Innovationen wie beispielsweise Elektrifizierung von Oberleitungen, Antriebstechnologien (Brennstoffzelle) und Digitalisierung (Platooning, AUV, Digitalisierungsstrategien im Bereich Eisenbahn)
+- Strategie zur Verwendung alternativer Energieträger in der Mobilität (E-Mobilität, Wasserstoff, synthetische Treibstoffe) mit Fokus auf Gesamt-:index:`Klimabilanz` und im Sinne von verkehrspolitischen Innovationen wie beispielsweise Elektrifizierung von Oberleitungen, Antriebstechnologien (Brennstoffzelle) und Digitalisierung (Platooning, AUV, Digitalisierungsstrategien im Bereich Eisenbahn)
 
   *  Unterstützung der Forschung im Bereich synthetischer Kraftstoffe (für Straße, Luftfahrt und Schifffahrt)
 
@@ -272,7 +272,7 @@ Straßenverkehr
 
 - Prüfung einer möglichen stärkeren Bevorteilung von Fahrzeugen der modernsten Fahrzeuggeneration EURo VI d (Abgasnorm)
 
-- Alternative Kraftstoffe als Beitrag zum Klimaschutz unter Beachtung der THG-Effekte von indirekten Landnutzungsänderungen nutzen:
+- Alternative Kraftstoffe als Beitrag zum :index:`Klimaschutz` unter Beachtung der THG-Effekte von indirekten Landnutzungsänderungen nutzen:
 
   * Forcierung der Verwendung von fortschrittlichen Biotreibstoffen sowie Unterstützung von Forschungs- und Demonstrationsanlagen.
   * Forcierte Beimischung von Bioethanol (E10) und Überarbeitung der entsprechenden Zielsetzungen in der Kraftstoffverordnung, um die bestehende heimische Bioethanol-Produktion bestmöglich zu nutzen und den tat-sächlichen CO2-Ausstoß im Verkehr laufend zu reduzieren
@@ -287,7 +287,7 @@ Straßenverkehr
 
 - Dekarbonisierung des Straßenverkehrs
 
-  * Ziel der Bundesregierung ist ein Maßnahmenbündel, das dazu führt, dass ab dem für die Erreichung der Pariser Klimaziele notwendigen Zeitpunkt nur mehr emissionsfreie PKW, einspurige Fahrzeuge sowie leichte Nutzfahrzeuge auf Österreichs Straßen neu zugelassen werden.
+  * Ziel der Bundesregierung ist ein Maßnahmenbündel, das dazu führt, dass ab dem für die Erreichung der Pariser :index:`Klimaziele` notwendigen Zeitpunkt nur mehr emissionsfreie PKW, einspurige Fahrzeuge sowie leichte Nutzfahrzeuge auf Österreichs Straßen neu zugelassen werden.
   * Konsequenter Einsatz der Bundesregierung auf EU-Ebene für die seitens der Europäschen Kommission mit dem Green Deal angestrebte Neuverhandlung der Flotten-Emissionsvorgaben, um ab 2025 den Weg hin zu emissionsfreier Mobilität zu ebnen
 
 - Vorreiterrolle und Vorbildwirkung der öffentlichen Hand durch verbindliche Vorgaben:
@@ -315,9 +315,9 @@ Straßenverkehr
   * Konsequente Kontrolle (Ausstattung Exekutive) der reduzierten Höchstgeschwindigkeiten (IG-L) in besonders belasteten Gebieten
   * Hinwirkung auf die Beendigung des Spielraums im Hinblick auf technisch unnötige Toleranzgrenzen bei Geschwindigkeitskontrollen
 
-- Überprüfung von weiteren Strafbestimmungen bei umwelt- und klimarelevanten Manipulationen (Abgasmanipulationen, Chiptuning und dgl.) am Fahrzeug durch Hersteller oder Eigner und diese konsequent vollziehen
+- Überprüfung von weiteren Strafbestimmungen bei umwelt- und :index:`klimarelevanten Manipulationen` (Abgasmanipulationen, Chiptuning und dgl.) am Fahrzeug durch Hersteller oder Eigner und diese konsequent vollziehen
 
-Güter in Einklang mit dem Klima transportieren & Transitproblem bekämpfen
+Güter in Einklang mit dem :index:`Klima` transportieren & Transitproblem bekämpfen
 ----------------------------------------------------------------------------------
 
 - Masterplan Güterverkehr für Ziele und Maßnahmen zur Verbesserung des Modalsplit im Güterverkehr, insbesondere durch Verlagerung auf die Schiene im Sinne der Klimaziele und in Weiterentwicklung des Logistikaktionsplans durch Schaffung eines Gesamtkonzepts, das im Ergebnis zu einer Entlastung der Bevölkerung insbesondere entlang der Transitrouten führt. Dies bedarf einer Neubewertung der insgesamt bestehenden steuer- und gebührenrechtlichen sowie eisenbahn- und straßenrechtlichen Normen.
@@ -329,9 +329,9 @@ Güter in Einklang mit dem Klima transportieren & Transitproblem bekämpfen
   * Sicherung und Ausbau von intermodalen Verlademöglichkeiten, um die Effizienz des Gütertransports auf der Schiene zu steigern: Forcierung und Förderung betrieblicher Gleisanschlüsse, inkl. Instandhaltung und Betrieb; bei Neuwidmung von Industrie- und Gewerbegebieten sollen Anschlussbahnen forciert werden.
   * Verstärkter Transport bahnaffiner Güter auf der Schiene
 
-- Österreich setzt sich vor dem Hintergrund der Klimaziele und der Transitfrage proaktiv für eine EU-Wegekostenrichtlinie II mit verlagerungswirksamen Eckpunkten wie Mindest- statt Höchstmautsätzen ein. Folgende Punkte sind dabei von besonderer Bedeutung:
+- Österreich setzt sich vor dem Hintergrund der :index:`Klimaziele` und der Transitfrage proaktiv für eine EU-Wegekostenrichtlinie II mit verlagerungswirksamen Eckpunkten wie Mindest- statt Höchstmautsätzen ein. Folgende Punkte sind dabei von besonderer Bedeutung:
 
-  * Kostenwahrheit durch eine der verursachten Umwelt- und Klimabelastung entsprechende LKW-Maut inkl. Mindestsätze. Verbesserung des EU-Rechts und in Österreich die bestehende mögliche Einberechnung für Luftschadstoffe und Lärm in Maut-Tarife voll nutzen
+  * Kostenwahrheit durch eine der verursachten Umwelt- und :index:`Klimabelastung` entsprechende LKW-Maut inkl. Mindestsätze. Verbesserung des EU-Rechts und in Österreich die bestehende mögliche Einberechnung für Luftschadstoffe und Lärm in Maut-Tarife voll nutzen
   * Einsatz auf EU-Ebene für die Ermöglichung wirksamer Maßnahmen für weniger Transitfahrten bzw. zu deren Verlagerung auf die Bahn (z.B. Alpentransitbörse, um Lizenzen für eine umweltverträgliche Obergrenze an LKW-Transitfahrten zu handeln, sektorales Fahrverbot), dazu Aufnahme von Gesprächen mit der EU-Kommission und der Schweiz
   * Korridor-Maut: Erarbeitung eines Vorschlags an die Europäische Kommission zur Überarbeitung der Europäischen Richtlinien (Wegekostenrichtlinie, Eurovignette), um eine größere Flexibilität bei der Mauttarifgestaltung für LKW zu erreichen, die bei besonders belasteten Räumen Aufschläge mit nachhaltiger Lenkungswirkung gestattet. Ziel der Lenkungswirkung ist es – unter anderem anhand des Beispiels des Brenners –, eine deutliche Verlagerung des Schwerverkehrs von der Straße auf die Schiene zu erreichen und Umweg-Transit zu verhindern.
 
@@ -363,8 +363,8 @@ Güter in Einklang mit dem Klima transportieren & Transitproblem bekämpfen
 
 - Keine Gigaliner auf Österreichs Straßen
 
-Klima-faire Zukunft in Luftfahrt, Schifffahrt, Seilbahnwesen
------------------------------------------------------------------
+:index:`Klima-faire` Zukunft in Luftfahrt, Schifffahrt, Seilbahnwesen
+---------------------------------------------------------------------
 
 - Stärkung der (öffentlichen) Verkehrsverbindung, besonders für den Flughafen Wien. Errichtung der Flughafenspange Richtung Osten und bessere Verknüpfung an das S-Bahn- und U-Bahnnetz, Verlängerung der S-Bahn nach Bratislava
 
@@ -376,7 +376,7 @@ Klima-faire Zukunft in Luftfahrt, Schifffahrt, Seilbahnwesen
 
 - Umsetzung Single European Sky: Schaffung eines einheitlichen europäischen Luftraums, um Flugdistanzen, Kerosinverbrauch und CO2-Emissionen zu minimieren
 
-- Umsetzung eines Emissionsreduktionspfades für die Luftfahrt zur Erreichung der Klimaziele durch eine Kombination aus
+- Umsetzung eines Emissionsreduktionspfades für die Luftfahrt zur Erreichung der :index:`Klimaziele` durch eine Kombination aus
 
   * CORSIA (Carbon Offsetting and Reduction Scheme for International Aviation: Globales CO2-Kompensationssystem für den Luftverkehr aller Mitgliedstaaten der UN-Luftfahrtorganisation ICAO), für die freiwillige Kompensation womöglich weiter steigender CO2-Ausstöße der Luftfahrt ab 2021
   *  Fortgesetzte Einbeziehung der Luftfahrt in den EU-Emissionshandel (ETS) für eine deutliche Reduktion der CO2-Emissionen bis 2030
@@ -385,7 +385,7 @@ Klima-faire Zukunft in Luftfahrt, Schifffahrt, Seilbahnwesen
 
 - Einsatz auf europäischer Ebene und in den globalen Gremien für eine mit anderen Treibstoffen in Relation stehende Besteuerung von Kerosin – es braucht eine gerechte Kerosinbesteuerung auf EU-Ebene
 
-- Entwicklung von klimaschonenden Treibstoffalternativen für die Luftfahrt:
+- Entwicklung von :index:`klimaschonenden Treibstoffalternativen` für die Luftfahrt:
 
   * Initiative EU/Mitgliedstaaten für Markteinführung alternativer Kraftstoffe
   * Beteiligung der Luftfahrtbranche an Pilotprojekten zum Aufbau industrieller Anlagen zur Herstellung von synthetischem Kraftstoff
@@ -399,7 +399,7 @@ Klima-faire Zukunft in Luftfahrt, Schifffahrt, Seilbahnwesen
 
 - Umsetzung fluglärmreduzierender An- und Abflugverfahren zum frühestmöglichen Zeitpunkt durch die Austro-Control
 
-- Überarbeitung des Luftfahrtgesetzes bezüglich Klimaschutz und Ökologisierung und ggf. Novellierung
+- Überarbeitung des Luftfahrtgesetzes bezüglich :index:`Klimaschutz` und Ökologisierung und ggf. Novellierung
 
 - Nutzung von Drohnen und anderer Unpiloted Aerial Vehicles: Schaffung klarer gesetzlicher Grundlagen, klarer Betriebsvorschriften und adäquater Flugsicherung
 
@@ -424,7 +424,7 @@ Klima-faire Zukunft in Luftfahrt, Schifffahrt, Seilbahnwesen
   * Anreize für Innovation in der Seilbahnwirtschaft, vor allem im urbanen Raum (Stadtseilbahn)
 
 Neue Mobilität – mehr als Verkehr
---------------------------------------
+---------------------------------
 
 - Gelegenheitsverkehrsgesetz zur Förderung neuer Mobilitätsdienstleistungen verbessern
 

@@ -22,16 +22,16 @@ Einander und dem Land die nötige Stabilität geben, um die großen Fragen anzug
 Die Neue Volkspartei und die Grünen gehen eine neue Etappe dieses österreichischen Weges.
 Chancen nützen heißt Verantwortung übernehmen.
 
-In einer Zeit, in der Europa auf der Bühne der Weltmächte immer mehr an Bedeutung und Einfluss zu verlieren droht, in einer Zeit, wo sich die Bedrohungen für die öffentliche Sicherheit und Ordnung grundlegend verändert haben, und in einer Zeit, in der wir bereits die ersten Auswirkungen der drohenden Klimakrise bemerken, braucht es eine Regierung, die die großen Fragen unserer Zeit angeht.
+In einer Zeit, in der Europa auf der Bühne der Weltmächte immer mehr an Bedeutung und Einfluss zu verlieren droht, in einer Zeit, wo sich die Bedrohungen für die öffentliche Sicherheit und Ordnung grundlegend verändert haben, und in einer Zeit, in der wir bereits die ersten Auswirkungen der drohenden :index:`Klimakrise` bemerken, braucht es eine Regierung, die die großen Fragen unserer Zeit angeht.
 
 Wir setzen uns für ein starkes Europa ein, das geeint ist und sich auf die wesentlichen Herausforderungen unseres Kontinents konzentriert.
 Wir müssen die europäischen Außengrenzen schützen und sicherstellen, dass alle Menschen in Frieden und Sicherheit leben können.
 Und wir müssen die Rahmenbedingungen erhalten und verbessern, damit die Bürgerinnen und Bürger und die Unternehmen, die unseren Wohlstand schaffen, von Steuern und Bürokratie entlastet werden und gleichzeitig unser soziales Netz gestärkt wird und jene auffängt, die sich selbst nicht helfen können.
 
-Wir sind die erste Generation, die die Folgen der Klimakrise spürt, und gleichzeitig die letzte Generation, die noch gegensteuern kann.
+Wir sind die erste Generation, die die Folgen der :index:`Klimakrise´ spürt, und gleichzeitig die letzte Generation, die noch gegensteuern kann.
 Der Schutz der Umwelt und eine starke Wirtschaft dürfen kein Widerspruch sein.
 Unser Wirtschaftsstandort kann noch dynamischer werden, wir können mehr und bessere Jobs schaffen, wenn wir in Nachhaltigkeit investieren:
-Wir können die Schöpfung bewahren und die Klimakrise bekämpfen.
+Wir können die Schöpfung bewahren und die :index:`Klimakrise` bekämpfen.
 Beides heißt, den kommenden Generationen ein lebenswertes Österreich zu hinterlassen – ökonomisch und ökologisch intakt.
 Nachhaltigkeit heißt dabei auch, auf einen ausgeglichenen Staatshaushalt zu achten.
 
@@ -54,7 +54,7 @@ Auf dieser Basis wollen die neue Volkspartei und die Grünen eine gemeinsame Reg
 Dafür haben wir gemeinsame Ziele definiert – im vollen Bewusstsein, dass es in allen politischen Feldern neue Wege braucht:
 
 1. Eine spürbare Entlastung für arbeitende Menschen
-2. Die Bekämpfung des Klimawandels und die Einhaltung der Klimaziele von Paris
+2. Die Bekämpfung des :index:`Klimawandels` und die Einhaltung der :index:`Klimaziele` von Paris
 3. Einen nachhaltigen und wettbewerbsfähigen Wirtschaftsstandort
 4. Die soziale Sicherheit und Armutsbekämpfung
 5. Ein konsequenter Kurs im Bereich Migration und Integration

@@ -2,15 +2,29 @@
 Tourismus
 ---------
 
-Für Österreich ist der Tourismus in vielerlei Hinsicht von großer Bedeutung. Er ist ein wichtiger Wirtschafts- und Wohlstandsmotor und schafft hunderttausende Arbeitsplätze. Jeder fünfte Vollarbeitsplatz in Österreich wird durch die Tourismus- und Freizeitwirtschaft gesichert, vor allem auch in den ländlichen Regionen. Sowohl im Sommer als auch im Winter sorgen unsere Tourismusbetriebe dafür, Österreich als attraktive Reise- und Freizeitdestination zu positionieren. Darüber hinaus schafft unsere Tourismuskultur die Identifikation für unser Land. Nicht nur der internationale Wettbewerb soll zukünftig im Fokus stehen, insbesondere soll auch Lust auf Urlaub im eigenen Land gemacht werden.
+Für Österreich ist der Tourismus in vielerlei Hinsicht von großer Bedeutung.
+Er ist ein wichtiger Wirtschafts- und Wohlstandsmotor und schafft hunderttausende Arbeitsplätze.
+Jeder fünfte Vollarbeitsplatz in Österreich wird durch die Tourismus- und Freizeitwirtschaft gesichert, vor allem auch in den ländlichen Regionen.
+Sowohl im Sommer als auch im Winter sorgen unsere Tourismusbetriebe dafür, Österreich als attraktive Reise- und Freizeitdestination zu positionieren.
+Darüber hinaus schafft unsere Tourismuskultur die Identifikation für unser Land.
+Nicht nur der internationale Wettbewerb soll zukünftig im Fokus stehen, insbesondere soll auch Lust auf Urlaub im eigenen Land gemacht werden.
 
-Die Schaffung und der Erhalt von Arbeitsplätzen ist von immenser Bedeutung für regionale Betriebe, und damit auch für die Regionen als solche. Als österreichische Bundesregierung bekennen wir uns daher zur Bedeutung von Österreich als Tourismusdestination und zur Weiterentwicklung dieses wichtigen Sektors.
+Die Schaffung und der Erhalt von Arbeitsplätzen ist von immenser Bedeutung für regionale Betriebe, und damit auch für die Regionen als solche.
+Als österreichische Bundesregierung bekennen wir uns daher zur Bedeutung von Österreich als Tourismusdestination und zur Weiterentwicklung dieses wichtigen Sektors.
 
-Der Tourismus steht dennoch vor einer Vielzahl an Herausforderungen, wie etwa die spürbare Veränderung unseres Klimas, die auch die Wettbewerbsfähigkeit des Tourismus bedroht. Es ist wichtig, bereits jetzt die notwendigen Schritte zu setzen, um nicht nur heute, sondern auch morgen unsere hohen Standards aufrechtzuerhalten. Mit dem Plan T – Masterplan für Tourismus wurden erste Weichen gestellt, um den zahlreichen Herausforderungen im Tourismus zu begegnen.
+Der Tourismus steht dennoch vor einer Vielzahl an Herausforderungen, wie etwa die spürbare Veränderung unseres :index:`Klimas`, die auch die Wettbewerbsfähigkeit des Tourismus bedroht.
+Es ist wichtig, bereits jetzt die notwendigen Schritte zu setzen, um nicht nur heute, sondern auch morgen unsere hohen Standards aufrechtzuerhalten.
+Mit dem Plan T – Masterplan für Tourismus wurden erste Weichen gestellt, um den zahlreichen Herausforderungen im Tourismus zu begegnen.
 
-Das Ziel der Bundesregierung ist der Erhalt einer kleinteiligen und häufig familiengeführten Tourismusbranche sowie die besondere Unterstützung von kleineren und mittleren Unternehmen und die Wertschöpfung vor Ort zu stärken. Dafür brauchen wir Entlastungen für unsere Tourismusbetriebe. Darüber hinaus ist die Entwicklung des touristischen Arbeitsmarktes eine der größten Herausforderungen für den Tourismusstandort Österreich. Um dem bestehenden Mitarbeitermangel im Tourismus entgegenzuwirken, braucht es eine gemeinsame, kompetenzübergreifende Anstrengung aller Beteiligten.
+Das Ziel der Bundesregierung ist der Erhalt einer kleinteiligen und häufig familiengeführten Tourismusbranche sowie die besondere Unterstützung von kleineren und mittleren Unternehmen und die Wertschöpfung vor Ort zu stärken.
+Dafür brauchen wir Entlastungen für unsere Tourismusbetriebe. Darüber hinaus ist die Entwicklung des touristischen Arbeitsmarktes eine der größten Herausforderungen für den Tourismusstandort Österreich. Um dem bestehenden Mitarbeitermangel im Tourismus entgegenzuwirken, braucht es eine gemeinsame, kompetenzübergreifende Anstrengung aller Beteiligten.
 
-Der Tourismus unterliegt einem permanenten Wandel. Die Bedürfnisse der Gäste und ihre Erwartungen an einen Urlaub haben sich geändert. Immer stärker ins Bild rücken aber auch dabei die Auswirkungen des Tourismus auf die Natur. Gerade unsere alpinen Regionen, die als Sportdestinationen einen weltweit einzigartigen Ruf genießen, laufen durch eine Erwärmung des Klimas Gefahr, ihrer wirtschaftlichen Grundlagen beraubt zu werden. Daher gilt es den Weg des nachhaltigen Tourismus im Einklang mit der Natur verstärkt fortzusetzen und für ein gutes Miteinander von Ökonomie, Ökologie und Sozialem zu sorgen. Ziel ist es, dass alle vom Tourismus profitieren können – die Betriebe, die Mitarbeiterinnen und Mitarbeiter, die Gäste und die Bevölkerung vor Ort – und wir dabei die österreichische Naturlandschaft erhalten.
+Der Tourismus unterliegt einem permanenten Wandel.
+Die Bedürfnisse der Gäste und ihre Erwartungen an einen Urlaub haben sich geändert.
+Immer stärker ins Bild rücken aber auch dabei die Auswirkungen des Tourismus auf die Natur.
+Gerade unsere alpinen Regionen, die als Sportdestinationen einen weltweit einzigartigen Ruf genießen, laufen durch eine Erwärmung des :index:`Klimas` Gefahr, ihrer wirtschaftlichen Grundlagen beraubt zu werden.
+Daher gilt es den Weg des nachhaltigen Tourismus im Einklang mit der Natur verstärkt fortzusetzen und für ein gutes Miteinander von Ökonomie, Ökologie und Sozialem zu sorgen.
+Ziel ist es, dass alle vom Tourismus profitieren können – die Betriebe, die Mitarbeiterinnen und Mitarbeiter, die Gäste und die Bevölkerung vor Ort – und wir dabei die österreichische Naturlandschaft erhalten.
 
 Forcierung eines wettbewerbsfähigen und verantwortungsvollen Tourismusstandorts
 -------------------------------------------------------------------------------
@@ -25,13 +39,13 @@ Forcierung eines wettbewerbsfähigen und verantwortungsvollen Tourismusstandorts
   * Sicherstellung des Zugangs der Wissenschaft zu verknüpfbaren anonymisierten Registerdaten durch eine Novellierung des Bundesstatistikgesetzes
   * Erstellung von Maßnahmenindikatoren, die wissenschaftliche Evaluierung sicherstellen
   * Prüfung eines Kompetenzzentrums für Tourismusforschung
-  * Auf dieser Basis Maßnahmen auf ihre Wirkungen auf Klima und Ökologie und soziale Verträglichkeit überprüfen
-  * Ergebnisse des Berichts zu Klimawandel und Tourismus im Auftrag des ACRP (Austrian Climate Research Program) berücksichtigen
+  * Auf dieser Basis Maßnahmen auf ihre Wirkungen auf :index:`Klima` und Ökologie und soziale Verträglichkeit überprüfen
+  * Ergebnisse des Berichts zu :index:`Klimawandel` und Tourismus im Auftrag des ACRP (Austrian Climate Research Program) berücksichtigen
 
 - Fortführung und Weiterentwicklung des Indikatorenprojekts des BMNT unter der Leitung von Statistik Austria mit Fokus auf die ökologische und soziale Dimension
 
   * Wachstum nicht mehr ausschließlich an Nächtigungszahlen messen
-  * Erweiterung um Indikatoren der gesamten Wertschöpfungskette und Auswirkungen auf Bevölkerung/Natur/Landschaft und Klimawandel
+  * Erweiterung um Indikatoren der gesamten Wertschöpfungskette und Auswirkungen auf Bevölkerung/Natur/Landschaft und :index:`Klimawandel`
   * Stehen die für die Entwicklung solcher Indikatoren notwendigen Daten aktuell nicht zur Verfügung, müssen auch neue / erweiterte Erhebungen durch Statistik Austria ins Auge gefasst werden, wofür entsprechende Finanzmittel zur Verfügung zu stellen sind.
 
 - Schwerpunktsetzung im Bereich Digitalisierung
@@ -57,7 +71,7 @@ Forcierung eines wettbewerbsfähigen und verantwortungsvollen Tourismusstandorts
   * Die ÖW soll die digitale Kommunikation und Gestaltung von Reiseerlebnissen forcieren und der Branche digitale Kooperationsmöglichkeiten anbieten.
   * Urlaub der Österreicherinnen und Österreicher im eigenen Land stärker bewerben
   * Werbung in der Tourismusbranche soll auf Basis des Ethikkodex des österreichischen Werberates erstellt werden.
-  * Sonderbudgets in Zukunft vorranging für nachhaltigen Tourismus, im Sinne von Klima- und Umweltschutz sowie Digitalisierung (Data Hub)
+  * Sonderbudgets in Zukunft vorranging für nachhaltigen Tourismus, im Sinne von :index:`Klima- und Umweltschutz` sowie Digitalisierung (Data Hub)
 
 - Österreichische Hotel- und Tourismusbank (ÖHT)
 
@@ -68,21 +82,21 @@ Forcierung eines wettbewerbsfähigen und verantwortungsvollen Tourismusstandorts
 - Neugestaltung der Richtlinien der Österreichischen Hotel- und Tourismusbank 2020 und Inkrafttreten mit Beginn 2021
 
   * Einbeziehung einer Expertengruppe inkl. Autorinnen und Autoren der Evaluierungsstudie 2014-2020
-  * Fördermaßnahmen mit dem Ziel einer ökologisch, ökonomisch und sozial nachhaltigen Tourismuswirtschaft mit dem Schwerpunkt Klimaneutralität in
-  * Kapazitätserweiterungen weiterhin nur besonders entwicklungsschwachen Regionen ermöglichen
+  * Fördermaßnahmen mit dem Ziel einer ökologisch, ökonomisch und sozial nachhaltigen Tourismuswirtschaft mit dem Schwerpunkt :index:`Klimaneutralität`
+  * Kapazitätserweiterungen weiterhin nur in besonders entwicklungsschwachen Regionen ermöglichen
   * Mitnahmeeffekte minimieren
   * Gesamtheitliche Ausarbeitung und Umsetzung von Fördermaßnahmen insbesondere Vereinbarkeit mit dem Entwicklungskonzept der Tourismusregion sicherstellen
   * Finanzielle Unterstützung für den Prozess zu umweltzertifizierten Hotels
   * Sicherstellung der Wettbewerbsfähigkeit der Klein- und Mittelbetriebe der Tourismusbranche besonders in strukturschwächeren Regionen
   * Fortführung der Förderung für Start-Ups mit Fokus auf nachhaltigem Tourismus
 
-- Förderung von Großevents: Strategie ausarbeiten, unter der Berücksichtigung von Klima- und Umweltschutz sowie langfristiger wirtschaftlicher Rentabilität
+- Förderung von Großevents: Strategie ausarbeiten, unter der Berücksichtigung von :index:`Klima- und Umweltschutz` sowie langfristiger wirtschaftlicher Rentabilität
 
-- Unterstützung der besonders durch den Klimawandel bedrohten Regionen in Richtung ganzjähriger Tourismuskonzepte
+- Unterstützung der besonders durch den :index:`Klimawandel` bedrohten Regionen in Richtung ganzjähriger Tourismuskonzepte
 
 - Österreich als Vorreiter eines verantwortungsvollen und ressourceneffizienten Tourismus positionieren. Ausbau von Aktionen wie „Zeichen setzen“
 
-- Weiterführung der Bundesförderung für Hütten und Wege mit der Zielvorgabe einer weiteren Ökologisierung und Klimaneutralität
+- Weiterführung der Bundesförderung für Hütten und Wege mit der Zielvorgabe einer weiteren Ökologisierung und :index:`Klimaneutralität`
 
 - Prüfung der Regelung für die Begrenzung der Nutzung von privatem Wohnraum für touristische Zwecke auf maximal 90 Tage eines Jahres
 
@@ -124,7 +138,7 @@ Qualitätsvoller und regionaler Tourismus
 ----------------------------------------
 - Maßnahmen und Unterstützungsangebote zur Vermeidung von Flächenverbrauch durch die Tourismuswirtschaft
 
-- Konzepte für die Vermeidung von Overtourism, für die saisonalen Veränderungen (klimatische Veränderungen) und zur Stärkung der Zwischensaison
+- Konzepte für die Vermeidung von Overtourism, für die saisonalen Veränderungen (:index:`klimatische Veränderungen`) und zur Stärkung der Zwischensaison
 
 - Sichtbarmachen von Vorbildprojekten zwischen Tourismus und Landwirtschaft
 
@@ -175,8 +189,8 @@ Nachhaltige Mobilität
 
 - Prüfung eines Austrorail-Tickets nach Alter gestaffelt nach dem Vorbild von Interrail
 
-Klimawandel und Wintertourismus
--------------------------------
+:index:`Klimawandel` und Wintertourismus
+----------------------------------------
 
 - Umweltgerechte und wirtschaftliche Strategie im Umgang mit Beschneiung in Skigebieten
 

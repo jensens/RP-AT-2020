@@ -24,7 +24,7 @@ Verfassungsstaat auf der Höhe der Zeit
   * Schaffung klarerer Regelungs- und Verantwortungsstrukturen zwischen den Gebietskörperschaften, um einen fairen Finanzausgleich zu ermöglichen
   * Schaffung einer verfassungsrechtlichen Grundlage, damit Amtssachverständige auch in anderen Bundesländern tätig werden können
 
-- Gemeinsame Prüfung und Ausarbeitung eines zeitgemäßen Kompetenzrahmens (einschließlich der Möglichkeit von Art. 15a B-VG-Vereinbarungen) zur Erreichung der Klimaziele
+- Gemeinsame Prüfung und Ausarbeitung eines zeitgemäßen Kompetenzrahmens (einschließlich der Möglichkeit von Art. 15a B-VG-Vereinbarungen) zur Erreichung der :index:`Klimaziele`
 
 - Steigerung der Effizienz und Transparenz von Art.-15a-Vereinbarungen zwischen Bund, Ländern und Gemeinden
 
@@ -71,14 +71,14 @@ Ein neuer Finanzausgleich
   * Bestmögliche Zusammenführung der Zuständigkeiten bezüglich Verantwortung und Finanzierung; Regeln und Kriterien für Entscheidungs- und Vollziehungspraxis
   * Bundesweite Planungs- und Steuerungsmechanismen, Festlegung einheitlicher Wirkungsziele und im Einklang damit Maßnahmen und Indikatoren (z.B. soziodemographische, geographische, topographische) zu deren Messung
   * Kooperationsbereite Gemeinden sollen aufgrund höherer finanzieller Erfordernisse (z.B. Lage, Betreuungsbedarfs, Siedlungsstruktur etc.) aber auch zentraler und überörtlicher Funktionen mehr Mittel aus dem FAG bekommen.
-  * Die Mittel aus dem FAG sind zudem an die Einhaltung der Klimaziele gekoppelt.
+  * Die Mittel aus dem FAG sind zudem an die Einhaltung der :index:`Klimaziele` gekoppelt.
   * Konkrete Zuordnung und damit Verantwortung für die Ergebnisse zu den jeweiligen Gebietskörperschaften (Aufgabenentflechtung)
   * Schaffung klarer Verantwortlichkeiten sowie Prüfung einer Stärkung der Steuerautonomie für Länder und Gemeinden
   * Reduktion der Transferströme, wichtig ist dabei vor allem, dass Wechselwirkungen im Finanzausgleich beachtet werden.
 
-- Die Erreichung der Klimaziele als gemeinsame Aufgabe
+- Die Erreichung der :index:`Klimaziele` als gemeinsame Aufgabe
 
-  * Prüfung eines Finanzverantwortlichkeitsmechanismus in Bezug auf die von der EU vorgegebenen Klimaschutzziele (z.B. stärkere Leistungsorientierung beim ÖPNV, Ökologisierung der Wohnbauförderung und Dekarbonisierung des Wohnbaus).
+  * Prüfung eines Finanzverantwortlichkeitsmechanismus in Bezug auf die von der EU vorgegebenen :index:`Klimaschutzziele` (z.B. stärkere Leistungsorientierung beim ÖPNV, Ökologisierung der Wohnbauförderung und Dekarbonisierung des Wohnbaus).
 
 - Finanzen
 

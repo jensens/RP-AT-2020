@@ -78,6 +78,7 @@ html_theme_options = {
     'accent_color': 'deep_purple',
     'header_links' : [
         ('Regierungsprogramm 2020-2024', 'index', False, 'home'),
+        ('Stichwortverzeichnis', 'genindex', False, 'sort_by_alpha'),
         ("Open3", "https://www.open3.at", True, 'group'),
         ("GitHub", "https://github.com/jensens/RP-AT-2020", True, 'link')
     ],

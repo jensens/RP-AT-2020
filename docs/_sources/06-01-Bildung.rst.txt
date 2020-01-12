@@ -83,7 +83,7 @@ Starke Schulen brauchen gute Organisation, bedarfsgerechte Ressourcen und modern
 
 - Lehrpläne modernisieren: Ausarbeitung und flächendeckende Einführung von neuen, kompakt und konkret gehaltenen Lehrplänen in der Primar- und Sekundarstufe
 
-  * Fokussierung der neuen Lehrpläne auf Kompetenzvermittlung und klare Unterrichtsziele: Als wesentliche Ziele werden das verbindliche Beherrschen der Grundkompetenzen erachtet, die Förderung der Interessen und (Hoch-)Begabungen und die Berücksichtigung von zeitgemäßen Lehr- und Lerninhalten wie Klimawandel und ökologisch verantwortungsbewusstes Handeln, sprachliche Bildung, Wirtschaftsbildung und Financial Literacy, politische Bildung inklusive Staatskunde und Medienkompetenz. Dabei steht die Persönlichkeitsbildung der jungen Menschen immer im Mittelpunkt.
+  * Fokussierung der neuen Lehrpläne auf Kompetenzvermittlung und klare Unterrichtsziele: Als wesentliche Ziele werden das verbindliche Beherrschen der Grundkompetenzen erachtet, die Förderung der Interessen und (Hoch-)Begabungen und die Berücksichtigung von zeitgemäßen Lehr- und Lerninhalten wie :index:`Klimawandel` und ökologisch verantwortungsbewusstes Handeln, sprachliche Bildung, Wirtschaftsbildung und Financial Literacy, politische Bildung inklusive Staatskunde und Medienkompetenz. Dabei steht die Persönlichkeitsbildung der jungen Menschen immer im Mittelpunkt.
   * Überarbeitung der bestehenden Stunden- und Lerntafeln der einzelnen Schulstufen und Schultypen und der im Einsatz stehenden Lehr- und Lernmittel auf Basis der neuen Lehrpläne
   * Schülerinnen und Schüler sollen sich in allen Fächern digitaler Technologie für ihren individuellen Lernfortschritt bedienen können. Dazu sollen facheinschlägige Kompetenzen (z.B. Coding/Programmieren) in die betreffenden Lehrpläne eingearbeitet werden.
   * Der Grundsatzerlass zum Unterrichtsprinzip Politische Bildung wird evaluiert (z.B. hinsichtlich umweltpolitischer Bildung). Um den Stellenwert der Politischen Bildung und der Vermittlung der Grundlagen unseres Staates zu erhöhen, wird dies verstärkt im Fach Geschichte/Sozialkunde/Politische Bildung verankert.
@@ -179,7 +179,7 @@ Schulorganisation verbessern
 
 - Entwicklung einer wertschätzenden, konstruktiven, transparenten Feedbackkultur („360-Grad Feedback“) zur Qualitätssteigerung des Unterrichts und zur Verbesserung der Beziehungen sowie verpflichtende schulinterne Evaluierung an jedem Standort
 
-- Die Schulen baulich modernisieren – neuer Schulentwicklungsplan unter Berücksichtigung pädagogischer Ziele: klimagerechte ökologische Standards im Schulbau, bei Sanierungen und Neubauten in Abstimmung mit Ländern und Gemeinden, wie dies im Pflichtschulbau umgesetzt werden kann
+- Die Schulen baulich modernisieren – neuer Schulentwicklungsplan unter Berücksichtigung pädagogischer Ziele: :index:`klimagerechte ökologische Standards` im Schulbau, bei Sanierungen und Neubauten in Abstimmung mit Ländern und Gemeinden, wie dies im Pflichtschulbau umgesetzt werden kann
 
 - Klare Regeln für das Zusammenspiel Schule und Unternehmen: Einrichtung einer Servicestelle, die bei Fragen zum Thema Schulen und Unternehmen beratend zur Seite steht (z.B. bzgl. Berufsinformation durch Unternehmen)
 

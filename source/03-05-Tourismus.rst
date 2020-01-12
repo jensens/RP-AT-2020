@@ -2,15 +2,29 @@
 Tourismus
 ---------
 
-Für Österreich ist der Tourismus in vielerlei Hinsicht von großer Bedeutung. Er ist ein wichtiger Wirtschafts- und Wohlstandsmotor und schafft hunderttausende Arbeitsplätze. Jeder fünfte Vollarbeitsplatz in Österreich wird durch die Tourismus- und Freizeitwirtschaft gesichert, vor allem auch in den ländlichen Regionen. Sowohl im Sommer als auch im Winter sorgen unsere Tourismusbetriebe dafür, Österreich als attraktive Reise- und Freizeitdestination zu positionieren. Darüber hinaus schafft unsere Tourismuskultur die Identifikation für unser Land. Nicht nur der internationale Wettbewerb soll zukünftig im Fokus stehen, insbesondere soll auch Lust auf Urlaub im eigenen Land gemacht werden.
+Für Österreich ist der Tourismus in vielerlei Hinsicht von großer Bedeutung.
+Er ist ein wichtiger Wirtschafts- und Wohlstandsmotor und schafft hunderttausende Arbeitsplätze.
+Jeder fünfte Vollarbeitsplatz in Österreich wird durch die Tourismus- und Freizeitwirtschaft gesichert, vor allem auch in den ländlichen Regionen.
+Sowohl im Sommer als auch im Winter sorgen unsere Tourismusbetriebe dafür, Österreich als attraktive Reise- und Freizeitdestination zu positionieren.
+Darüber hinaus schafft unsere Tourismuskultur die Identifikation für unser Land.
+Nicht nur der internationale Wettbewerb soll zukünftig im Fokus stehen, insbesondere soll auch Lust auf Urlaub im eigenen Land gemacht werden.
 
-Die Schaffung und der Erhalt von Arbeitsplätzen ist von immenser Bedeutung für regionale Betriebe, und damit auch für die Regionen als solche. Als österreichische Bundesregierung bekennen wir uns daher zur Bedeutung von Österreich als Tourismusdestination und zur Weiterentwicklung dieses wichtigen Sektors.
+Die Schaffung und der Erhalt von Arbeitsplätzen ist von immenser Bedeutung für regionale Betriebe, und damit auch für die Regionen als solche.
+Als österreichische Bundesregierung bekennen wir uns daher zur Bedeutung von Österreich als Tourismusdestination und zur Weiterentwicklung dieses wichtigen Sektors.
 
-Der Tourismus steht dennoch vor einer Vielzahl an Herausforderungen, wie etwa die spürbare Veränderung unseres :index:`Klimas`, die auch die Wettbewerbsfähigkeit des Tourismus bedroht. Es ist wichtig, bereits jetzt die notwendigen Schritte zu setzen, um nicht nur heute, sondern auch morgen unsere hohen Standards aufrechtzuerhalten. Mit dem Plan T – Masterplan für Tourismus wurden erste Weichen gestellt, um den zahlreichen Herausforderungen im Tourismus zu begegnen.
+Der Tourismus steht dennoch vor einer Vielzahl an Herausforderungen, wie etwa die spürbare Veränderung unseres :index:`Klimas`, die auch die Wettbewerbsfähigkeit des Tourismus bedroht.
+Es ist wichtig, bereits jetzt die notwendigen Schritte zu setzen, um nicht nur heute, sondern auch morgen unsere hohen Standards aufrechtzuerhalten.
+Mit dem Plan T – Masterplan für Tourismus wurden erste Weichen gestellt, um den zahlreichen Herausforderungen im Tourismus zu begegnen.
 
-Das Ziel der Bundesregierung ist der Erhalt einer kleinteiligen und häufig familiengeführten Tourismusbranche sowie die besondere Unterstützung von kleineren und mittleren Unternehmen und die Wertschöpfung vor Ort zu stärken. Dafür brauchen wir Entlastungen für unsere Tourismusbetriebe. Darüber hinaus ist die Entwicklung des touristischen Arbeitsmarktes eine der größten Herausforderungen für den Tourismusstandort Österreich. Um dem bestehenden Mitarbeitermangel im Tourismus entgegenzuwirken, braucht es eine gemeinsame, kompetenzübergreifende Anstrengung aller Beteiligten.
+Das Ziel der Bundesregierung ist der Erhalt einer kleinteiligen und häufig familiengeführten Tourismusbranche sowie die besondere Unterstützung von kleineren und mittleren Unternehmen und die Wertschöpfung vor Ort zu stärken.
+Dafür brauchen wir Entlastungen für unsere Tourismusbetriebe. Darüber hinaus ist die Entwicklung des touristischen Arbeitsmarktes eine der größten Herausforderungen für den Tourismusstandort Österreich. Um dem bestehenden Mitarbeitermangel im Tourismus entgegenzuwirken, braucht es eine gemeinsame, kompetenzübergreifende Anstrengung aller Beteiligten.
 
-Der Tourismus unterliegt einem permanenten Wandel. Die Bedürfnisse der Gäste und ihre Erwartungen an einen Urlaub haben sich geändert. Immer stärker ins Bild rücken aber auch dabei die Auswirkungen des Tourismus auf die Natur. Gerade unsere alpinen Regionen, die als Sportdestinationen einen weltweit einzigartigen Ruf genießen, laufen durch eine Erwärmung des :index:`Klimas` Gefahr, ihrer wirtschaftlichen Grundlagen beraubt zu werden. Daher gilt es den Weg des nachhaltigen Tourismus im Einklang mit der Natur verstärkt fortzusetzen und für ein gutes Miteinander von Ökonomie, Ökologie und Sozialem zu sorgen. Ziel ist es, dass alle vom Tourismus profitieren können – die Betriebe, die Mitarbeiterinnen und Mitarbeiter, die Gäste und die Bevölkerung vor Ort – und wir dabei die österreichische Naturlandschaft erhalten.
+Der Tourismus unterliegt einem permanenten Wandel.
+Die Bedürfnisse der Gäste und ihre Erwartungen an einen Urlaub haben sich geändert.
+Immer stärker ins Bild rücken aber auch dabei die Auswirkungen des Tourismus auf die Natur.
+Gerade unsere alpinen Regionen, die als Sportdestinationen einen weltweit einzigartigen Ruf genießen, laufen durch eine Erwärmung des :index:`Klimas` Gefahr, ihrer wirtschaftlichen Grundlagen beraubt zu werden.
+Daher gilt es den Weg des nachhaltigen Tourismus im Einklang mit der Natur verstärkt fortzusetzen und für ein gutes Miteinander von Ökonomie, Ökologie und Sozialem zu sorgen.
+Ziel ist es, dass alle vom Tourismus profitieren können – die Betriebe, die Mitarbeiterinnen und Mitarbeiter, die Gäste und die Bevölkerung vor Ort – und wir dabei die österreichische Naturlandschaft erhalten.
 
 Forcierung eines wettbewerbsfähigen und verantwortungsvollen Tourismusstandorts
 -------------------------------------------------------------------------------
@@ -176,7 +190,7 @@ Nachhaltige Mobilität
 - Prüfung eines Austrorail-Tickets nach Alter gestaffelt nach dem Vorbild von Interrail
 
 :index:`Klimawandel` und Wintertourismus
--------------------------------
+----------------------------------------
 
 - Umweltgerechte und wirtschaftliche Strategie im Umgang mit Beschneiung in Skigebieten
 
