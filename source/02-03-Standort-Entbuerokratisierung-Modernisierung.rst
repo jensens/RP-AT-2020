@@ -4,9 +4,6 @@ Standort, Entbürokratisierung & Modernisierung
 
 :download:`Kapitel als PDF <../split/02-03-Standort-Entbuerokratisierung-Modernisierung.pdf>` (Teil des :download:`Originals <../original/RP2020.pdf>`).
 
-.. todo::
-  Original gegenchecken
-
 Unsere Wirtschaft und unsere Arbeitswelt verändern sich – in Österreich, in Europa und auf der ganzen Welt. Österreich ist hier dank seiner starken, diversifizierten und exportorientierten Wirtschaft in einer guten Position. Gleichzeitig müssen wir darauf achten, dass wir aktiv jene Zukunftsindustrien identifizieren, in denen Österreich in den kommenden Jahren und Jahrzenten international Vorreiter sein kann. Der Wirtschaftsstandort Österreich soll international wettbewerbsfähig bleiben, um Wertschöpfung und Arbeitsplätze in Österreich zu halten und auszubauen.
 
 Darüber hinaus können wir in Österreich stolz sein auf unseren funktionierenden Rechtsstaat, mit klaren Gesetzen und Vorschriften, die unser Leben und Wirtschaften regeln. Das ist eine unserer größten Stärken. Über die Jahre wurden dabei allerdings, durch europäische und heimische Gesetzgebung, viele Bereiche des Lebens und Wirtschaftens immer stärker reguliert, wodurch in einzelnen Bereichen mit der Zeit teilweise eine aufwendige und komplexe Bürokratie entstanden ist.

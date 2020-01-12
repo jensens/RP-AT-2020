@@ -4,9 +4,6 @@ Steuerreform & Entlastung
 
 :download:`Kapitel als PDF <../split/02-02-Steuerreform-Entlastung.pdf>` (Teil des :download:`Originals <../original/RP2020.pdf>`).
 
-.. todo::
-  Original gegenchecken
-
 Steuern und Abgaben sind die wichtigsten Einkommensquellen des Staates, mit denen öffentliche Dienstleistungen, Infrastruktur und Transferleistungen finanziert werden. Darüber hinaus sind Steuern auch ein wichtiger Lenkmechanismus, um individuelles Verhalten mit den Interessen des Allgemeinwohls in bestmöglichen Einklang zu bringen. Österreich ist hierbei in vielerlei Hinsicht ein Vorreiter. Gleichzeitig ist Österreich im internationalen Vergleich ein Land mit einer hohen Abgabenquote, dessen Steuersystem in den vergangenen Jahrzehnten durch viele Teilreformen komplexer geworden ist.
 
 Die Bundesregierung bekennt sich dazu, im Zuge einer geplanten Steuerstrukturreform die Menschen in Österreich spürbar zu entlasten und unser Steuersystem zu vereinfachen. Dabei geht es besonders darum, dass Haushalte mit kleinen und mittleren Einkommen am Ende des Monats wieder mehr zum Leben haben und sich Eigentum schaffen können. Bei der bevorstehenden Reform steht neben dieser Entlastung besonders die ökologischsoziale Umsteuerung im Vordergrund – ökologisch-nachhaltiges Verhalten soll künftig stärker attraktiviert werden, während es bei ökologisch-schädlichem Verhalten einer stärkeren Kostenwahrheit bedarf (unter Rücksicht auf die soziale Verträglichkeit bzw. die Wettbewerbsfähigkeit unserer Wirtschaft).
