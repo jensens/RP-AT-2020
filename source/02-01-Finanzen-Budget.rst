@@ -4,12 +4,9 @@ Finanzen & Budget
 
 :download:`Kapitel als PDF <../split/02-01-Finanzen-Budget.pdf>` (Teil des :download:`Originals <../original/RP2020.pdf>`).
 
-.. todo::
-  Original gegenchecken
-
 Ein funktionierendes und verlässliches Wirtschafts- und Finanzsystem bildet dieGrundlage für den Erhalt unseres Wohlstandes, sichert die nachhaltige Finanzierung unseres Sozialstaates und spielt eine Schlüsselrolle in der Bewältigung neuer Herausforderungen wie der Globalisierung, des Klimaschutzes und der Digitalisierung.
 
-Die Bundesregierung bekennt sich zu einer Finanz- und Budgetpolitik, die fiskalische Stabilität sicherstellt und den heimischen Unternehmerinnen bzw. Unternehmern und Arbeitnehmerinnen bzw. Arbeitnehmern Planungssicherheit bietet. Der Staat soll dabei mit gutem Beispiel vorangehen und mit dem Geld der Steuerzahlenden sorgsam umgehen, während er überall dort, w  * es sinnvoll und notwendig ist, Spielräume schafft, um durch öffentliche Investitionen das Allgemeinwohl zu fördern.
+Die Bundesregierung bekennt sich zu einer Finanz- und Budgetpolitik, die fiskalische Stabilität sicherstellt und den heimischen Unternehmerinnen bzw. Unternehmern und Arbeitnehmerinnen bzw. Arbeitnehmern Planungssicherheit bietet. Der Staat soll dabei mit gutem Beispiel vorangehen und mit dem Geld der Steuerzahlenden sorgsam umgehen, während er überall dort, wo es sinnvoll und notwendig ist, Spielräume schafft, um durch öffentliche Investitionen das Allgemeinwohl zu fördern.
 
 Stabile wirtschaftliche Rahmenbedingungen sicherstellen
 -------------------------------------------------------
@@ -61,7 +58,8 @@ Teilhabe am Kapitalmarkt und private Altersvorsorge stärken
 
   * Rahmenbedingungen für einen Generalpensionskassen-Vertrag: Möglichkeit der Übertragung von Kapital aus einer Vorsorgekasse (z.B. Abfindung) in eine Pensionskasse (z.B. bei einer neuen Arbeitsgeberin bzw. einem neuen Arbeitgeber)
   * Rechtliche Rahmenbedingungen für mögliche Verwaltungsvereinfachungen bei Pensionskassen und Mitarbeitervorsorgekassen schaffen
-  * Weiterentwicklung zur Optionalität zwischen Vorsorgeplänen mit und ohne Kapitalgarantie bei der freiwilligen privaten Vorsorge. Im Rahmen der Optionalität Angebot von Produkten mit Kapitalgarantie zur Veranlagung in sichere und nachhaltige Anlagen   * PensionsApp: Zusammenführung der 3 Säulen in einer App für jede Bürgerin und jeden Bürger zur Schaffung von Transparenz unter Berücksichtigung von Datenschutz. Ausbaufähigkeit zur späteren Risikosteuerung der individuellen Pensionstöpfe
+  * Weiterentwicklung zur Optionalität zwischen Vorsorgeplänen mit und ohne Kapitalgarantie bei der freiwilligen privaten Vorsorge. Im Rahmen der Optionalität Angebot von Produkten mit Kapitalgarantie zur Veranlagung in sichere und nachhaltige Anlagen   
+  * PensionsApp: Zusammenführung der 3 Säulen in einer App für jede Bürgerin und jeden Bürger zur Schaffung von Transparenz unter Berücksichtigung von Datenschutz. Ausbaufähigkeit zur späteren Risikosteuerung der individuellen Pensionstöpfe
 
 - Stärkung der Financial Literacy von Jung und Alt
 
@@ -100,9 +98,9 @@ Entbürokratisierung im Kapitalmarkt-Bereich
 
 - Elektronische Kommunikation mit Kundinnen und Kunden soll auch für Finanz- und Versicherungsunternehmen zeitgemäß möglich sein und der gesetzliche Rahmen entsprechend gelockert werden, wobei der Datenschutz zu berücksichtigen ist.
 
-- Erleichterungen bei der Prospektpflicht: Im Alternativfinanzierungsgesetz besteht vereinfachte Prospektpflicht bis zu einer Grenze von € 5 Mio. Dies könnte, basierend auf bestehendem EU-Recht, auf bis zu € 8 Mio. (siehe Deutschland) ausgedehnt werden und s  * Finanzierungen erleichtert werden.
+- Erleichterungen bei der Prospektpflicht: Im Alternativfinanzierungsgesetz besteht vereinfachte Prospektpflicht bis zu einer Grenze von € 5 Mio. Dies könnte, basierend auf bestehendem EU-Recht, auf bis zu € 8 Mio. (siehe Deutschland) ausgedehnt werden und so Finanzierungen erleichtert werden.
 
-- Regulatory Sandbox umsetzen: Konzessionspflichtige Finanz-Start-Ups können ihr Geschäftsmodell in enger Zusammenarbeit mit FMA erarbeiten und s  * Konzessionen erwerben.
+- Regulatory Sandbox umsetzen: Konzessionspflichtige Finanz-Start-Ups können ihr Geschäftsmodell in enger Zusammenarbeit mit FMA erarbeiten und so Konzessionen erwerben.
 
 - Reform des Hypothekar- und Immobiliengesetzes:
 

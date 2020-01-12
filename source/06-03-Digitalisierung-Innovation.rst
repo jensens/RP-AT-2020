@@ -4,9 +4,6 @@ Digitalisierung & Innovation
 
 :download:`Kapitel als PDF <../split/06-03-Digitalisierung-Innovation.pdf>` (Teil des :download:`Originals <../original/RP2020.pdf>`).
 
-.. todo::
-  Original gegenchecken
-
 Digitalisierung & Innovation
 ----------------------------
 
@@ -20,7 +17,6 @@ Darauf aufbauend soll die öffentliche Verwaltung durch die Digitalisierung einf
 und Persönlichkeitsrechte im digitalen Raum.
 
 Österreichs Beitrag auf in in Bezug Zukunftstechnologien und neuen Technologiefeldern wird weiter gestärkt (Wirtschaft 4.0). Die Künstliche-Intelligenz-Strategie des Bundes umfasst die Klärung regulativer Fragen, die Schaffung von Infrastrukturen sowie die Definition von Schwerpunkten. Der öffentliche Sektor sowie der Wirtschaftsstandort stehen dabei ebenso im Fokus wie Fragen der Menschenwürde und Demokratie.
-
 
 Flächendeckende technologieneutrale Breitband-Versorgung österreichweit sicherstellen
 -------------------------------------------------------------------------------------
@@ -167,6 +163,7 @@ Grundlagen für eine Wirtschaft 4.0 schaffen
 -------------------------------------------
 
 - Aufbau eines nationalen staatlich kofinanzierten Technologie-, Innovations- und Wachstums-Fonds, der Risikokapital zur Verfügung stellt und so die nachhaltige Etablierung von europäischen Schlüsseltechnologien unterstützt (aufbauend auf beste hende Mittelstands- und Gründerfonds)
+
 - Digitale Plattformökonomie in Österreich fair gestalten: Innovation aus dem In- und Ausland fördern und zulassen, aber Wettbewerb mit traditionellen Geschäftsmodellen fair gestalten (vor allem regulative und steuerliche Schlupflöcher schließen)
 
 - KMU-Digital ausbauen: Digitalisierungsoffensive für KMUs in allen Bundesländern anbieten (gemeinsam mit aws und WKÖ). Prüfung einer zusätzlichen Möglichkeit zur Unterstützung der digitalen Weiterbildung von Personal sowie Unternehmerinnen und Unternehmern (Bildungsscheck)
@@ -211,7 +208,6 @@ Netzpolitik vorausschauend gestalten
 - Durchgängige Etablierung des Prinzips der anonymen Nutzung von technischen Infrastruktur-Systemen
 
 - Bei der nationalen Umsetzung der Urheberrechtsrichtlinie ist der Schutz der Privatsphäre zu gewährleisten und mit den Rechten der Urheberinnen und Urheber in Einklang zu bringen. Dies insbesondere im Zusammenhang mit Überprüfungen nutzergenerierter Inhalte (Upload-Filter). Evaluierung des Umgangs mit urheberrechtsverletzenden Websites
-
 
 Zukunftssichere Rahmenbedingungen für künstliche Intelligenz schaffen
 ---------------------------------------------------------------------

@@ -4,22 +4,19 @@ Klimaschutz & Energie
 
 :download:`Kapitel als PDF <../split/03-01-Klimaschutz-Energie.pdf>` (Teil des :download:`Originals <../original/RP2020.pdf>`).
 
-.. todo::
-  Original gegenchecken
-
 Die besorgniserregende Veränderung unseres Klimas ist eine der größten Herausforderungen unserer Generation – in ökologischer, ökonomischer und sozialer Hinsicht. Die österreichische Bundesregierung bekennt sich zu ihrer Verantwortung, die notwendigen Schritte und Weichenstellungen vorzunehmen, um dieser Herausforderung auf allen Ebenen gerecht zu werden und die Ziele des Pariser Klimaschutzabkommens zu erfüllen. Wir betrachten Klimaschutzmaßnahmen als bedeutende Chance für Gerechtigkeit sowie für die zukunftsfähige Entwicklung von Wirtschaft und Arbeitsplätzen in Österreich. Diese Chancen gilt es zu nutzen - Österreich hat die besten Voraussetzungen dafür. Gemeinsam können wir das Ziel eines klimaneutralen Österreichs bis spätestens 2040 erreichen und in Europa zum Vorreiter im Klimaschutz werden. Für uns bedeutet das selbstverständlich, dass Atomkraft keine Alternative ist, sondern, dass wir ausschließlich auf Erneuerbare Energieträger setzen.
 
 Der klimagerechte Umbau aller Sektoren, insbesondere des Energiesystems und der Infrastruktur, erfolgt unter Berücksichtigung der Kosten für Haushalte und Unternehmen. Soziale Härtefälle werden jedenfalls vermieden und auch Unternehmen werden bei der Transformation und den notwendigen Anpassungsmaßnahmen unterstützt.
 
 Auf europäischer Ebene wird die Bundesregierung dazu beitragen, dass die EU das Pariser Klimaschutzabkommen in die Tat umsetzt und eine globale Führungsrolle im Klimaschutz einnimmt. Daher wird die Anpassung der EU-Klimaziele im Einklang mit dem Pariser Klimaabkommen, wie es der Green Deal der EU-Kommission vorsieht, unterstützt. In Österreich setzt die Bundesregierung ambitionierte nationale Maßnahmen zur Treibhausgasreduktion. Ein Klimaschutzgesetz mit klaren Treibhausgasreduktionspfaden, Zuständigkeiten, Zeitplänen und entsprechenden Ressourcen sorgt dafür, dass Österreich sein CO2-Budget nicht übersteigt. Durch den verpflichtenden Klimacheck wird Klimaschutz bei Gesetzen und Verordnungen ein zentrales Entscheidungskriterium. Wichtige Rahmenbedingungen werden auch im Steuersystem gesetzt.
 
-Bund, Bundesländer und Gemeinden arbeiten gemeinsam und abgestimmt an der Erreichung der Klimaziele und treffen Zukunftsentscheidungen, die Planungssicherheit für die Bevölkerung und die Wirtschaft ermöglichen. S  * sichern wir den Wohlstand der österreichischen Bevölkerung und die Wettbewerbsfähigkeit der österreichischen Wirtschaft. Es gilt rasch ins Tun zu kommen, und Vorarbeiten aus dem Nationalen Energie- und Klimaplan, der Bioökonomiestrategie oder dem Sachstandsbericht Mobilität umzusetzen.
+Bund, Bundesländer und Gemeinden arbeiten gemeinsam und abgestimmt an der Erreichung der Klimaziele und treffen Zukunftsentscheidungen, die Planungssicherheit für die Bevölkerung und die Wirtschaft ermöglichen. So sichern wir den Wohlstand der österreichischen Bevölkerung und die Wettbewerbsfähigkeit der österreichischen Wirtschaft. Es gilt rasch ins Tun zu kommen, und Vorarbeiten aus dem Nationalen Energie- und Klimaplan, der Bioökonomiestrategie oder dem Sachstandsbericht Mobilität umzusetzen.
 
 Wir nehmen Klimaschutz ernst: Was die öffentliche Hand selbst vorzeigt, kann auch von unserer Bevölkerung leichter angenommen werden. Die öffentliche Hand muss deshalb Vorbild für Klimaneutralität sein. Mit Initiativen in der Beschaffung, in der Sanierung und im Mobilitätsmanagement wird die Umstellung der Verwaltung in Richtung 100% Nachhaltigkeit vorangetrieben.
 
 Die Bundesregierung bekennt sich zum Ausbau aller Formen heimischer Erneuerbarer Energieträger. Den Rahmen dafür wird das Erneuerbaren-Ausbau-Gesetz geben, das bis 2030 eine 100% (national bilanziell) Versorgung mit Ökostrom sichert. Damit einher gehen die notwendigen Netzinfrastrukturinvestitionen. Ein wirksames Energieeffizienzgesetz trägt dazu bei, dass Österreich – unter Bedachtnahme auf die wirtschaftliche Entwicklung – bis zur Mitte des Jahrhunderts mit deutlich weniger Energieverbrauch auskommen und die Energiewende naturverträglich gelingen kann.
 
-Zur vollständigen Umstellung unseres Energiesystems tragen alle Sektoren bei. Der Sektor Gebäude durch thermische Sanierung, die wertvolle Energie sparen hilft und den konsequenten Umstieg auf Heiz- und Kühlsystemen mit Erneuerbaren Energien. Die Land- und Forstwirtschaft leistet ihren Beitrag ebens  * wie die Abfallwirtschaft und selbstverständlich der Sektor Verkehr. Für die Industrie und das Gewerbe werden die Weichen in Richtung einer neuen, hoch innovativen, kreislauffähigen und klimafreundlichen Technologie-Ära gestellt, die Österreich und Europa als führenden Industriestandort für hochwertige, ressourcenschonende und CO2-arme Produktion positioniert. S  * sichern wir langfristig diesen wichtigen Sektor am Standort Österreich und sind im Wettbewerb der Zukunft, dem Wettbewerb um die ökologischsten statt billigsten Produktionsweisen, als Vorreiterland positioniert.
+Zur vollständigen Umstellung unseres Energiesystems tragen alle Sektoren bei. Der Sektor Gebäude durch thermische Sanierung, die wertvolle Energie sparen hilft und den konsequenten Umstieg auf Heiz- und Kühlsystemen mit Erneuerbaren Energien. Die Land- und Forstwirtschaft leistet ihren Beitrag ebenso wie die Abfallwirtschaft und selbstverständlich der Sektor Verkehr. Für die Industrie und das Gewerbe werden die Weichen in Richtung einer neuen, hoch innovativen, kreislauffähigen und klimafreundlichen Technologie-Ära gestellt, die Österreich und Europa als führenden Industriestandort für hochwertige, ressourcenschonende und CO2-arme Produktion positioniert. So sichern wir langfristig diesen wichtigen Sektor am Standort Österreich und sind im Wettbewerb der Zukunft, dem Wettbewerb um die ökologischsten statt billigsten Produktionsweisen, als Vorreiterland positioniert.
 
 Klimaneutralität bis 2040 – ein klares Ziel, ein klarer Auftrag
 ---------------------------------------------------------------
@@ -87,6 +84,7 @@ Die Weichen richtig stellen: notwendige horizontale Maßnahmen
   * Fortführung wichtiger Klimaschutzprogramme wie klima.aktiv, Klima- und Energiemodellregionen, e5-Programme und Klimabündnis-Gemeinden
 
 - Umweltbundesamt
+
   * Evaluierung des Umweltkontrollgesetzes im Hinblick auf die Stärkung der wissenschaftlichen Unabhängigkeit
   * Absicherung einer ausreichenden Basisfinanzierung
 
@@ -99,11 +97,11 @@ Die öffentliche Hand zeigt‘s vor! Klimaneutrale Verwaltung
 - Verbindliche Klimaschutz-Richtlinien für alle Institutionen des Bundes (inkl. nachgelagerter Dienststellen und Unternehmen, die zu 100% im Eigentum des Bundes stehen):
 
   * Vorbildwirkung der öffentlichen Hand bei der thermischen Sanierung: 3% Sanierungsquote, verbindliche Leitlinien für ökologisch vorbildhafte Sanierung
-  * Neubau im Niedrigstenergiehaus-Standard, PV-Anlage verpflichtend, w  * technisch und wirtschaftlich möglich
+  * Neubau im Niedrigstenergiehaus-Standard, PV-Anlage verpflichtend, wo technisch und wirtschaftlich möglich
   * 100% Umweltzeichen-zertifizierter Ökostrom ab 2021
   * Veranstaltungen erfüllen die Mindestanforderung der Umweltzeichen-Kriterien für Green Events sowie Green Meetings.
   * Klimaschutz-Vorgaben für Dienstreisen sowie für das Mobilitätsmanagement
-  * Der öffentliche Fuhrpark wird Vorbild für alternative Antriebstechnologien: S  * rasch wie möglich (wenn möglich schon ab 2022) wird die Beschaffung von emissionsfrei betriebenen Fahrzeugen durch die öffentliche Hand zum Standard, die Beschaffung von Fahrzeugen mit Verbrennungsmotoren wird zur Ausnahme und muss begründet werden.
+  * Der öffentliche Fuhrpark wird Vorbild für alternative Antriebstechnologien: So rasch wie möglich (wenn möglich schon ab 2022) wird die Beschaffung von emissionsfrei betriebenen Fahrzeugen durch die öffentliche Hand zum Standard, die Beschaffung von Fahrzeugen mit Verbrennungsmotoren wird zur Ausnahme und muss begründet werden.
   * Aus für Neuzulassungen von Kfz (PKW) mit Verbrennungsmotoren in der öffentlichen Beschaffung (mit Ausnahme der Sonderfahrzeuge, Einsatzfahrzeuge und Fahrzeuge des Bundesheers) ab 2027
   * Flächendeckende Einführung von Umweltmanagementsystemen
   * Ziel ist eine 100% regionale und saisonale Beschaffung in Verbindung mit einer Bio-Quote von 30% bis 2025 und 55% bis 2030.
@@ -147,6 +145,7 @@ Gebäude: Nachhaltig und energiesparend heizen, kühlen, bauen und sanieren
   * Weiterentwicklung der Wohnbauförderung im Sinne einer Orientierung an Klimaschutzzielen unter besonderer Berücksichtigung raumordnungsrelevanter Aspekte, wie z.B. Bebauungsdichte, Quartiersqualitäten, ÖV-Erschließung etc.
 
 - Einführung eines sozialverträglichen Sanierungsgebots
+
   * für sich rasch amortisierende Maßnahmen wie beispielsweise die Dämmung der obersten Geschoßdecke
   * begleitet durch geförderte Beratungen sowie spezielle Förderangebote
   * mit Ausnahmeregelungen und Schwellenwerten
@@ -155,7 +154,6 @@ Gebäude: Nachhaltig und energiesparend heizen, kühlen, bauen und sanieren
 - Steigerung der Sanierungsqualität und damit rasche Verbrauchsreduktion und Kostenersparnis für die Haushalte, insbesondere durch folgende Maßnahmen:
 
   * Erstellung eines Sanierungskonzepts bei jeder geplanten größeren Renovierungsmaßnahme (nach Vorbild Energieausweis), mit dem Ziel, sinnvolle Sanierungsabfolgen zu gewährleisten und für maximale Verbrauchsreduktion zu möglichst geringen Kosten zu sorgen
-
   * Umsetzung der Leitlinien für bauökologisch vorteilhafte Sanierungen gemäß Energieeffizienzgesetz (§16 Abs. 13)
   * Weiterführung des Förderschwerpunkts für ökologisch vorteilhafte Sanierungen
 
@@ -164,7 +162,7 @@ Gebäude: Nachhaltig und energiesparend heizen, kühlen, bauen und sanieren
   * Vorbereitung bzw. Planung der nächsten Anpassung der OIB-Richtlinie 6
   * Nullemissionsgebäude Schritt für Schritt zum Standard machen
   * Ausrichtung der Baustandards in den Bauordnungen in Neubau und Sanierung gemäß kostenoptimalem Niveau der Niedrigstenergiestandards
-  * Anschluss- bzw. Lademöglichkeiten für batterieelektrische Fahrzeuge sind bei allen Neubauten vorzusehen. In Bestandsgebäuden sind die rechtlichen Rahmenbedingungen s  * zu gestalten, dass entsprechende Nachrüstungen leicht erfolgen können.
+  * Anschluss- bzw. Lademöglichkeiten für batterieelektrische Fahrzeuge sind bei allen Neubauten vorzusehen. In Bestandsgebäuden sind die rechtlichen Rahmenbedingungen so zu gestalten, dass entsprechende Nachrüstungen leicht erfolgen können.
 
 - Forcierung des Holzbaus und ökologischer Baumaterialien
 
@@ -205,7 +203,7 @@ Phase-out-Plan für fossile Energieträger in der Raumwärme
   * Verbindliche Grundlage der strategischen Zielerreichung
   * Forcierung der Nah- und Fernwärme
   * Raumplanerische Rahmenbedingungen verbessern: Festlegung von Versorgungszonen mit der Möglichkeit von Anschlussverpflichtungen in Raumplanungsinstrumenten, gesetzliche Regelung zur Begründung von Leitungsrechten für Fernwärme, Regelungen für die Erfassung und einfache Einbindung von Abwärmequellen etc. begleitet durch entsprechende Förderprogramme
-  * Förderung für erneuerbare Großanlagen und Geothermie in Fernwärmenetzen für die Anhebung des durchschnittlichen erneuerbaren Anteils in der Fernwärme um mindestens 1,5 Prozent pr  * Jahr
+  * Förderung für erneuerbare Großanlagen und Geothermie in Fernwärmenetzen für die Anhebung des durchschnittlichen erneuerbaren Anteils in der Fernwärme um mindestens 1,5 Prozent pro Jahr
 
 - Sicherstellung der Versorgung:
 
@@ -217,7 +215,7 @@ Erneuerbare Energie für eine saubere Zukunft
 
 - Aufbauend auf die bisherige Arbeit – die #mission2030 und den Nationalen Energie- und Klima-Plan – sollen folgende Maßnahmen gesetzt werden:
 
-  * Klare Zieldefinition für die Steigerung des Anteils von erneuerbaren Energien am nationalen Gesamtverbrauch: 100 % (national bilanziell) Strom aus erneuerbaren Energiequellen bis 2030
+  * Klare Zieldefinition für die Steigerung des Anteils von erneuerbaren Energien am nationalen Gesamtverbrauch: 100% (national bilanziell) Strom aus erneuerbaren Energiequellen bis 2030
   * Verstärkte Nutzung und Koppelung von in Österreich vorhandenen Ressourcen zur nachhaltigen Erzeugung von erneuerbarer Energie in allen Anwendungsbereichen (Strom, Wärme und Kälte, Mobilität)
   * Konkrete Maßnahmen zur Steigerung der Energie- und Versorgungssicherheit in Österreich durch den erleichterten Ausbau bestehender und Errichtung neuer Energieerzeugungsanlagen für erneuerbare Energien
   * Ausbau heimischer Ressourcen statt Energieimporte
@@ -232,7 +230,7 @@ Erneuerbare Energie für eine saubere Zukunft
 Erneuerbaren-Ausbau-Gesetz im Detail
 ------------------------------------
 
-- Ein Erneuerbaren-Ausbau-Gesetz (EAG) wird s  * rasch wie möglich erlassen, es implementiert als Sammelgesetznovelle folgende Eckpunkte in den entsprechenden Materiegesetzen und zieht eine Reform der Ökostromförderung nach sich.
+- Ein Erneuerbaren-Ausbau-Gesetz (EAG) wird so rasch wie möglich erlassen, es implementiert als Sammelgesetznovelle folgende Eckpunkte in den entsprechenden Materiegesetzen und zieht eine Reform der Ökostromförderung nach sich.
 
 - Ziel ist es, die Stromversorgung bis 2030 auf 100% (national bilanziell) Ökostrom bzw. Strom aus erneuerbaren Energieträgern umzustellen und gleichzeitig die Wettbewerbsfähigkeit des Wirtschaftsstandorts Österreich zu stärken.
 
@@ -242,11 +240,11 @@ Erneuerbaren-Ausbau-Gesetz im Detail
 
 - Der Ausbau soll unter Beachtung strenger Kriterien in Bezug auf Ökologie und Naturverträglichkeit erfolgen.
 
-- Es erfolgt ein laufender Ausbau: Statt Stop and-G  * aufgrund jährlicher Kontingente erfolgt ein kontinuierlicher Ausbau, mit Ausnahme der Förderung von Speichern im Zusammenhang mit PV-Anlagen.
+- Es erfolgt ein laufender Ausbau: Statt Stop and-Go aufgrund jährlicher Kontingente erfolgt ein kontinuierlicher Ausbau, mit Ausnahme der Förderung von Speichern im Zusammenhang mit PV-Anlagen.
 
-- Das Ausmaß des Unterstützungsvolumens orientiert sich am Ausbaufahrplan. Im 3-jährigen Mittel darf dabei ein Jahres-Maximum von 1 Milliarde Eur  * nicht überschritten werden. Innovative Sonderprogramme im Klima- und Energiefonds bleiben möglich.
+- Das Ausmaß des Unterstützungsvolumens orientiert sich am Ausbaufahrplan. Im 3-jährigen Mittel darf dabei ein Jahres-Maximum von 1 Milliarde Euro nicht überschritten werden. Innovative Sonderprogramme im Klima- und Energiefonds bleiben möglich.
 
-- Die Unterstützung erfolgt mit einem Fokus auf einen Mix aus Investitionsförderungen und gleitenden Marktprämien, unter Einbeziehung von Ausschreibungen, w  * im Sinne der Zielerreichung sinnvoll einsetzbar.
+- Die Unterstützung erfolgt mit einem Fokus auf einen Mix aus Investitionsförderungen und gleitenden Marktprämien, unter Einbeziehung von Ausschreibungen, wo im Sinne der Zielerreichung sinnvoll einsetzbar.
 
 - Die Laufzeiten für die Gewährung der Marktprämien werden generell auf 20 Jahre ausgedehnt.
 
@@ -360,7 +358,6 @@ Industrie und Gewerbe: ein Green Deal für Österreichs Wirtschaft
 - Umfassende, sektorübergreifende Klima- und Kreislaufwirtschaftsstrategie mit prioritärer Ausrichtung auf die besonders energie- und emissionsintensiven Sektoren Stahlerzeugung, Chemie und Zement sowie die Abfallwirtschaft. Sie orientiert sich einerseits an den Pariser und europäischen Klimazielen, andererseits an der EU Circular Economy Strategy und dem EU Circular Economy Action Plan. Die zentrale Herausforderung besteht in der Technologieentwicklung in Richtung industrieller Skalierung und Umsetzung neuer, CO2-armer bzw. CO2-zirkulärer Prozesstechnologien sowie deren wirtschaftlicher Darstellbarkeit. Die sektorübergreifende Koppelung von Klima- und Kreislaufwirtschaftsstrategie erfordert eine rasche Transformation des Energiesystems hin zu gesamtsystemischer Energieeffizienz und zu erneuerbaren Energietechnologien bei gleichzeitigem Erhalt internationaler Wettbewerbsfähigkeit, nachhaltiger Standortsicherung und der Positionierung Österreichs als internationaler Vorreiter:
 
   * Nutzung bestehender Instrumente für sektorenübergreifende Cluster-Initiativen zur Abdeckung von Mehrkosten für die Technologieentwicklung und -um-stellung auf nationaler und europäischer Ebene (EU-ETS-Innovationsfonds, Horizon Europe, European Cluster Collaboration Platform [IPCEI]).
-
   * Spezielle Förderungen für industrielle Cluster-Leitprojekte von Branchenführern, bei denen Klimaschutz, F&E und Innovation einen hohen Stellenwert genießen, durch obengenannte Instrumente
 
 - Förderung der Energieeffizienz in der Produktion in Industrie- und Gewerbeunternehmen sowie der Erzeugnisse über deren Lebenszyklus, Einrichtung von Anreizsystemen für Unternehmen zum Ersatz ineffizienter Technologien

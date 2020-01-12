@@ -2,9 +2,6 @@
 Innere Sicherheit
 -----------------
 
-.. todo::
-  Formatieren, Überarbeiten, Original gegenchecken
-
 Österreich gehört zu den sichersten Ländern der Welt. Die Gewährleistung eines friedlichen Zusammenlebens in einer rechtsstaatlichen Gesellschaft gehört zu den Kernaufgaben der Politik. Dass wir uns in Österreich sicher fühlen können, verdanken wir auch der engagierten Arbeit unserer Polizei. Als bürgerorientierte Polizei gewährleistet sie tagtäglich, dass die persönliche Sicherheit, Freiheit und die Menschenrechte von uns allen gewahrt bleiben.
 
 Die Unterstützung bei Naturkatastrophen, die Verhütung von transnationaler organisierter Kriminalität, der Schutz vor Gewalt, die Bekämpfung von Extremismus oder neue Sicherheitsbedrohungen wie im Cyber- Bereich sind zentrale Herausforderungen einer modernen Polizei.
@@ -116,7 +113,7 @@ Gute Rahmenbedingungen für eine moderne Polizei
 
 - Einführung einer bundesweiten Verwaltungsstrafevidenz für Angelegenheiten im Zuständigkeitsbereich des BMI (u.a. für Verkehrsstrafen)
 
-- Verlegung der Flugeinsatzstelle Wien-Meidling nach Wiener Neustadt auf das Gelände des EK  * Cobra/DSE
+- Verlegung der Flugeinsatzstelle Wien-Meidling nach Wiener Neustadt auf das Gelände des EKO Cobra/DSE
 
 - Schaffung einer gesetzlichen Grundlage für die Sondereinheiten des BMI als Ersatz für die bisherige Sondereinheitenverordnung
 
@@ -300,19 +297,20 @@ Maßnahmen gegen Extremismus und Terrorismus
 
 - Schließung von Kultusstätten bei Terrorismuspropaganda
 
-- Maßnahmen setzen, um Vereine, die staatsfeindliches Gedankengut (s  * wie die Identitären) verbreiten, wirksam zu bekämpfen
+- Maßnahmen setzen, um Vereine, die staatsfeindliches Gedankengut (so wie die Identitären) verbreiten, wirksam zu bekämpfen
 
 - Umfassende Neuaufstellung des Bundesamtes für Verfassungsschutz und Terrorismusbekämpfung (BVT) zur Wiederherstellung des Vertrauens seitens der Bevölkerung und von Partnerdiensten
 
   * Klare strukturelle Trennung in eine nachrichtendienstliche und eine Staatsschutzkomponente innerhalb eines reformierten BVT im BMI mit den dafür notwendigen gesetzlichen Änderungen nach internationalen Vorbildern und klarer Aufgabendefinition
   * Etablierung von internationalen Standards in allen Bereichen; insbesondere transparente Personalaufnahmeverfahren, Ausbildung, Informationssicherheit, Personalsicherheit, Qualitätssicherung etc.
   * Behebung aller in der Vergangenheit aufgezeigten Sicherheitsmängel (samt schriftlichem Bericht über alle umgesetzten Sicherheitsmaßnahmen an den ständigen Unterausschuss)
-  * Schaffung der gesetzlichen Grundlagen für einen „Aufschub des Einschreitens“ und entsprechende Informationspflichten an das Cyberlagezentrum in der StP  * 
+  * Schaffung der gesetzlichen Grundlagen für einen „Aufschub des Einschreitens“ und entsprechende Informationspflichten an das Cyberlagezentrum in der StPO 
 
 Gedenken und Verantwortung
 --------------------------
 
 - Schaffung der Möglichkeit, dass alle Schülerinnen und Schüler im Rahmen des Unterrichts zumindest einmal die KZ-Gedenkstätte Mauthausen besuchen können
+
 - Bekenntnis zur Umsetzung der von der letzten Bunderegierung initiierten Namensmauer für Opfer der Shoah
 
   * Gesetzliche Normierung des Anforderungsprofils für Mitarbeiterinnen und Mitarbeiter im BVT

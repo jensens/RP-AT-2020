@@ -98,7 +98,6 @@ Sonstige steuerliche Maßnahmen
 
 - Nachhaltige Besteuerung im Bereich der Tabaksteuer: Die Tabaksteuer für Zigaretten, Feinschnitttabake und Tabak zum Erhitzen soll umstrukturiert bzw. angepasst werden, um auf diese Art und Weise eine nachhaltige Besteuerung dieser Tabakwaren und die wirtschaftliche Existenz der Tabaktrafikantinnen und - trafikanten sicherzustellen. Durch Änderungen im Tabakmonopolgesetz sollen Maßnahmen getroffen werden, welche den Zielsetzungen des Tabakmonopols und der langfristigen Absicherung der Einnahmen der Tabaktrafikantinnen und -trafikanten dienen.
 
-
 Steuerstrukturreform – das Steuersystem vereinfachen
 ----------------------------------------------------
 

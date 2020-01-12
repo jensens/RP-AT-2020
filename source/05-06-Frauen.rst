@@ -4,9 +4,6 @@ Frauen
 
 :download:`Kapitel als PDF <../split/05-06-Frauen.pdf>` (Teil des :download:`Originals <../original/RP2020.pdf>`).
 
-.. todo::
-   Überarbeiten, Original gegenchecken
-
 Frauenpolitik ist Gleichstellungspolitik. Sie rückt die Chancengleichheit von Frauen jeden Alters auf allen Ebenen des gesellschaftlichen, beruflichen und familiären Lebens in den Fokus. Das Ziel ist es, dass Frauen selbstbestimmt, ökonomisch unabhängig und frei von Gewalt oder Angst vor Diskriminierung leben.
 
 Das umfasst die Gleichstellung im Erwerbsleben in Bezug auf gleiche Löhne für gleiche Arbeit, eine bessere Verteilung von bezahlter und unbezahlter Arbeit zwischen Frauen und Männern und die (Alters-) Armut zu reduzieren. Rollenbilder müssen weiter aufgebrochen und der Frauenanteil in Führungspositionen erhöht werden. Um Frauen den Wiedereinstieg in den Beruf und gleiche Chancen zu ermöglichen, werden die Fördermittel im AMS evidenzbasiert und gerecht auf Frauen und Männer verteilt. Kinderbetreuung wird flächendeckend ausgebaut.
@@ -20,10 +17,10 @@ Gewaltschutz
 
 - Nationaler Aktionsplan (Sicherstellung der Finanzierung)
 
-o Bestmögliche Umsetzung der Istanbul-Konvention
-o Ausbau der Opferschutzeinrichtungen, Gewaltschutzzentren und Interventionsstellen
-o Sensibilisierung von Justiz, Polizei und Multiplikatorinnen bzw. Multiplikatoren
-o Gewaltpräventionsprogramme für Gefährder
+  * Bestmögliche Umsetzung der Istanbul-Konvention
+  * Ausbau der Opferschutzeinrichtungen, Gewaltschutzzentren und Interventionsstellen
+  * Sensibilisierung von Justiz, Polizei und Multiplikatorinnen bzw. Multiplikatoren
+  * Gewaltpräventionsprogramme für Gefährder
 
 - Ausbau der Frauenberatungsstellen
 

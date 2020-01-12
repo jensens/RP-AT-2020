@@ -4,9 +4,6 @@ Pensionen
 
 :download:`Kapitel als PDF <../split/05-03-Pensionen.pdf>` (Teil des :download:`Originals <../original/RP2020.pdf>`).
 
-.. todo::
-  Formatieren, Überarbeiten, Original gegenchecken
-
 Das österreichische Pensionssystem zeichnet sich durch Sicherheit und Klarheit aus. Es gibt zwar immer wieder Adaptionsbedarfe, aber wir brauchen keine grundlegende Neuausrichtung. Was es braucht, sind Bemühungen, Lücken und Ungerechtigkeiten im Pensionssystem zu schließen und Nachhaltigkeit sicherzustellen. Unser Ziel ist es, ein Altern in Würde zu ermöglichen.
 
 Um unser Pensionssystem auch für die nachkommenden Generationen sichern zu können, braucht es neben einer hohen Beschäftigung Maßnahmen zur Stärkung der Gesundheit im Erwerbsleben und Möglichkeiten zur aktiven Wahrnehmung der Selbstbestimmung in der Lebensplanung. Dazu zählt auch die bessere Information über nachteilige Folgen eines verfrühten Antritts im Hinblick auf die verbleibenden Jahre in der Pension.
@@ -38,12 +35,12 @@ Kampf gegen Altersarmut und nachhaltige Finanzierung des Pensionssystems durch H
   * Abgestellt auf gemeinsame Kinder
   * Bis zur Vollendung des 10. Lebensjahrs, ausgenommen KEZ
   * Praxistaugliche und faire Lösung für Patchwork-Familien
-  * Aufteilung der zusammengerechneten Beitragsgrundlagen beider Elternteile und Gutschrift auf dem jeweiligen Pensionskont  * zu jeweils 50%
+  * Aufteilung der zusammengerechneten Beitragsgrundlagen beider Elternteile und Gutschrift auf dem jeweiligen Pensionskonto zu jeweils 50%
 
 - Freiwilliges Pensionssplitting
 
   * in jeder Form der Partnerschaft (Ehe, eingetragene Partnerschaft, freiwillige Vereinbarung bei Lebensgemeinschaften)
-  * Aufteilung der zusammengerechneten Beitragsgrundlagen beider PartnerInnen und Gutschrift auf dem jeweiligen Pensionskont  * zu jeweils 50%
+  * Aufteilung der zusammengerechneten Beitragsgrundlagen beider PartnerInnen und Gutschrift auf dem jeweiligen Pensionskonto zu jeweils 50%
   * ausgenommen KEZ
   * für jeweils zukünftige Zeiten
   * mit jederzeitiger Beendigung

@@ -17,9 +17,9 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'Inoffizielles PDF-befreites Österreichisches Regierungsprogramm 2020-2024'
-copyright = '2020, erstellt und publiziert durch "Die neue Volkspartei/ Die Grünen – Die Grüne Alternative", maschinenlesbar und barrierefrei bearbeitet von Jens Klein und Robert Harm und Helfern'
-author = 'Die neue Volkspartei/ Die Grünen – Die Grüne Alternative - bearbeitet zur HTML Darstellung von Jens Klein und Helfern'
+project = 'Barrierefreies und maschinenlesbares Österreichisches Regierungsprogramm 2020-2024'
+copyright = '2020, erstellt und publiziert durch "Die neue Volkspartei/Die Grünen – Die Grüne Alternative", maschinenlesbar und barrierefrei bearbeitet von Jens Klein, Robert Harm und Helfern.'
+author = 'Die neue Volkspartei/Die Grünen – Die Grüne Alternative - bearbeitet zur HTML Darstellung von Jens Klein, Robert Harm und Helfern'
 
 # The full version, including alpha/beta/rc tags
 release = '1.0'
@@ -76,3 +76,20 @@ html_theme_options = {
     # https://github.com/myyasuda/sphinx_materialdesign_theme#html-theme-options
     'accent_color': 'deep_purple',
 }
+
+# -- Additional config -------------------------------------------------------
+# Language to be used for generating the HTML full-text search index. 
+# This defaults to the global language selected with language. If there is no 
+# support for this language, "en" is used which selects the English language.
+html_search_language = 'de'
+
+
+# html_logo
+# If given, this must be the name of an image file (path relative to the 
+# configuration directory) that is the logo of the docs. It is placed at the 
+# top of the sidebar; its width should therefore not exceed 200 pixels. 
+# Default: None.
+
+html_logo = 'open3-logo.png'
+
+

@@ -4,10 +4,6 @@ Verfassung, Verwaltung & Transparenz
 
 :download:`Kapitel als PDF <../split/01-04-Medien.pdf>` (Teil des :download:`Originals <../original/RP2020.pdf>`).
 
-.. todo::
-
-  Original gegenchecken
-
 Staatliches Handeln ist in Österreich aufgrund der Bundesverfassung gegeben, die gerade die letzten Monate bewiesen hat, dass sie auch nach 100 Jahren ihrer Geltung das solide Fundament unserer Republik bildet. Wir wollen die vorhandenen Stärken dieser Bundesverfassung vor dem Hintergrund neuer Herausforderungen weiterentwickeln – damit die Menschenrechte, das Verfassungsrecht und der Rechtsstaat auch in Zukunft eine gute Grundlage für unser Land, für unsere Umwelt und für die Arbeit der österreichischen Verwaltung sind.
 
 Diese Verwaltung ist im Dienste der Bevölkerung sowie der Unternehmen in unserem Land tätig. Wir setzen uns als Bundesregierung daher für einen leistungsstarken, effizienten sowie nachhaltig und serviceorientiert agierenden öffentlichen Sektor ein. Durch ziel- und wirkungsorientiertes Arbeiten sowie Modernisierung soll in enger Kooperation mit den öffentlich Bediensteten sichergestellt werden, dass die hohe Qualität der erbrachten Leistungen den Bürgerinnen und Bürgern auch künftig niederschwellig zur Verfügung gestellt sowie Bürokratie serviceorientiert weiter vereinfacht werden kann.
@@ -260,7 +256,7 @@ Wahlrechtsreform
 
 - Ausweitung des behindertengerechten Wahlrechts – Einführung barrierefreier Stimmzettel und Wahlinformationen
 
-* Prüfung einer etwaigen flexibleren Regelung für gemeindeübergreifende Wahllokale und Wahlsprengel
+  * Prüfung einer etwaigen flexibleren Regelung für gemeindeübergreifende Wahllokale und Wahlsprengel
 
 - Prüfung von elektronischen Alternativen zur physischen Auflage des Wählerverzeichnisses in Gemeinden
 
@@ -331,6 +327,7 @@ Modernes Parteiengesetz als Grundpfeiler für das Funktionieren des demokratisch
 ----------------------------------------------------------------------------------------------
 
 Mehr Transparenz
+^^^^^^^^^^^^^^^^
 
 - Stärkung der Prüfungsrechte des Rechnungshofs: Zusätzlich zu den bestehenden Befugnissen des Rechnungshofs nach dem Rechnungshofgesetz, insbesondere die Parteienförderung zu kontrollieren, werden folgende Ausweitungen der Kontrollrechte angestrebt:
 
@@ -364,10 +361,12 @@ Mehr Transparenz
 - Zur Bürokratievereinfachung werden Spenden bis zu einer Bagatellgrenze von 100 Euro nicht in die Spendenobergrenze von 750.000 Euro eingerechnet
 
 Bundespräsidentenwahlgesetz – analoge Regelungen vorsehen
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 - Anpassung des Bundespräsidentenwahlgesetzes hinsichtlich der Transparenzregelungen des Parteiengesetzes (u.a. Prüfkompetenz für RH, Wahlkampfkostenobergrenze und Spendenobergrenze)
 
 Inhalte des Rechenschaftsberichts
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 - Neustrukturierung der Gliederung des Rechenschaftsberichts hinsichtlich der Einnahmen und Ausgaben bzw. Erträge und Aufwendungen in Anlehnung an das UGB (und Festlegung der Rechnungslegungsgrundsätze)
 
@@ -396,10 +395,12 @@ Inhalte des Rechenschaftsberichts
 - Impressumspflicht bei politischen Inseraten
 
 Wahlwerbungskosten
+^^^^^^^^^^^^^^^^^^
 
 - Pflicht zur Veröffentlichung eines eigenen Rechenschaftsberichts nach definierter Gliederung über die Wahlwerbungsausgaben innerhalb von sechs Monaten nach der Wahl (RH-Prüfung dann im Rahmen der regulären Prüfung des jährlichen Rechenschaftsberichts)
 
 - Fixe und erhöhte Strafen bei Überschreitung der Wahlwerbungsausgaben:
+
   * 0 -10% Überschreitung: 15%
   * 10 - 25% Überschreitung: 50% des 2. Überschreitungsbetrages
   * 25 - 50% Überschreitung: 150% des 3. Überschreitungsbetrages
@@ -414,22 +415,27 @@ Wahlwerbungskosten
 - Prüfung möglicher gesetzlicher Regelungen, welcher Organwalter für falsche, unrichtige, unvollständige Meldungen die Verantwortung zu tragen hat
 
 Sponsoring und Inserate
+^^^^^^^^^^^^^^^^^^^^^^^
 
 - Jeweils gesonderter Ausweis von Einnahmen aus Sponsoring und Inseraten bei den einzelnen Organisationseinheiten entsprechend der Rechenschaftsberichte
 
 - Erfassung von Inseraten in Medien, deren Medieninhaber eine nahestehende Organisation oder eine Gliederung der Partei ist
 
 Sanktionen
+^^^^^^^^^^
 
 - Grundsätzliche Überprüfung des Sanktionensystems des PartG auf Vollständigkeit und Transparenz, insbesondere:
+
   * Sanktionen für nicht fristgerechte Abgabe des Rechenschaftsberichts
   * Sanktion für fehlenden Ausweis der Wahlwerbungsausgaben im Rechenschaftsbericht
   * Klare Verjährungsfristen für Verstöße gegen das Parteiengesetz
   * Beginn der einjährigen Verjährungsfrist bei verwaltungsstrafrechtlichen Regelungen gegen individuelle Entscheidungsträger erst ab dem Zeitpunkt der Übermittlung des Rechenschaftsberichts
 
 Weniger Bürokratie
+^^^^^^^^^^^^^^^^^^
 
 - Klare Differenzierung zwischen Aktivitäten der politischen Parteien und der Zivilgesellschaft
+
   * Ehrenamtliches zivilgesellschaftliches Engagement, das ohne Gegenleistung getätigt wird, soll durch die Regelung des Parteiengesetzes nicht beschränkt werden. Diesbezüglich ist eine Regelung speziell zu Sachspenden zu prüfen.
 
 Mehr Transparenz bei Stellenbesetzungen

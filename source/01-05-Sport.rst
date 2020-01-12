@@ -4,9 +4,6 @@ Sport
 
 :download:`Kapitel als PDF <../split/01-05-Sport.pdf>` (Teil des :download:`Originals <../original/RP2020.pdf>`).
 
-.. todo::
-   Original gegenchecken
-
 Bewegung und Sport sind ein wesentlicher Bestandteil des Alltags der Menschen in Österreich. Als Bundesregierung unterstützen wir den Sport daher in seiner ganzen Breite: Vom Erlernen der körperlichen Grundkompetenzen im Kinderturnen, über individuelle sportliche Aktivitäten, berufliches oder ehrenamtliches Engagement in den zahlreichen Verbänden und Vereinen bis hin zu den optimalen Rahmenbedingungen für Spitzensportlerinnen und Spitzensportler bei Olympischen Spielen und Weltmeisterschaften; von der Förderung des Sports als wirkungsvolles Mittel der Integration von Migrantinnen und Migranten bis hin zum inklusiven Training von Menschen mit und ohne Behinderung; von traditionellen Disziplinen bis hin zu neuen Trendsportarten.
 
 Als Bundesregierung sehen wir unser Engagement für den Sport als wichtige Investition in eine positive Entwicklung unserer Gesellschaft. Zudem ist Sport auch Lebensschule – für Jung und Alt: Im Sport lernt man, sich immer wieder neuen Herausforderungen zu stellen, über seine eigenen Grenzen zu wachsen und mit Siegen und Niederlagen umzugehen; man lernt Fairplay und den respektvollen Umgang mit Mitspielerinnen und Mitspielern sowie Mitbewerberinnen und Mitbewerbern. Zu unserem Engagement für den Sport gehört auch der gemeinsame Kampf gegen Doping, Machtmissbrauch, Rassismus und Homophobie sowohl im Spitzen- wie im Breitensport.
@@ -90,10 +87,10 @@ Sportstätteninfrastruktur
 
 - Entwicklung eines Österreichischen Sportstättenentwicklungsprogramms auf Basis von akkordierten Kriterien mit den Bundesländern und Gemeinden
 
-o Definition von Versorgungskriterien nach Sportart-Priorisierung für Spitzensport und Breitensport
-o Evaluierung und allfällige Neuordnung des Finanzierungsschlüssels
-o Evaluierung, Stärkung und Ausbau des „Zentrenansatzes“ (Olympia-, Bundesleistungszentren)
-o Definition von Sonderprojekten und Sonderbudgets für Regierungsleitprojekte im Zusammenhang mit der Rolle Österreichs als Austragungsort von Großereignissen (z.B. multifunktionales Nationalstadion)
+  * Definition von Versorgungskriterien nach Sportart-Priorisierung für Spitzensport und Breitensport
+  * Evaluierung und allfällige Neuordnung des Finanzierungsschlüssels
+  * Evaluierung, Stärkung und Ausbau des „Zentrenansatzes“ (Olympia-, Bundesleistungszentren)
+  * Definition von Sonderprojekten und Sonderbudgets für Regierungsleitprojekte im Zusammenhang mit der Rolle Österreichs als Austragungsort von Großereignissen (z.B. multifunktionales Nationalstadion)
 
 - von Schulsportanlagen, Sportstätten und sämtlichen Sportangeboten unter Berücksichtigung der bestehenden Geoinformationssysteme der Bundesländer, der Angebotsdatenbanken des organisierten Sports und bestehender kommerzieller Sportbuchungsplattformen („Österreichischer Sportstättenatlas“)
 
@@ -108,9 +105,9 @@ Sportgroßveranstaltungen
 
 - Entwicklung eines mit den Bundesländern und dem Sport abgestimmten Plans für die Unterstützung der Bewerbung und Ausrichtung von internationalen Sportgroßveranstaltungen in Österreich o Definition von finanziellen Ressourcenrahmen des Bundes, der Länder und Gemeinden für Mehrjahres-Zeiträume (Regierungsperioden, Olympische Zyklen)
 
-o Erstellung von Wirkungsparametern von Großveranstaltungen für eine Prioritätenreihung in der Bundes-Sportförderung (z.B. Effekte auf Sportartentwicklung, Effekte auf Erfolgsaussichten österreichischer Sportlerinnen und Sportler, nachhaltige Infrastruktureffekte, volkswirtschaftlicher Nutzen, Green Sport etc.)
-o Qualitätssicherung durch Projektbegleitung der öffentlichen Fördergeber mit Veranstaltungsexpertise und Know-how
-o Einrichtung einer Taskforce unter Federführung des BMI mit allen Stakeholdern, um die Sicherheit aller Beteiligten (Mannschaft, Delegation, Besucherinnen und Besucher, Medien) bestmöglich zu garantieren (z.B. UEFA EURO 2020 und die Olympischen Sommerspiele in Tokio 2020)
+  * Erstellung von Wirkungsparametern von Großveranstaltungen für eine Prioritätenreihung in der Bundes-Sportförderung (z.B. Effekte auf Sportartentwicklung, Effekte auf Erfolgsaussichten österreichischer Sportlerinnen und Sportler, nachhaltige Infrastruktureffekte, volkswirtschaftlicher Nutzen, Green Sport etc.)
+  * Qualitätssicherung durch Projektbegleitung der öffentlichen Fördergeber mit Veranstaltungsexpertise und Know-how
+  * Einrichtung einer Taskforce unter Federführung des BMI mit allen Stakeholdern, um die Sicherheit aller Beteiligten (Mannschaft, Delegation, Besucherinnen und Besucher, Medien) bestmöglich zu garantieren (z.B. UEFA EURO 2020 und die Olympischen Sommerspiele in Tokio 2020)
 
 Gleichstellung im Sport
 -----------------------

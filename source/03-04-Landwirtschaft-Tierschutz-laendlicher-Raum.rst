@@ -4,18 +4,15 @@ Landwirtschaft, Tierschutz & ländlicher Raum
 
 :download:`Kapitel als PDF <../split/03-04-Landwirtschaft-Tierschutz-laendlicher-Raum.pdf>` (Teil des :download:`Originals <../original/RP2020.pdf>`).
 
-.. todo::
-  Überarbeiten, Original gegenchecken
-
 Die Bundesregierung bekennt sich zur Bedeutung der heimischen Land- und Forstwirtschaft und der bäuerlichen Familienbetriebe. Unsere Bäuerinnen und Bauern versorgen uns täglich mit hochqualitativen, leistbaren und regionalen Lebensmitteln und erhalten mit ihrer Arbeit unsere einzigartige Kulturlandschaft und vielfältigen Lebensräume. Sie leisten Enormes in der Bereitstellung von erneuerbaren Rohstoffen, dem Erhalt der natürlichen Ressourcen und der Artenvielfalt sowie dem Schutz des Bodens und der Wasserqualität. Diese gesellschaftlich anerkannten Leistungen der Bäuerinnen und Bauern sind auch in Zukunft ein wesentlicher Beitrag im Kampf gegen den Klimawandel.
 
 Die österreichische Landwirtschaft ist kleinstrukturiert und auf höchste Qualität ausgerichtet – Agrarfabriken sind für uns keine Alternative. Unser Fokus liegt darauf, Österreich als Vorzeigemodell in Europa weiter zu stärken. Übergeordnetes Ziel ist dabei die Versorgung mit hochwertigen Lebensmitteln, der Erhalt einer multifunktionalen, nachhaltigen, wettbewerbsfähigen und flächendeckenden Land- und Forstwirtschaft sowie ein hoher Selbstversorgungsgrad. Der Erhalt unserer Wälder und die Unterstützung der Forstwirtschaft bei der nachhaltigen Bewirtschaftung sind ein zentrales Anliegen.
 
 Die vielfältigen bäuerlichen Familienbetriebe, ob im Voll-, Zuund Nebenerwerb, ob Ackerbau oder Viehhaltung, ob konventionell oder biologisch, ob in Gunstlagen oder im Bergund benachteiligten Gebiet, leisten einen wesentlichen Beitrag dazu. Die Bäuerinnen und Bauern brauchen dafür aber auch ein faires, existenzsicherndes Einkommen sowie faire Preise für ihre hochwertigen Produkte. Durch weitere Entlastungsschritte im Bereich Steuern, der Direktvermarktung sowie der bäuerlichen Sozialversicherung unterstützt die Bundesregierung den Fortbestand und die Weiterentwicklung der bäuerlichen Betriebe.
 
-Nur eine ausreichend dotierte Gemeinsame Agrarpolitik kann die notwendigen Rahmenbedingungen für eine nachhaltige und umweltgerechte Bewirtschaftung schaffen. Die Sicherstellung dieser GAP-Mittel für Österreich im Mehrjährigen Finanzrahmen 2021 - 2027 der EU ist daher Grundvoraussetzung für die Absicherung einer bäuerlichen Landwirtschaft und ökosozialen Agrarpolitik. Eine ergebnisorientierte österreichische GAP-Strategie setzt auf den weiteren Ausbau umweltgerechter Bewirtschaftungsmethoden und des biologischen Landbaus, sichert die österreichische Berglandwirtschaft durch eine ausreichende Dotierung der Ausgleichszulage und unterstützt die Zusammenarbeit aller Akteurinnen und Akteure zur Erhaltung vitaler ländlicher Regionen. S  * leistet die Landwirtschaft einen Beitrag zur Erreichung der Pariser Klimaziele.
+Nur eine ausreichend dotierte Gemeinsame Agrarpolitik kann die notwendigen Rahmenbedingungen für eine nachhaltige und umweltgerechte Bewirtschaftung schaffen. Die Sicherstellung dieser GAP-Mittel für Österreich im Mehrjährigen Finanzrahmen 2021 - 2027 der EU ist daher Grundvoraussetzung für die Absicherung einer bäuerlichen Landwirtschaft und ökosozialen Agrarpolitik. Eine ergebnisorientierte österreichische GAP-Strategie setzt auf den weiteren Ausbau umweltgerechter Bewirtschaftungsmethoden und des biologischen Landbaus, sichert die österreichische Berglandwirtschaft durch eine ausreichende Dotierung der Ausgleichszulage und unterstützt die Zusammenarbeit aller Akteurinnen und Akteure zur Erhaltung vitaler ländlicher Regionen. So leistet die Landwirtschaft einen Beitrag zur Erreichung der Pariser Klimaziele.
 
-Österreich zählt im internationalen Vergleich zu jenen Ländern mit den höchsten Tierschutzund Lebensmittelstandards und hat sich dadurch zu einem Feinkostladen in Europa entwickelt. Der Umstieg auf mehr Tierschutz soll für alle Betriebsgrößen erleichtert werden. Die gentechnikfreie Lebensmittelproduktion steht genaus  * im Mittelpunkt wie die Stärkung regionaler und saisonaler Produkte und der Ausbau durchgängiger Qualitätsund Herkunftssysteme – im Interesse der Konsumentinnen und Konsumenten und einer vitalen und zukunftsfähigen Landwirtschaft.
+Österreich zählt im internationalen Vergleich zu jenen Ländern mit den höchsten Tierschutz und Lebensmittelstandards und hat sich dadurch zu einem Feinkostladen in Europa entwickelt. Der Umstieg auf mehr Tierschutz soll für alle Betriebsgrößen erleichtert werden. Die gentechnikfreie Lebensmittelproduktion steht genauso im Mittelpunkt wie die Stärkung regionaler und saisonaler Produkte und der Ausbau durchgängiger Qualitätsund Herkunftssysteme – im Interesse der Konsumentinnen und Konsumenten und einer vitalen und zukunftsfähigen Landwirtschaft.
 
 Existenz der bäuerlichen Landwirtschaft absichern
 -------------------------------------------------
@@ -79,7 +76,7 @@ Gute Lebensmittel für alle und Transparenz für Bürgerinnen und Bürger
   * Bessere Verankerung von Lebensmittelkompetenz und Verbraucherbildung in der Lehrerausbildung
   * Einführung eines Schulversuchs mit dem Schulfach Lebensmittelkompetenz und Verbraucherbildung
 
-- Gemeinsame Weiterentwicklung des AMAGütesiegels
+- Gemeinsame Weiterentwicklung des AMA Gütesiegels
 
   * Maßnahmen setzen, damit es zu einem verstärkten Absatz von GVO-freien AMA-Gütesiegel-Produkten in allen Tierhaltungssparten kommt, um die Produktion anzukurbeln
   * Weiterentwicklung des AMA-Gütesiegels, um die Gentechnikfreiheit zu forcieren mit dem Ziel des Einsatzes von gentechnikfreiem europäischem Soja
@@ -172,7 +169,9 @@ Sicherstellung einer wettbewerbsfähigen, multifunktionalen und flächendeckende
   * Zusätzliche nationale Mittel zur Reduktion von Ammoniakemissionen zur Umsetzung des Luftreinhalteprogramms
 
 - Ausgleichszulage (Bergbauernförderung): Weiterführung und positive Weiterentwicklung der Ausgleichszulage für Bergbäuerinnen und -bauern als einfache Maßnahme zur gezielten Abgeltung betriebsindividueller und klimatischer Erschwernisse sowie Berücksichtigung der Tierhaltung
+
 - Erarbeitung neuer Perspektiven für unterschiedliche und innovative Formen der Landwirtschaftsbetriebe, der bäuerlichen Familienbetriebe und landwirtschaftlichen Bewirtschaftung
+
 - Ausbau der Qualitäts-, Spezialitäten- und Nischenprodukte im Programm für die Ländliche Entwicklung (Investitions- und Innovationsprogramm), mit besonderer Berücksichtigung von Bereichen, in denen der nationale Selbstversorgungsgrad nicht erreicht ist
 
 - LEADER als geeignetes Instrument zur Stärkung der Wertschöpfung im Ländlichen Raum fortführen
@@ -221,7 +220,7 @@ Den Biolandbau stärken
 
 - Forschungsoffensive in Richtung Bio- und klimataugliche Landwirtschaft (zweckgebundene Mittel)
 
-- Bildung und Beratung für Bi  * ausbauen
+- Bildung und Beratung für Bio ausbauen
 
 Land- und forstwirtschaftliche Bildung und Bildungseinrichtungen stärken
 ------------------------------------------------------------------------

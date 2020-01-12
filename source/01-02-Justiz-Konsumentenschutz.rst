@@ -4,21 +4,19 @@ Justiz & Konsumentenschutz
 
 :download:`Kapitel als PDF <../split/01-02-Justiz-Konsumentenschutz.pdf>` (Teil des :download:`Originals <../original/RP2020.pdf>`).
 
-.. todo::
-  Original gegenchecken
-
 Die österreichische Justiz mit all ihren Mitarbeiterinnen und Mitarbeitern trägt entscheidend zu einem funktionierenden Rechtstaat bei. Eine effiziente und qualitätsvolle Justiz sorgt für Rechtssicherheit und Rechtsfrieden in Österreich und ermöglicht dadurch das nötige Vertrauen seitens der Bürgerinnen und Bürger. Sie ist somit der Grundpfeiler eines jeden Rechtsstaates und jeder Demokratie. Vor diesem Hintergrund bekennen wir uns als Bundesregierung zu einer ausreichend ausgestatteten Justiz. Dies ist die Voraussetzung für eine Absicherung der unabhängigen Gerichtsbarkeit und für die Stärkung der Rechtsstaatlichkeit.
 
 Die Justiz muss sich dabei den wechselnden Herausforderungen unserer Zeit stetig anpassen. Sie soll rasch, zuverlässig und bürgernah handeln. Dazu ist es etwa notwendig, die Digitalisierung weiter voranzutreiben und das Service für die Bürgerinnen und Bürger sowie Unternehmen weiter auszubauen. Diese und andere innovative Lösungen sollen insgesamt den Zugang der Bürgerinnen und Bürger zur Justiz erleichtern. Weiters sind insbesondere die Beschleunigung von Verfahren, die Optimierung von Arbeitsabläufen und die Nutzung von Synergieeffekten wesentliche Bausteine einer leistungsfähigen Justiz, die somit zu einem starken Wirtschaftsstandorts und einer lebendigen Zivilgesellschaft beiträgt.
 
 Im Rahmen des Straf- und Maßnahmenvollzugs sorgt die österreichische Justiz auch wesentlich für die Sicherheit unserer Bevölkerung. In allen Vollzugsanstalten sollen daher die notwendigen und zeitgemäßen Sicherheitsstandards gewährleistet und die Resozialisierung der Inhaftierten gefördert werden.
 
-Darüber hinaus muss der Rechtsbestand auf Basis wissenschaftlicher Erkenntnisse stetig evaluiert und im Hinblick auf die gesellschaftlichen und wirtschaftlichen Entwicklungen modernisiert werden. S  * muss beispielsweise das Strafrecht neue Bedrohungslagen abbilden, um die Bevölkerung effektiv zu schützen und die Korruptionsbekämpfung effektiv voranzutreiben. Der Opferschutz soll gestärkt und auf neue Phänomene, wie beispielsweise „Hass im Netz“, muss wirkungsvoll reagiert werden. Im Wirtschaftsrecht und Konsumentenschutz gilt es, durch einen klugen Interessensausgleich Rahmenbedingungen zu schaffen, die sich positiv auf das tägliche Leben der Menschen auswirken. Und im Bereich Wohnen wollen wir leistbare Mieten, die Bildung von Eigentum, Nachhaltigkeit und Fairness fördern.
+Darüber hinaus muss der Rechtsbestand auf Basis wissenschaftlicher Erkenntnisse stetig evaluiert und im Hinblick auf die gesellschaftlichen und wirtschaftlichen Entwicklungen modernisiert werden. So muss beispielsweise das Strafrecht neue Bedrohungslagen abbilden, um die Bevölkerung effektiv zu schützen und die Korruptionsbekämpfung effektiv voranzutreiben. Der Opferschutz soll gestärkt und auf neue Phänomene, wie beispielsweise „Hass im Netz“, muss wirkungsvoll reagiert werden. Im Wirtschaftsrecht und Konsumentenschutz gilt es, durch einen klugen Interessensausgleich Rahmenbedingungen zu schaffen, die sich positiv auf das tägliche Leben der Menschen auswirken. Und im Bereich Wohnen wollen wir leistbare Mieten, die Bildung von Eigentum, Nachhaltigkeit und Fairness fördern.
 
 Justizverwaltung
 ----------------
 
 Ressourcen/Personal
+^^^^^^^^^^^^^^^^^^^
 
 - Ausstattung der Justiz mit erforderlichen Ressourcen, um Verfahren rasch und qualitätsvoll durchführen zu können, nicht nur zur Aufrechterhaltung des Betriebs, sondern auch zur Verbesserung und für anstehende Reformen
 
@@ -35,12 +33,14 @@ Ressourcen/Personal
 - Evaluierung der Tätigkeiten von Richterinnen bzw. Richter, Rechtspflegerinnen bzw. Rechtspfleger und Kanzleikräften, um Abgrenzungen, Zuständigkeiten und Aufgabenzuteilungen klarer zu definieren
 
 Sachverständigen- und Dolmetscherrecht – Qualität erhöhen
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 - Erhöhung der Qualität von SV-Gutachten, Erstellung von Richtlinien für formale Mindestvoraussetzungen (u.a. psychiatrische Gutachten), Betonung der Fallmanagement-Verantwortung des Gerichts, Nachschärfungen beim Rezertifizierungsverfahren.
 
-- Evaluierung und Überarbeitung der Gebührenordnungen der Sachverständigen und Dolmetscherinnen und Dolmetscher, insbesondere unter Berücksichtigung der Tarife sowie Qualitätskriterien mit dem Ziel der Attraktivitätssteigerung (w  * nötig, auch finan zielle Erhöhung der Tarife) und in diesem Zusammenhang Prüfung von Insourcing.
+- Evaluierung und Überarbeitung der Gebührenordnungen der Sachverständigen und Dolmetscherinnen und Dolmetscher, insbesondere unter Berücksichtigung der Tarife sowie Qualitätskriterien mit dem Ziel der Attraktivitätssteigerung (wo nötig, auch finan zielle Erhöhung der Tarife) und in diesem Zusammenhang Prüfung von Insourcing.
 
 Bürger-/Bürgerinnen- und Unternehmensservice
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 - Umsetzung eines modernen und zeitgemäßen Bürger-/Bürgerinnen- und Unternehmensservice, Anliegen in digitaler Form herantragen sowie rasche und unbürokratische Auskunft für Bürgerinnen und Bürger.
 
@@ -55,18 +55,19 @@ Bürger-/Bürgerinnen- und Unternehmensservice
 
 - Pilotprojekt und Evaluierung gemeinsam mit der Wissenschaft
 
-
 Zugang zur Justiz für alle Bürgerinnen und Bürger erleichtern
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 - Evaluierung der Gerichtsgebühren und allfällige Gerichtsgebührensenkung, insbesondere bei Rechtsmittelinstanz und Privatanklagen
 
 - Neuordnung der Verfahrenshilfe unter Einbeziehung der Rechtsanwaltskammer
 
-- Ersatz von Kosten im Falle eines Freispruchs im Strafverfahren erhöhen (Novellierung § 393a Abs. 1 StP  * unter Anknüpfung an die „AHK“)
+- Ersatz von Kosten im Falle eines Freispruchs im Strafverfahren erhöhen (Novellierung § 393a Abs. 1 StPo unter Anknüpfung an die „AHK“)
 
-- Evaluierung und Novellierung des Privatbeteiligtenanschlusses (sollte „bürgerfreundlicher“ werden, w  * einfach möglich; Staatsanwaltschaft sollte Schadenersatzanspruch für Geschädigten übernehmen können)
+- Evaluierung und Novellierung des Privatbeteiligtenanschlusses (sollte „bürgerfreundlicher“ werden, wo einfach möglich; Staatsanwaltschaft sollte Schadenersatzanspruch für Geschädigten übernehmen können)
 
 Ausbau der Digitalisierung
+^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 - Weiterführung der Initiastrategischentive „Justiz 3.0“ zur Digitalisierung der Aktenführung
 
@@ -82,6 +83,7 @@ Ausbau der Digitalisierung
 - Einführung elektronischer Benchmark- und Controllingsysteme auf Ebene der Justizanstalten und Zentralstelle mit dem Ziel der Erhöhung der Sicherheit, Stärkung der Resozialisierung und Entlastung der Justizwache
 
 Berufsbild Richterin bzw. Richter/Staatsanwältin bzw. Staatsanwalt
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 - Förderung der Durchlässigkeit zwischen der ordentlichen und der Verwaltungsgerichtsbarkeit (in beide Richtungen) und Schaffung von bundesweit einheitlichen Ausbildungsstandards unter Berücksichtigung der Vorteile der jeweiligen Systeme, Aus- und Fortbildung. Neue Mitglieder der Verwaltungsgerichte sollen weiterhin vorwiegend aus der Verwaltung kommen, um die erforderliche Praxiserfahrung aus dem Vollzug sicherzustellen.
 
@@ -108,10 +110,12 @@ Zivilrecht
 ----------
 
 Familien- und Eherecht
+^^^^^^^^^^^^^^^^^^^^^^
 
 - Weiterentwicklung des Familien- und Eherechtes, um es anwendungsorientierter an die heutigen gesellschaftlichen Lebensrealitäten anzupassen, unter anderem durch Herausarbeiten von Unterschieden zwischen dem Institut der Ehe und der Eingetragenen Partnerschaft als alternativem Modell. Dabei sollen u.a. Regelungen wie Zweck der Ehe, Mitwirkungspflichten, gemeinsames Wohnen, Unterhaltszahlungen, Pensionssplitting und das Verschuldensprinzip überprüft und gegebenenfalls neu gefasst werden, wobei Grundsätze wie Schutz der Kinder, Schutz der schwächeren Partnerin bzw. des schwächeren Partners, Vermeidung verletzender Auseinandersetzungen und alle Formen des Zusammenlebens im Mittelpunkt der Überlegungen stehen sollen.
 
 - Es besteht Übereinstimmung insbesondere bei folgenden Punkten:
+
   * Rechtliche Information vor Eheschließung und Verpartnerung (am Standesamt)
   * Verkürzung des Zerrüttungszeitraumes
 
@@ -141,7 +145,7 @@ Familien- und Eherecht
 - Ersatz des Personalstatuts durch den Anknüpfungspunkt „gewöhnlicher Aufenthalt“ unter Berücksichtigung der damit verbundenen Problemstellungen (keine Anwendung von Rechtsordnungen, die mit der österreichischen Rechtsordnung unvereinbar sind) im internationalen Privatrecht
 
 Reform des Unterbringungsrechts
--------------------------------
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 - Evaluierung der Unterbringungsvoraussetzungen und -praktiken
 
@@ -152,6 +156,7 @@ Reform des Unterbringungsrechts
 - Klarere Aufgabenverteilung zwischen Polizei, Amtsärztinnen und Amtsärzten, Psychiatrien und Gerichten
 
 Zivil- und Wirtschaftsrecht
+^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 - Weitere Beschleunigung und Vereinfachung von Unternehmensgründungen, z.B. durch einen Ausbau der Digitalisierung im Gesellschaftsrecht, Einführung einer strukturierten Eingabe in das Firmenbuch und die Ermöglichung von Firmenbuch-Eingaben.
 
@@ -175,6 +180,7 @@ Reformen im Strafrecht und Strafprozessrecht
 --------------------------------------------
 
 Unabhängige Justiz und Korruptionsbekämpfung
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 - Die Staatsanwaltschaft muss unabhängig von Beeinflussungen arbeiten können
 
@@ -205,6 +211,7 @@ Unabhängige Justiz und Korruptionsbekämpfung
 - Behördeneigene Sachverständigenstruktur weiter ausbauen
 
 Strafrecht an aktuelle Herausforderungen anpassen
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 - Im Rahmen der Weiterentwicklung des Strafrechts bedarf es evidenzbasierter Grundlagen, wobei polizeiliche, justizielle und andere Statistiken heranzuziehen sind, um Prävention zu stärken und Kriminalität wirkungsvoller zu bekämpfen.
 
@@ -222,8 +229,9 @@ Strafrecht an aktuelle Herausforderungen anpassen
 
 - Strukturierte Mitwirkung der Staatsanwaltschaft bei der Bekämpfung des organisierten Schlepperwesens
 
-- Maßnahmenpaket für die Bekämpfung im Bereich der organisierten Kriminalität, u.a. durch härtere Strafen für Hintermänner und mehr Unterstützung für Betroffene mit klarer Unterscheidung zwischen Opfer und Täter:  * Menschenhandel und Ausbeutung,
+- Maßnahmenpaket für die Bekämpfung im Bereich der organisierten Kriminalität, u.a. durch härtere Strafen für Hintermänner und mehr Unterstützung für Betroffene mit klarer Unterscheidung zwischen Opfer und Täter:  
 
+  * Menschenhandel und Ausbeutung,
   * Zwangsprostitution,
   * Illegales Glücksspiel.
 
@@ -237,6 +245,7 @@ Strafrecht an aktuelle Herausforderungen anpassen
   * Prüfung einer Möglichkeit der Einziehung von NS-Devotionalien unabhängig von der Verwirklichung einer mit Strafe bedrohten Handlung und Evaluierung des Abzeichengesetzes
 
 - Stärkung von Sicherheit, Rechtsfrieden und des Schutzes der höchsten Rechtsgüter, nicht nur in der analogen Welt, sondern auch in der digitalen Welt:
+
   * Erarbeitung zeitgemäßer und Erweiterung bzw. Präzisierung vorhandener Straftatbestände zur Bekämpfung aller Arten von Cyberkriminalität sowie Prüfung der Erhöhung der derzeit in Geltung stehenden Strafrahmen.
   * Bündelung staatsanwaltlicher Ermittlungskompetenzen zur Bekämpfung digitaler Verbrechen
 
@@ -252,18 +261,18 @@ Strafrecht an aktuelle Herausforderungen anpassen
   * Überarbeitung des Sanktionensystems durch Erweiterung und attraktivere Gestaltung der Möglichkeiten diversioneller Erledigung
   * Überprüfung und Überarbeitung der prozessualen Bestimmungen
 
-- Das Strafrecht sollte in einzelnen Punkten evaluiert und gegebenenfalls überarbeitet werden, s  * insbesondere
+- Das Strafrecht sollte in einzelnen Punkten evaluiert und gegebenenfalls überarbeitet werden, so insbesondere
 
   * Schließung von Lücken im Korruptionsstrafrecht (z.B. Einbeziehung von Personen in die Bestechungsbestimmungen, die sich um eine Funktion als Amtsträger bewerben)
 
 - Zielgerichtetere Verfolgung von Jugendstraftaten sowie effiziente Resozialisierung mit Bündelung der notwendigen Kompetenzen
 
 Strafprozessrecht modernisieren
--------------------------------
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
 - Modernisierung des Haupt- und Rechtsmittelverfahrens, u.a.:
 
   * Einführung der Verpflichtung zur Strukturierung des Verhandlungsablaufs in Form eines Rechtsgesprächs
-
   * Präzisierungen im Bereich des Ablaufs der Beweisaufnahme in der Hauptverhandlung (z.B. Recht der Verteidigerin bzw. des Verteidigers auf nicht unterbrochene Fragestellung)
   * Audiovisuelle Aufzeichnung der Hauptverhandlung
   * Moderne Protokollierungsbestimmungen unter Ausweitung des Einsatzes geeigneter und benutzerfreundlicher Spracherkennungsprogramme
@@ -278,6 +287,7 @@ Reformen im Strafvollzug
 ------------------------
 
 Moderner Strafvollzug
+^^^^^^^^^^^^^^^^^^^^^
 
 - Modernisierung des Strafvollzugsgesetzes durch klarer und strukturierte Handlungsanleitungen und Ausweitung des elektronisch überwachten Hausarrestes.
 
@@ -321,6 +331,7 @@ Moderner Strafvollzug
 - Verbesserung der Schnittstellen zwischen Strafvollzug und Nachbetreuung.
 
 Haft in der Heimat weiter forcieren
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 - Konsequente und rasche Überstellung ausländischer Insassen in deren Heimatstaat zur Verbüßung der Haftstrafe unter Einhaltung rechtsstaatlicher und EMRK-Mindeststandards, insbesondere um dort eine eventuell mögliche Resozialisierung zu gewährleisten.
 
@@ -331,6 +342,7 @@ Haft in der Heimat weiter forcieren
 - Verstärkte Nutzung von Instrumenten wie ein Absehen von einem Teil des Strafvollzugs bei freiwilliger Rückkehr in den Heimatstaat (§ 133a StVG).
 
 Reform des Maßnahmenvollzugs
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 - Zweck der Unterbringung ist einerseits die Gewährleistung der öffentlichen Sicherheit und andererseits die erforderliche medizinische Behandlung sowie die Resozialisierung.
 
@@ -355,6 +367,7 @@ Reform des Maßnahmenvollzugs
 - Maßnahmen zur Reduktion der Rückfallsgefahr während der Probezeit.
 
 Stärkung des Opferschutzes
+^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 - Minderjährige, die Zeuginnen bzw. Zeugen familiärer Gewalt wurden, sollen Prozessbegleitung in Anspruch nehmen können.
 
@@ -371,8 +384,7 @@ Schutz vor Gewalt und Hass im Netz
 
   * Bündelung der Ressourcen im Zusammenhang mit Cyberkriminalität für die Staatsanwaltschaften (Spezialzuständigkeit).
   * Schulungen für Mitarbeiterinnen und Mitarbeiter der Justiz in Kooperation mit dem Innenministerium.
-
-  * Bei Privatanklagedelikten sollte in der StP  * für bestimmte Fälle (Hasskriminalität) eine Ermittlungspflicht der Strafverfolgungsbehörden eingeführt werden, weil die Ausforschung zeit- und kostenintensiv ist.
+  * Bei Privatanklagedelikten sollte in der StPo für bestimmte Fälle (Hasskriminalität) eine Ermittlungspflicht der Strafverfolgungsbehörden eingeführt werden, weil die Ausforschung zeit- und kostenintensiv ist.
 
 - Opferunterstützung bei „Hass im Netz“.
 
@@ -394,7 +406,7 @@ Konsumentenschutz
 - Dauerhafte Finanzierung des Vereins für Kon sumenteninformation (VKI).
 
   * Ziel: Finanzierung des VKI über 2020 hinaus sichern.
-  * Evaluierung der Struktur und Tätigkeit des VKI, um auf dieser Grundlage die Finanzierung der Tätigkeit des VKI durch den Bund sowie durch andere öffentliche und private Mitglieder auf geeignete und dauerhafte Weise sicherzustellen. Im Sinne einer dauerhaften und professionellen Lösung im Interesse der österreichischen Konsumentinnen und Konsumenten und deren berechtigten Anliegen soll dies s  * rasch wie möglich geschehen, der VKI wird eingebunden und wirkt entsprechend mit.
+  * Evaluierung der Struktur und Tätigkeit des VKI, um auf dieser Grundlage die Finanzierung der Tätigkeit des VKI durch den Bund sowie durch andere öffentliche und private Mitglieder auf geeignete und dauerhafte Weise sicherzustellen. Im Sinne einer dauerhaften und professionellen Lösung im Interesse der österreichischen Konsumentinnen und Konsumenten und deren berechtigten Anliegen soll dies so rasch wie möglich geschehen, der VKI wird eingebunden und wirkt entsprechend mit.
 
 - Effektive Umsetzung des Europäischen Verbraucherrechts zur Herstellung fairer Bedingungen.
 
@@ -406,7 +418,7 @@ Konsumentenschutz
 
   * Einsatz für umfassende Nachbesserungen bei der von der EU-Kommission vorgeschlagenen Richtlinie zur Einführung von Verbandsklagen.
   * Um Missbrauch zum Schutz der Konsumentinnen und Konsumenten zu verhindern, müssen die qualifizierten Einrichtungen besonders hohe Qualitätsanforderungen erfüllen.
-  * Umsetzung der EU-Richtline zur Verbandsklage als Opt-in-Prinzip mit niederschwelligem Schutz gleichgelagerter Ansprüche vor Verjährung (s  * lange Musterverfahren bei Gericht anhängig ist), Beibehaltung des Loser-Pay-Principles, Maßnahmen zur Sicherstellung eines niederschwelligen Zugangs (z.B. Beibehaltung der Möglichkeit der Prozessfinanzierung, Beibehaltung der Behelfslösung österreichischer Prägung inkl. des anwaltsfreien Zugangs) sowie dem Ausschluss der Bindungswirkung ausländischer Urteile
+  * Umsetzung der EU-Richtline zur Verbandsklage als Opt-in-Prinzip mit niederschwelligem Schutz gleichgelagerter Ansprüche vor Verjährung (so lange Musterverfahren bei Gericht anhängig ist), Beibehaltung des Loser-Pay-Principles, Maßnahmen zur Sicherstellung eines niederschwelligen Zugangs (z.B. Beibehaltung der Möglichkeit der Prozessfinanzierung, Beibehaltung der Behelfslösung österreichischer Prägung inkl. des anwaltsfreien Zugangs) sowie dem Ausschluss der Bindungswirkung ausländischer Urteile
   * Schlichtungen aufwerten.
   * Prüfen der grenzüberschreitenden Verbraucherrechtsdurchsetzung im Rahmen der EU-weiten Verbraucherbehördenkooperation (gem. VBKG), um österreichische Verbraucherinnen und Verbraucher effektiv zu schützen.
   * Evaluierung des Inkassowesens: Forderungen müssen transparent und angemessen ausgestaltet sein, maximale und relative Obergrenze zum Streitwert einziehen.
@@ -420,6 +432,7 @@ Wohnen
 ------
 
 Investitionsanreize für Sanierungen und Neubau (insbesondere auch durch Abschluss eines neuen Finanzausgleichs ab 2022)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 - Vorrang von Nachverdichtung und Überbauung vor Versiegelung grüner Wiesen, Förderung von flächenoptimierten Bauweisen bei Neubauten.
 
@@ -431,7 +444,7 @@ Investitionsanreize für Sanierungen und Neubau (insbesondere auch durch Abschlu
 
 - Überarbeitung der Anforderungen an den sozialen und geförderten Wohnbau in den Bauordnungen mit dem Ziel, dass Wohnraum unter Anwendung ökologischer Maßnahmen besser leistbar wird.
 
-Ziel: Durch Abschluss eines neuen FAG soll Österreich in die Lage versetzt werden, europäischer Spitzenreiter bei Energieeffizienz und der Verwendung von ökologischen Baustoffen zu werden.
+- Ziel: Durch Abschluss eines neuen FAG soll Österreich in die Lage versetzt werden, europäischer Spitzenreiter bei Energieeffizienz und der Verwendung von ökologischen Baustoffen zu werden.
 
 - Aufnahme von Gesprächen mit den Bundesländern mit dem Ziel, dass Bauordnungen zum Erreichen der Pariser Klimaziele gemäß dem Reduktionspfad beitragen.
 
@@ -442,6 +455,7 @@ Ziel: Durch Abschluss eines neuen FAG soll Österreich in die Lage versetzt werd
 - Im Rahmen der 15a-Vereinbarung zur Energieeffizienz werden Bezugsgrößen wie Total Costs of Ownership implementiert.
 
 Eigentumsbildung fördern
+^^^^^^^^^^^^^^^^^^^^^^^^
 
 - Regelmäßige Überprüfung und Evaluierung der Wohnbaufördersysteme der Länder unter Einbeziehung der systematischen Bedarfsanalyse in Hinblick auf die Schaffung von leistbarem Eigentum.
 
@@ -458,12 +472,14 @@ Eigentumsbildung fördern
 - Überprüfung des Hypothekar- und Immobilienkreditgesetzes hinsichtlich der Weitergabe der Kreditkonditionen bei der Übergabe von der Wohnbaugenossenschaft auf den Mietkaufenden.
 
 Baulandmobilisierung
+^^^^^^^^^^^^^^^^^^^^
 
 - Das Instrument des Baurechts soll attraktiver gestaltet werden.
 
 - Unternehmen, die dem Bund mehrheitlich gehören, wie ÖBB, BIG udgl. werden angeleitet, bei Grundstücksverwertungen von Bauland geförderten Wohnbau besonders zu berücksichtigen. Grundsätzlich soll angestrebt werden, den Grundstücksbestand in der öffentlichen Hand zu behalten und an Dritte hauptsächlich per Baurecht zu vergeben.
 
 Wohnungseigentum: Modern, sinnvoll und klar verständlich
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 - Novellierung und Modernisierung des WEG: Durchsetzbarkeit von notwendigen Erhaltungsmaßnahmen erhöhen (u.a. Überprüfung der verfahrensrechtlichen Vorschriften), Analyse der Zustellvorschriften und Zustimmungsvoraussetzungen, Erleichterung der Beschlussfassung, Schaffung von neuen Mehrheitsverhältnissen (z.B. Elektro-Tank-stellen und Photovoltaik-Anlage) unter Wahrung berechtigter Minderheitsrechte.
 
@@ -476,6 +492,7 @@ Wohnungseigentum: Modern, sinnvoll und klar verständlich
 - In Anlehnung an den gemeinnützigen Wohnbau sind auch im privaten Mehrparteienwohnbau verpflichtende Erhaltungsrücklagen zu implementieren.
 
 Schaffung von leistbarem Wohnraum
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 - Ziel der Wohnraumpolitik ist es, Wohnraum leistbarer zu machen, die Bildung von Eigentum zu erleichtern und Mieten günstiger zu gestalten.
 
@@ -490,16 +507,19 @@ Schaffung von leistbarem Wohnraum
   * Im Finanzausgleich sollen die Wohnbauförderungsmittel die Erzielung leistbarer Mieten unterstützen.
 
 Wohnrecht
+^^^^^^^^^
 
-- Zielsetzung, „Right t  * Plug“ zu implementieren.
+- Zielsetzung, „Right to Plug“ zu implementieren.
 
 Wohnbauförderung
+^^^^^^^^^^^^^^^^
 
 - Im Rahmen des Finanzausgleichs wird die Bundesregierung darauf Einfluss nehmen, dass die Einnahmen und Rückflüsse der Wohnbauförderung wieder für Wohnen zweckgewidmet werden.
 
 - Stärkung der Sanierung in der WBF.
 
 Leerstand & Mindernutzung
+^^^^^^^^^^^^^^^^^^^^^^^^^
 
 - Die Bundesregierung möchte das Angebot an Wohnungen vergrößern und wird zu diesem Zweck gemeinsam mit den Ländern den Leerstand mobilisieren.
 
@@ -512,5 +532,6 @@ Leerstand & Mindernutzung
 - Prüfung von Maßnahmen, damit Wohnungen, die für den ganzjährigen Wohnbedarf errichtet worden sind, den hier lebenden Menschen zur Verfügung stehen
 
 Maklerprovision nach dem Bestellerprinzip
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 - Wie für gewöhnlich bei Dienstleistungen üblich, sollen die Kosten der Maklerin bzw. des Maklers bei Vermittlung von Mietwohnungen von demjenigen übernommen werden, der den Auftrag gegeben hat.

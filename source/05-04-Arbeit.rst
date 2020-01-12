@@ -4,9 +4,6 @@ Arbeit
 
 :download:`Kapitel als PDF <../split/05-04-Arbeit.pdf>` (Teil des :download:`Originals <../original/RP2020.pdf>`).
 
-.. todo::
-   Überarbeiten, Original gegenchecken
-
 Wir als Bundesregierung werden alles tun, damit ein gutes Leben für alle in unserem Land erhalten bleibt und von Herausforderungen wie der fortschreitenden Digitalisierung und Klimakrise nicht gefährdet wird. Wir werden einen breiten gesellschaftlichen Dialog unter Einbindung aller relevanten Stakeholder (Sozialpartner, Zivilgesellschaft etc.) über die Zukunft der Arbeit und dabei vor allem der Aspekte Digitalisierung, Vereinbarkeit von Familie und Beruf, Arbeits- und Lebensqualität führen.
 
 Die Bundesregierung hat sich daher zum Ziel gesetzt, Umwelt, Wirtschaft und Arbeitswelt angesichts dieser Herausforderungen gemeinsam zu denken und für eine sozial verträgliche Bewältigung der Herausforderungen (Just Transition) zu sorgen. Das umfasst, dass Erwerbseinkommen auch vor Armut schützen. Verstärkter Einsatz in den Bereichen Bildung, Weiterbildung, nachhaltige Qualifikation und berufliche Umorientierung sollen sicherstellen, dass auch in Zukunft ausreichend gut ausgebildete und motivierte Fachkräfte zur Verfügung stehen. Gerade Branchen und Betriebe, bei denen die Digitalisierung oder die Klimakrise eine besondere Rolle spielt, sollen aktiv dabei unterstützt werden, zukunftsfit zu werden.
@@ -17,7 +14,7 @@ Ziel ist es, dass Österreich wieder zu einem der Länder mit der geringsten Arb
 
 Die neue Bundesregierung wird dem Fachkräftemangel aktiv entgegenwirken. Dazu haben wir mit dem System der dualen Ausbildung ausgezeichnete Voraussetzungen. Deshalb wollen wir den Stellenwert der Lehre aufwerten und die Durchlässigkeit zwischen höherer Schul- und Berufsausbildung erhöhen. Es geht dabei auch um die Unterstützung der Lehre als zweiten Bildungsweg und die Förderung von Mädchen in technischen Berufen. Gleichzeitig wollen wir durch die Modernisierung der Curricula und die Schaffung neuer Lehrberufe, unter anderem im Digital-, Klima- und Umweltbereich, den Lehrberuf fit für die Anforderungen des 21. Jahrhunderts machen.
 
-Unser Ziel als Bundesregierung ist es, s  * viele Menschen wie möglich in ein nachhaltiges Beschäftigungsverhältnis zu bringen, auch weil Erwerbsarbeit eine der besten Maßnahmen gegen Armut ist. Für das Arbeitsmarktservice (AMS) muss in der Arbeit ein klarer Fokus darauf liegen, s  * viele Menschen wie möglich in nachhaltige Arbeitsverhältnisse zu vermitteln.
+Unser Ziel als Bundesregierung ist es, so viele Menschen wie möglich in ein nachhaltiges Beschäftigungsverhältnis zu bringen, auch weil Erwerbsarbeit eine der besten Maßnahmen gegen Armut ist. Für das Arbeitsmarktservice (AMS) muss in der Arbeit ein klarer Fokus darauf liegen, so viele Menschen wie möglich in nachhaltige Arbeitsverhältnisse zu vermitteln.
 
 Arbeit mit einem Einkommen, von dem man leben kann, ist ein wesentlicher Schlüssel der Armutsbekämpfung. Es gibt derzeit Bereiche in der österreichischen Wirtschaft, in denen Löhne gezahlt werden, die unter den niedrigsten Kollektivvertragslöhnen der gewerblichen Wirtschaft liegen. Diese Lücke soll unter Einbindung der Sozialpartner mit geeigneten Mitteln geschlossen werden. Erforderlichenfalls kann dieser Lückenschluss auch auf anderem Wege erfolgen (z.B. durch das Bundeseinigungsamt). Auch im Bereich der bestehenden Kollektivverträge gibt es Fälle, in denen die Löhne bereits seit mehreren Jahrzehnten nicht mehr angehoben wurden. Wenn eine sozialpartnerschaftliche Einigung zur Lösung dieses Problems nicht zustande kommt, soll die Möglichkeit geschaffen werden, eine Entscheidung durch das Bundeseinigungsamt herbeizuführen.
 
@@ -40,6 +37,7 @@ Fachkräftebedarf sichern – betriebliche Lehrausbildung stärken
 - Förderung betrieblicher Lehrstellen mit integrierter Qualitätssicherung
 
 - Verpflichtende Weiterbildung für Lehrlingsausbilderinnen und -ausbilder
+
 - Wiedereinführung der Ausbildungsfortschrittskontrolle zur Mitte der Ausbildung
 
   * Unterstützung und Forcierung von Ausbildungsverbünden
@@ -71,6 +69,7 @@ Schnittstelle Arbeitsmarkt / Digitalisierung / Klimaschutz / Zukunftsherausforde
 
 AMS
 ---
+
 - Effizienz und Ausrichtung des AMS
 
   * Arbeitsmarktziele auf nachhaltige Senkung der Arbeitslosigkeit fokussieren
@@ -98,6 +97,7 @@ AMS
   * Erhöhung der Mindestverfügbarkeit von 16 auf 20 Stunden (Übergang 3 Jahre) bei Vorhandensein von adäquaten Kinderbetreuungsmöglichkeiten
 
 Schnittstelle Arbeitsmarkt / Menschen mit Behinderung
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 - Maßnahmen zur längerfristigen Beschäftigung von Menschen mit Behinderung
 
@@ -106,16 +106,20 @@ Schnittstelle Arbeitsmarkt / Menschen mit Behinderung
 - Keine automatische Arbeitsunfähigkeitsfeststellung bei Jugendlichen unter 24 Jahren
 
 Schnittstelle Arbeitsmarkt / Gesundheit
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 - Angebote niederschwelliger Beschäftigung für Menschen mit gesundheitlichen Beeinträchtigungen kombiniert mit Gesundheitsangeboten und Therapien
 
 Schnittstelle Arbeitsmarkt / Integration
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 - Integrationsangebote des AMS für Schwerpunktgruppen mit Migrationshintergrund
 
 - Stärkung der Deutschangebote
 
 Faktor Arbeit entlasten
+^^^^^^^^^^^^^^^^^^^^^^^
+
 - Prüfung der Potenziale zur Senkung der Lohnnebenkosten ohne Leistungsreduktion
 
 Modernisierung des Arbeitsrechts
@@ -148,19 +152,24 @@ Modernisierung des Arbeitsrechts
 - Prüfung von Sabbatical-Modellen in Verbindung mit aufschiebender Wirkung für die Pension
 
 Arbeitnehmerinnenschutz
+^^^^^^^^^^^^^^^^^^^^^^^
 
 - Modernisierung der Berufskrankheitenliste
 
 Tourismus
+^^^^^^^^^
 
 - Förderung hochwertiger Unterkünfte für Tourismusbeschäftigte
 
 Praxisgerechte Entsenderegelungen und Lohn- und Sozialdumpingbekämpfung
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
 - Evaluierung der Handlungsbedarfe aufgrund der EuGH-Urteile zum LSD-BG
 
 - Lösungsansatz: Verwaltungsübereinkommen mit den Nachbarstaaten
 
 Entbürokratisierung (von Arbeitsinspektorat und Arbeitnehmerinnenschutzvorschriften)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 - Interministerielle Arbeitsgruppe unter Beiziehung der Sozialpartner
 
