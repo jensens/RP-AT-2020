@@ -8,7 +8,7 @@ Wissenschaft und Forschung sind Basis für gesellschaftlichen Fortschritt und In
 
 Die begonnene Veränderung in der Hochschulfinanzierung ist ein wichtiger Schritt, der die Autonomie der Universitäten stärkt, Studienbedingungen verbessert, Internationalität gewährleistet und den wissenschaftlichen und künstlerischen Nachwuchs fördert. Dabei ist es ein besonderes Anliegen, das Studienrecht lebensnah und leistungsbezogen zu gestalten. Wir werden die Durchlässigkeit im Hochschulsektor stärken und auf eine freie, bedarfsgerechte Studienwahl achten, die nicht durch soziale Rahmenbedingungen eingeschränkt wird. Dies bedeutet auch, dass Maßnahmen ergriffen werden, die eine gezieltere Studienwahl sicherstellen und die Drop-out-Rate substanziell verringern. Darüber hinaus muss der Fachhochschulsektor bedarfsorientiert ausgebaut werden.
 
-Ein besonderes Anliegen ist uns die Stärkung sowohl der Grundlagenforschung wie der angewandten Forschung, auch in Form einer Technologie- und Klimaoffensive. Eine umfassende FTI-Strategie und ein Forschungsfinanzierungsgesetz sollen längerfristige Orientierung und Perspektiven für die Förderinstitutionen ermöglichen und gute Rahmenbedingungen für Spitzenforschung gewährleisten. Ein besonderes Anliegen ist der Wissenstransfer. Zum einen sollen wissenschaftliche Erkenntnisse möglichst vielen Bürgerinnen und Bürgern zugänglich gemacht werden. Zum anderen wollen wir die Zusammenarbeit von Wissenschaft und Wirtschaft stärken, damit exzellente Forschungsarbeit an den Hochschulen künftig noch direkter in wirtschaftliche Innovationen, lokale Wertschöpfung und sichere Arbeitsplätze mündet.
+Ein besonderes Anliegen ist uns die Stärkung sowohl der Grundlagenforschung wie der angewandten Forschung, auch in Form einer Technologie- und :index:`Klimaoffensive`. Eine umfassende FTI-Strategie und ein Forschungsfinanzierungsgesetz sollen längerfristige Orientierung und Perspektiven für die Förderinstitutionen ermöglichen und gute Rahmenbedingungen für Spitzenforschung gewährleisten. Ein besonderes Anliegen ist der Wissenstransfer. Zum einen sollen wissenschaftliche Erkenntnisse möglichst vielen Bürgerinnen und Bürgern zugänglich gemacht werden. Zum anderen wollen wir die Zusammenarbeit von Wissenschaft und Wirtschaft stärken, damit exzellente Forschungsarbeit an den Hochschulen künftig noch direkter in wirtschaftliche Innovationen, lokale Wertschöpfung und sichere Arbeitsplätze mündet.
 
 Wissenschaft: Verantwortungsvoll die Grundlage für die Gesellschaft der Zukunft schaffen
 -----------------------------------------------------------------------------------------
@@ -37,7 +37,7 @@ Universitätsfinanzierung, Governance und Karriereentwicklung für den wissensch
 
 - Qualitätssicherung im Hochschulbereich weiterentwickeln
 
-- Klimaschutz/Ökologie: Die öffentlichen Hochschulen sollen an der Österreichstrategie zum Standort- und Klimaschutz teilnehmen (z.B. Investitionen in klimaschonende Gebäude, Einsatz eigener Forschungskompetenz, Übertragung des Know-hows auf andere öffentliche Gebäude).
+- :index:`Klimaschutz/Ökologie`: Die öffentlichen Hochschulen sollen an der Österreichstrategie zum Standort- und :index:`Klimaschutz` teilnehmen (z.B. Investitionen in klimaschonende Gebäude, Einsatz eigener Forschungskompetenz, Übertragung des Know-hows auf andere öffentliche Gebäude).
 
 Studienbedingungen und Studienwahl
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -54,7 +54,7 @@ Studienbedingungen und Studienwahl
   * Weiterentwicklung des Nostrifikationsverfahrens für zugewanderte Fachkräfte: zusätzlich zum Bescheidverfahren vermehrt auch Kompetenzen bewerten („Bewertungsverfahren“)
   * Erhöhter Einsatz von innovativen Lehr- und Lernmethoden, die sich gesamthaft und nachhaltig an neuen Technologien und digitalen Möglichkeiten orientieren
 
-- Fortführung der MINT-Offensive (unter Überprüfung des Fächerbündels) an Universitäten und Fachhochschulen bei gleichzeitiger Berücksichtigung anstehender Herausforderungen (z.B. Klimaveränderung, alternde Bevölkerung)
+- Fortführung der MINT-Offensive (unter Überprüfung des Fächerbündels) an Universitäten und Fachhochschulen bei gleichzeitiger Berücksichtigung anstehender Herausforderungen (z.B. :index:`Klimaveränderung`, alternde Bevölkerung)
 
 - Kooperation zwischen Universitäten und Fachhochschulen im Bereich der Lehre, standort- und fachspezifische sowie österreichweite Abstimmung des Lehrangebots
 
@@ -143,7 +143,7 @@ Kompetitive Forschungsförderung in der Grundlagenforschung und angewandten Fors
   * Emerging Fields, um neue Forschungsfelder und Themen mit hohem Innovationspotential zu ermöglichen
   * Austrian Chairs of Excellence, um exzellente Forscherinnen und Forscher aller Wissenschaftsdisziplinen zu gewinnen und auszuzeichnen
 
-- Bekenntnis zu einer Technologie- und Klimaoffensive in der angewandten Forschung unter Berücksichtigung themenoffener Programme (z.B. Basisprogramm, COMET); z.B. ist die Programmlinie COMET eine wesentliche Säule des Wissenstransfers und soll erhalten bleiben.
+- Bekenntnis zu einer Technologie- und :index:`Klimaoffensive` in der angewandten Forschung unter Berücksichtigung themenoffener Programme (z.B. Basisprogramm, COMET); z.B. ist die Programmlinie COMET eine wesentliche Säule des Wissenstransfers und soll erhalten bleiben.
 
 - Governance der wichtigsten österreichischen Förderinstitute verbessern: FFG (Forschungsförderungsgesellschaft), FWF (Austria Wirtschaftsservice), OeAD (Österreichischer Austauschdienst) und CDG (Christian Doppler Forschungsgesellschaft) sowie in Zukunft die LBG (Ludwig Boltzmann Gesellschaft)
 
@@ -178,9 +178,9 @@ Innovation durch Transparenz und Zugang zu wissenschaftlichen Daten
   * Akkreditierte Wissenschafterinnen und Wissenschafter erhalten aufgrund eines geregelten Verfahrens (AVG) Zugang zu den Datenbeständen der Statistik Austria, die so anonymisiert wurden, dass keine Rückführung auf den Einzelfall möglich ist.
   * Die Umsetzung erfolgt in enger Abstimmung mit dem zuständigen Ressort, der Statistik Austria, Vertreterinnen und Vertretern der Wissenschaft (z.B. „Plattform Registerforschung“).
 
-- Schaffung eines neuen nationalen Zentrums für Klimaforschung und Daseinsvorsorge (als Anstalt öffentlichen Rechts) durch die Zusammenführung der Geologischen Bundesanstalt (GBA) und der Zentralanstalt für Meteorologie und Geodynamik (ZAMG).
+- Schaffung eines neuen nationalen Zentrums für :index:`Klimaforschung` und Daseinsvorsorge (als Anstalt öffentlichen Rechts) durch die Zusammenführung der Geologischen Bundesanstalt (GBA) und der Zentralanstalt für Meteorologie und Geodynamik (ZAMG).
 
-  * Umwelt- & Klimaschutz: Erfassung der bestehenden Aktivitäten zu Umwelt- und Klimaforschung. Daraus ableitend sollen Forschungs- und Lehrschwerpunkte zu Klima- und Umweltschutz etabliert werden. Es soll dabei auch ein Schwerpunkt auf Wissenstransfer in diesen Bereichen integriert werden.
+  * Umwelt- & :index:`Klimaschutz`: Erfassung der bestehenden Aktivitäten zu Umwelt- und :index:`Klimaforschung`. Daraus ableitend sollen Forschungs- und Lehrschwerpunkte zu Klima- und Umweltschutz etabliert werden. Es soll dabei auch ein Schwerpunkt auf Wissenstransfer in diesen Bereichen integriert werden.
   * Klinischen Mehraufwand für Lehre und Forschung transparent und fair gestalten
 
 - Compliance-Datenbank: Prüfung der Einführung eines Systems, in dem Wissenschafterinnen und Wissenschafter an Hochschulen und Forschungseinrichtungen die Auftraggebenden ihrer Forschungsprojekte und Finanzierung offenlegen, um etwaige Unvereinbarkeiten zu erkennen und Transparenz zu gewährleisten
@@ -213,5 +213,5 @@ Forschungspolitik für zukünftige Herausforderungen gestalten und FTI-Strategie
 - Konkurrenzfähige Rahmenbedingungen – internationale Forschungsinfrastrukturen
 
   * Bestehende Instrumente und Maßnahmen wie z.B. die Forschungsinfrastrukturdatenbank sind weiterzuführen und weiterzuentwickeln. Es ist Vorsorge für möglichen Neuerungsbedarf im Bereich der Großforschungsinfrastruktur zu treffen.
-  * Internationale Mitgliedschaften: Der Zugang zur internationalen Großforschungsinfrastruktur ist für die Grundlagenforschung sowie für die anwendungsorientierte Forschung und Entwicklung (F&E) essentiell. Aktuelle Mitgliedschaften und Teilnahmen sind abzusichern; an den großen gesellschaftlichen Herausforderungen orientierte neue Mitgliedschaften bzw. Teilnahmen (z.B. in den Bereichen Klima, Geologie, Biodiversität, Aerosole) sind zu prüfen.
+  * Internationale Mitgliedschaften: Der Zugang zur internationalen Großforschungsinfrastruktur ist für die Grundlagenforschung sowie für die anwendungsorientierte Forschung und Entwicklung (F&E) essentiell. Aktuelle Mitgliedschaften und Teilnahmen sind abzusichern; an den großen gesellschaftlichen Herausforderungen orientierte neue Mitgliedschaften bzw. Teilnahmen (z.B. in den Bereichen :index:`Klima`, Geologie, Biodiversität, Aerosole) sind zu prüfen.
   * Aktive Beteiligung an Plattformen und Netzwerken im Bereich des gesellschaftlichen Wandels, beispielsweise Beteiligung an europäischer Time Machine Organisation im Bereich Artificial Intelligence und Kulturerbe, Consortium of European Social Science Data Archives (CESSDA) und European Holocaust Research Infrastructure (EHRI)

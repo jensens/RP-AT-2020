@@ -2,7 +2,7 @@
 Österreich in Europa und der Welt
 ---------------------------------
 
-Viele Herausforderungen unserer Zeit – vom Klimawandel, Welthandel bis hin zur Migration sind von globaler Dimension und können nicht in Österreich alleine gelöst werden.
+Viele Herausforderungen unserer Zeit – vom :index:`Klimawandel`, Welthandel bis hin zur Migration sind von globaler Dimension und können nicht in Österreich alleine gelöst werden.
 Dazu braucht es internationale Zusammenarbeit und eine enge Kooperation mit unseren Partnern in Europa und in der Welt.
 Als Bundesregierung bekennen wir uns deshalb dazu, den Weg einer aktiven Europa- und Außenpolitik weiterzugehen und auch in Zukunft die österreichischen Interessen zu vertreten und unsere Lösungskonzepte zu den großen Fragen unserer Zeit auf globaler wie auf EU Ebene einzubringen, um gemeinsame Lösungen zu erarbeiten.
 
@@ -11,7 +11,7 @@ Die EU ist eine Verantwortungsund Solidargemeinschaft mit gemeinsamen Regeln.
 Sie steht für gemeinsame Werte wie Freiheit, Demokratie, Rechtsstaatlichkeit, Gleichberechtigung und Menschenrechte sowie für Wohlstand und wirtschaftlichen, sozialen und territorialen Zusammenhalt. Um diese Errungenschaften und unser einzigartiges europäisches Lebensmodell auch für die Zukunft zu wahren und weiterzuentwickeln, braucht es heute Veränderung: Einen neuen Vertrag für Europa, der dem Grundprinzip der Subsidiarität Rechnung trägt. Die von Kommissionspräsidentin Von der Leyen geplante „Konferenz zur Zukunft Europas“ soll auf diesem Weg eine wichtige Rolle spielen und die EU als starke Akteurin weiterentwickeln.
 Österreich wird darüber hinaus die Westbalkan- Staaten auch in Zukunft auf ihrem Weg in die Europäische Union unterstützen.
 
-Als verlässlicher Partner und Sitz internationaler Organisationen tritt Österreich für die Stärkung des effektiven Multilateralismus und des Völkerrechts ein. Österreich setzt sich weltweit für die Achtung der Menschenrechte, internationale Abrüstung und eine Welt ohne Atomwaffen ein und tritt entschieden gegen die Verfolgung von Minderheiten, Rassismus sowie gegen Antisemitismus und Antizionismus auf. Auch eine aktive Klimadiplomatie, die Umsetzung der Agenda 2030 mit den 17 Nachhaltigen Entwicklungszielen und die Unterstützung unserer exportorientierten Wirtschaft stellen Schwerpunkte der österreichischen Außenpolitik dar.
+Als verlässlicher Partner und Sitz internationaler Organisationen tritt Österreich für die Stärkung des effektiven Multilateralismus und des Völkerrechts ein. Österreich setzt sich weltweit für die Achtung der Menschenrechte, internationale Abrüstung und eine Welt ohne Atomwaffen ein und tritt entschieden gegen die Verfolgung von Minderheiten, Rassismus sowie gegen Antisemitismus und Antizionismus auf. Auch eine aktive :index:`Klimadiplomatie`, die Umsetzung der Agenda 2030 mit den 17 Nachhaltigen Entwicklungszielen und die Unterstützung unserer exportorientierten Wirtschaft stellen Schwerpunkte der österreichischen Außenpolitik dar.
 Zur Umsetzung der Ziele der österreichischen Außenpolitik und zur Unterstützung der 500.000 Auslandsösterreicher/innen und Reisenden im Sinne der konsularischen Schutzverpflichtung werden wir unser Vertretungsnetz weiter stärken.
 
 Wir bekennen uns darüber hinaus zum Ziel, die finanziellen Mittel für die Entwicklungszusammenarbeit zu erhöhen.
@@ -30,8 +30,8 @@ Aufgaben und Zukunft der Europäischen Union
 
 - Daher braucht es einen konsequenten Einsatz auf europäischer Ebene für das Grundprinzip der Subsidiarität im Sinne einer effizienten Aufgabenverteilung zwischen Mitgliedstaaten und der Europäischen Union.
 
-  * Ziel ist ein Europa der Demokratie, der Menschenrechte und des Rechtsstaates, das in Fragen mit klarem europäischem Mehrwert wie Klimaschutz, Schutz der Außengrenzen, Wettbewerbsfähigkeit, dem sozialen Zusammenhalt oder Welthandel stark ist, und gemeinsam handelt und gleichzeitig in anderen Fragen den Mitgliedstaaten Freiheit lässt, diese auf nationaler oder regionaler Ebene zu lösen.
-  * Die EU soll sich daher in den kommenden 5 Jahren verstärkt großen Leuchtturmprojekten widmen und innovative Antworten auf die großen Herausforderungen unserer Zeit geben (z.B. bei Migration, Klimaschutz, Wirtschafts- und Beschäftigungsstandort, Digitalisierung, Forschung und Entwicklung, Binnenmarkt und sozialer Zusammenhalt).
+  * Ziel ist ein Europa der Demokratie, der Menschenrechte und des Rechtsstaates, das in Fragen mit klarem europäischem Mehrwert wie :index:`Klimaschutz`, Schutz der Außengrenzen, Wettbewerbsfähigkeit, dem sozialen Zusammenhalt oder Welthandel stark ist, und gemeinsam handelt und gleichzeitig in anderen Fragen den Mitgliedstaaten Freiheit lässt, diese auf nationaler oder regionaler Ebene zu lösen.
+  * Die EU soll sich daher in den kommenden 5 Jahren verstärkt großen Leuchtturmprojekten widmen und innovative Antworten auf die großen Herausforderungen unserer Zeit geben (z.B. bei Migration, :index:`Klimaschutz`, Wirtschafts- und Beschäftigungsstandort, Digitalisierung, Forschung und Entwicklung, Binnenmarkt und sozialer Zusammenhalt).
 
 - Europa ist eine Verantwortungs- und Solidargemeinschaft. Wer sich nicht an die gemeinsamen Regeln hält, muss mit Sanktionen rechnen.
 
@@ -43,7 +43,7 @@ Aufgaben und Zukunft der Europäischen Union
 
 - Österreich positioniert sich in der EU für ein neues Miteinander statt Rückkehr zu altem Gegeneinander.
 
-- EU als Klimaschutzvorreiterin (siehe Klima-kapitel)
+- EU als :index:`Klimaschutzvorreiterin` (siehe Klima-kapitel)
 
 - Unterstützung einer EU-Handelspolitik, die sich für umfassende internationale Handelsabkommen einsetzt.
 
@@ -51,7 +51,7 @@ Aufgaben und Zukunft der Europäischen Union
   * Zudem gilt es, durch eine Reform der WTO das regelbasierte multilaterale Handelssystem zu stärken. Dazu gehören die nicht mehr zeitgemäße Einstufung von China als Entwicklungsland sowie eine strengere Ahndung bei Nicht-Einhaltung von Beihilfenrecht.
   * Bei allen Verhandlungen über Handelsabkommen fordern wir neben Transparenz und demokratischen Kontrollmöglichkeiten, dass Exportvereinbarungen unseren heimischen Unternehmen, Arbeitnehmerinnen und Arbeitnehmer sowie den Konsumentinnen und Konsumenten in Österreich zugutekommen.
   * Besonders wichtig sind uns der Erhalt hoher österreichischer Umwelt-, Konsumentenschutz- und Lebensmittelstandards sowie Transparenz und Rückverfolgbarkeit in den Lieferketten.
-  * Handelsverträge müssen durchsetzbare Standards für soziale Rechte, öffentliche Dienstleistungen und Umwelt- und Klimaschutz sowie gegen Abholzung der Wälder, Sozialdumping und Bodenspekulation garantieren.
+  * Handelsverträge müssen durchsetzbare Standards für soziale Rechte, öffentliche Dienstleistungen und Umwelt- und :index:`Klimaschutz` sowie gegen Abholzung der Wälder, Sozialdumping und Bodenspekulation garantieren.
   * Bei voller Gewährleistung der Transparenz sollen neue Abkommen zudem rascher abgeschlossen werden können.
   * Ablehnung des MERCOSUR-Handelsabkommens in der derzeitigen Form
 
@@ -101,7 +101,7 @@ Aufgaben und Zukunft der Europäischen Union
 
 - Auch die Gleichstellung der Geschlechter und die Diskriminierungsfreiheit ist Österreich ein wichtiges Anliegen.
 
-- Ausbau der Beteiligungsmöglichkeiten von Städten und Gemeinden an Entscheidungsprozessen der EU, Schutz öffentlicher Dienstleistungen, Vereinfachung der Abwicklung von EU-Förderungen, Stärkung von Partnerschaftsprinzip, Nachhaltigkeit und Transparenz in der EU-Kohäsionspolitik 2020+, schrittweiser Prozess hin zum Auslaufen von Investitionen in klimaschädliche Projekte
+- Ausbau der Beteiligungsmöglichkeiten von Städten und Gemeinden an Entscheidungsprozessen der EU, Schutz öffentlicher Dienstleistungen, Vereinfachung der Abwicklung von EU-Förderungen, Stärkung von Partnerschaftsprinzip, Nachhaltigkeit und Transparenz in der EU-Kohäsionspolitik 2020+, schrittweiser Prozess hin zum Auslaufen von Investitionen in :index:`klimaschädliche Projekte`
 
 - Einsatz Österreichs für einen weiteren Ausbau der Transparenz auf europäischer Ebene für mehr Bürgernähe und zur Stärkung des Vertrauens der Menschen in die Europäische Union und Prüfung der Empfehlungen der Europäischen Bürgerbeauftragten.
 
@@ -202,10 +202,10 @@ Inhaltliche Schwerpunkte österreichischer Außenpolitik
 
 - Österreich wird wie bisher zivilgesellschaftliche israelisch-palästinensische Friedensinitiativen unterstützen und auch seinen Einsatz für den Aufbau demokratischer palästinensischer Institutionen und nachhaltiger Kommunal- und Sozialeinrichtungen fortsetzen.
 
-- Klimaschutz/ Grüne Diplomatie für eine lebens werte Zukunft/Welt
+- :index:`Klimaschutz` / Grüne Diplomatie für eine lebens werte Zukunft/Welt
 
   * Signifikante Erhöhung des österreichischen Beitrags zum Green-Climate-Fund (Zusage an UN)
-  * Einführung einer Klimabotschafterin bzw. eines Klimabotschafters und Erstellung eines Konzepts für „grüne Diplomatie“
+  * Einführung einer :index:`Klimabotschafterin` bzw. eines Klimabotschafters und Erstellung eines Konzepts für „grüne Diplomatie“
   * Unterstützung des UN Global Compact (Corporate Sustainability Initiative)
   * Österreich wird der International Renewable Energy Agency (IRENA) beitreten, um seine Position als International Energy Hub auszubauen.
   * Österreich wird dem Renewable Energy Policy Network for the 21st Century (REN21)“ beitreten, um die Vorreiterrolle der „Green Economy Made in Austria“ auf globaler Ebene zu stärken.
@@ -220,7 +220,7 @@ Inhaltliche Schwerpunkte österreichischer Außenpolitik
 
 - Auslandskulturpolitik muss auch weiterhin integraler Bestandteil einer österreichischen außenpolitischen Interessenpolitik sein und dient auch als Dialogplattform in komplexen politischen Zusammenhängen
 
-  * Erstellung eines neuen Auslandskulturkon-zeptes, das neben den bewährten Stärken auch die Zukunftsthemen Digitalisierung, Klimaschutz und Nachhaltigkeit und eine bessere Koordinierung beinhaltet
+  * Erstellung eines neuen Auslandskulturkon-zeptes, das neben den bewährten Stärken auch die Zukunftsthemen Digitalisierung, :index:`Klimaschutz` und Nachhaltigkeit und eine bessere Koordinierung beinhaltet
   * Österreichs vielfältige kulturelle Identität muss integraler Bestandteil der Auslandskulturpolitik sein
 
 - Klares Bekenntnis zum und Einsatz für das österreichische UNESCO-Weltkulturerbe
@@ -228,7 +228,7 @@ Inhaltliche Schwerpunkte österreichischer Außenpolitik
 Regionale Schwerpunkte der österreichischen Außenpolitik
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-- Fortsetzung der außenpolitischen Strategie Österreichs mit Schwerpunkt auf Schlüsselregionen und -staaten sowie auf die großen Herausforderungen unserer Zeit wie Sicherheit, Klimawandel, Migration und die Weltwirtschaft
+- Fortsetzung der außenpolitischen Strategie Österreichs mit Schwerpunkt auf Schlüsselregionen und -staaten sowie auf die großen Herausforderungen unserer Zeit wie Sicherheit, :index:`Klimawandel`, Migration und die Weltwirtschaft
 
   * Ausbau der strategischen Partnerschaft mit den Vereinigten Staaten von Amerika
   * Fortsetzung des österreichisch-russischen zivilgesellschaftlichen Forums zur Stärkung der bilateralen Beziehungen und des zivilgesellschaftlichen Austauschs zwischen Österreich und Russland („Sotschi-Dialog“)
@@ -236,7 +236,7 @@ Regionale Schwerpunkte der österreichischen Außenpolitik
   * Die Ukraine ist ein wichtiger Partner der EU in Osteuropa. Österreichs Ziel ist daher eine wirtschaftliche und politische Annäherung der Ukraine an Europa.
   * Ausarbeitung einer gesamtstaatlichen Länderstrategie zu China und stärkerer Fokus auf Wachstumsmärkte in Asien. Einrichtung eines „Österreich-Hauses“ in Peking als „One-Stop-Shop“ für Visa, Wirtschaftsangelegenheiten, Kulturvermittlung und Spracherwerb
 
-- Erarbeitung einer gesamtstaatlichen Afrikastrategie und österreichischen Initiative in der EU für einen EU-Zukunftspakt mit Afrika, der sowohl Herausforderungen (z.B. Migration, Klima) wie auch Chancen einer Zusammenarbeit mit Afrika auf Augenhöhe Rechnung trägt.
+- Erarbeitung einer gesamtstaatlichen Afrikastrategie und österreichischen Initiative in der EU für einen EU-Zukunftspakt mit Afrika, der sowohl Herausforderungen (z.B. Migration, :index:`Klima`) wie auch Chancen einer Zusammenarbeit mit Afrika auf Augenhöhe Rechnung trägt.
 
 - Verleihung des Kofi-Annan-Preises für Innovationen in Afrika durch das Bundeskanzleramt
 
@@ -303,7 +303,7 @@ Entwicklungszusammenarbeit
 
 - Österreich verfolgt die fünf Grundprinzipien der Agenda 2030: Universalität, „niemanden zurücklassen“, Vernetzung & Unteilbarkeit, gleichberechtigte Teilhabe & Multiakteurpartnerschaften.
 
-- Die EU ist im Bereich der EZA ein Global Payer und soll auch in diesem Bereich stärker europäische Interessen (Klimaschutz, nachhaltige Entwicklung, Menschenrechte, Migration) einbringen und zum Global Player werden.
+- Die EU ist im Bereich der EZA ein Global Payer und soll auch in diesem Bereich stärker europäische Interessen (:index:`Klimaschutz`, nachhaltige Entwicklung, Menschenrechte, Migration) einbringen und zum Global Player werden.
 
 - Schrittweise Erhöhung der Entwicklungsgelder Richtung 0,7% des BNP
 
@@ -314,17 +314,17 @@ Entwicklungszusammenarbeit
 
 - Für die humanitäre Hilfe Österreichs wird eine Strategie mit Zielen und Zuständigkeiten erstellt.
 
-- Weiterentwicklung des Drei-Jahres-Programms der ADA zu einer Gesamtstrategie für eine kohärente, gesamtstaatliche und treffsichere Entwicklungspolitik mit Zielen und Zuständigkeiten und Effektuierung der damit verbundenen interministeriellen Koordination, die sicherstellt, dass die Maßnahmen in der Wirtschafts-, Handels-, Finanz-, Landwirtschafts-, Migrations-, Sozial-, Klima- und Umweltpolitik die Erreichung der entwicklungspolitischen Ziele fördern
+- Weiterentwicklung des Drei-Jahres-Programms der ADA zu einer Gesamtstrategie für eine kohärente, gesamtstaatliche und treffsichere Entwicklungspolitik mit Zielen und Zuständigkeiten und Effektuierung der damit verbundenen interministeriellen Koordination, die sicherstellt, dass die Maßnahmen in der Wirtschafts-, Handels-, Finanz-, Landwirtschafts-, Migrations-, Sozial-, :index:`Klima- und Umweltpolitik` die Erreichung der entwicklungspolitischen Ziele fördern
 
 - Regional fokussierte und thematische Schwerpunktsetzung im nächsten 3-Jahres-programm:
 
   * Bei der Mittelvergabe muss das Primat der Zusammenarbeit vor Ort und das Prinzip der gezielten Hilfe gelten.
   * Unterstützung der Zivilgesellschaft vor Ort und staatlicher Programme zur Demokratisierung, Förderung der Rechtsstaatlichkeit, Armutsbekämpfung und Kampf gegen Korruption
   * Verstärkte Fokussierung auf das Thema Migration, etwa durch Prüfung der Verwendung zusätzlicher und freiwerdender österreichischer EZA-Mittel in Herkunftsund Transitländern von Migrantinnen und Migranten nach Österreich
-  * Stärkung von Frauen auf allen Ebenen unter Bezugnahme auf wichtige internationale Dokumente, wie z.B. die Bejing-Aktionsplattform und die UN-Sicherheitsratsresolution 1325 „Frauen, Frieden,Sicherheit“ und die Begehung der jeweiligen Jubiläen im Jahr 2020, (mit besonderem Augenmerk auf Gewaltschutz, wie z.B. weibliche Genitalverstümmelung, Bildung, rechtliche Gleichstellung) für Klimaschutzmaß-
-  * (Berufs-)Bildung nahmen/Erneuerbare Energien/Energie-Effizienz vor Ort
+  * Stärkung von Frauen auf allen Ebenen unter Bezugnahme auf wichtige internationale Dokumente, wie z.B. die Bejing-Aktionsplattform und die UN-Sicherheitsratsresolution 1325 „Frauen, Frieden,Sicherheit“ und die Begehung der jeweiligen Jubiläen im Jahr 2020, (mit besonderem Augenmerk auf Gewaltschutz, wie z.B. weibliche Genitalverstümmelung, Bildung, rechtliche Gleichstellung) 
+  * (Berufs-)Bildung für :index:`Klimaschutzmaßnahmen`/Erneuerbare Energien/Energie-Effizienz vor Ort
   * Stärkung der wirtschaftlichen Kooperation und Zusammenarbeit mit Unternehmen stärken
-  * Prüfung einer stärkeren Knüpfung von EZA-Mitteln an Fortschritte bei der Erreichung von gemeinsamen Zielen mit Partnerländern, die zu einer positiven Entwicklung im jeweiligen Land beitragen, wie Armutsbekämpfung, Verbot von Kinderarbeit, Einhaltung gewisser Standards im Arbeitsrecht, Klimaschutz
+  * Prüfung einer stärkeren Knüpfung von EZA-Mitteln an Fortschritte bei der Erreichung von gemeinsamen Zielen mit Partnerländern, die zu einer positiven Entwicklung im jeweiligen Land beitragen, wie Armutsbekämpfung, Verbot von Kinderarbeit, Einhaltung gewisser Standards im Arbeitsrecht, :index:`Klimaschutz`
 
 - Bekenntnis zu einer fundierten Evaluierung der Wirksamkeit von EZA-Maßnahmen, so wie dies in allen Förderbereichen durchgeführt wird
 
@@ -332,7 +332,7 @@ Entwicklungszusammenarbeit
 
 - Unterstützung der Etablierung von privaten Fonds (nach Evaluierung) für die Unterstützung und Absicherung von SDG- oder KMU-Finanzierungen in weniger wirtschaftlich entwickelten Ländern
 
-- Stärkung des Eigenkapitalinstruments der österreichischen Entwicklungsbank – Klimaschutz als Querschnittsmaterie bei der OeEB weiter forcieren – bei gleichzeitiger Stärkung des Bundes in der Governance und Organisationsstruktur der OeEB
+- Stärkung des Eigenkapitalinstruments der österreichischen Entwicklungsbank – :index:`Klimaschutz` als Querschnittsmaterie bei der OeEB weiter forcieren – bei gleichzeitiger Stärkung des Bundes in der Governance und Organisationsstruktur der OeEB
 
 - Schaffung eines europaweiten Fonds zur Erhaltung des Regenwalds. Private und staatliche Initiativen vernetzen und auf europäischer Ebene vereinen; rasche internationale Hilfe bei Waldbränden; kurzfristig soll Österreich über den Auslandskatastrophenfonds und andere Finanzierungstöpfe Beitrag leisten
 
@@ -342,7 +342,7 @@ Entwicklungszusammenarbeit
 
 - Ausbildungspartnerschaften mit der Wirtschaft und Bildungsinstitutionen in Österreich und vor Ort
 
-- Setzung internationaler Initiativen im Kampf gegen die Klimakrise, die Hunger und Armut verstärkt, z.B. Aufbau von Wasserversorgungssystemen, Anbau hitzebeständiger Getreideformen u.Ä.
+- Setzung internationaler Initiativen im Kampf gegen die :index:`Klimakrise`, die Hunger und Armut verstärkt, z.B. Aufbau von Wasserversorgungssystemen, Anbau hitzebeständiger Getreideformen u.Ä.
 
 - Österreichische Initiative in der EU für einen EU-Zukunftspakt mit Afrika
 
