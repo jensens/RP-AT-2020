@@ -12,7 +12,7 @@ Nicht nur der internationale Wettbewerb soll zukünftig im Fokus stehen, insbeso
 Die Schaffung und der Erhalt von Arbeitsplätzen ist von immenser Bedeutung für regionale Betriebe, und damit auch für die Regionen als solche.
 Als österreichische Bundesregierung bekennen wir uns daher zur Bedeutung von Österreich als Tourismusdestination und zur Weiterentwicklung dieses wichtigen Sektors.
 
-Der Tourismus steht dennoch vor einer Vielzahl an Herausforderungen, wie etwa die spürbare Veränderung unseres :index:`Klimas`, die auch die Wettbewerbsfähigkeit des Tourismus bedroht.
+Der Tourismus steht dennoch vor einer Vielzahl an Herausforderungen, wie etwa die spürbare Veränderung unseres :index:`Klima`s, die auch die Wettbewerbsfähigkeit des Tourismus bedroht.
 Es ist wichtig, bereits jetzt die notwendigen Schritte zu setzen, um nicht nur heute, sondern auch morgen unsere hohen Standards aufrechtzuerhalten.
 Mit dem Plan T – Masterplan für Tourismus wurden erste Weichen gestellt, um den zahlreichen Herausforderungen im Tourismus zu begegnen.
 

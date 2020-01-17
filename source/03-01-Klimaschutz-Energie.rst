@@ -5,7 +5,7 @@
 :download:`Kapitel als PDF <../split/03-01-Klimaschutz-Energie.pdf>` (Teil des :download:`Originals <../original/RP2020.pdf>`).
 
 Die besorgniserregende Veränderung unseres Klimas ist eine der größten Herausforderungen unserer Generation – in ökologischer, ökonomischer und sozialer Hinsicht.
-Die österreichische Bundesregierung bekennt sich zu ihrer Verantwortung, die notwendigen Schritte und Weichenstellungen vorzunehmen, um dieser Herausforderung auf allen Ebenen gerecht zu werden und die Ziele des Pariser :index:`Klimaschutzabkommens` zu erfüllen.
+Die österreichische Bundesregierung bekennt sich zu ihrer Verantwortung, die notwendigen Schritte und Weichenstellungen vorzunehmen, um dieser Herausforderung auf allen Ebenen gerecht zu werden und die Ziele des Pariser :index:`Klimaschutzabkommen`s zu erfüllen.
 Wir betrachten :index:`Klimaschutzmaßnahmen` als bedeutende Chance für Gerechtigkeit sowie für die zukunftsfähige Entwicklung von Wirtschaft und Arbeitsplätzen in Österreich.
 Diese Chancen gilt es zu nutzen - Österreich hat die besten Voraussetzungen dafür. Gemeinsam können wir das Ziel eines :index:`klimaneutralen Österreichs` bis spätestens 2040 erreichen und in Europa zum Vorreiter im :index:`Klimaschutz` werden.
 Für uns bedeutet das selbstverständlich, dass Atomkraft keine Alternative ist, sondern, dass wir ausschließlich auf Erneuerbare Energieträger setzen.
@@ -54,7 +54,7 @@ So sichern wir langfristig diesen wichtigen Sektor am Standort Österreich und s
   * Einsatz für ein wirkungsvolles ETS-System und einen CO2-Mindestpreis auf europäischer Ebene
   * Erhöhung der Internationalen :index:`Klimafinanzierung`: Signifikante Erhöhung des österreichischen Beitrags zum Green Climate Fund
 
-- Unmittelbare Nachbesserung und Konkretisierung des Nationalen Energie- und :index:`Klimaplans` (NEKP)
+- Unmittelbare Nachbesserung und Konkretisierung des Nationalen Energie- und :index:`Klimaplan`s (NEKP)
 
   * Erfüllung der Effort-Sharing-Ziele im Non-ETS-Bereich sichern (derzeit minus 36%), mit Blick auf die zu erwartende Erhöhung der EU-Ziele
   * Eine unabhängige und wissenschaftlich fundierte Wirkungsfolgenabschätzung, welche die Zielerreichung belegt, ist Voraussetzung für den Beschluss des NEKP
@@ -72,7 +72,7 @@ Die Weichen richtig stellen: notwendige horizontale Maßnahmen
   * Verantwortlichkeitsmechanismus zwischen Bund und Ländern für die Zielerreichung und bei Zielverfehlung
   * Verbesserter Mechanismus zum Ergreifen von zusätzlichen Maßnahmen bei Zielverfehlung
   * Zeitnäheres und laufendes unabhängiges Monitoring der :index:`Klimapolitik` durch das UBA
-  * Erarbeitung eines :index:`Klimaschutzaktionsplans` der Bundesregierung zur konkreten Umsetzung der Maßnahmen
+  * Erarbeitung eines :index:`Klimaschutzaktionsplan`s der Bundesregierung zur konkreten Umsetzung der Maßnahmen
 
 - Neue ebenen-übergreifende Governance für den :index:`Klimaschutz`
 
@@ -124,7 +124,7 @@ Die öffentliche Hand zeigt‘s vor! :index:`Klimaneutrale Verwaltung`
   * Aus für Neuzulassungen von Kfz (PKW) mit Verbrennungsmotoren in der öffentlichen Beschaffung (mit Ausnahme der Sonderfahrzeuge, Einsatzfahrzeuge und Fahrzeuge des Bundesheers) ab 2027
   * Flächendeckende Einführung von Umweltmanagementsystemen
   * Ziel ist eine 100% regionale und saisonale Beschaffung in Verbindung mit einer Bio-Quote von 30% bis 2025 und 55% bis 2030.
-  * Angebot eines täglichen :index:`Klimatellers` in Österreichs öffentlichen Küchen
+  * Angebot eines täglichen :index:`Klimateller`s in Österreichs öffentlichen Küchen
 
 - Nachhaltige und innovationsfreundliche Beschaffung wird Standard:
 
@@ -200,7 +200,7 @@ Phase-out-Plan für fossile Energieträger in der Raumwärme
 
 - Forcierung der Nah- und Fernwärme. Fernwärme wird in Räumen mit ausreichender Wärmedichte in der Wärmeversorgung der Zukunft an Bedeutung gewinnen. Sie leistet einen großen Beitrag zur Erreichung des österreichischen CO2-Reduktionsziels im Non-ETS-Sektor.
 
-- Zur Priorisierung der Anwendungsbereiche im Sinne eines größtmöglichen :index:`Klimaschutznutzens` wird eine Mobilisierungsstrategie Grünes Gas erarbeitet. Klare Rahmenbedingungen und Zeitpläne schaffen Planungssicherheit und vermeiden Lock-in-Effekte. Grünes Gas ist ein hochwertiger Energieträger, der quantitativ begrenzt ist und soll daher bevorzugt in Anwendungen eingesetzt werden, in denen die Hochwertigkeit notwendig ist.
+- Zur Priorisierung der Anwendungsbereiche im Sinne eines größtmöglichen :index:`Klimaschutznutzen`s wird eine Mobilisierungsstrategie Grünes Gas erarbeitet. Klare Rahmenbedingungen und Zeitpläne schaffen Planungssicherheit und vermeiden Lock-in-Effekte. Grünes Gas ist ein hochwertiger Energieträger, der quantitativ begrenzt ist und soll daher bevorzugt in Anwendungen eingesetzt werden, in denen die Hochwertigkeit notwendig ist.
 
 - Im Dialog mit den Bundesländern, Energieversorgern und Gasnetzbetreibern ist ein Fahrplan zur stufenweisen Entflechtung der Wärmenetze zu entwickeln.
 
@@ -388,7 +388,7 @@ Industrie und Gewerbe: ein Green Deal für Österreichs Wirtschaft
 :index:`Klimaschutz` durch Bioökonomie
 --------------------------------------
 
-- Entwicklung geeigneter Instrumente zur Forcierung von erneuerbaren Rohstoffen in allen Produktbereichen bzw. Wirtschaftssektoren unter Berücksichtigung der Verfügbarkeit von Flächen und :index:`Klimazielen` in der Landwirtschaft
+- Entwicklung geeigneter Instrumente zur Forcierung von erneuerbaren Rohstoffen in allen Produktbereichen bzw. Wirtschaftssektoren unter Berücksichtigung der Verfügbarkeit von Flächen und :index:`Klimaziel`en in der Landwirtschaft
 
 - Vorbildwirkung der öffentlichen Hand (Nachhaltige Beschaffung)
 
