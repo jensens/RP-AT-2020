@@ -212,7 +212,7 @@ Saubere Luft und besserer Lärmschutz
 Gesunde Böden und zukunftsfähige Raumordnung
 --------------------------------------------
 
-- Raumplanerische Aspekte des :index:`Klimaschutz`es sollen durch eine (auf den derzeit schon bestehenden Bundeskompetenzen basierende) gesetzliche Regelung zur Fachplanungskompetenz des Bundes geregelt werden.
+- Raumplanerische Aspekte des :index:`Klimaschutzes <Klimaschutz>` sollen durch eine (auf den derzeit schon bestehenden Bundeskompetenzen basierende) gesetzliche Regelung zur Fachplanungskompetenz des Bundes geregelt werden.
 
 - Österreichweite Bodenschutzstrategie für sparsameren Flächenverbrauch
 
