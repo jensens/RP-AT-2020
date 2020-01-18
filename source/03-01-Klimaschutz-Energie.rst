@@ -5,7 +5,7 @@
 :download:`Kapitel als PDF <../split/03-01-Klimaschutz-Energie.pdf>` (Teil des :download:`Originals <../original/RP2020.pdf>`).
 
 Die besorgniserregende Veränderung unseres Klimas ist eine der größten Herausforderungen unserer Generation – in ökologischer, ökonomischer und sozialer Hinsicht.
-Die österreichische Bundesregierung bekennt sich zu ihrer Verantwortung, die notwendigen Schritte und Weichenstellungen vorzunehmen, um dieser Herausforderung auf allen Ebenen gerecht zu werden und die Ziele des Pariser :index:`Klimaschutzabkommen`s zu erfüllen.
+Die österreichische Bundesregierung bekennt sich zu ihrer Verantwortung, die notwendigen Schritte und Weichenstellungen vorzunehmen, um dieser Herausforderung auf allen Ebenen gerecht zu werden und die Ziele des Pariser :index:`Klimaschutzabkommens <Klimaschutzabkommen>` zu erfüllen.
 Wir betrachten :index:`Klimaschutzmaßnahmen` als bedeutende Chance für Gerechtigkeit sowie für die zukunftsfähige Entwicklung von Wirtschaft und Arbeitsplätzen in Österreich.
 Diese Chancen gilt es zu nutzen - Österreich hat die besten Voraussetzungen dafür. Gemeinsam können wir das Ziel eines :index:`klimaneutralen Österreichs` bis spätestens 2040 erreichen und in Europa zum Vorreiter im :index:`Klimaschutz` werden.
 Für uns bedeutet das selbstverständlich, dass Atomkraft keine Alternative ist, sondern, dass wir ausschließlich auf Erneuerbare Energieträger setzen.
