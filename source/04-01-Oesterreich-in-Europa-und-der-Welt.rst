@@ -63,9 +63,9 @@ Aufgaben und Zukunft der Europäischen Union
   * Einsatz in Österreich und auf EU-Ebene, dass Europa beim 5G-Ausbau technologische Unabhängigkeit erreicht (Vergaberecht und Forschungsförderung auf EU-Ebene, in Zusammenarbeit mit privaten Partnern)
   * Stärkeres Engagement Österreichs im Rahmen der Important Projects of Common European Interest (IPCEI), um die Teilnahme an all jenen Programmen sicherzustellen, die Österreichs Wirtschafts- und Umweltinteressen entsprechen
 
-- Entwicklung einer neuen :index:`EU-Digitalstrategie <Digitalstrategie, EU>` mit gemeinsamen Schwerpunkten, in denen Europa künftig den globalen Fortschritt anführen und von anderen Akteurinnen und Akteuren unabhängig werden soll, z.B. künstliche Intelligenz, Internet der Dinge, :index:`Cybersicherheit`
+- Entwicklung einer neuen :index:`EU-Digitalstrategie <Digitalstrategie, EU-Digitalstrategie>` mit gemeinsamen Schwerpunkten, in denen Europa künftig den globalen Fortschritt anführen und von anderen Akteurinnen und Akteuren unabhängig werden soll, z.B. künstliche Intelligenz, Internet der Dinge, :index:`Cybersicherheit`
 
-- Vollendung des :index:`digitalen Binnenmarkts <digitaler Binnernmarkt>`: Im 21. Jahrhundert darf es keine Rolle mehr spielen, ob Käuferinnen bzw. Käufer und Verkäuferinnen bzw. Verkäufer in verschiedenen EU-Ländern sitzen.
+- Vollendung des :index:`digitalen Binnenmarkts <digitaler Binnenmarkt>`: Im 21. Jahrhundert darf es keine Rolle mehr spielen, ob Käuferinnen bzw. Käufer und Verkäuferinnen bzw. Verkäufer in verschiedenen EU-Ländern sitzen.
 
 - Fortsetzung der Bemühungen zur Einführung einer :index:`Digitalsteuer` für internationale Großkonzerne auf internationaler oder europäischer Ebene im Sinne der Steuergerechtigkeit
 

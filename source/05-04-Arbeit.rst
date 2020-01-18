@@ -22,7 +22,7 @@ Die neue Bundesregierung wird dem Fachkräftemangel aktiv entgegenwirken.
 Dazu haben wir mit dem System der dualen Ausbildung ausgezeichnete Voraussetzungen.
 Deshalb wollen wir den Stellenwert der Lehre aufwerten und die Durchlässigkeit zwischen höherer Schul- und Berufsausbildung erhöhen.
 Es geht dabei auch um die Unterstützung der Lehre als zweiten Bildungsweg und die Förderung von Mädchen in technischen Berufen.
-Gleichzeitig wollen wir durch die Modernisierung der Curricula und die Schaffung neuer Lehrberufe, unter anderem im :index:`Digital- <Digitalbereich>`, :index:`Klima <Kliambereich>`- und :index:`Umweltbereich`, den Lehrberuf fit für die Anforderungen des 21. Jahrhunderts machen.
+Gleichzeitig wollen wir durch die Modernisierung der Curricula und die Schaffung neuer Lehrberufe, unter anderem im :index:`Digital- <Digitalbereich>`, :index:`Klima <Klimabereich>`- und :index:`Umweltbereich`, den Lehrberuf fit für die Anforderungen des 21. Jahrhunderts machen.
 
 Unser Ziel als Bundesregierung ist es, so viele Menschen wie möglich in ein nachhaltiges Beschäftigungsverhältnis zu bringen, auch weil Erwerbsarbeit eine der besten Maßnahmen gegen Armut ist.
 Für das Arbeitsmarktservice (AMS) muss in der Arbeit ein klarer Fokus darauf liegen, so viele Menschen wie möglich in nachhaltige Arbeitsverhältnisse zu vermitteln.

@@ -76,13 +76,16 @@ html_theme_options = {
     # https://github.com/myyasuda/sphinx_materialdesign_theme#html-theme-options
     # 'primary_color': 'blue',
     'accent_color': 'deep_purple',
-    'header_links' : [
+    'header_links': [
         ('Regierungsprogramm 2020-2024', 'index', False, 'home'),
         ('Suche', 'search', False, 'search'),
         ('Stichwortverzeichnis', 'genindex', False, 'sort_by_alpha'),
         ("Open3", "https://www.open3.at", True, 'group'),
         ("GitHub", "https://github.com/jensens/RP-AT-2020", True, 'link')
     ],
+    'twitter_site': "@open3",
+    'twitter_creator': "@yenzenz",
+    'og_description': project + ' #opendata #open-by-default #a11y'
 }
 
 # -- Additional config -------------------------------------------------------
