@@ -15,15 +15,19 @@ help:
 all:
 	make epub
 	rm "$(BUILDDIR)"/regierungsprogramm-2020-2014.epub || echo "epub did not exist"
+	rm "$(BUILDDIR)"/regierungsprogramm-2020-2014.mobi || echo "mobi did not exist"
 	cd "$(BUILDDIR)"/epub && zip -r ../regierungsprogramm-2020-2014.epub . && cd -
+	ebook-convert "$(BUILDDIR)"/regierungsprogramm-2020-2014.epub "$(BUILDDIR)"/regierungsprogramm-2020-2014.mobi
 	rm -r $(BUILDDIR)/epub/*
 	make html
 	cd docs && ln -sf ../build/regierungsprogramm-2020-2014.epub && cd -
+	cd docs && ln -sf ../build/regierungsprogramm-2020-2014.mobi && cd -
 
 clean:
 	rm -r $(BUILDDIR)/epub/* || echo "no epub directory"
 	rm -r $(BUILDDIR)/html/* || echo no html
 	rm "$(BUILDDIR)"/regierungsprogramm-2020-2014.epub || echo "no epub file"
+	rm "$(BUILDDIR)"/regierungsprogramm-2020-2014.mobi || echo "no mobi file"
 
 .PHONY: help all clean
 

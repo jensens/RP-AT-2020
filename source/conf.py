@@ -77,10 +77,11 @@ html_theme_options = {
     # 'primary_color': 'blue',
     'accent_color': 'deep_purple',
     'header_links': [
-        ('Regierungsprogramm 2020-2024', 'index', False, 'home'),
+        ('Startseite', 'index', False, 'home'),
         ('Suche', 'search', False, 'search'),
         ('Stichworte', 'genindex', False, 'sort_by_alpha'),
         ('EPUB', 'regierungsprogramm-2020-2014.epub', True, 'book'),
+        ('MOBI', 'regierungsprogramm-2020-2014.mobi', True, 'book'),
         ("Open3", "https://www.open3.at", True, 'group'),
         ("GitHub", "https://github.com/jensens/RP-AT-2020", True, 'link')
     ],
