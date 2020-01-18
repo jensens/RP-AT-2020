@@ -16,7 +16,7 @@ Die medizinische Ausbildung wird attraktiver gestaltet und durch eine Stipendien
 
 Im Rahmen der Gesundheitsförderung bekennen wir uns unter anderem zu einer Stärkung der präventiven Maßnahmen durch eine österreichweite Präventionsstrategie, damit die persönliche Gesundheit verbessert wird. Neben finanziellen und sachlichen Anreizen für die Teilnahme an Präventionsprogrammen soll die Prävention auch in Schulen und Betrieben gestärkt werden. Durch ein Anreizsystem von Präventionsprogrammen sollen allen Österreicherinnen und Österreichern mehr gesunde Jahre ermöglicht werden.
 
-Fortschritte der Digitalisierung sollen auch im Gesundheitsbereich einen einfacheren und verbesserten Zugang zu medizinischen Leistungen ermöglichen. Die Weiterentwicklung der E-Card als Schlüssel für papierlose Prozesse soll unter Beachtung des Datenschutzes eine deutliche Vereinfachung für alle Beteiligten im Gesundheitssystem bringen. Ebenso wollen wir die Digitalisierung in Diagnose, Behandlung und (medizinischer) Forschung vorantreiben und somit den Gesundheitsstandort Österreich weiter stärken.
+Fortschritte der :index:`Digitalisierung` sollen auch im Gesundheitsbereich einen einfacheren und verbesserten Zugang zu medizinischen Leistungen ermöglichen. Die Weiterentwicklung der E-Card als Schlüssel für papierlose Prozesse soll unter Beachtung des Datenschutzes eine deutliche Vereinfachung für alle Beteiligten im Gesundheitssystem bringen. Ebenso wollen wir die Digitalisierung in Diagnose, Behandlung und (medizinischer) Forschung vorantreiben und somit den Gesundheitsstandort Österreich weiter stärken.
 
 Dadurch bleibt Menschen in Gesundheitsberufen mehr Zeit für Kontakte zu Patientinnen und Patienten.
 
@@ -83,7 +83,7 @@ Hochqualitative, abgestufte, flächendeckende und wohnortnahe Gesundheitsversorg
 
   * E-Impfpass, E-Rezept, E-Befund, E-Transportschein, E-Medikation
 
-- Digitalisierung auch in medizinischer Forschung, Diagnose und Behandlung vorantreiben
+- :index:`Digitalisierung` auch in medizinischer Forschung, Diagnose und Behandlung vorantreiben
 
 - Ausnahmslose Nutzung von anonymisierten Daten zu wissenschaftlichen Zwecken
 

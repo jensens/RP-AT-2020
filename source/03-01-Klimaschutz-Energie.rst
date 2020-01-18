@@ -343,8 +343,8 @@ Den österreichischen Anti-Atom-kraft-Weg konsequent fortsetzen und Einsatz gege
 
   * Einen europaweiten Kohleausstieg forcieren, um dem Import von billigem Kohlestrom nach Österreich entgegenzuwirken und die Wettbewerbsfähigkeit heimischer Stromer- zeuger zu gewährleisten
 
-Technologieoffensive, Digitalisierung und Innovation
-----------------------------------------------------
+Technologieoffensive, :index:`Digitalisierung` und Innovation
+-------------------------------------------------------------
 
 - Integrierte Energiesysteme (Sektorkopplung): Gesamthafte Betrachtung der Systeme für Strom, Wärme und Mobilität
 
@@ -358,7 +358,7 @@ Technologieoffensive, Digitalisierung und Innovation
 
 - Innovation – von Start-ups bis Energie-Cluster & :index:`Open Energy` Innovation Industrie.
 
-- Digitalisierung: Vorteile nutzen, Datenschutz sicherstellen
+- :index:`Digitalisierung`: Vorteile nutzen, Datenschutz sicherstellen
 
 - Strategie zur Verwendung alternativer Energieträger in der Mobilität (E-Mobilität, Wasserstoff, synthetische Treibstoffe) mit Fokus auf Gesamt-:index:`Klimabilanz`
 

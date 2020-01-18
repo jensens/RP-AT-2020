@@ -4,11 +4,23 @@ Kunst & Kultur
 
 :download:`Kapitel als PDF <../split/01-03-Kunst-Kultur.pdf>` (Teil des :download:`Originals <../original/RP2020.pdf>`).
 
-Für die weltweite Bedeutung Österreichs sind Kunst und Kultur ein wesentlicher Faktor. Ob es Kunst- und Kulturerbe oder zeitgenössische Kunst ist, ob es Volkskultur, Baukultur oder darstellende Kunst ist – Österreich zählt in allen künstlerischen und kulturellen Bereichen zu den Besten. Dabei ist stets zu bedenken, dass künstlerische Positionen einen wichtigen Beitrag dazu leisten können, aktuelle gesellschaftliche Herausforderungen wie etwa :index:`Klimawandel` oder Integration im öffentlichen Bewusstsein zu verankern und Problemlösungsstrategien mit zu entwickeln.
+Für die weltweite Bedeutung Österreichs sind Kunst und Kultur ein wesentlicher Faktor. 
+Ob es Kunst- und Kulturerbe oder zeitgenössische Kunst ist, ob es Volkskultur, Baukultur oder darstellende Kunst ist – Österreich zählt in allen künstlerischen und kulturellen Bereichen zu den Besten. 
+Dabei ist stets zu bedenken, dass künstlerische Positionen einen wichtigen Beitrag dazu leisten können, aktuelle gesellschaftliche Herausforderungen wie etwa :index:`Klimawandel` oder Integration im öffentlichen Bewusstsein zu verankern und Problemlösungsstrategien mit zu entwickeln.
 
-Wir wollen die Basis schaffen, damit wir auch in den kommenden Jahrzehnten das internationale Niveau beibehalten und weiter heben. Unser Ziel ist daher, zeitgenössische Kunst und Kultur aus Österreich weltweit zu stärken. Dafür müssen wir die bestmöglichen Rahmenbedingungen für die in der Kunst und Kultur Tätigen sowie für die vielfältigen kulturellen Einrichtungen – von der freien Szene bis zu großen Kulturinstitutionen – schaffen. Diese Rahmenbedingungen sollen gleichermaßen Innovation wie Planungssicherheit und soziale Unterstützung für Künstlerinnen und Künstler ermöglichen. Auch die musisch-kreative-künstlerische Ausbildung und Bildung als wichtiger Faktor einer positiven Persönlichkeitsentwicklung muss weiter forciert werden. Wir brauchen auch in Zukunft herausragende Künstlerinnen und Künstler sowie ein offenes und interessiertes Publikum. Das kreative und künstlerische Schaffen von heute ist das kulturelle Erbe von morgen.
+Wir wollen die Basis schaffen, damit wir auch in den kommenden Jahrzehnten das internationale Niveau beibehalten und weiter heben. 
+Unser Ziel ist daher, zeitgenössische Kunst und Kultur aus Österreich weltweit zu stärken. 
+Dafür müssen wir die bestmöglichen Rahmenbedingungen für die in der Kunst und Kultur Tätigen sowie für die vielfältigen kulturellen Einrichtungen – von der freien Szene bis zu großen Kulturinstitutionen – schaffen. 
+Diese Rahmenbedingungen sollen gleichermaßen Innovation wie Planungssicherheit und soziale Unterstützung für Künstlerinnen und Künstler ermöglichen. Auch die musisch-kreative-künstlerische Ausbildung und Bildung als wichtiger Faktor einer positiven Persönlichkeitsentwicklung muss weiter forciert werden. 
+Wir brauchen auch in Zukunft herausragende Künstlerinnen und Künstler sowie ein offenes und interessiertes Publikum. 
+Das kreative und künstlerische Schaffen von heute ist das kulturelle Erbe von morgen.
 
-Neben den hellen müssen wir uns als Gesellschaft aber auch mit den dunklen Kapiteln unserer Geschichte auseinandersetzen. Das Gedenkjahr 2020 bietet Gelegenheit für beides. Einerseits feiern wir mit dem 100jährigen Jubiläum der Salzburger Festspiele den beispiellosen Erfolg einer der zentralen Institutionen in der vielfältigen österreichischen Festspiel-, Festival- und Orchesterlandschaft. Gleichzeitig markiert 2020 den 75. Jahrestag der Gründung der Zweiten Republik und damit das Ende des Zweiten Weltkriegs und des Nationalsozialismus. Wir erachten das Gedenkjahr 2020 als Ausgangspunkt für eine neue, umfassende und auf breiter gesellschaftlicher Basis stehende Gedenkkultur sowie geschichtswissenschaftlichen Arbeit in Österreich. Nur wer die Vergangenheit kennt, kann die Gegenwart verstehen und die Zukunft entsprechend gestalten.
+Neben den hellen müssen wir uns als Gesellschaft aber auch mit den dunklen Kapiteln unserer Geschichte auseinandersetzen. 
+Das Gedenkjahr 2020 bietet Gelegenheit für beides. 
+Einerseits feiern wir mit dem 100jährigen Jubiläum der Salzburger Festspiele den beispiellosen Erfolg einer der zentralen Institutionen in der vielfältigen österreichischen Festspiel-, Festival- und Orchesterlandschaft. 
+Gleichzeitig markiert 2020 den 75. Jahrestag der Gründung der Zweiten Republik und damit das Ende des Zweiten Weltkriegs und des Nationalsozialismus. 
+Wir erachten das Gedenkjahr 2020 als Ausgangspunkt für eine neue, umfassende und auf breiter gesellschaftlicher Basis stehende Gedenkkultur sowie geschichtswissenschaftlichen Arbeit in Österreich. 
+Nur wer die Vergangenheit kennt, kann die Gegenwart verstehen und die Zukunft entsprechend gestalten.
 
 Österreichs Kunst und Kultur stärken und in der Welt noch sichtbarer machen
 ---------------------------------------------------------------------------
@@ -33,9 +45,9 @@ Bundeskunst- und -kultureinrichtungen
 - Bundesmuseen.
 
   * Stärkung der Bundesmuseums-Direktorenkonferenz durch gesetzliche Verankerung mit klar definierter Zielsetzung und Geschäftsordnung – mit dem Ziel, die inhaltliche Autonomie der einzelnen Häuser sicherzustellen
-  * Schaffung einer Bundesmuseums-Holding mit klar definierten wirtschaftlichen Aufgaben (z.B. Übertragung des Gebäudemanagements, Ticketing, IT in der Verwaltung, Kollektivvertragsfähigkeit, Stärkung der Digitalisierung, umfassende Barrierefreiheit in Museen und bei Museumswebsites)
+  * Schaffung einer Bundesmuseums-Holding mit klar definierten wirtschaftlichen Aufgaben (z.B. Übertragung des Gebäudemanagements, Ticketing, IT in der Verwaltung, Kollektivvertragsfähigkeit, Stärkung der :index:`Digitalisierung`, umfassende Barrierefreiheit in Museen und bei Museumswebsites)
   * Stärkung der Eigentümervertreterverantwortung durch Ziel- und Leistungsvereinbarungen mit kompetitiven Anteilen und durch transparente, nach inhaltlichen Kriterien zu erfolgende Kuratoriumsbesetzungen (Frauen-Männer-Quote 50:50)
-  * Digitalisat der Bestände vervollständigen
+  * :index:`Digitalisierung` der Bestände vervollständigen
   * Verstärkte Kooperationen zwischen Bundesmuseen, Ländern und Privaten (u.a. ein abgestimmter Kulturkalender und gemeinsame Schwerpunktsetzungen).
 
 - Weiterführung und Ausbau Provenienzforschung
@@ -59,13 +71,14 @@ Kulturelles Erbe sichern und weiterentwickeln
 
 - Österreich als Culture Tech Hub.
 
-  * Österreich als innovative internationale Plattform für die Verschmelzung von Kunst, Kultur, Technologie und der digitalen Welt etablieren
+  * Österreich als innovative internationale Plattform für die Verschmelzung von Kunst, Kultur, Technologie und der :index:`digitalen Welt <digitale Welt>` etablieren
   * Stärkung interdisziplinärer Zusammenarbeit zwischen Kultur-, Techszene und Start-ups sowie Universitäten und Forschungseinrichtungen, um nachhaltig unser kulturelles Erbe von morgen zu schaffen
   * Die Einrichtung eines Film Preservation Centers umsetzen und Anpassung im Bundesarchivgesetz
-  * Urheber- und Verwertungsrecht im digitalen Raum forcieren und schützen
-  * Digitalisierungsoffensive zum Kulturerbe vorantreiben
+  * Urheber- und Verwertungsrecht im :index:`digitalen Raum <digitaler Raum>` forcieren und schützen
+  * :index:`Digitalisierungsoffensive zum Kulturerbe` vorantreiben
 
-- Prüfung der Errichtung eines digitalen Fotound Architekturlabs: Virtuelles interaktives Ausstellungsformat mit Fokus auf nachhaltige Stadt- und Raumplanung (Best Practice)
+- Prüfung der Errichtung eines :index:`digitalen Foto- und Architekturlabs <digitales Foto- und Architekturlab>`: 
+  Virtuelles interaktives Ausstellungsformat mit Fokus auf nachhaltige Stadt- und Raumplanung (Best Practice)
 
 - Baukultur – Umsetzung der Leitlinien
 
@@ -98,7 +111,7 @@ Gestern – heute – morgen: Die richtigen Rahmenbedingungen für Kunst und Kul
 
 - Überprüfung steuerlicher Entlastung im Kunst- und Kulturbereich
 
-- Die musisch-kreative Ausbildung unserer Kinder und Jugendlichen muss in allen Bildungs- und Ausbildungseinrichtungen weiter forciert werden: für Kunstschaffende und ein Publikum von morgen – und kreative Menschen in einer digitalisierten Welt.
+- Die musisch-kreative Ausbildung unserer Kinder und Jugendlichen muss in allen Bildungs- und Ausbildungseinrichtungen weiter forciert werden: für Kunstschaffende und ein Publikum von morgen – und kreative Menschen in einer :index:`digitalisierten Welt <digitalisiere Welt>`.
 
 - Unterstützung der Entwicklung von Musikschulen zu gesamthaften Kunstschulen (Beispiel Tschechien), um den österreichischen Nachwuchs im Bereich Kunst und Kultur sowie die weltweite Vorreiterrolle der österreichischen Kunst- und Musikuniversitäten zu fördern und eine Verschränkung mit dem Regelschulwesen.
 
@@ -135,7 +148,7 @@ Gestern – heute – morgen: Die richtigen Rahmenbedingungen für Kunst und Kul
 
 - Förderwesen verbessern und mehr Transparenz.
 
-  * Förderabwicklung weiter digitalisieren und vereinfachen. Ansuchen und Abwicklung von Förderungen nach dem One-Stop-Shop-Prinzip, Synergien mit Förderabteilungen in den Bundesländern nutzen.
+  * :index:`Förderabwicklung weiter digitalisieren <digitalisierte Förderabwicklung>` und vereinfachen. Ansuchen und Abwicklung von Förderungen nach dem One-Stop-Shop-Prinzip, Synergien mit Förderabteilungen in den Bundesländern nutzen.
   * Transparente Entscheidung und Förderabwicklung.
   * Besetzung von Beiräten und Jurys (Compliance) ausschließlich nach sachlichen und inhaltlichen Gesichtspunkten auf der Grundlage von transparenten Auswahlverfahren. Stärkere Berücksichtigung der Internationalität und Forcierung der Diversität.
 

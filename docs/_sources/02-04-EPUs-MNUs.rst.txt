@@ -4,9 +4,12 @@ EPUs & KMUs
 
 :download:`Kapitel als PDF <../split/02-04-EPUs-MNUs.pdf>` (Teil des :download:`Originals <../original/RP2020.pdf>`).
 
-Mehr als 99% der heimischen Unternehmen sind kleine und mittlere Unternehmen (KMUs), die für den Großteil der Arbeitsplätze in Österreich verantwortlich sind – sie bilden das Rückgrat unserer Wirtschaft und unseres Wohlstands. Die Bundesregierung verbessert die Rahmenbedingungen für KMUs und Ein-Personen-Unternehmen (EPUs), indem steuerliche Vereinfachungen umgesetzt werden, die Verwaltung moderne digitale Services anbietet und Bürokratie abgebaut wird.
+Mehr als 99% der heimischen Unternehmen sind kleine und mittlere Unternehmen (KMUs), die für den Großteil der Arbeitsplätze in Österreich verantwortlich sind – sie bilden das Rückgrat unserer Wirtschaft und unseres Wohlstands. 
+Die Bundesregierung verbessert die Rahmenbedingungen für KMUs und Ein-Personen-Unternehmen (EPUs), indem steuerliche Vereinfachungen umgesetzt werden, die Verwaltung moderne :index:`digitale Services <digitaler Service>` anbietet und Bürokratie abgebaut wird.
 
-Die Bundesregierung bekennt sich dazu, die Rechtssicherheit für EPUs und KMUs zu erhöhen und sie auch spürbar zu entlasten. Weiters soll der heimische Kapitalmarkt ausgebaut werden, um innovative KMUs und Start-ups in ihrem Wachstum zu unterstützen – hierfür braucht es verbesserte Anreize für privates Risikokapital und eine Stärkung des öffentlichen Risikokapitalmarktes. Die Rolle von „Social Entrepreneurs“, die mit innovativen Geschäftsmodellen gesellschaftlichen Herausforderungen neu begegnen, soll dabei besonders berücksichtigt werden.
+Die Bundesregierung bekennt sich dazu, die Rechtssicherheit für EPUs und KMUs zu erhöhen und sie auch spürbar zu entlasten. 
+Weiters soll der heimische Kapitalmarkt ausgebaut werden, um innovative KMUs und Start-ups in ihrem Wachstum zu unterstützen – hierfür braucht es verbesserte Anreize für privates Risikokapital und eine Stärkung des öffentlichen Risikokapitalmarktes. 
+Die Rolle von „Social Entrepreneurs“, die mit innovativen Geschäftsmodellen gesellschaftlichen Herausforderungen neu begegnen, soll dabei besonders berücksichtigt werden.
 
 Rechtssicherheit und Entlastung für Selbstständige und KMUs
 -----------------------------------------------------------
@@ -40,9 +43,10 @@ Rechtssicherheit und Entlastung für Selbstständige und KMUs
 
 - Einführung eines Qualifizierungsschecks für Wiedereinsteigerinnen und – einsteiger sowie Langzeitarbeitslose, damit Unternehmen punktgenau Schulungen und Fortbildungen finanzieren können
 
-- Die Bundesregierung bekennt sich zur Stärkung wirtschaftlicher Kooperationsmodelle in der Rechtsform der Genossenschaft. Wir wollen Genossenschaften als nachhaltige und krisenfeste Unternehmensform in den unterschiedlichsten Wirtschaftsbereichen stärken, um folgende Ziele zu erreichen:
+- Die Bundesregierung bekennt sich zur Stärkung wirtschaftlicher Kooperationsmodelle in der Rechtsform der Genossenschaft. 
+  Wir wollen Genossenschaften als nachhaltige und krisenfeste Unternehmensform in den unterschiedlichsten Wirtschaftsbereichen stärken, um folgende Ziele zu erreichen:
 
-  * Unterstützung der kleinen und mittelständischen Unternehmen in den Regionen im Wettbewerb, z.B. durch gemeinsame Projekte der Digitalisierung
+  * Unterstützung der kleinen und mittelständischen Unternehmen in den Regionen im Wettbewerb, z.B. durch gemeinsame Projekte der :index:`Digitalisierung`
   * Gründung und Etablierung von lokalen und nationalen Initiativen im Bereich des kooperativen Wirtschaftens und Sharing Economy als Alternative zu den Angeboten internationaler Konzerne
   * Ausbau und Absicherung der kommunalen Infrastruktur in den ländlichen Regionen unter Einbeziehung von bürgerlichem Engagement
   * Ausbau der Versorgungssicherheit für die Bürgerinnen und Bürger durch Kooperationen insbesondere im Bereich Gesundheit, Pflege und Energie.

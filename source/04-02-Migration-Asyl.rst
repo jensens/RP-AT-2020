@@ -2,9 +2,12 @@
 Migration und Asyl
 ------------------
 
-Die österreichische Bundesregierung erarbeitet eine umfassende Migrationsstrategie, die auf einer klaren Trennung von Asyl und Arbeitsmigration beruht. In der Asylpolitik bekennt sich Österreich zum völkerrechtlich verankerten Recht auf internationalen Schutz, zur Genfer Flüchtlingskonvention sowie zur Europäischen Konvention für Menschenrechte.
+Die österreichische Bundesregierung erarbeitet eine umfassende Migrationsstrategie, die auf einer klaren Trennung von Asyl und Arbeitsmigration beruht. 
+In der Asylpolitik bekennt sich Österreich zum völkerrechtlich verankerten Recht auf internationalen Schutz, zur Genfer Flüchtlingskonvention sowie zur Europäischen Konvention für Menschenrechte.
 
-Gleichzeitig steht fest, dass wir aus 2015 gelernt haben. Schutz gilt es primär so nahe wie möglich an der Herkunftsregion zu ermöglichen. Dafür braucht es nachhaltige Beiträge zur Reduktion von Flucht- und Migrationsursachen, wie z.B. die Unterstützung in Herkunftsländern, um Lebensperspektiven vor Ort zu schaffen. Außerdem muss ein effizienter und menschenrechtskonformer EUAußengrenzschutz sichergestellt und Schlepperei wirksam bekämpft werden. In Österreich gilt es rasche und qualitativ hochwertige Asylverfahren sicherzustellen.
+Gleichzeitig steht fest, dass wir aus 2015 gelernt haben. 
+Schutz gilt es primär so nahe wie möglich an der Herkunftsregion zu ermöglichen. 
+Dafür braucht es nachhaltige Beiträge zur Reduktion von Flucht- und Migrationsursachen, wie z.B. die Unterstützung in Herkunftsländern, um Lebensperspektiven vor Ort zu schaffen. Außerdem muss ein effizienter und menschenrechtskonformer EUAußengrenzschutz sichergestellt und Schlepperei wirksam bekämpft werden. In Österreich gilt es rasche und qualitativ hochwertige Asylverfahren sicherzustellen.
 
 Migration
 ---------
@@ -35,7 +38,7 @@ Qualifizierte Zuwanderung
   * Prüfung einer Konsolidierung des gesetzlichen Rahmens (aktuell verteilt in Ausländerbeschäftigungsgesetz, Niederlassungs- und Aufenthaltsgesetz)
   * Unternehmen und Antragsteller können sich im Sinne eines One-Stop-Shops bei der Austrian Business Agency (ABA) als Servicestelle unbürokratisch über den aktuellen Stand ihrer RWR-Karte informieren.
 
-- Schaffung einer digitalen Plattform, die die Nachvollziehbarkeit der jeweiligen Schritte sowohl bei der Antragstellerin bzw. beim Antragsteller als auch bei den beteiligten Ministerien, Bezirkshauptmannschaften und Magistraten ermöglicht
+- Schaffung einer :index:`digitalen Plattform <digitale Plattform>`, die die Nachvollziehbarkeit der jeweiligen Schritte sowohl bei der Antragstellerin bzw. beim Antragsteller als auch bei den beteiligten Ministerien, Bezirkshauptmannschaften und Magistraten ermöglicht
 
   * Aufbau eines Monitoring-Systems zu Verfahrensdauern
   * Ziel eines raschen Verfahrensabschlusses
@@ -43,14 +46,14 @@ Qualifizierte Zuwanderung
 - Antragstellung vereinfachen
 
   * Bei Antragsstellung sollen auch englischsprachige Unterlagen und Korrespondenz akzeptiert werden.
-  * Schrittweise Digitalisierung des Verfahrens: In einem ersten Schritt soll die Antragstellung durch Arbeitgeber auch online möglich sein. Ziel ist es, in einem weiteren Schritt auch digitale Verfahren für Antragsteller auf RWR-Karte zu er möglichen unter Wahrung der Feststellung der persönlichen Identität.
+  * Schrittweise :index:`Digitalisierung` des Verfahrens: In einem ersten Schritt soll die Antragstellung durch Arbeitgeber auch online möglich sein. Ziel ist es, in einem weiteren Schritt auch digitale Verfahren für Antragsteller auf RWR-Karte zu er möglichen unter Wahrung der Feststellung der persönlichen Identität.
   * Verkürzung der Wartefristen für Erstgespräche von Antragstellern an österreichischen Vertretungsbehörden. Mit dem Erstgespräch soll auch ggf. das Visum- und RWR-Karten-Verfahren gestartet werden können.
 
 - Verfahren straffen
 
   * Die involvierten Ministerien sollen notwendige Überprüfungen parallel und nicht wie bisher ausschließlich hintereinander durchführen (Visum-Ausstellung, Qualifikationsüberprüfung, Sicherheitsüberprüfung). Ohne Entscheidungsreihenfolge zu ändern, d.h. Visum-Ausstellung erfolgt auch weiterhin nur vorbehaltlich einer positiven Entscheidung bei der Qualifikationsüberprüfung.
   * Evaluierung des Ersatzkräfteverfahrens und branchen- und bedarfsgerechte Beschleunigung der „Vorrangprüfung“ (möglichst innerhalb von 10 Werktagen)
-  * Postwege digitalisieren: diplomatische Post soll neben dem Postweg auch elektronisch über sichere Datenübermittlungswege unter Einhaltung des Datenschutzes verschickt werden.
+  * :index:`Postwege digitalisieren <digitalisierter Postweg>`: diplomatische Post soll neben dem Postweg auch elektronisch über sichere Datenübermittlungswege unter Einhaltung des Datenschutzes verschickt werden.
   * Voraussetzung „ortsübliche Unterkunft“ als Nachweispflicht abschaffen
 
 - Gehaltsgrenzen für benötigte Fachkräfte überarbeiten, um Einstiegsbarrieren zu reduzieren bei Aufrechterhaltung unserer Lohn- und Sozialstandards
@@ -67,9 +70,9 @@ Qualifizierte Zuwanderung
 
 - Verbesserung bei der Visavergabe für Verwandtenbesuche, wissenschaftlichen Austausch, Forschungszwecke und Kulturprojekte
 
-- Familiennachzug – digitale Plattformen zum Deutschkurserwerb werden ausgebaut. Die Kooperation zwischen österreichischen Vertretungsbehörden und Sprachinstituten wird gestärkt, sodass Sprachprüfung und persönliche Vorsprache bei der Botschaft terminlich zusammengeführt werden können.
+- Familiennachzug – :index:`digitale Plattformen <digitale Plattform>` zum Deutschkurserwerb werden ausgebaut. Die Kooperation zwischen österreichischen Vertretungsbehörden und Sprachinstituten wird gestärkt, sodass Sprachprüfung und persönliche Vorsprache bei der Botschaft terminlich zusammengeführt werden können.
 
-- Digitalisierung des Visum-Verfahrens zur Erhöhung der Sicherheitsstandards und Fälschungssicherheit
+- :index:`Digitalisierung des Visum-Verfahrens` zur Erhöhung der Sicherheitsstandards und Fälschungssicherheit
 
 - Prüfung des Abgleichs aller im Visum-Verfahren erhaltenen biometrischen Merkmale mit den Fahndungsdatenbanken und Speicherung der Merkmale für spätere mögliche Fahndungen zumindest bis 5 Jahre nach der Ausreise des Fremden unter Wahrung aller datenschutzrechtlichen Vorgaben
 

@@ -4,11 +4,17 @@ Standort, Entbürokratisierung & Modernisierung
 
 :download:`Kapitel als PDF <../split/02-03-Standort-Entbuerokratisierung-Modernisierung.pdf>` (Teil des :download:`Originals <../original/RP2020.pdf>`).
 
-Unsere Wirtschaft und unsere Arbeitswelt verändern sich – in Österreich, in Europa und auf der ganzen Welt. Österreich ist hier dank seiner starken, diversifizierten und exportorientierten Wirtschaft in einer guten Position. Gleichzeitig müssen wir darauf achten, dass wir aktiv jene Zukunftsindustrien identifizieren, in denen Österreich in den kommenden Jahren und Jahrzenten international Vorreiter sein kann. Der Wirtschaftsstandort Österreich soll international wettbewerbsfähig bleiben, um Wertschöpfung und Arbeitsplätze in Österreich zu halten und auszubauen.
+Unsere Wirtschaft und unsere Arbeitswelt verändern sich – in Österreich, in Europa und auf der ganzen Welt. 
+Österreich ist hier dank seiner starken, diversifizierten und exportorientierten Wirtschaft in einer guten Position. 
+Gleichzeitig müssen wir darauf achten, dass wir aktiv jene Zukunftsindustrien identifizieren, in denen Österreich in den kommenden Jahren und Jahrzenten international Vorreiter sein kann. 
+Der Wirtschaftsstandort Österreich soll international wettbewerbsfähig bleiben, um Wertschöpfung und Arbeitsplätze in Österreich zu halten und auszubauen.
 
-Darüber hinaus können wir in Österreich stolz sein auf unseren funktionierenden Rechtsstaat, mit klaren Gesetzen und Vorschriften, die unser Leben und Wirtschaften regeln. Das ist eine unserer größten Stärken. Über die Jahre wurden dabei allerdings, durch europäische und heimische Gesetzgebung, viele Bereiche des Lebens und Wirtschaftens immer stärker reguliert, wodurch in einzelnen Bereichen mit der Zeit teilweise eine aufwendige und komplexe Bürokratie entstanden ist.
+Darüber hinaus können wir in Österreich stolz sein auf unseren funktionierenden Rechtsstaat, mit klaren Gesetzen und Vorschriften, die unser Leben und Wirtschaften regeln. 
+Das ist eine unserer größten Stärken. 
+Über die Jahre wurden dabei allerdings, durch europäische und heimische Gesetzgebung, viele Bereiche des Lebens und Wirtschaftens immer stärker reguliert, wodurch in einzelnen Bereichen mit der Zeit teilweise eine aufwendige und komplexe Bürokratie entstanden ist.
 
-Die Bundesregierung bekennt sich dazu, gemeinsam mit Wirtschaft, Wissenschaft und Arbeitnehmervertreterinnen bzw. -vertretern eine umfassende Standortstrategie für die Zukunft zu erarbeiten, um bestehende Stärken der heimischen Wirtschaft auszuweiten und vielversprechende Zukunftsindustrien zu identifizieren, um Wertschöpfung und Arbeitsplätze bei uns im Land zu halten und weiter auszubauen. Standortpolitik erschöpft sich nicht in Steuerpolitik, sondern beinhaltet ein breites Set an Maßnahmen, von Rechtssicherheit bis hin zu Lebensqualität.
+Die Bundesregierung bekennt sich dazu, gemeinsam mit Wirtschaft, Wissenschaft und Arbeitnehmervertreterinnen bzw. -vertretern eine umfassende Standortstrategie für die Zukunft zu erarbeiten, um bestehende Stärken der heimischen Wirtschaft auszuweiten und vielversprechende Zukunftsindustrien zu identifizieren, um Wertschöpfung und Arbeitsplätze bei uns im Land zu halten und weiter auszubauen. 
+Standortpolitik erschöpft sich nicht in Steuerpolitik, sondern beinhaltet ein breites Set an Maßnahmen, von Rechtssicherheit bis hin zu Lebensqualität.
 
 Weiters wollen wir die Verwaltung in Österreich modernisieren und effizienter gestalten, um es den Unternehmerinnen bzw. Unternehmern und Arbeitnehmerinnen bzw. Arbeitnehmern künftig so einfach wie möglich zu machen, in Österreich zu wirtschaften und zu arbeiten, ohne dabei unsere hohen Standards zu senken.
 
@@ -17,7 +23,8 @@ Fachkräfteoffensive für Österreichs Unternehmen umsetzen
 
 - Die Bundesregierung bekennt sich zur Sicherstellung des Arbeits- und Fachkräftebedarfs.
 
-- Um die größtmögliche Anzahl der offenen Fachkräftestellen in Österreich besetzen zu können, bedarf es einer Gesamtstrategie, die besonders auf Aus- und Weiterbildung und damit die Qualifikation der Arbeitnehmerinnen und Arbeitnehmer für die Anforderungen des Arbeitsmarktes ausgerichtet ist. In dieser Gesamtstrategie sind auch weitere Faktoren, wie z.B. Gesundheit, Mobilität und Betreuungssituation („persönliche Lebenssituation“), zu berücksichtigen.
+- Um die größtmögliche Anzahl der offenen Fachkräftestellen in Österreich besetzen zu können, bedarf es einer Gesamtstrategie, die besonders auf Aus- und Weiterbildung und damit die Qualifikation der Arbeitnehmerinnen und Arbeitnehmer für die Anforderungen des Arbeitsmarktes ausgerichtet ist. 
+  In dieser Gesamtstrategie sind auch weitere Faktoren, wie z.B. Gesundheit, Mobilität und Betreuungssituation („persönliche Lebenssituation“), zu berücksichtigen.
 
 - Die Bundesregierung bekennt sich dazu, bei allen Maßnahmen zur Arbeits- und Fachkräftesicherung zuerst den österreichischen Arbeitsmarkt, dann die Arbeitsmärkte der EU-Mitgliedstaaten und dann Arbeitsmärkte in Drittstaaten in den Fokus zu nehmen.
 
@@ -26,7 +33,7 @@ Fachkräfteoffensive für Österreichs Unternehmen umsetzen
 - Die Bundesregierung wird die Berufsbildung aufwerten und das Berufsausbildungsgesetz modernisieren.
 
   * Duale Ausbildung weiter attraktivieren, u.a. durch die verpflichtende Evaluierung und Modernisierung aller Lehrberufe alle 5 Jahre
-  * Neue zeitgemäße Ausbildungen durch Einführung neuer Lehrberufe schaffen (z.B. im Bereich Digitales oder Klima/Umweltschutz) und Beschleunigung dieser Einführung
+  * Neue zeitgemäße Ausbildungen durch Einführung neuer Lehrberufe schaffen (z.B. im Bereich :index:`Digitales <digitaler Lehrberuf>` oder Klima/Umweltschutz) und Beschleunigung dieser Einführung
   * Überarbeitung der Möglichkeit von Lehrlingsverbünden („Verbundausbildung“), um eine vermehrte Ausbildung von Lehrlingen auch in kleinen Betrieben – inklusive EPUs – zu ermöglichen.
   * Kooperation von Schulen mit Unternehmen ausbauen (z.B. Unternehmenswoche)
   * Maßnahmen zu Rollenbildern setzen (z.B. Attraktivierung technischer Lehrberufe für Frauen und Pflege-/Care-Berufe für Männer)
@@ -40,7 +47,7 @@ Fachkräfteoffensive für Österreichs Unternehmen umsetzen
 - Ausrichtung der ABA-Unit „Work in Austria“als zentrale Plattform für die Anwerbung von Spezialistinnen und Spezialisten aus dem Ausland
 
   * Aktive Bewerbung des Arbeitsstandortes Österreich in der EU
-  * Strategisch gezielte Anwerbung von spezifischen Berufsgruppen bzw. aus bestimmten Ländern (z.B. Schwerpunkt „Digital Austria“, Softwareentwicklung)
+  * Strategisch gezielte Anwerbung von spezifischen Berufsgruppen bzw. aus bestimmten Ländern (z.B. Schwerpunkt „:index:`Digital Austria`“, Softwareentwicklung)
 
 - Bestehende Jahreskontingente für Saisonniers für Tourismus und Landwirtschaft sollen bedarfsgerecht angepasst werden, unter Einhaltung aller arbeitsrechtlichen und kollektivvertraglichen Bestimmungen.
 
@@ -54,7 +61,7 @@ Standort- und Industriepolitik
   * Erarbeitung einer umfassenden Strategie durch die Politik, Wirtschaft, Wissenschaft und Sozialpartner, um aktiv jene Zukunftsbranchen zu identifizieren, in denen Österreich international Vorreiter sein kann. Ziel ist es, in den kommenden Jahren und Jahrzehnten Wertschöpfung und Arbeitsplätze in Österreich zu halten und weiter auszubauen sowie einen Beitrag zu :index:`Klima` und Umweltschutz zu leisten.
   * Enge Abstimmung mit anderen politischen Zielsetzungen, wie etwa der FTI-Strategie, der :index:`Klima- und Energiepolitik`, der arbeitsmarktpolitischen Zielsetzung und der Bildungspolitik
   * Auf Stärken bauen: Bestehende Stärken wie z.B. die Mobilitätsindustrie, erneuerbare Energien und Umwelttechnik, Biotechnologie, Mikroelektronik, Landwirtschaft, Tourismus und andere müssen weiter ausgebaut, weiterentwickelt und durch gemeinsame Bemühungen der Wirtschaft und der Politik international beworben werden.
-  * Neue Sektoren erschließen: Entstehende Stärken, in denen Österreich relevante Wettbewerbsvorteile aufweist, müssen vor dem Hintergrund der Technologieneutralität weiterentwickelt werden, Österreichs internationales Profil darin gestärkt und durch österreichische Produkte weltweit ein Beitrag zur CO2-Reduktion geleistet werden – wie z.B. digitale Geschäftsmodelle, forschungsintensive Industrien, Modelle der Kreislaufwirtschaft, die E-Mobilität, die Nutzung von grünem Wasserstoff in Verkehr und Industrie, Gesundheitswirtschaft und andere Bereiche, die auf Österreichs Verbindung von Grundlagenforschung, angewandter Forschung und industriellem Know-how bauen.
+  * Neue Sektoren erschließen: Entstehende Stärken, in denen Österreich relevante Wettbewerbsvorteile aufweist, müssen vor dem Hintergrund der Technologieneutralität weiterentwickelt werden, Österreichs internationales Profil darin gestärkt und durch österreichische Produkte weltweit ein Beitrag zur CO2-Reduktion geleistet werden – wie z.B. :index:`digitale Geschäftsmodelle <digitales Geschäftsmodell>`, forschungsintensive Industrien, Modelle der Kreislaufwirtschaft, die E-Mobilität, die Nutzung von :index:`grünem Wasserstoff <Wasserstoff, grüner>` in Verkehr und Industrie, Gesundheitswirtschaft und andere Bereiche, die auf Österreichs Verbindung von Grundlagenforschung, angewandter Forschung und industriellem Know-how bauen.
   * Im Rahmen der Umsetzung dieser Strategie bekennt sich die Bundesregierung dazu, Investitionen anzuziehen. In einem Schulterschluss aus Politik, Wirtschaft und Arbeitnehmervertreterinnen und -vertretern, wollen wir uns in Zukunft koordiniert dafür einsetzen, internationale Unternehmensansiedlungen und Investitionsentscheidungen für den Standort Österreich zu gewinnen.
   * Stärkere Ausrichtung nationaler Maßnahmen am „Green Deal“ der EU-Kommission
 
@@ -76,8 +83,8 @@ Standort- und Industriepolitik
 
 - Neue Gesellschaftsform schaffen: Aufbauend auf internationalen Beispielen soll eine neue Kapitalgesellschaftsform geschaffen werden, die besonders für innovative Start-ups und Gründerinnen bzw. Gründer in ihrer Frühphase eine international wettbewerbsfähige Option bietet.
 
-  * Unbürokratische Gründung (Stammkapital-Ansparmodelle, digitale Behördenwege, Englisch als Amtssprache)
-  * Flexible Anteilsvergabe an mögliche Investorinnen und Investoren sowie Mitarbeiterinnen und Mitarbeiter (mit minimalen, digitalen Behördenwegen)
+  * Unbürokratische Gründung (Stammkapital-Ansparmodelle, :index:`digitale Behördenwege <digitaler Behördenweg>`, Englisch als Amtssprache)
+  * Flexible Anteilsvergabe an mögliche Investorinnen und Investoren sowie Mitarbeiterinnen und Mitarbeiter (mit minimalen, :index:`digitalen Behördenwegen <digitaler Behördenweg>`)
   * Angepasst an österreichische Standards (z.B. Transparenz aller Gesellschafterinnen und Gesellschafter)
   * Einsatz auf europäischer Ebene, dass eine einheitliche, zeitgemäße Gesellschaftsform für innovative Start-ups und KMUs EU-weit umgesetzt wird („EU Limited“)
 
@@ -134,8 +141,8 @@ Entbürokratisierung und Modernisierung der Verwaltung
 - Verfahrensbeschleunigung unter Wahrung hoher Qualität
 
   * Prüfung einer Reform des Verfahrensrechtsim AVG (Allgemeines Verwaltungsverfahrensgesetz; wurde seit 1998 nicht mehr weiterentwickelt)
-  * Digitalen Bescheid ermöglichen (Kundmachungsvorschriften)
-  * Fristen bei digitaler Einbringung auf 24 Uhr des entsprechenden Tages ausweiten
+  * :index:`Digitalen Bescheid <digitaler Bescheid>` ermöglichen (Kundmachungsvorschriften)
+  * Fristen bei :index:`digitaler Einbringung <digitale Einbringung>` auf 24 Uhr des entsprechenden Tages ausweiten
   * Flexibilisierung bei Sachverständigen, um bei mangelnder Verfügbarkeit zu lange Wartefristen künftig zu vermeiden
 
 - Veröffentlichungspflicht in Papierform in der Wiener Zeitung abschaffen
@@ -155,4 +162,4 @@ Entbürokratisierung und Modernisierung der Verwaltung
 
 - Normenwesen reformieren, um hohe österreichische Standards beizubehalten (z.B. Konsumentenschutz), aber gleichzeitig unnötige Mehrausgaben für Unternehmen vermeiden
 
-- Dienstleistungsscheck entbürokratisieren und digitalisieren
+- Dienstleistungsscheck entbürokratisieren und :index:`digitalisieren <digitaler Dienstleistungsscheck>`

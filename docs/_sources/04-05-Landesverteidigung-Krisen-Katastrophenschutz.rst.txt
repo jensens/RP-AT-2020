@@ -85,7 +85,7 @@ Grundwehrdienst attraktiv machen
 
 - Weiterentwicklung des Grundwehrdienstes als Zeit der Weiterbildung und Integration in die Gesellschaft
 
-  * Verankerung der digitalen Mündigkeit und des Erkennens von Fake-News als Schwerpunkte im Rahmen des Grundwehrdienstes
+  * Verankerung der :index:`digitalen Mündigkeit <digitale Mündigkeit>` und des Erkennens von Fake-News als Schwerpunkte im Rahmen des Grundwehrdienstes
   * Förderung der Integration durch bedarfsgerechte Deutschkurse und Staatsbürgerkunde
   * Ausbau der wehrpolitischen Bildung (Werte, Verantwortung gegenüber Totalitarismus, Rassismus)
 
@@ -115,9 +115,9 @@ Neue Aufgaben mit neuer Struktur
 
 - Verstärkter Einsatz des ÖBH im Rahmen von Assistenzeinsätzen nach geltender Rechtslage zur Aufrechterhaltung der öffentlichen Sicherheit
 
-- Anpassung des ÖBH an aktuelle Bedrohungslagen, wie z.B. :index:`Cyber` Defense und hybride Bedrohungen
+- Anpassung des ÖBH an aktuelle Bedrohungslagen, wie z.B. :index:`Cyber Defense` und hybride Bedrohungen
 
-  * Prioritärer Ausbau der :index:`Cyber- und Drohnenabwehrfähigkeiten` und Ausbau einer :index:`Cyber-Truppe` unter besonderer Berücksichtigung der Ausbildungserfordernisse für :index:`Cyber-Defense-Personal`
+  * Prioritärer Ausbau der :index:`Cyber <Cyberabwehrfähigkeit>`- und Drohnenabwehrfähigkeiten und Ausbau einer :index:`Cyber-Truppe` unter besonderer Berücksichtigung der Ausbildungserfordernisse für :index:`Cyber-Defense-Personal`
   * Verstärkte Zusammenarbeit mit Bildungsund Forschungseinrichtungen, um zusätzliches Know-how aufzubauen, und Rekrutierung von IT-Fachkräften im Rahmen der Miliz
 
 - Mitwirkung am nationalen :index:`Cyberlagezentrum` und am gesamtstaatlichen :index:`Cybersicherheitszentrum`
@@ -171,7 +171,7 @@ Krisen- und Katastrophenschutz
 - Aus diesem Grund ist es notwendig, verschiedene Szenarien durchzuspielen und zu üben.
 
   * Durchführung einer jährlichen Katastrophenschutzübung unter Berücksichtigung verschiedenster Szenarien und Einbeziehung von zivilgesellschaftlichen Organisationen, Institutionen und Ministerien
-  * Einführung eines digitalen Zivilschutz-Probealarms: Miteinbeziehung der Zivilbevölkerung per Social Media, SMS, WhatsApp usw.
+  * Einführung eines :index:`digitalen Zivilschutz-Probealarms <digitaler Zivilschutz-Probealarm>`: Miteinbeziehung der Zivilbevölkerung per Social Media, SMS, WhatsApp usw.
   * Einsatz für die Entwicklung eines europaweiten Katastrophenplans, um ein schnelles Eingreifen zu ermöglichen – siehe Waldbrände im Sommer 2018 in Schweden
   * Prüfung neuer Vereinbarungen mit den Bundesländern zum Zweck des Katastrophenschutzes (Stützpunkte, Hubschrauber etc.)
 

@@ -4,19 +4,38 @@ Pflege
 
 :download:`Kapitel als PDF <../split/05-02-Pflege.pdf>` (Teil des :download:`Originals <../original/RP2020.pdf>`).
 
-Pflegebedürftigkeit ist eines der großen unberechenbaren Risiken des Lebens wie Unfall, Krankheit oder Arbeitslosigkeit. Mehr als 460.000 Menschen beziehen in Österreich Pflegegeld und mehr als 950.000 Menschen pflegen ihre Angehörigen. Die demographischen Entwicklungen lassen diese Zahlen in den nächsten Jahren deutlich ansteigen. Die Bündelung und der Ausbau der bestehenden Finanzierungsströme (Pflegeversicherung) seitens des Bundes werden dazu beitragen, diese Herausforderungen zu meistern.
+Pflegebedürftigkeit ist eines der großen unberechenbaren Risiken des Lebens wie Unfall, Krankheit oder Arbeitslosigkeit. 
+Mehr als 460.000 Menschen beziehen in Österreich Pflegegeld und mehr als 950.000 Menschen pflegen ihre Angehörigen. 
+Die demographischen Entwicklungen lassen diese Zahlen in den nächsten Jahren deutlich ansteigen. 
+Die Bündelung und der Ausbau der bestehenden Finanzierungsströme (Pflegeversicherung) seitens des Bundes werden dazu beitragen, diese Herausforderungen zu meistern.
 
-Qualitätsvolle Pflege ermöglicht ein Leben in Würde. Daher soll jeder Mensch, der sie benötigt, die bestmögliche Pflege erhalten. Die neue Bundesregierung erkennt die großartige Arbeit, die bereits jetzt in diesem Bereich, sowohl von engagierten Pflegerinnen und Pflegern als auch im Rahmen der Familienarbeit, in der Regel von Frauen, mit großer Sorgfalt und Zuwendung geleistet wird, an. Der Staat Österreich darf die Verantwortung dafür aber nicht allein auf die Schultern der Angehörigen laden, sondern hat seine wichtige Aufgabe wahrnehmen. Das bestmögliche Zusammenspiel zwischen der professionellen Pflege, den Unterstützungsstrukturen und der Betreuung zu Hause gilt es, politisch auszuloten.
+Qualitätsvolle Pflege ermöglicht ein Leben in Würde. Daher soll jeder Mensch, der sie benötigt, die bestmögliche Pflege erhalten. 
+Die neue Bundesregierung erkennt die großartige Arbeit, die bereits jetzt in diesem Bereich, sowohl von engagierten Pflegerinnen und Pflegern als auch im Rahmen der Familienarbeit, in der Regel von Frauen, mit großer Sorgfalt und Zuwendung geleistet wird, an. 
+Der Staat Österreich darf die Verantwortung dafür aber nicht allein auf die Schultern der Angehörigen laden, sondern hat seine wichtige Aufgabe wahrnehmen. 
+Das bestmögliche Zusammenspiel zwischen der professionellen Pflege, den Unterstützungsstrukturen und der Betreuung zu Hause gilt es, politisch auszuloten.
 
-Es ist deshalb unsere Aufgabe, pflegebedürftigen älteren Menschen Hilfe zu leisten, die wegen der Schwere der Pflegebedürftigkeit auf solidarische Unterstützung angewiesen sind. Es ist daher notwendig, in Abstimmung mit den zuständigen Bundesländern eine grundlegende Reform der Pflege sicherzustellen. Wir werden einen Fokus auf die bestmögliche Unterstützung von betreuungs- und pflegebedürftigen Menschen sowie ihrer An- und Zugehörigen und Pflegenden legen. Dazu zählt neben mehr Wertschätzung auch die Möglichkeit, durch präventive Maßnahmen persönliche, gesundheitliche oder gar finanzielle Folgen im Alter abzufedern. Gerade sog. „young carers“ (pflegende Kinder und Jugendliche) sind verstärkt präventiv zu entlasten.
+Es ist deshalb unsere Aufgabe, pflegebedürftigen älteren Menschen Hilfe zu leisten, die wegen der Schwere der Pflegebedürftigkeit auf solidarische Unterstützung angewiesen sind. 
+Es ist daher notwendig, in Abstimmung mit den zuständigen Bundesländern eine grundlegende Reform der Pflege sicherzustellen. 
+Wir werden einen Fokus auf die bestmögliche Unterstützung von betreuungs- und pflegebedürftigen Menschen sowie ihrer An- und Zugehörigen und Pflegenden legen. Dazu zählt neben mehr Wertschätzung auch die Möglichkeit, durch präventive Maßnahmen persönliche, gesundheitliche oder gar finanzielle Folgen im Alter abzufedern. 
+Gerade sog. „young carers“ (pflegende Kinder und Jugendliche) sind verstärkt präventiv zu entlasten.
 
-Um Menschen zu ermöglichen, weiterhin in ihrem Zuhause betreut zu werden, wird zur Entlastung der pflegenden Angehörigen die mobile Pflege und Betreuung ausgebaut und weiterentwickelt. Ziel ist es, Entlastungsangebote, wie zum Beispiel eine Ersatzpflege und die Möglichkeit, einmal pro Monat einen pflegefreien Tag zu bekommen, zu schaffen. Die Pflege eines bzw. einer Angehörigen soll möglich und mit dem Beruf vereinbar sein, wenn sie gebraucht wird. Durch ein ausgeweitetes Angebot an Beratung und Information sollen Pflegende zusätzlich in ihrer Arbeit unterstützt werden.
+Um Menschen zu ermöglichen, weiterhin in ihrem Zuhause betreut zu werden, wird zur Entlastung der pflegenden Angehörigen die mobile Pflege und Betreuung ausgebaut und weiterentwickelt. 
+Ziel ist es, Entlastungsangebote, wie zum Beispiel eine Ersatzpflege und die Möglichkeit, einmal pro Monat einen pflegefreien Tag zu bekommen, zu schaffen. 
+Die Pflege eines bzw. einer Angehörigen soll möglich und mit dem Beruf vereinbar sein, wenn sie gebraucht wird. 
+Durch ein ausgeweitetes Angebot an Beratung und Information sollen Pflegende zusätzlich in ihrer Arbeit unterstützt werden.
 
-Ziel der neuen Bundesregierung ist es, qualitätsvolle Pflege auch in Zukunft zu sichern. Eine Personaloffensive sowie eine Erweiterung und Flexibilisierung des Ausbildungsangebots werden dem Pflegekräftemangel entgegengesetzt. Um die vorhandenen finanziellen, personellen und fachlichen Ressourcen und Mittel bestmöglich einzusetzen und die zukünftigen Versorgungsstrukturen zu planen, wird es eine neue, engere und strukturierte Zusammenarbeit zwischen allen Akteurinnen und Akteuren geben.
+Ziel der neuen Bundesregierung ist es, qualitätsvolle Pflege auch in Zukunft zu sichern. 
+Eine Personaloffensive sowie eine Erweiterung und Flexibilisierung des Ausbildungsangebots werden dem Pflegekräftemangel entgegengesetzt. 
+Um die vorhandenen finanziellen, personellen und fachlichen Ressourcen und Mittel bestmöglich einzusetzen und die zukünftigen Versorgungsstrukturen zu planen, wird es eine neue, engere und strukturierte Zusammenarbeit zwischen allen Akteurinnen und Akteuren geben.
 
-Eine besondere Form der Pflege stellt die Palliativ- und Hospizpflege dar. Diese versucht, Menschen mit unheilbaren Krankheiten ein Lebensende in Würde zu ermöglichen. Diese Form der Pflege hat in Österreich oftmals durch das Engagement von vielen Freiwilligen funktioniert. Gerade in dieser schwierigen Zeit braucht es aber eine unkomplizierte und vor allem sichere Stütze für pflegebedürftige Menschen und ihre Angehörigen. In dieser Legislaturperiode wird die Finanzierung der Palliativpflege und des Hospizes auf sichere Beine gestellt.
+Eine besondere Form der Pflege stellt die Palliativ- und Hospizpflege dar. 
+Diese versucht, Menschen mit unheilbaren Krankheiten ein Lebensende in Würde zu ermöglichen. 
+Diese Form der Pflege hat in Österreich oftmals durch das Engagement von vielen Freiwilligen funktioniert. 
+Gerade in dieser schwierigen Zeit braucht es aber eine unkomplizierte und vor allem sichere Stütze für pflegebedürftige Menschen und ihre Angehörigen. 
+In dieser Legislaturperiode wird die Finanzierung der Palliativpflege und des Hospizes auf sichere Beine gestellt.
 
-Weiters ist es wichtig, den Gesundheits- sowie Pflegebereich stets gesamthaft zu betrachten. Ziel muss es sein, durch Prävention und Rehabilitation den Anteil an gesunden Jahren zu erhöhen und somit Pflegebedürftigkeit solange wie möglich zu vermeiden.
+Weiters ist es wichtig, den Gesundheits- sowie Pflegebereich stets gesamthaft zu betrachten. 
+Ziel muss es sein, durch Prävention und Rehabilitation den Anteil an gesunden Jahren zu erhöhen und somit Pflegebedürftigkeit solange wie möglich zu vermeiden.
 
 Grundprinzipien
 ---------------
@@ -137,8 +156,8 @@ Personal und Ausbildung
 
   * Weiterentwicklung des Qualitätszertifikats für Agenturen, Mindesttarif, erhöhter Anreiz für Anstellungen und Arbeitsbedingungen des Betreuungspersonals; Qualitätssicherung durch Verschränkung mit regionalen, ambulanten Pflegestrukturen
 
-Chancen der Digitalisierung
----------------------------
+Chancen der :index:`Digitalisierung`
+------------------------------------
 
 - Arbeitsalltagserleichterung
 

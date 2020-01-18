@@ -31,7 +31,7 @@ Aufgaben und Zukunft der Europäischen Union
 - Daher braucht es einen konsequenten Einsatz auf europäischer Ebene für das Grundprinzip der Subsidiarität im Sinne einer effizienten Aufgabenverteilung zwischen Mitgliedstaaten und der Europäischen Union.
 
   * Ziel ist ein Europa der Demokratie, der Menschenrechte und des Rechtsstaates, das in Fragen mit klarem europäischem Mehrwert wie :index:`Klimaschutz`, Schutz der Außengrenzen, Wettbewerbsfähigkeit, dem sozialen Zusammenhalt oder Welthandel stark ist, und gemeinsam handelt und gleichzeitig in anderen Fragen den Mitgliedstaaten Freiheit lässt, diese auf nationaler oder regionaler Ebene zu lösen.
-  * Die EU soll sich daher in den kommenden 5 Jahren verstärkt großen Leuchtturmprojekten widmen und innovative Antworten auf die großen Herausforderungen unserer Zeit geben (z.B. bei Migration, :index:`Klimaschutz`, Wirtschafts- und Beschäftigungsstandort, Digitalisierung, Forschung und Entwicklung, Binnenmarkt und sozialer Zusammenhalt).
+  * Die EU soll sich daher in den kommenden 5 Jahren verstärkt großen Leuchtturmprojekten widmen und innovative Antworten auf die großen Herausforderungen unserer Zeit geben (z.B. bei Migration, :index:`Klimaschutz`, Wirtschafts- und Beschäftigungsstandort, :index:`Digitalisierung`, Forschung und Entwicklung, Binnenmarkt und sozialer Zusammenhalt).
 
 - Europa ist eine Verantwortungs- und Solidargemeinschaft. Wer sich nicht an die gemeinsamen Regeln hält, muss mit Sanktionen rechnen.
 
@@ -63,11 +63,11 @@ Aufgaben und Zukunft der Europäischen Union
   * Einsatz in Österreich und auf EU-Ebene, dass Europa beim 5G-Ausbau technologische Unabhängigkeit erreicht (Vergaberecht und Forschungsförderung auf EU-Ebene, in Zusammenarbeit mit privaten Partnern)
   * Stärkeres Engagement Österreichs im Rahmen der Important Projects of Common European Interest (IPCEI), um die Teilnahme an all jenen Programmen sicherzustellen, die Österreichs Wirtschafts- und Umweltinteressen entsprechen
 
-- Entwicklung einer neuen EU-Digitalstrategie mit gemeinsamen Schwerpunkten, in denen Europa künftig den globalen Fortschritt anführen und von anderen Akteurinnen und Akteuren unabhängig werden soll, z.B. künstliche Intelligenz, Internet der Dinge, :index:`Cybersicherheit`
+- Entwicklung einer neuen :index:`EU-Digitalstrategie <Digitalstrategie, EU>` mit gemeinsamen Schwerpunkten, in denen Europa künftig den globalen Fortschritt anführen und von anderen Akteurinnen und Akteuren unabhängig werden soll, z.B. künstliche Intelligenz, Internet der Dinge, :index:`Cybersicherheit`
 
-- Vollendung des digitalen Binnenmarkts: Im 21. Jahrhundert darf es keine Rolle mehr spielen, ob Käuferinnen bzw. Käufer und Verkäuferinnen bzw. Verkäufer in verschiedenen EU-Ländern sitzen.
+- Vollendung des :index:`digitalen Binnenmarkts <digitaler Binnernmarkt>`: Im 21. Jahrhundert darf es keine Rolle mehr spielen, ob Käuferinnen bzw. Käufer und Verkäuferinnen bzw. Verkäufer in verschiedenen EU-Ländern sitzen.
 
-- Fortsetzung der Bemühungen zur Einführung einer Digitalsteuer für internationale Großkonzerne auf internationaler oder europäischer Ebene im Sinne der Steuergerechtigkeit
+- Fortsetzung der Bemühungen zur Einführung einer :index:`Digitalsteuer` für internationale Großkonzerne auf internationaler oder europäischer Ebene im Sinne der Steuergerechtigkeit
 
 - Stärkung des Wirtschafts- und Beschäftigungsstandorts Europa im globalen Wettbewerb
 
@@ -220,7 +220,7 @@ Inhaltliche Schwerpunkte österreichischer Außenpolitik
 
 - Auslandskulturpolitik muss auch weiterhin integraler Bestandteil einer österreichischen außenpolitischen Interessenpolitik sein und dient auch als Dialogplattform in komplexen politischen Zusammenhängen
 
-  * Erstellung eines neuen Auslandskulturkon-zeptes, das neben den bewährten Stärken auch die Zukunftsthemen Digitalisierung, :index:`Klimaschutz` und Nachhaltigkeit und eine bessere Koordinierung beinhaltet
+  * Erstellung eines neuen Auslandskulturkon-zeptes, das neben den bewährten Stärken auch die Zukunftsthemen :index:`Digitalisierung`, :index:`Klimaschutz` und Nachhaltigkeit und eine bessere Koordinierung beinhaltet
   * Österreichs vielfältige kulturelle Identität muss integraler Bestandteil der Auslandskulturpolitik sein
 
 - Klares Bekenntnis zum und Einsatz für das österreichische UNESCO-Weltkulturerbe
@@ -276,7 +276,7 @@ Multilaterales Engagement Österreichs
 
 - Professionelle konsularische Serviceleistungen für alle Österreicherinnen und Österreicher im Ausland sollen weiterhin nachhaltig gewährleistet werden können, insbesondere auch für Betroffene des Brexit (abhängig von der Form des Brexit).
 
-- Umsetzung umfassender Digitalisierungsmaßnahmen zur Erleichterung von Antragstellungen an den Vertretungsbehörden
+- Umsetzung umfassender :index:`Digitalisierungsmaßnahmen <Digitalisierungsmaßnahme>` zur Erleichterung von Antragstellungen an den Vertretungsbehörden
 
 - Bessere Ausstattung von österreichischen Vertretungsbehörden in besonders gefährdeten Krisenregionen
 

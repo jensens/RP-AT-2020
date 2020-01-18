@@ -4,11 +4,19 @@ Wissenschaft und Forschung
 
 :download:`Kapitel als PDF <../split/06-02-Wissenschaft-Forschung.pdf>` (Teil des :download:`Originals <../original/RP2020.pdf>`).
 
-Wissenschaft und Forschung sind Basis für gesellschaftlichen Fortschritt und Innovation. Die Bundesregierung bekennt sich dazu, den heimischen Hochschulen, ihren Mitarbeiterinnen und Mitarbeitern sowie den Studierenden bestmögliche Finanzierungs- und Planungs sicherheit in den kommenden Jahren zu gewährleisten, um Wissenschafts- und Lehrfreiheit zu garantieren und weiterzuentwickeln. Damit wollen wir auch in Zukunft Österreich zu einem attraktiven Standort für Lehrende und Studierende machen.
+Wissenschaft und Forschung sind Basis für gesellschaftlichen Fortschritt und Innovation. Die Bundesregierung bekennt sich dazu, den heimischen Hochschulen, ihren Mitarbeiterinnen und Mitarbeitern sowie den Studierenden bestmögliche Finanzierungs- und Planungs sicherheit in den kommenden Jahren zu gewährleisten, um Wissenschafts- und Lehrfreiheit zu garantieren und weiterzuentwickeln. 
+Damit wollen wir auch in Zukunft Österreich zu einem attraktiven Standort für Lehrende und Studierende machen.
 
-Die begonnene Veränderung in der Hochschulfinanzierung ist ein wichtiger Schritt, der die Autonomie der Universitäten stärkt, Studienbedingungen verbessert, Internationalität gewährleistet und den wissenschaftlichen und künstlerischen Nachwuchs fördert. Dabei ist es ein besonderes Anliegen, das Studienrecht lebensnah und leistungsbezogen zu gestalten. Wir werden die Durchlässigkeit im Hochschulsektor stärken und auf eine freie, bedarfsgerechte Studienwahl achten, die nicht durch soziale Rahmenbedingungen eingeschränkt wird. Dies bedeutet auch, dass Maßnahmen ergriffen werden, die eine gezieltere Studienwahl sicherstellen und die Drop-out-Rate substanziell verringern. Darüber hinaus muss der Fachhochschulsektor bedarfsorientiert ausgebaut werden.
+Die begonnene Veränderung in der Hochschulfinanzierung ist ein wichtiger Schritt, der die Autonomie der Universitäten stärkt, Studienbedingungen verbessert, Internationalität gewährleistet und den wissenschaftlichen und künstlerischen Nachwuchs fördert. 
+Dabei ist es ein besonderes Anliegen, das Studienrecht lebensnah und leistungsbezogen zu gestalten. 
+Wir werden die Durchlässigkeit im Hochschulsektor stärken und auf eine freie, bedarfsgerechte Studienwahl achten, die nicht durch soziale Rahmenbedingungen eingeschränkt wird. Dies bedeutet auch, dass Maßnahmen ergriffen werden, die eine gezieltere Studienwahl sicherstellen und die Drop-out-Rate substanziell verringern. 
+Darüber hinaus muss der Fachhochschulsektor bedarfsorientiert ausgebaut werden.
 
-Ein besonderes Anliegen ist uns die Stärkung sowohl der Grundlagenforschung wie der angewandten Forschung, auch in Form einer Technologie- und :index:`Klimaoffensive`. Eine umfassende FTI-Strategie und ein Forschungsfinanzierungsgesetz sollen längerfristige Orientierung und Perspektiven für die Förderinstitutionen ermöglichen und gute Rahmenbedingungen für Spitzenforschung gewährleisten. Ein besonderes Anliegen ist der Wissenstransfer. Zum einen sollen wissenschaftliche Erkenntnisse möglichst vielen Bürgerinnen und Bürgern zugänglich gemacht werden. Zum anderen wollen wir die Zusammenarbeit von Wissenschaft und Wirtschaft stärken, damit exzellente Forschungsarbeit an den Hochschulen künftig noch direkter in wirtschaftliche Innovationen, lokale Wertschöpfung und sichere Arbeitsplätze mündet.
+Ein besonderes Anliegen ist uns die Stärkung sowohl der Grundlagenforschung wie der angewandten Forschung, auch in Form einer Technologie- und :index:`Klimaoffensive`. 
+Eine umfassende FTI-Strategie und ein Forschungsfinanzierungsgesetz sollen längerfristige Orientierung und Perspektiven für die Förderinstitutionen ermöglichen und gute Rahmenbedingungen für Spitzenforschung gewährleisten. 
+Ein besonderes Anliegen ist der Wissenstransfer. 
+Zum einen sollen wissenschaftliche Erkenntnisse möglichst vielen Bürgerinnen und Bürgern zugänglich gemacht werden. 
+Zum anderen wollen wir die Zusammenarbeit von Wissenschaft und Wirtschaft stärken, damit exzellente Forschungsarbeit an den Hochschulen künftig noch direkter in wirtschaftliche Innovationen, lokale Wertschöpfung und sichere Arbeitsplätze mündet.
 
 Wissenschaft: Verantwortungsvoll die Grundlage für die Gesellschaft der Zukunft schaffen
 -----------------------------------------------------------------------------------------
@@ -29,7 +37,7 @@ Universitätsfinanzierung, Governance und Karriereentwicklung für den wissensch
 
 - Weitere Modernisierung der Universitäts- und Hochschulorganisation: professionelles Management auf allen Ebenen, schnellere Entscheidungen, Schaffung von Exzellenz-Clustern (nicht jedes Fach muss an jedem Standort unterrichtet werden) und Überdenken des Verhältnisses Universitätsrat, Rektorat, Senat in den Entscheidungsstrukturen
 
-- Weiterentwicklung einer effizienten, datenbasierten und digitalisierten Hochschulverwaltung – innerhalb der Hochschulen und im Hochschulsystem
+- Weiterentwicklung einer effizienten, datenbasierten und :index:`digitalisierten Hochschulverwaltung <digitalisierte Hochschulverwaltung>` – innerhalb der Hochschulen und im Hochschulsystem
 
 - Der Universitätsbericht wird auf seine Zweckmäßigkeit überprüft. Auf Basis dessen sollen Weiterentwicklungen des Berichtswesens im Hochschulbereich erfolgen.
 
@@ -52,7 +60,7 @@ Studienbedingungen und Studienwahl
   * Stärkere Anerkennung von studienspezifischen berufspraktischen Qualifikationen im Rahmen der Curricula (non-formale Bildung)
   * Steigerung der Durchlässigkeit zwischen und innerhalb der Hochschulsektoren sowie Optimierung der Anerkennung (auch von Vorleistungen aus nichtakademischen Bildungswegen) – „kein Abschluss ohne Anschluss“
   * Weiterentwicklung des Nostrifikationsverfahrens für zugewanderte Fachkräfte: zusätzlich zum Bescheidverfahren vermehrt auch Kompetenzen bewerten („Bewertungsverfahren“)
-  * Erhöhter Einsatz von innovativen Lehr- und Lernmethoden, die sich gesamthaft und nachhaltig an neuen Technologien und digitalen Möglichkeiten orientieren
+  * Erhöhter Einsatz von innovativen Lehr- und Lernmethoden, die sich gesamthaft und nachhaltig an neuen Technologien und :index:`digitalen Möglichkeiten <digitale Möglichkeiten>` orientieren
 
 - Fortführung der MINT-Offensive (unter Überprüfung des Fächerbündels) an Universitäten und Fachhochschulen bei gleichzeitiger Berücksichtigung anstehender Herausforderungen (z.B. :index:`Klimaveränderung`, alternde Bevölkerung)
 
@@ -92,7 +100,7 @@ Qualitätssicherung und Profilbildung im Hochschulsektor
   * Der Fachhochschulsektor soll gezielt weiterentwickelt werden. Um eine gute Datenlage zu erhalten, ist ein umfassendes Erhebungs- und Analysepaket erforderlich, das jedenfalls die Personal-, Kosten- und Organisationsstruktur, Studienangebote und die Aufnahmeverfahren umfasst.
   * Schaffung eines Umfeldes zur Weiterentwicklung der angewandten Forschung durch transparenten Wettbewerb für FH-Träger
   * Erhöhung der Planungssicherheit im FH-Sektor – durch gesetzliche Verankerung des Entwicklungs- und Finanzierungplans und zeitliche Angleichung an die Periode der Leistungsvereinbarung
-  * Anhebung der Fördersätze – für die notwendigen Investitionen in Digitalisierung, Internationalisierung und Innovation
+  * Anhebung der Fördersätze – für die notwendigen Investitionen in :index:`Digitalisierung`, Internationalisierung und Innovation
   * Förderung des kooperativen Doktorats zwischen Universitäten und Fachhochschulen
   * Bedarfsgerechter Ausbau des Fachhochschulsektors – mit mehr Studienplätzen zur nachhaltigen Sicherung und Ausbau des Wirtschafts- und Technologiestandortes (z.B. insbesondere Gesundheits- und Sozialberufe, MINT)
   * Weiterentwicklung der Akkreditierungsvoraussetzungen für Fachhochschulen: Bedarfsorientierung des Angebots, hohe Qualitätsstandards und daraus resultierende Anerkennung für gebotene Qualität
@@ -200,7 +208,7 @@ Forschungspolitik für zukünftige Herausforderungen gestalten und FTI-Strategie
   * Etablierung einer gesamthaft abgestimmten Strategie zur besseren Sichtbarmachung der österreichischen Hochschulen
   * Stärkung und Ausbau der Outreach-Aktivitäten („Wissenschaftskommunikation“) zur stärkeren Wahrnehmung des Nutzens von Forschung und Entwicklung in der Bevölkerung (Aufnahme in die Leistungsvereinbarung)
 
-- Österreich, Europa und darüber hinaus denken: Die europäischen Forschungs- und Innovationsprogramme (Horizon Europe, IPCEI, European Defense Fund, Digital Europe, Transition Fund) gewinnen zunehmend an Bedeutung für Österreich. Damit sich Österreich in Zukunft erfolgreich beteiligt, braucht es ein gemeinsames Vorgehen der Ressorts, da oftmals mehrere Zuständigkeiten betroffen sind.
+- Österreich, Europa und darüber hinaus denken: Die europäischen Forschungs- und Innovationsprogramme (Horizon Europe, IPCEI, European Defense Fund, :index:`Digital Europe`, Transition Fund) gewinnen zunehmend an Bedeutung für Österreich. Damit sich Österreich in Zukunft erfolgreich beteiligt, braucht es ein gemeinsames Vorgehen der Ressorts, da oftmals mehrere Zuständigkeiten betroffen sind.
 
   * Strategische Schwerpunktsetzung der Bundesregierung zur gemeinsamen Beteiligung an europäischen Innovationsprogrammen
   * Ressortübergreifende Bündelung der nationalen Mittel zur Ko- und Anschubfinanzierung europäischer Initiativen

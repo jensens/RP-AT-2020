@@ -4,17 +4,31 @@ Verkehr & Infrastruktur
 
 :download:`Kapitel als PDF <../split/03-01-Klimaschutz-Energie.pdf>` (Teil des :download:`Originals <../original/RP2020.pdf>`).
 
-Mobilität ist ein Grundbedürfnis der Menschen, der Transport von Waren eine Voraussetzung für unsere Wirtschaft. Ein zukunftsfähiger Standort braucht ein innovatives, effizientes und gut funktionierendes Mobilitäts- und Transportsystem. Gleichzeitig wissen wir um die Notwendigkeit, das Verkehrssystem neuen Anforderungen anzupassen: Digitalisierung, Energieeffizienz und Dekarbonisierung im Einklang mit den :index:`Klimazielen <Klimaziele>` von Paris sind unabdingbar. Um die im Verkehrssektor notwendige Trendwende bei den CO2- Emissionen zu schaffen, bedarf es klarer Rahmenbedingungen und engagierter Umsetzungsprogramme. Deshalb werden Maßnahmen entwickelt, um Verkehr zu vermeiden, Verkehr zu verlagern und Verkehr zu verbessern und den Anteil des Umweltverbunds (Fuß- und Radverkehr, öffentliche Verkehrsmittel und Shared Mobility) deutlich zu steigern.
+Mobilität ist ein Grundbedürfnis der Menschen, der Transport von Waren eine Voraussetzung für unsere Wirtschaft. 
+Ein zukunftsfähiger Standort braucht ein innovatives, effizientes und gut funktionierendes Mobilitäts- und Transportsystem. 
+Gleichzeitig wissen wir um die Notwendigkeit, das Verkehrssystem neuen Anforderungen anzupassen: 
+Digitalisierung, Energieeffizienz und Dekarbonisierung im Einklang mit den :index:`Klimazielen <Klimaziele>` von Paris sind unabdingbar. 
+Um die im Verkehrssektor notwendige Trendwende bei den CO2- Emissionen zu schaffen, bedarf es klarer Rahmenbedingungen und engagierter Umsetzungsprogramme. Deshalb werden Maßnahmen entwickelt, um Verkehr zu vermeiden, Verkehr zu verlagern und Verkehr zu verbessern und den Anteil des Umweltverbunds (Fuß- und Radverkehr, öffentliche Verkehrsmittel und Shared Mobility) deutlich zu steigern.
 
-Die Bundesregierung bekennt sich zum gemeinsamen Voranbringen der notwendigen Innovationen im Verkehrssektor hin zu umweltfreundlicher Mobilität für alle, um zukunftsfähige Lösungen für unser individuelles Mobilitätsbedürfnis zu bieten. Dadurch sollen die Menschen echte Wahlfreiheit auf ihren alltäglichen Wegen erhalten, nicht nur in unseren Städten, sondern auch und besonders im ländlichen Raum. Wir wollen ein Verkehrssystem, das im Sinne der österreichischen Bevölkerung ist und den Anforderungen des 21. Jahrhunderts gerecht wird. Deshalb schaffen wir ein gutes, sicheres, barrierefreies und preisgünstiges sowie flächendeckendes Mobilitätsangebot für die Österreicherinnen und Österreicher.
+Die Bundesregierung bekennt sich zum gemeinsamen Voranbringen der notwendigen Innovationen im Verkehrssektor hin zu umweltfreundlicher Mobilität für alle, um zukunftsfähige Lösungen für unser individuelles Mobilitätsbedürfnis zu bieten. 
+Dadurch sollen die Menschen echte Wahlfreiheit auf ihren alltäglichen Wegen erhalten, nicht nur in unseren Städten, sondern auch und besonders im ländlichen Raum. 
+Wir wollen ein Verkehrssystem, das im Sinne der österreichischen Bevölkerung ist und den Anforderungen des 21. Jahrhunderts gerecht wird. Deshalb schaffen wir ein gutes, sicheres, barrierefreies und preisgünstiges sowie flächendeckendes Mobilitätsangebot für die Österreicherinnen und Österreicher.
 
-Der Bahnverkehr steht vor Herausforderungen wie die der Kapazitätssteigerung. Um diese zu bewältigen wird zeitgerecht und mittels mehrjährig fixierter Prioritäten in die nötige Infrastruktur investiert. Dies ist die Basis für Angebotsausweitungen und dichte Taktfahrpläne. Der Güterverkehr hat großes Potential, einen wesentlichen Beitrag für die Erreichung der Pariser :index:`Klimaziele` zu leisten. Er soll energieeffizient, umweltund :index:`klimaschonend` abgewickelt und die Chancen dieses Effizienzsprungs für den Beschäftigungs- und Wirtschaftsstandort sollen umfassend genützt werden. Der Logistik-Hub Österreich wird damit zukunftsfähig aufgestellt und nachhaltig gestärkt.
+Der Bahnverkehr steht vor Herausforderungen wie die der Kapazitätssteigerung. 
+Um diese zu bewältigen wird zeitgerecht und mittels mehrjährig fixierter Prioritäten in die nötige Infrastruktur investiert. 
+Dies ist die Basis für Angebotsausweitungen und dichte Taktfahrpläne. Der Güterverkehr hat großes Potential, einen wesentlichen Beitrag für die Erreichung der Pariser :index:`Klimaziele` zu leisten. 
+Er soll energieeffizient, umweltund :index:`klimaschonend` abgewickelt und die Chancen dieses Effizienzsprungs für den Beschäftigungs- und Wirtschaftsstandort sollen umfassend genützt werden. 
+Der Logistik-Hub Österreich wird damit zukunftsfähig aufgestellt und nachhaltig gestärkt.
 
-Österreich hat eines der dichtesten Straßennetze Europas. Zur Erhaltung, Optimierung und verkehrsträgerübergreifenden Weiterentwicklung der Verkehrsinfrastruktur braucht es fachliche Entscheidungs- und Planungsprozesse. Der Mobilitätsmasterplan 2030 soll den wirkungsorientierten strategischen Rahmen bieten, um Österreichs Mobilitätssektor nach ökologischen, ökonomischen und sozialen Zielen auszurichten. Der Radund Fußgängerverkehr nimmt stetig an Bedeutung zu. Dieser positive Trend muss weiterhin unterstützt und gestärkt werden. Luftfahrt, Schifffahrt und auch
+Österreich hat eines der dichtesten Straßennetze Europas. 
+Zur Erhaltung, Optimierung und verkehrsträgerübergreifenden Weiterentwicklung der Verkehrsinfrastruktur braucht es fachliche Entscheidungs- und Planungsprozesse. 
+Der Mobilitätsmasterplan 2030 soll den wirkungsorientierten strategischen Rahmen bieten, um Österreichs Mobilitätssektor nach ökologischen, ökonomischen und sozialen Zielen auszurichten. Der Radund Fußgängerverkehr nimmt stetig an Bedeutung zu. 
+Dieser positive Trend muss weiterhin unterstützt und gestärkt werden. Luftfahrt, Schifffahrt und auch
 
 Seilbahnwirtschaft sind im Zusammenhang mit den Bereichen Verkehr und Infrastruktur nicht zu vernachlässigen – auch hier werden ökologische, ökonomische und soziale Ziele verfolgt.
 
-Neben der Dekarbonisierung sind Digitalisierung und Sharing die größten Innovationstreiber für moderne Mobilität. Wir wollen die Rahmenbedingungen für neue Mobilitätsdienste optimieren und dabei vor allem den Nutzen für alle sicherstellen.
+Neben der Dekarbonisierung sind :index:`Digitalisierung` und Sharing die größten Innovationstreiber für moderne Mobilität. 
+Wir wollen die Rahmenbedingungen für neue Mobilitätsdienste optimieren und dabei vor allem den Nutzen für alle sicherstellen.
 
 :index:`Klimaschutz-Rahmen` für Verkehrssektor
 ----------------------------------------------
@@ -23,13 +37,16 @@ Neben der Dekarbonisierung sind Digitalisierung und Sharing die größten Innova
 
   * Langfristige strategische Ausrichtung des Mobilitätssektors in Richtung Erfüllung des Pariser :index:`Klimaabkommens`
   * Das gesamtstaatliche :index:`Klimaziel` für den Bereich Verkehr fungiert als übergeordnete verbindliche Handlungsanleitung, an der sich die strategische Planung für alle Verkehrsträger ausrichten muss.
-  * Der Mobilitätsmasterplan 2030 adressiert die Transformationstreiber Dekarbonisierung und Digitalisierung. Er nutzt die Potentiale der Digitalisierung (Daten als Grundlage für modiübergreifende Steuerung und Nutzung neuer Geschäftsmodelle zur Erreichung der :index:`Klimaziele`). Im Mittelpunkt stehen Lebensqualität und Wettbewerbsfähigkeit. Hierfür müssen neue Mobilitätskonzepte und Innovationen gestärkt werden, u.a. auch mit der Etablierung von Experimentierräumen.
+  * Der Mobilitätsmasterplan 2030 adressiert die Transformationstreiber Dekarbonisierung und :index:`Digitalisierung`. 
+    Er nutzt die Potentiale der :index:`Digitalisierung` (Daten als Grundlage für modiübergreifende Steuerung und Nutzung neuer Geschäftsmodelle zur Erreichung der :index:`Klimaziele`). 
+    Im Mittelpunkt stehen Lebensqualität und Wettbewerbsfähigkeit. 
+    Hierfür müssen neue Mobilitätskonzepte und Innovationen gestärkt werden, u.a. auch mit der Etablierung von Experimentierräumen.
   * Aufgebaut wird der Mobilitätsmasterplan 2030 auf Vorarbeiten wie der #mission2030, dem NEKP oder dem Sachstandsbericht Mobilität. Er entwickelt Einzelmaßnahmen in den Bereichen „Verkehr vermeiden“, „Verkehr verlagern“ und „Verkehr verbessern“ – von Mobilitätsdienstleistungen bis hin zu Infrastrukturmaßnahmen.
   * Besondere Berücksichtigung finden attraktive Mobilitätsdienstleistungen sowohl für urbane Zentren als auch für ländliche Gebiete.
   * Nutzung der Beteiligungen des Bundes in den Bereichen Infrastruktur und Verkehr und Erarbeitung einer Portfolio-Strategie, die die Ziele des Mobilitätsmasterplans 2030 unterstützt und eine serviceorientierte Mobilitätspolitik verwirklicht
   * Verkehrsträgerübergreifende strategische Planung beim Bau und Ausbau von Infrastruktur sowie Prüfung der Effizienzsteigerung durch bessere Kooperation im Infrastrukturausbau inklusive Berücksichtigung der Sektorintegration (beispielsweise Bau, Breitbandausbau oder :index:`Klimaschutzprojekte`)
 
-- Effizienzsteigerung durch den Digitalen Tiefbauatlas für Infrastrukturausbau ermöglichen
+- Effizienzsteigerung durch den :index:`Digitalen Tiefbauatlas <digitaler Tiefbauatlas>` für Infrastrukturausbau ermöglichen
 
 - Einsatz im nationalen und europäischen Rahmen in Richtung einer verursachergerechten Kostenwahrheit
 
@@ -176,20 +193,24 @@ Effiziente E-Mobilität jetzt: Schienen in die Zukunft und mehr Bahn, Bim & Bus
 
 - Zielnetz 2040 voranbringen:
 
-  * Fokus auf Nahverkehr, Regionalbahn-Attraktivierung, Güterstrecken-Neu- und -Ausbau, Lückenschlüsse, Barrierefreiheit, Digitalisierung
-  * Beschleunigte Bestellung der Grundlagen für die mittelfristig weiterreichende Infrastrukturplanung (Verkehrsprognose etc.) inkl. Finanzrahmenplan. Strukturierter und transparenter Prozess für die Infrastrukturplanung (minutengenaue Netzgrafiken mit allen Schienennutzungen) unter Einbindung der Bundesländer und Nachbarstaaten
+  * Fokus auf Nahverkehr, Regionalbahn-Attraktivierung, Güterstrecken-Neu- und -Ausbau, Lückenschlüsse, Barrierefreiheit, :index:`Digitalisierung`
+  * Beschleunigte Bestellung der Grundlagen für die mittelfristig weiterreichende Infrastrukturplanung (Verkehrsprognose etc.) inkl. Finanzrahmenplan. 
+    Strukturierter und transparenter Prozess für die Infrastrukturplanung (minutengenaue Netzgrafiken mit allen Schienennutzungen) unter Einbindung der Bundesländer und Nachbarstaaten
   * Vorantreiben der Elektrifizierung, mit dem Ziel, 90% des Netzes zu elektrifizieren
 
-- Internationale Bahn-Optimierung: Bekenntnis zum Ausbau und zur Aufnahme geeigneter Strecken in die TEN-Netze und Einsatz für Öffnung von EU-Töpfen für Erhalt bestehender Bahn-Infrastruktur
+- Internationale Bahn-Optimierung: 
+  Bekenntnis zum Ausbau und zur Aufnahme geeigneter Strecken in die TEN-Netze und Einsatz für Öffnung von EU-Töpfen für Erhalt bestehender Bahn-Infrastruktur
 
-- Leistungsfähige ÖBB: Die ÖBB ist ein volkswirtschaftlich bedeutendes Unternehmen, als einer der größten Arbeitgeber, als wirtschafts- und industriepolitischer Motor mit großer Wertschöpfung und Treiber von Innovation. Bekenntnis zur ÖBB als ein wichtiges Instrument zur Umsetzung der Verkehrspolitik, insbesondere im Sinne eines nachhaltigen, dekarbonisierten Verkehrssystems:
+- Leistungsfähige ÖBB: 
+  Die ÖBB ist ein volkswirtschaftlich bedeutendes Unternehmen, als einer der größten Arbeitgeber, als wirtschafts- und industriepolitischer Motor mit großer Wertschöpfung und Treiber von Innovation. 
+  Bekenntnis zur ÖBB als ein wichtiges Instrument zur Umsetzung der Verkehrspolitik, insbesondere im Sinne eines nachhaltigen, dekarbonisierten Verkehrssystems:
 
   * Als Rückgrat des öffentlichen Verkehrs ist für den Schienenverkehr die Modernisierung und der Ausbau des Schienennetzes Voraussetzung, um einen verdichteten Taktfahrplan und die Verlagerung des Güterverkehrs auf die Schiene zu ermöglichen.
   * Die ÖBB sind – in Kooperation mit den regionalen Systempartnern – zentraler Dienstleister für die Mobilität von Personen im Nah- und Fernverkehr sowie im nationalen und internationalen Güterverkehr.
 
 - Um den künftigen Herausforderungen und Aufgaben gerecht zu werden, sind folgende Punkte von zentraler Bedeutung:
 
-  * Chancen der Digitalisierung nützen, um insbesondere Kapazitäten, Sicherheit und Produktivität bei der Infrastruktur zu erhöhen und neue kundenorientierte Vertriebswege weiterzuentwickeln
+  * Chancen der :index:`Digitalisierung` nützen, um insbesondere Kapazitäten, Sicherheit und Produktivität bei der Infrastruktur zu erhöhen und neue kundenorientierte Vertriebswege weiterzuentwickeln
   * Dekarbonisierung im Unternehmen vorantreiben, etwa durch Erhöhung des Elektrifizierungsgrades bei der Infrastruktur oder durch Erhöhung der Eigenversorgung mit nachhaltiger Energieproduktion
   * Notwendige Maßnahmen zur Bewältigung des Generationswechsels im Unternehmen setzen
   * Weiterentwicklung einer österreichweiten Vertriebsplattform gemeinsam mit den Verkehrsorganisationen und -unternehmen und diskriminierungsfrei organisieren
@@ -251,7 +272,7 @@ Radpaket und Zufußgehen – Offensive für aktive, sanfte Mobilität
 Straßenverkehr
 --------------
 
-- Weiterentwicklung des Gelegenheitsverkehrsgesetzes: Aufbauend auf die Novelle des Jahres 2019 bekennt sich die Bundesregierung zu einem klar regulierten Mischgewerbe, in dem traditionelle Taxiunternehmen und digitale Mobilitätsunternehmen in fairem Wettbewerb ihre Dienste anbieten können.
+- Weiterentwicklung des Gelegenheitsverkehrsgesetzes: Aufbauend auf die Novelle des Jahres 2019 bekennt sich die Bundesregierung zu einem klar regulierten Mischgewerbe, in dem traditionelle Taxiunternehmen und :index:`digitale Mobilitätsunternehmen <digitales Mobilitätsunternehmen>` in fairem Wettbewerb ihre Dienste anbieten können.
 
 - Bürokratieabbau im Straßenverkehr
 
@@ -264,7 +285,7 @@ Straßenverkehr
 
   * Teilnahme an IPCEI „Batterien“ (Important Project of Common European Interest, europäische Ausnahme vom Beihilfenrecht zur gebündelten Investition privater und öffentlicher Gelder)
 
-- Strategie zur Verwendung alternativer Energieträger in der Mobilität (E-Mobilität, Wasserstoff, synthetische Treibstoffe) mit Fokus auf Gesamt-:index:`Klimabilanz` und im Sinne von verkehrspolitischen Innovationen wie beispielsweise Elektrifizierung von Oberleitungen, Antriebstechnologien (Brennstoffzelle) und Digitalisierung (Platooning, AUV, Digitalisierungsstrategien im Bereich Eisenbahn)
+- Strategie zur Verwendung alternativer Energieträger in der Mobilität (E-Mobilität, Wasserstoff, synthetische Treibstoffe) mit Fokus auf Gesamt-:index:`Klimabilanz` und im Sinne von verkehrspolitischen Innovationen wie beispielsweise Elektrifizierung von Oberleitungen, Antriebstechnologien (Brennstoffzelle) und :index:`Digitalisierung` (Platooning, AUV, :index:`Digitalisierungsstrategien <Digitalisierungsstrategie>` im Bereich Eisenbahn)
 
   *  Unterstützung der Forschung im Bereich synthetischer Kraftstoffe (für Straße, Luftfahrt und Schifffahrt)
 
@@ -349,7 +370,7 @@ Güter in Einklang mit dem :index:`Klima` transportieren & Transitproblem bekäm
   * Verstärkte Kontrollen der Abfahrverbote durch ASFINAG und Exekutivbeamtinnen und -beamte
   * Initiative auf europäischer Ebene zur Kooperation mit führenden Anbietern von GPS-Navigation zur besseren Kommunikation von Abfahrverboten
 
-- Pilotprojekt und möglicher Ausbau automatischer Abfahrverbote für LKW mit digitalen Straßenschildern (aufbauend auf Messung der Verkehrsdichte im niederrangigen Straßennetz)
+- Pilotprojekt und möglicher Ausbau automatischer Abfahrverbote für LKW mit :index:`digitalen Straßenschildern <digitales Straßenschild>` (aufbauend auf Messung der Verkehrsdichte im niederrangigen Straßennetz)
 
 - Einsatz der Bundesregierung bei allen europäischen Institutionen für die Ergreifung aller geeigneten Maßnahmen zur Verhinderung der Umgehung der gesetzlichen Rahmenbedingungen für LKW-Transporte durch den Einsatz von Klein-LKW im Transitverkehr
 
@@ -432,9 +453,9 @@ Neue Mobilität – mehr als Verkehr
 
   * Rein privates Car- und Ridesharing ohne Verdienstabsicht durch Überprüfung und nötigenfalls Änderung von Steuer- und Gewerberecht vereinfachen durch Anreize für Ride-Sharing: Erhöhung des PKW-Besetzungsgrads (z.B. mögliche Anhebung der Gewerblichkeitsgrenze von 5 auf 25 Cent)
 
-- Innovationsvorsprung Österreichs bei MaaS (Mobility as a Service) optimal nutzen: MaaS-Architektur öffentlich vorgeben, Dienste öffentlich integrieren, Absicherung multimodaler digitaler Mobilitätsplattform zusammen mit Ticketshop in öffentlicher Hand als frei zugänglicher „öffentlicher Raum“, offen für alle unter fairen Bedingungen
+- Innovationsvorsprung Österreichs bei MaaS (Mobility as a Service) optimal nutzen: MaaS-Architektur öffentlich vorgeben, Dienste öffentlich integrieren, Absicherung multimodaler :index:`digitaler Mobilitätsplattform <digitale Mobilitätsplattform>` zusammen mit Ticketshop in öffentlicher Hand als frei zugänglicher „öffentlicher Raum“, offen für alle unter fairen Bedingungen
 
-- Digitalisierung insbesondere im öffentlichen Verkehr und im Güterverkehr zügig nutzbringend anwenden (EVIS-Verkehrsredaktion, VAO, Ticketing, Transitbörse, Telematische Mautsysteme…)
+- :index:`Digitalisierung` insbesondere im öffentlichen Verkehr und im Güterverkehr zügig nutzbringend anwenden (EVIS-Verkehrsredaktion, VAO, Ticketing, Transitbörse, Telematische Mautsysteme…)
 
 - Prüfen des breiteren Einsatzes von Telematik/Intelligenten Verkehrssystemen mit dem Ziel,die Sicherheit auf Österreichs Straßen zu erhöhen und die Auswirkungen auf die Umwelt zu reduzieren:
 

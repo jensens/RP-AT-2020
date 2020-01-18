@@ -7,7 +7,7 @@ Die Gewährleistung eines friedlichen Zusammenlebens in einer rechtsstaatlichen 
 Dass wir uns in Österreich sicher fühlen können, verdanken wir auch der engagierten Arbeit unserer Polizei.
 Als bürgerorientierte Polizei gewährleistet sie tagtäglich, dass die persönliche Sicherheit, Freiheit und die Menschenrechte von uns allen gewahrt bleiben.
 
-Die Unterstützung bei Naturkatastrophen, die Verhütung von transnationaler organisierter Kriminalität, der Schutz vor Gewalt, die Bekämpfung von Extremismus oder neue Sicherheitsbedrohungen wie im :index:`Cyber-Bereich` sind zentrale Herausforderungen einer modernen Polizei.
+Die Unterstützung bei Naturkatastrophen, die Verhütung von transnationaler organisierter Kriminalität, der Schutz vor Gewalt, die Bekämpfung von Extremismus oder neue Sicherheitsbedrohungen wie im :index:`Cyber-Bereich <Cyberbereich>` sind zentrale Herausforderungen einer modernen Polizei.
 
 Um diesen Herausforderungen und Gefahren begegnen zu können, brauchen wir eine moderne Polizei, die personell bestens aufgestellt ist.
 Darum soll die begonnene Personaloffensive bei der Polizei fortgeführt und darüber hinaus gewährleistet werden, dass für die zukünftigen Aufgaben die notwendige Ausbildung und Ausstattung sichergestellt ist.
@@ -76,7 +76,7 @@ Gute Rahmenbedingungen für eine moderne Polizei
 - Weiterentwicklung der Sicherheitsakademie (SIAK) in Richtung der Verwaltungsakademie des Bundes oder der Theresianischen Militärakademie.
   Stärkung der Zusammenarbeit mit Wissenschaft und Forschung als Grundlage für strategische Entscheidungen, beispielsweise :index:`Cybersicherheit`, Polizeipräsenz, Sicherheitsempfinden
 
-- Polizeiausbildung und -fortbildung den neuen Herausforderungen, wie etwa :index:`Cyber-Kriminalität` und Digitalisierung, laufend anpassen
+- Polizeiausbildung und -fortbildung den neuen Herausforderungen, wie etwa :index:`Cyber-Kriminalität` und :index:`Digitalisierung`, laufend anpassen
 
 - Weiterentwicklung und Intensivierung der Zusammenarbeit mit NGOs (Polizei.Macht.Menschen.Rechte)
 
@@ -88,7 +88,7 @@ Gute Rahmenbedingungen für eine moderne Polizei
 
 - Vertrauen herstellen durch nachvollziehbare Identitätsfeststellungen:
 
-  * Im Rahmen des Ausbaus der Digitalisierung Prüfung der Möglichkeit zur Ausstellung einer Bestätigung bei jeder ID-Feststellung
+  * Im Rahmen des Ausbaus der :index:`Digitalisierung` Prüfung der Möglichkeit zur Ausstellung einer Bestätigung bei jeder ID-Feststellung
   * Die Bundesregierung weiß, wie hoch das Vertrauen in die Exekutive ist. Zur weiteren Stärkung dieses Vertrauens unterstützen wir Maßnahmen in Richtung betroffener Communities, wie von der Grundrechteagentur der Europäischen Union empfohlen. Diese Maßnahmen sollen insbesondere der Vermeidung etwaiger faktischer und empfundener diskriminierender Effekte dienen.
 
 - Sicherstellung einer konsequenten Aufklärung bei Misshandlungsvorwürfen gegen Polizeibeamtinnen und Polizeibeamte
@@ -140,8 +140,8 @@ Gute Rahmenbedingungen für eine moderne Polizei
 
 - Erhöhung der Anzahl von Amtsärztinnen und Amtsärzten
 
-:index:`Cybersicherheit und Digitalisierung`
---------------------------------------------
+:index:`Cybersicherheit` und :index:`Digitalisierung`
+-----------------------------------------------------
 
 - Stärkung des Bewusstseins, dass das Offizialprinzip (Strafverfolgungspflicht) auch online gilt (Internet ist kein rechtsfreier Raum)
 
@@ -150,12 +150,12 @@ Gute Rahmenbedingungen für eine moderne Polizei
   * Beibehaltung der bestehenden Ressortzuständigkeiten
   * Grundlagen für Kooperationen zwischen den Ressorts schaffen
   * Bündelung aller bereits bestehenden :index:`Cyberaufgaben` des BMI innerhalb des BMI (z.B. in einer Direktion)
-  * Schaffung eines staatlichen :index:`Cybersicherheitszentrums`
+  * Schaffung eines staatlichen :index:`Cybersicherheitszentrums <Cybersicherheitszentrum>`
   * Schaffung der dafür notwendigen Rechtsgrundlagen
   * Evaluierung von institutionellen Lösungsansätzen europäischer Partnerländer, Identifizierung von Best-Practice-Beispielen
   * Verstärkung der Koordination zwischen den bestehenden Organisationen im Bereich :index:`Cybersecurity` unter Absicherung des bisherigen Informationsaustausches
   * Evaluierung der Möglichkeiten zur Nutzung von Synergieeffekten unter Berücksichtigung der spezifischen Anforderungen der unterschiedlichen Aufgabenbereiche
-  * Evaluierung und Umsetzung von erforderlichen Standards zur Sicherstellung der digitalen Souveränität
+  * Evaluierung und Umsetzung von erforderlichen Standards zur Sicherstellung der :index:`digitalen Souveränität <digitale Souveränität>`
   * Aktualisierung der österreichischen :index:`Cybersicherheitsstrategie`
 
 - Erstellung eines Strategiekonzepts zur verbesserten Bekämpfung von :index:`Cybercrime` in Österreich (z.B. Verbesserung der Bekämpfung von :index:`Cybercrime`, Verbesserung der Aufklärungsquote, Reduzierung von :index:`Cybercrime` durch umfassende Prävention)
@@ -168,7 +168,7 @@ Gute Rahmenbedingungen für eine moderne Polizei
 
 - Weiterentwicklung der mobilen Anwendungen mit dem Ziel der Erleichterung von Behördenwegen unter Berücksichtigung sämtlicher Datenschutzbestimmungen und Persönlichkeitsrechte
 
-- Förderung der strategischen Koordinierungsfunktion des Bundeskanzleramtes im gesamten :index:`Cyber-Bereich`:
+- Förderung der strategischen Koordinierungsfunktion des Bundeskanzleramtes im gesamten :index:`Cyber-Bereich <Cyberbereich>`:
 
   * Schaffung eines organisatorischen Rahmens für die Zusammenarbeit der unterschiedlichen Ressorts und Stakeholder
   * Schaffung eines zentralen, beratenden und zertifizierenden Organs in Informationssicherheitsfragen unter Berücksichtigung bestehender Einrichtungen entsprechend dem :index:`Cyber Security Act` der EU-Kommission
@@ -179,7 +179,7 @@ Gute Rahmenbedingungen für eine moderne Polizei
   * Schulung der Mitarbeiterinnen und Mitarbeiter im öffentlichen Dienst, um Bewusstsein für :index:`Cyberkriminalität` zu erhöhen
   * Umsetzung verbindlicher, überprüfbarer und durchsetzbarer Sicherheitsstandards im Rahmen der Richtlinie für Netz- und Informationssystemsicherheit (NIS) im öffentlichen Sektor
 
-- Digitalisierung vorantreiben und die IT auf den neuesten Stand bringen
+- :index:`Digitalisierung` vorantreiben und die IT auf den neuesten Stand bringen
 
 - Überwachung:
 
@@ -268,7 +268,7 @@ Maßnahmen gegen Extremismus und Terrorismus
 
   * Ausweitung von Schulworkshops (insbesondere Berufsschulen) zur Rechtsextremismusprävention, Vergangenheitspolitik und gruppenbezogene Menschenfeindlichkeit
   * Evaluierung und Überarbeitung aktueller Bildungsmaterialien.
-  * Beratung und Aufklärung (Etablierung und Evaluierung, Digitalisierung, Neue Medien, neue Rechte, Rechtsextremismus, Antisemitismus & Islamismus)
+  * Beratung und Aufklärung (Etablierung und Evaluierung, :index:`Digitalisierung`, Neue Medien, neue Rechte, Rechtsextremismus, Antisemitismus & Islamismus)
   * Mobile Kompetenzstelle gegen Rechtsextremismus, Rassismus und Gewalt
   * Unterstützung von Vereinen, Behörden; Angehörige, Betroffene beraten, begleiten und fortbilden
   * Informations- und Aufklärungskampagne gegen Rechtsextremismus und gruppenbezogene Menschenfeindlichkeit
@@ -277,7 +277,7 @@ Maßnahmen gegen Extremismus und Terrorismus
 
 - Monitoring
 
-  * Digitales Streetwork: Monitoring von Plattformen, in denen demokratiefeindliche Aktivitäten stattfinden
+  * :index:`Digitales Streetwork <digitale Streetwork>`: Monitoring von Plattformen, in denen demokratiefeindliche Aktivitäten stattfinden
   * Verankerung einer Forschungsstelle Rechtsextremismus  und Antisemitismus (im DÖW) mit Zuständigkeit für jährlichen Rechtsextremismusbericht (Zugang zum notwendigen Datenmaterial aus Innen- und Justizministerium)
   * Vollständige statistische Erfassung der Delikte aus VerbG, SymbG, AbzG, EGVG, § 283 StGB etc.
   * Verfassungsschutzbericht: Wiederaufnahme der Beobachtung und Einschätzung rechtsextremer Burschenschaften
@@ -294,7 +294,7 @@ Maßnahmen gegen Extremismus und Terrorismus
   * Fokus Rechtsextremismusprävention
   * Fokus zivil und bürgerschaftliches Engagement
   * Fokus: Zusammenleben in der Migrationsgesellschaft: Begegnungen schaffen
-  * Bereiche: ländlicher Raum, digitale Lebenswelten, Bildungssektor, verbandliche und offene Jugendarbeit, Arbeitswelt, Strafvollzug, Sozialarbeit
+  * Bereiche: ländlicher Raum, :index:`digitale Lebenswelten <digitale Lebenswelt>`, Bildungssektor, verbandliche und offene Jugendarbeit, Arbeitswelt, Strafvollzug, Sozialarbeit
 
 - Schaffung einer unabhängigen staatlich legitimierten Dokumentationsstelle für den religiös motivierten politischen Extremismus (politischer Islam) zur wissenschaftlichen Erforschung, Dokumentation und Aufbereitung von Informationen über den religiös motivierten politischen Extremismus (politischer Islam) sowie besseren Koordination der Präventions- und Aufklärungsarbeit (nach Vorbild des DÖW)
 
