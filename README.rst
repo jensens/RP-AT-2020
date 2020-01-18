@@ -122,4 +122,5 @@ Disclaimer
 ----------
 
 Die Erstellung des barrierefreien und maschinenlesbaren Regierungsprogramms erfolgte nach bestem Wissen und Gewissen.
-Durch die vielen manuellen Übertragungsschritte kann es passiert sein, dass sich eventuell Fehler (zb in der Anordnung von Unterpunkten) eingeschlichen haben, für die wir keine Gewähr übernehmen. Wenn derartiges auffällt, bitte einen `Issue auf github.com/jensens/RP-AT-2020/issues <https://github.com/jensens/RP-AT-2020/issues>`_ erstellen und wir werden dies umgehend korrigieren.
+Durch die vielen manuellen Übertragungsschritte kann es passiert sein, dass sich eventuell Fehler (zB. in der Anordnung von Unterpunkten) eingeschlichen haben, für die wir keine Gewähr übernehmen. 
+Wenn derartiges auffällt, bitte einen `Issue auf github.com/jensens/RP-AT-2020/issues <https://github.com/jensens/RP-AT-2020/issues>`_ erstellen und wir werden dies umgehend korrigieren.
