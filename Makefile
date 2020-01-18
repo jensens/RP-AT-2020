@@ -12,7 +12,19 @@ BUILDDIR      = build
 help:
 	@$(SPHINXBUILD) -M help "$(SOURCEDIR)" "$(BUILDDIR)" $(SPHINXOPTS) $(O)
 
-.PHONY: help Makefile
+all:
+	make html
+	make epub
+	rm "$(BUILDDIR)"/regierungsprogramm-2020-2014.epub || echo "epub did not exist"
+	cd "$(BUILDDIR)"/epub && zip -r ../regierungsprogramm-2020-2014.epub . && cd -
+	rm -r $(BUILDDIR)/epub/*
+
+clean:
+	rm -r $(BUILDDIR)/epub/* || echo "no epub directory"
+	rm -r $(BUILDDIR)/html/* || echo no html
+	rm "$(BUILDDIR)"/regierungsprogramm-2020-2014.epub || echo "no epub file"
+
+.PHONY: help all clean
 
 # Catch-all target: route all unknown targets to Sphinx using the new
 # "make mode" option.  $(O) is meant as a shortcut for $(SPHINXOPTS).
