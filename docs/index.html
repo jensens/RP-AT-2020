@@ -15,6 +15,7 @@
     <link rel="stylesheet" href="_static/roboto.css" type="text/css" />
     <link rel="stylesheet" href="_static/material-design-lite-1.3.0/material.indigo-deep_purple.min.css" type="text/css" />
     <link rel="stylesheet" href="_static/sphinx_materialdesign_theme.css" type="text/css" />
+    
     <script type="text/javascript" id="documentation_options" data-url_root="./" src="_static/documentation_options.js"></script>
     <script type="text/javascript" src="_static/jquery.js"></script>
     <script type="text/javascript" src="_static/underscore.js"></script>
@@ -69,6 +70,10 @@ Quellcode anzeigen
                   <i class="material-icons navigation-link-icon">home</i>
                   Regierungsprogramm 2020-2024
               </a>
+          <a  class="mdl-navigation__link" href="search.html">
+                  <i class="material-icons navigation-link-icon">search</i>
+                  Suche
+              </a>
           <a  class="mdl-navigation__link" href="genindex.html">
                   <i class="material-icons navigation-link-icon">sort_by_alpha</i>
                   Stichwortverzeichnis
@@ -95,7 +100,7 @@ Quellcode anzeigen
       </span>
     
 <div class="globaltoc">
-  <span class="mdl-layout-title toc">Table Of Contents</span>
+  <span class="mdl-layout-title toc">Inhaltsverzeichnis</span>
   
   
       
@@ -151,6 +156,7 @@ Quellcode anzeigen
 <li class="toctree-l2"><a class="reference internal" href="06-03-Digitalisierung-Innovation.html">Digitalisierung &amp; Innovation</a></li>
 </ul>
 </li>
+<li class="toctree-l1"><a class="reference internal" href="README.html">Über das Projekt</a></li>
 </ul>
 
       </nav>
@@ -169,7 +175,7 @@ Quellcode anzeigen
       </span>
     
 <div class="globaltoc">
-  <span class="mdl-layout-title toc">Table Of Contents</span>
+  <span class="mdl-layout-title toc">Inhaltsverzeichnis</span>
   
   
       
@@ -225,6 +231,7 @@ Quellcode anzeigen
 <li class="toctree-l2"><a class="reference internal" href="06-03-Digitalisierung-Innovation.html">Digitalisierung &amp; Innovation</a></li>
 </ul>
 </li>
+<li class="toctree-l1"><a class="reference internal" href="README.html">Über das Projekt</a></li>
 </ul>
 
       </nav>
@@ -244,8 +251,8 @@ Quellcode anzeigen
 <li><p>inoffizielle Veröffentlichung</p></li>
 <li><p>Quelle ist dieses <a class="reference download internal" download="" href="_downloads/969b21f48e428a7fc2354b3c93adbc22/RP2020.pdf"><code class="xref download docutils literal notranslate"><span class="pre">Original</span> <span class="pre">PDF</span></code></a> (lokale Kopie).</p></li>
 </ul>
-<div class="section" id="regierungsprogramm">
-<h2>Regierungsprogramm<a class="headerlink" href="#regierungsprogramm" title="Link zu dieser Überschrift">¶</a></h2>
+<p>Wortwolke des Regierungsprogramms; häufige Wörter sind größer und dunkler dargestellt.</p>
+<a class="reference internal image-reference" href="_images/rp2020-2024_wordcloud.png"><img alt="Wordcloud des Regierungsprogramms. Erstellt von Erich Neuwirth" class="align-center" src="_images/rp2020-2024_wordcloud.png" style="width: 80%;" /></a>
 <div class="toctree-wrapper compound">
 <p class="caption"><span class="caption-text">Inhalt:</span></p>
 <ul>
@@ -520,98 +527,17 @@ Quellcode anzeigen
 </li>
 </ul>
 </li>
-</ul>
-</div>
-</div>
-<div class="section" id="uber-das-projekt">
-<h2>Über das Projekt<a class="headerlink" href="#uber-das-projekt" title="Link zu dieser Überschrift">¶</a></h2>
-<p>Dieses Projekt befreit das österreichische Regierungsprogramm 2020-2024 aus seinem PDF-Format und macht es so zugänglicher.</p>
-<p>Warum?</p>
-<p>Weil PDF kein Datenformat ist.
-Es ist auch nicht barrierefrei.
-Außerdem ist es am Smartphone schlecht zu lesen.
-Solche wichtigen Dokumente sollten nicht auf Schönheit und Textsatz hin optimiert werden.
-Hier ist Zugänglichkeit und Offenheit wichtig.
-Das ist für <a class="reference external" href="https://www.data.gv.at/e-learning-module-zu-open-data/">OpenData</a> wichtig.
-Ein PDF ist kein OpenData, kein offenes Dokument.</p>
-<p>Reiner Text als Quelle und daraus ordentlich generiertes HTML sind hier meiner Meinung nach eine gute Lösung.
-Durch semantisches Markup wird der Text maschinenlesbar.
-Zudem ist der Zugang so technisch niederschwellig.
-Es müssen keine komplexen Systeme mit hohen Kosten, wie z.B. CMS dazu verwendet werden.</p>
-<div class="section" id="technik-manueller-eingriff">
-<h3>Technik &amp; manueller Eingriff<a class="headerlink" href="#technik-manueller-eingriff" title="Link zu dieser Überschrift">¶</a></h3>
-<p>Technisch habe ich aus dem PDF den reinen Text extrahiert.
-Da PDF kein strukturiertes Dokumentenformat ist (sondern ein Seitenbeschreibungsformat), kann der Text nicht perfekt heraus geholt werden.
-Wenn sich jemand für den Hintergrund dazu interessiert:
-Die 30 Minuten Video <a class="reference external" href="https://www.youtube.com/watch?v=k34wRxaxA_c">How to Extract Text Contents from PDF</a> (3 Teile, Englisch) erklären das ganz gut.</p>
-<p>Vor dem Extrahieren habe ich mit <a class="reference external" href="https://pdfsam.org/de/">PDFSAM Basic</a> das lange Original-PDF Kapitelweise in kleinere PDFs zerlegt.
-Die Dateien habe ich dann einigermaßen sinnvoll benannt.
-Danach habe ich mit <a class="reference external" href="https://pypi.org/project/pdfminer/">PDFMiner</a> so gut wie möglich den Text pro Datei extrahiert.</p>
-<p>Dann habe ich <a class="reference external" href="https://www.sphinx-doc.org">Sphinx</a> eingesetzt, um aus dem reinen Text strukturiertes HTML zu generieren.
-Der verwendete Markup ist <a class="reference external" href="https://www.sphinx-doc.org/en/2.0/usage/restructuredtext/basics.html#">RestructuredText</a> (aba ReST).
-ReST ist ähnlich dem bekannterem Markdown, aber für komplexere Dokumente besser geeignet.</p>
-<p>Durch das semantische Format ReST wird der Text maschinenlesbar, was auch ein Anspruch bei OpenData ist.</p>
-<p>Da da der extrahierte Text teilweise ziemlich chaotisch ist, war jetzt die manuelle Überarbeitung dran:</p>
-<ul class="simple">
-<li><p>es mussten Formatierungen eingefügt werden:</p>
-<ul>
-<li><p>vor allem Zwischenüberschriften,</p></li>
-<li><p>Absätze,</p></li>
-<li><p>Aufzählungslisten,</p></li>
-<li><p>Umbrüche und Trennzeichen sind oft an falschen Stellen.</p></li>
+<li class="toctree-l1"><a class="reference internal" href="README.html">Über das Projekt</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="README.html#technik-manueller-eingriff">Technik &amp; manueller Eingriff</a></li>
+<li class="toctree-l2"><a class="reference internal" href="README.html#barrierefreiheit">Barrierefreiheit</a></li>
+<li class="toctree-l2"><a class="reference internal" href="README.html#mithelfen">Mithelfen</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="README.html#noch-zu-erledigen">Noch zu erledigen</a></li>
 </ul>
 </li>
-<li><p>Es hat leider auch Text/Absätze/Spalten durcheinander gewürfelt:</p></li>
-<li><p>Spalten, die im Original-nicht richtig im Fluss definiert wurden, werden leider oft durcheinander gebracht;</p></li>
-<li><p>Ist das PDF im Entstehungsprozess überarbeitet worden, stehen diese neuen Wörter oft am Ende des Blocks;</p></li>
-<li><p>Teilweise sind auch noch Textfragmente von vor der Überarbeitung drinnen.</p></li>
+<li class="toctree-l2"><a class="reference internal" href="README.html#beteiligte">Beteiligte</a></li>
+<li class="toctree-l2"><a class="reference internal" href="README.html#disclaimer">Disclaimer</a></li>
 </ul>
-</div>
-<div class="section" id="barrierefreiheit">
-<h3>Barrierefreiheit<a class="headerlink" href="#barrierefreiheit" title="Link zu dieser Überschrift">¶</a></h3>
-<p>Aufgrund der technischen Probleme mit dem PDF gehe ich davon aus, dass Menschen mit eingeschränkter Sehfähigkeit (welche einen Screenreader oder eine Braillezeile verwenden) ebenso einige Probleme haben das PDF korrekt zu lesen.
-Vielleicht irre ich mich auch, Rückmeldungen gerne an mich.</p>
-<p>Ich habe das jetzt produzierte statische HTML mit <a class="reference external" href="https://wave.webaim.org/">WAVE/WebAIM</a> getestet.
-Bis auf ein kleines Kontrastproblem im Menu ist es demnach barrierefrei.
-Das kann möglicherweise noch verbessert werden.
-Für Vorschläge und Mithilfe bitte gerne an mich wenden.</p>
-</div>
-<div class="section" id="mithelfen">
-<h3>Mithelfen<a class="headerlink" href="#mithelfen" title="Link zu dieser Überschrift">¶</a></h3>
-<p>Das ist ein offenes Projekt, jede/r kann mitmachen.</p>
-<p>Wer mithelfen mag:
-Das <a class="reference external" href="https://github.com/jensens/RP-AT-2020">Projekt liegt auf Github</a>, einer kollaborativen Plattform zur Quellcode-Verwaltung.</p>
-<p>Grundsätzlich kann man dort eine/n Benutzer/in anlegen und im <cite>/source/</cite> Ordner auf der zu ändernden Datei auf bearbeiten (edit) klicken.
-Es wird eine Kopie im eigenen Ordner (Clone) gespeichert und dann über einen Pull-Request fragt ihr mich an, um die Änderungen zum übernehmen.
-Sobald ich den Pull-Request übernommen (merged) habe, werde ich das HTML neu generieren und die Änderungen kommen so online.</p>
-<p>Wer GIT kennt, kann sich auch eine lokale Arbeitskopie erstellen.
-Dann kann man auch Sphinx installieren und lokal den HTML-Generator laufen lassen.
-Bloß bitte das generierte HTML nicht im Pullrequest inkludieren, sonst kann es zu Konflikten im Git kommen.</p>
-<p>Bei Fragen dazu könnt ihr mich gerne kontaktieren:
-- E-Mail <a class="reference external" href="mailto:jk&#37;&#52;&#48;kleinundpartner">Jens Klein</a>
-- Twitter: <a class="reference external" href="https://twitter.com/yenzenz">yenzenz</a>
-- GitHub: erstellt einen <a class="reference external" href="https://github.com/jensens/RP-AT-2020/issues">Issue auf github.com/jensens/RP-AT-2020/issues</a>.</p>
-</div>
-<div class="section" id="beteiligte">
-<h3>Beteiligte<a class="headerlink" href="#beteiligte" title="Link zu dieser Überschrift">¶</a></h3>
-<dl class="simple">
-<dt>Jens Klein</dt><dd><p>Idee, Initiator, Technik, Überarbeitung. <a class="reference external" href="http://kleinundpartner.at">Klein &amp; Partner KG</a></p>
-</dd>
-<dt>Robert Harm</dt><dd><p>Überarbeitung der meisten Kapitel und Publikation auf <a class="reference external" href="https://www.open3.at/">open3.at</a></p>
-</dd>
-</dl>
-</div>
-<div class="section" id="disclaimer">
-<h3>Disclaimer<a class="headerlink" href="#disclaimer" title="Link zu dieser Überschrift">¶</a></h3>
-<p>Die Erstellung des barrierefreien und maschinenlesbaren Regierungsprogramms erfolgte nach bestem Wissen und Gewissen.
-Durch die vielen manuellen Übertragungsschritte kann es passiert sein, dass sich eventuell Fehler (zb in der Anordnung von Unterpunkten) eingeschlichen haben, für die wir keine Gewähr übernehmen. Wenn derartiges auffällt, bitte einen <a class="reference external" href="https://github.com/jensens/RP-AT-2020/issues">Issue auf github.com/jensens/RP-AT-2020/issues</a> erstellen und wir werden dies umgehend korrigieren.</p>
-</div>
-</div>
-<div class="section" id="index-und-suche">
-<h2>Index und Suche<a class="headerlink" href="#index-und-suche" title="Link zu dieser Überschrift">¶</a></h2>
-<ul class="simple">
-<li><p><a class="reference internal" href="genindex.html"><span class="std std-ref">Stichwortverzeichnis</span></a></p></li>
-<li><p><a class="reference internal" href="search.html"><span class="std std-ref">Suche</span></a></p></li>
+</li>
 </ul>
 </div>
 </div>
@@ -620,27 +546,6 @@ Durch die vielen manuellen Übertragungsschritte kann es passiert sein, dass sic
         </div>
         <div class="side-doc-outline">
             <div class="side-doc-outline--content"> 
-<div class="localtoc">
-    <p class="caption">
-      <span class="caption-text">Table Of Contents</span>
-    </p>
-    <ul>
-<li><a class="reference internal" href="#">Österreichisches Regierungsprogramm 2020-2024</a><ul>
-<li><a class="reference internal" href="#regierungsprogramm">Regierungsprogramm</a></li>
-<li><a class="reference internal" href="#uber-das-projekt">Über das Projekt</a><ul>
-<li><a class="reference internal" href="#technik-manueller-eingriff">Technik &amp; manueller Eingriff</a></li>
-<li><a class="reference internal" href="#barrierefreiheit">Barrierefreiheit</a></li>
-<li><a class="reference internal" href="#mithelfen">Mithelfen</a></li>
-<li><a class="reference internal" href="#beteiligte">Beteiligte</a></li>
-<li><a class="reference internal" href="#disclaimer">Disclaimer</a></li>
-</ul>
-</li>
-<li><a class="reference internal" href="#index-und-suche">Index und Suche</a></li>
-</ul>
-</li>
-</ul>
-
-</div>
             </div>
         </div>
 
@@ -668,6 +573,7 @@ Durch die vielen manuellen Übertragungsschritte kann es passiert sein, dass sic
 <li class="toctree-l1"><a class="reference internal" href="04-00-Europa-Integration-Migration-Sicherheit.html">Europa, Integration, Migration &amp; Sicherheit</a></li>
 <li class="toctree-l1"><a class="reference internal" href="05-00-Soziale-Sicherheit-neue-Gerechtigkeit-Armutsbekaempfung.html">Soziale Sicherheit, neue Gerechtigkeit &amp; Armutsbekämpfung</a></li>
 <li class="toctree-l1"><a class="reference internal" href="06-00-Bildung.html">Bildung</a></li>
+<li class="toctree-l1"><a class="reference internal" href="README.html">Über das Projekt</a></li>
 </ul>
 
       </div>
@@ -675,7 +581,7 @@ Durch die vielen manuellen Übertragungsschritte kann es passiert sein, dass sic
 
     <div class="mdl-mini-footer__right-section">
         <div>&copy; Urheberschaft 2020, erstellt und publiziert durch &#34;Die neue Volkspartei/Die Grünen – Die Grüne Alternative&#34;, maschinenlesbar und barrierefrei bearbeitet von Jens Klein, Robert Harm und Helfern..</div>
-      <div>Generiert mit <a href="http://sphinx-doc.org/">Sphinx</a> 2.3.1 unter Verwendung der "<a href="https://github.com/myyasuda/sphinx_materialdesign_theme">"sphinx_materialdesign_theme" Theme </a>.</div>
+      <div>generiert mit <a href="http://sphinx-doc.org/">Sphinx</a> 2.3.1 unter Verwendung der "<a href="https://github.com/myyasuda/sphinx_materialdesign_theme">"sphinx_materialdesign_theme" Theme</a>.</div>
     </div>
 </footer>
         </main>
