@@ -21,7 +21,7 @@ Neben der Dekarbonisierung sind Digitalisierung und Sharing die größten Innova
 
 - Mobilitätsmasterplan 2030 für eine wirkungsorientierte integrierte Strategie für Luft-, Wasser-, Schienen- und Straßenverkehr, von der sich konkrete Maßnahmen für einzelne Sektoren ableiten, die Österreichs :index:`Klima- und Wirtschaftsziele` unterstützen
 
-  * Langfristige strategische Ausrichtung des Mobilitätssektors in Richtung Erfüllung des Pariser :index:`Klimaabkommen`s
+  * Langfristige strategische Ausrichtung des Mobilitätssektors in Richtung Erfüllung des Pariser :index:`Klimaabkommens <Klimaabkommen>`
   * Das gesamtstaatliche :index:`Klimaziel` für den Bereich Verkehr fungiert als übergeordnete verbindliche Handlungsanleitung, an der sich die strategische Planung für alle Verkehrsträger ausrichten muss.
   * Der Mobilitätsmasterplan 2030 adressiert die Transformationstreiber Dekarbonisierung und Digitalisierung. Er nutzt die Potentiale der Digitalisierung (Daten als Grundlage für modiübergreifende Steuerung und Nutzung neuer Geschäftsmodelle zur Erreichung der :index:`Klimaziele`). Im Mittelpunkt stehen Lebensqualität und Wettbewerbsfähigkeit. Hierfür müssen neue Mobilitätskonzepte und Innovationen gestärkt werden, u.a. auch mit der Etablierung von Experimentierräumen.
   * Aufgebaut wird der Mobilitätsmasterplan 2030 auf Vorarbeiten wie der #mission2030, dem NEKP oder dem Sachstandsbericht Mobilität. Er entwickelt Einzelmaßnahmen in den Bereichen „Verkehr vermeiden“, „Verkehr verlagern“ und „Verkehr verbessern“ – von Mobilitätsdienstleistungen bis hin zu Infrastrukturmaßnahmen.
