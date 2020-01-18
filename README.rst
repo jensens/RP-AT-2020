@@ -86,6 +86,24 @@ Bei Fragen dazu könnt ihr mich gerne kontaktieren:
 - Twitter: `yenzenz <https://twitter.com/yenzenz>`_
 - GitHub: erstellt einen `Issue auf github.com/jensens/RP-AT-2020/issues <https://github.com/jensens/RP-AT-2020/issues>`_.
 
+Noch zu erledigen
+-----------------
+
+Fehler ausbessern
+  An einigen stellen sind Worte noch falsch getrennt und andere kleine Fehler zu finden. 
+  Hier freuen wir uns über Verbesserungsvorschläge in Form eines Pull-Requests.
+
+Stichworte markieren
+  Stichworte im Code markieren ist auch eine wichtige Aufgabe.
+  Stichworte werden im Quelltext so markiert::
+
+     Die ist ein sinnloser :index:`Beispiel` Text, in dem eines :index:`Stichwortes <Stichwort>` gewürdigt wird.
+
+  Im ersten Fall wird das Wort direkt so genommen wie es da steht.
+  Im zweiten Fall wird es anders als angezeigt aufgenommen, so wie in den Spitzklammern.
+  In dem Fall hier wird die Grundform des Wortes übernommen.
+
+
 ----------
 Beteiligte
 ----------
@@ -95,6 +113,9 @@ Jens Klein
 
 Robert Harm
     Überarbeitung der meisten Kapitel und Publikation auf `open3.at <https://www.open3.at/>`_
+
+Erich Neuwirth
+    Erstellung der `Wortwolke <https://twitter.com/neuwirthe/status/1216526520254193664>`_ 
 
 ----------
 Disclaimer
