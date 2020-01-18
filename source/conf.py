@@ -79,7 +79,8 @@ html_theme_options = {
     'header_links': [
         ('Regierungsprogramm 2020-2024', 'index', False, 'home'),
         ('Suche', 'search', False, 'search'),
-        ('Stichwortverzeichnis', 'genindex', False, 'sort_by_alpha'),
+        ('Stichworte', 'genindex', False, 'sort_by_alpha'),
+        ('EPUB', 'regierungsprogramm-2020-2014.epub', True, 'book'),
         ("Open3", "https://www.open3.at", True, 'group'),
         ("GitHub", "https://github.com/jensens/RP-AT-2020", True, 'link')
     ],
@@ -106,3 +107,5 @@ html_add_permalinks = True
 html_split_index = True
 
 # html_sidebars = {}
+
+# epub support

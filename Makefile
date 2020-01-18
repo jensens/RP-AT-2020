@@ -13,11 +13,12 @@ help:
 	@$(SPHINXBUILD) -M help "$(SOURCEDIR)" "$(BUILDDIR)" $(SPHINXOPTS) $(O)
 
 all:
-	make html
 	make epub
 	rm "$(BUILDDIR)"/regierungsprogramm-2020-2014.epub || echo "epub did not exist"
 	cd "$(BUILDDIR)"/epub && zip -r ../regierungsprogramm-2020-2014.epub . && cd -
 	rm -r $(BUILDDIR)/epub/*
+	make html
+	cd docs && ln -sf ../build/regierungsprogramm-2020-2014.epub && cd -
 
 clean:
 	rm -r $(BUILDDIR)/epub/* || echo "no epub directory"
