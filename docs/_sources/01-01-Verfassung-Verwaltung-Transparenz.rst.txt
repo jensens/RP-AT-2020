@@ -4,16 +4,25 @@ Verfassung, Verwaltung & Transparenz
 
 :download:`Kapitel als PDF <../split/01-04-Medien.pdf>` (Teil des :download:`Originals <../original/RP2020.pdf>`).
 
-Staatliches Handeln ist in Österreich aufgrund der Bundesverfassung gegeben, die gerade die letzten Monate bewiesen hat, dass sie auch nach 100 Jahren ihrer Geltung das solide Fundament unserer Republik bildet. Wir wollen die vorhandenen Stärken dieser Bundesverfassung vor dem Hintergrund neuer Herausforderungen weiterentwickeln – damit die Menschenrechte, das Verfassungsrecht und der Rechtsstaat auch in Zukunft eine gute Grundlage für unser Land, für unsere Umwelt und für die Arbeit der österreichischen Verwaltung sind.
+Staatliches Handeln ist in Österreich aufgrund der Bundesverfassung gegeben, die gerade die letzten Monate bewiesen hat, dass sie auch nach 100 Jahren ihrer Geltung das solide Fundament unserer Republik bildet. 
+Wir wollen die vorhandenen Stärken dieser Bundesverfassung vor dem Hintergrund neuer Herausforderungen weiterentwickeln – damit die Menschenrechte, das Verfassungsrecht und der Rechtsstaat auch in Zukunft eine gute Grundlage für unser Land, für unsere Umwelt und für die Arbeit der österreichischen Verwaltung sind.
 
-Diese Verwaltung ist im Dienste der Bevölkerung sowie der Unternehmen in unserem Land tätig. Wir setzen uns als Bundesregierung daher für einen leistungsstarken, effizienten sowie nachhaltig und serviceorientiert agierenden öffentlichen Sektor ein. Durch ziel- und wirkungsorientiertes Arbeiten sowie Modernisierung soll in enger Kooperation mit den öffentlich Bediensteten sichergestellt werden, dass die hohe Qualität der erbrachten Leistungen den Bürgerinnen und Bürgern auch künftig niederschwellig zur Verfügung gestellt sowie Bürokratie serviceorientiert weiter vereinfacht werden kann.
+Diese Verwaltung ist im Dienste der Bevölkerung sowie der Unternehmen in unserem Land tätig. 
+Wir setzen uns als Bundesregierung daher für einen leistungsstarken, effizienten sowie nachhaltig und serviceorientiert agierenden öffentlichen Sektor ein. 
+Durch ziel- und wirkungsorientiertes Arbeiten sowie Modernisierung soll in enger Kooperation mit den öffentlich Bediensteten sichergestellt werden, dass die hohe Qualität der erbrachten Leistungen den Bürgerinnen und Bürgern auch künftig niederschwellig zur Verfügung gestellt sowie Bürokratie serviceorientiert weiter vereinfacht werden kann.
 
-So bürgernah wie möglich, so effizient wie nötig – diesem Grundprinzip fühlen wir uns verpflichtet. Im modernen Föderalismus ist die Kooperation zwischen Bund, Ländern und Gemeinden entscheidend für das Funktionieren unseres Staates und damit für das Vertrauen der Bürgerinnen und Bürger.
+So bürgernah wie möglich, so effizient wie nötig – diesem Grundprinzip fühlen wir uns verpflichtet. 
+Im modernen Föderalismus ist die Kooperation zwischen Bund, Ländern und Gemeinden entscheidend für das Funktionieren unseres Staates und damit für das Vertrauen der Bürgerinnen und Bürger.
 
-Wesentlich für dieses öffentliche Vertrauen sind Rechtssicherheit, Bürgernähe und Transparenz. Das gilt für die Aufgabenteilung im Staat, für Finanzflüsse zwischen denstaatlichen Ebenen, für das Förderwesen –
-und es gilt für staatliches Handeln insgesamt. Wir wollen keine gläsernen Bürgerinnen und Bürger, sondern einen gläsernen Staat. Und dafür sind wir bereit, alte Wege zu verlassen und neue zeitgemäße Lösungen umzusetzen.
+Wesentlich für dieses öffentliche Vertrauen sind Rechtssicherheit, Bürgernähe und Transparenz. 
+Das gilt für die Aufgabenteilung im Staat, für Finanzflüsse zwischen denstaatlichen Ebenen, für das Förderwesen –
+und es gilt für staatliches Handeln insgesamt. Wir wollen keine gläsernen Bürgerinnen und Bürger, sondern einen gläsernen Staat. 
+Und dafür sind wir bereit, alte Wege zu verlassen und neue zeitgemäße Lösungen umzusetzen.
 
-Transparenz ist ein entscheidender Faktor eines demokratischen Gemeinwesens. Daher werden wir das Wahlrecht zeitgemäß modernisieren und vollständige Transparenz der Parteien und vor allem im Bereich der Parteienfinanzierung herstellen. Damit wollen wir das Vertrauen in die Politik stärken und das politische Engagement fördern. Beides bildet die Grundlage der funktionierenden Demokratie unserer Republik.
+Transparenz ist ein entscheidender Faktor eines demokratischen Gemeinwesens. 
+Daher werden wir das Wahlrecht zeitgemäß modernisieren und vollständige Transparenz der Parteien und vor allem im Bereich der Parteienfinanzierung herstellen. 
+Damit wollen wir das Vertrauen in die Politik stärken und das politische Engagement fördern. 
+Beides bildet die Grundlage der funktionierenden Demokratie unserer Republik.
 
 Verfassungsstaat auf der Höhe der Zeit
 --------------------------------------
@@ -60,7 +69,7 @@ Verfassungsstaat auf der Höhe der Zeit
 
 - Weiterentwicklung des datenschutzrechtlichen Grundrechtschutzes
 
-  * Ausweitung der Vertretungsrechte nach §28 DSG auf Verfahren nach § 29 DSG für Unternehmen mit einer Unternehmensgröße analog der Regelung in der österreichischen Digitalsteuer
+  * Ausweitung der Vertretungsrechte nach §28 DSG auf Verfahren nach § 29 DSG für Unternehmen mit einer Unternehmensgröße analog der Regelung in der österreichischen :index:`Digitalsteuer`
 
 Ein neuer Finanzausgleich
 -------------------------

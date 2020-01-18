@@ -1,26 +1,26 @@
-----------------------------
-Digitalisierung & Innovation
-----------------------------
+-------------------------------------
+:index:`Digitalisierung` & Innovation
+-------------------------------------
 
 :download:`Kapitel als PDF <../split/06-03-Digitalisierung-Innovation.pdf>` (Teil des :download:`Originals <../original/RP2020.pdf>`).
 
-Digitalisierung & Innovation
-----------------------------
+:index:`Digitalisierung` & Innovation
+-------------------------------------
 
-Wir leben in Zeiten des Umbruchs – der technologische Fortschritt wird immer rasanter und die digitale Vernetzung immer globaler.
+Wir leben in Zeiten des Umbruchs – der technologische Fortschritt wird immer rasanter und die :index:`digitale Vernetzung` immer globaler.
 Die damit einhergehenden Fragestellungen betreffen Veränderungen in unserer Verwaltung, in unserem Alltagsleben und unserer Demokratie genauso wie in österreichischen Unternehmen.
 Zentrale Herausforderung für die Politik ist es hierbei, Chancen bestmöglich zu nutzen und Risiken frühzeitig zu minimieren.
 
-Die Bundesregierung bekennt sich zu dem Ziel, Österreich zu einer der führenden Digitalnationen innerhalb der Europäischen Union zu machen.
-Jede Österreicherin und jeder Österreicher soll die Vorteile der Digitalisierung in allen Lebensbereichen möglichst eigenverantwortlich, transparent und erfolgreich nützen können.
-Eine aktive Digitalisierungspolitik schafft dafür gesellschaftspolitische, wirtschaftliche, rechtliche, infrastrukturelle und demokratische Rahmenbedingungen und sichert den Aufbau digitaler Kompetenzen.
+Die Bundesregierung bekennt sich zu dem Ziel, Österreich zu einer der führenden :index:`Digitalnationen <Digitalnation>` innerhalb der Europäischen Union zu machen.
+Jede Österreicherin und jeder Österreicher soll die Vorteile der :index:`Digitalisierung` in allen Lebensbereichen möglichst eigenverantwortlich, transparent und erfolgreich nützen können.
+Eine aktive :index:`Digitalisierungspolitik` schafft dafür gesellschaftspolitische, wirtschaftliche, rechtliche, infrastrukturelle und demokratische Rahmenbedingungen und sichert den Aufbau :index:`digitaler Kompetenzen <digitale Kompetenz>`.
 
 Die Grundlage für diesen Fortschritt bildet eine flächendeckende, technologieneutrale Breitband-Versorgung in ganz Österreich.
 Eine umfassende Breitbandstrategie sorgt für effizienten und raschen Ausbau der benötigten Breitband-Infrastrukturen.
-Empfehlungen des Rechnungshofes im Bereich digitale Infrastrukturen werden dabei berücksichtigt.
+Empfehlungen des Rechnungshofes im Bereich :index:`digitale Infrastrukturen <digitale Infrastruktur>` werden dabei berücksichtigt.
 
-Darauf aufbauend soll die öffentliche Verwaltung durch die Digitalisierung einfacher werden – modern, effizient und bürgerorientiert – mit Fokus auf die Menschen und deren Lebenssituationen.
-Höchstmöglicher und vollumfängliche Kontrolle über die eigenen Daten sind dafür Grundvoraussetzungen. :index:`Open Data` schafft neue Möglichkeiten für gesteigerte Transparenz von Politik und eine vorausschauende Netzpolitik sichert Grund- und Persönlichkeitsrechte im digitalen Raum.
+Darauf aufbauend soll die öffentliche Verwaltung durch die :index:`Digitalisierung` einfacher werden – modern, effizient und bürgerorientiert – mit Fokus auf die Menschen und deren Lebenssituationen.
+Höchstmöglicher und vollumfängliche Kontrolle über die eigenen Daten sind dafür Grundvoraussetzungen. :index:`Open Data` schafft neue Möglichkeiten für gesteigerte Transparenz von Politik und eine vorausschauende Netzpolitik sichert Grund- und Persönlichkeitsrechte im :index:`digitalen Raum <digitaler Raum>`.
 
 Österreichs Beitrag auf in in Bezug Zukunftstechnologien und neuen Technologiefeldern wird weiter gestärkt (Wirtschaft 4.0).
 Die Künstliche-Intelligenz-Strategie des Bundes umfasst die Klärung regulativer Fragen, die Schaffung von Infrastrukturen sowie die Definition von Schwerpunkten.
@@ -37,7 +37,7 @@ Flächendeckende technologieneutrale Breitband-Versorgung österreichweit sicher
 
 - Breitbandstrategie 2030 weiterentwickeln und Glasfaserausbau vorantreiben:
 
-  * Ziel für 2030: Flächendeckende Versorgung mit festen und mobilen Gigabit-Anschlüssen (Vermeidung einer digitalen Kluft zwischen Stadt und Land, besonderer Fokus hinsichtlich Glasfaser-Ausbau in Gewerbegebieten und öffentlichen Einrichtungen)
+  * Ziel für 2030: Flächendeckende Versorgung mit festen und mobilen Gigabit-Anschlüssen (Vermeidung einer :index:`digitalen Kluft <digitale Kluft>` zwischen Stadt und Land, besonderer Fokus hinsichtlich Glasfaser-Ausbau in Gewerbegebieten und öffentlichen Einrichtungen)
   * Einsatz von neuen Technologien laufend evaluieren, um ländlichen Raum rasch zu erschließen, z.B. komplementäre Technologien für die Last-Mile-Problematik testen (Glasfaser bis zum Ortskern, kabellose Weiterverbindung zum Haushalt)
   * Ausbau des Backbone Austria und der Backhauls vorantreiben
   * Breitbandmilliarde neu strukturieren (Förderungen können ganzjährig beantragt werden; klar definierte qualitative und temporäre Ausbauverpflichtungen mit Sperre des Fördererwerbs bei Nichteinhaltung)
@@ -52,7 +52,7 @@ Flächendeckende technologieneutrale Breitband-Versorgung österreichweit sicher
   * Aktualisierung des Breitbandatlas für Österreich als Informationsplattform des Bundes (aufbauend auf Netztestung der RTR)
   * Prüfung der Weiterentwicklung der Zentralen Informationsstelle für Infrastrukturdaten (ZIS) hin zu einer Handelsplattform für Kommunikationsinfrastrukturen
 
-- Rasche Abwicklung der geplanten Multiband-Ausschreibungsrunde (5G) mit begleitender Evaluierung unter Einhaltung der Versorgungsauflagen. Frequenzerlöse für digitale Infrastruktur und digitale Anwendungen nutzen
+- Rasche Abwicklung der geplanten Multiband-Ausschreibungsrunde (5G) mit begleitender Evaluierung unter Einhaltung der Versorgungsauflagen. Frequenzerlöse für :index:`digitale Infrastruktur` und :index:`digitale Anwendungen <digitale Anwendung>` nutzen
 
 - Fairen Wettbewerb im Leitungsnetz sicherstellen
 
@@ -63,27 +63,27 @@ Flächendeckende technologieneutrale Breitband-Versorgung österreichweit sicher
 Eine staatliche Verwaltung für das 21. Jahrhundert mit den Bürgerinnen und Bürgern im Mittelpunkt
 -------------------------------------------------------------------------------------------------
 
-- Ausbau „Digitale Verwaltung“: Alle Bürgerinnen und Bürger sowie Unternehmen sollen nach Möglichkeit Amtsgeschäfte digital abwickeln können. Unabhängig vom digitalen Angebot muss ein Behördenweg auch weiterhin analog möglich sein.
+- Ausbau „:index:`Digitale Verwaltung <digitale Verwaltung>`“: Alle Bürgerinnen und Bürger sowie Unternehmen sollen nach Möglichkeit :index:`Amtsgeschäfte digital <digitales Amtsgeschäft>` abwickeln können. Unabhängig vom :index:`digitalen Angebot <digitales Angebot>` muss ein Behördenweg auch weiterhin analog möglich sein.
 
-  * Ziel ist eine durchgängige digitale Abwicklung (von der Einbringung bis zum Bescheid).
-  * Ausbau Digitales Amt und oesterreich.gv.at zu zentralen Plattformen für die Interaktion von Bürgerinnen und Bürgern mit der Verwaltung
+  * Ziel ist eine durchgängige :index:`digitale Abwicklung` (von der Einbringung bis zum Bescheid).
+  * Ausbau :index:`Digitales Amt <digitales Amt>` und `oesterreich.gv.at <https://oesterreich.gv.at>`_ zu zentralen Plattformen für die Interaktion von Bürgerinnen und Bürgern mit der Verwaltung
   * Persönliche Datensouveränität sichern: Ein persönliches Bürgerkonto schaffen, das den Österreicherinnen und Österreichern die einfache, rasche und sichere Erledigung von häufigen Behördenwegen ermöglicht sowie auf einen Blick ersichtlich macht, welche Daten der Staat von ihnen gespeichert hat. Das Prinzip der bereichsspezifischen Trennung der Bürgerdaten ist aufrechtzuerhalten.
-  * Sukzessive Ausweitung und Optimierung (insbesondere hinsichtlich der Benutzbarkeit und Praxistauglichkeit) der digitalen Behördenwege für natürliche Personen und Unternehmen, schrittweiser Ausbau mehrsprachiger Angebote für die anerkannten Volksgruppen sowie auf Englisch
-  * Integration wichtiger Ausweise in das Digitale Amt (u.a. des Führerscheins, des Zulassungsscheins und des Personalausweises)
-  * Ermöglichen weiterer Verfahren (Nebenwohnsitzmeldung, Verlustmeldung von Dokumenten, Strafregisterauszug, Digitale Vignette etc.) und partizipativer Instrumente
+  * Sukzessive Ausweitung und Optimierung (insbesondere hinsichtlich der Benutzbarkeit und Praxistauglichkeit) der :index:`digitalen Behördenwege <digitaler Behördenweg>` für natürliche Personen und Unternehmen, schrittweiser Ausbau mehrsprachiger Angebote für die anerkannten Volksgruppen sowie auf Englisch
+  * Integration wichtiger Ausweise in das :index:`Digitale Amt <digitales Amt>` (u.a. des Führerscheins, des Zulassungsscheins und des Personalausweises)
+  * Ermöglichen weiterer Verfahren (Nebenwohnsitzmeldung, Verlustmeldung von Dokumenten, Strafregisterauszug, :index:`Digitale Vignette <digitale Vignette>` etc.) und partizipativer Instrumente
   * Ausbau einer sicheren elektronischen Zustellung von Behördenkommunikation für Bürgerinnen und Bürger sowie Unternehmen („E-Zustellung“ auf freiwilliger Basis)
-  * Digitale Identität ermöglichen: Einführung einer E-ID zur Nutzung im öffentlichen und privaten Bereich, basierend auf einem umfassenden datenschutzrechtlichen Konzept
+  * :index:`Digitale Identität <digitale Identität>` ermöglichen: Einführung einer E-ID zur Nutzung im öffentlichen und privaten Bereich, basierend auf einem umfassenden datenschutzrechtlichen Konzept
   * Zum gezielten Nachweis bestimmter Angaben wie Alter, Staatsangehörigkeit etc. in wahlweise anonymer, pseudonymer oder identifizierter Form und ohne Offenlegung sämtlicher weiteren Ausweis- bzw. Identifikationsdaten (Grundsatz der Datenminimierung)
 
-- Digitale Kommunikation in der Verwaltung ausbauen: Um die Digitalisierung der Ver-waltung voranzutreiben, wird eine Verpflichtung zur digitalen Kommunikation der Verwaltungsorgane des Bundes untereinander eingeführt. Dort, wo es inhaltlich sinnvoll erscheint und es ausschreibungskonformmöglich ist, soll eine partnerschaftliche Zusammenarbeit mit der Post angestrebt werden. Länder und Gemeinden sollen bestmöglich eingebunden werden.
+- :index:`Digitale Kommunikation <digitale Kommunikation>` in der Verwaltung ausbauen: Um die :index:`Digitalisierung` der Verwaltung voranzutreiben, wird eine Verpflichtung zur :index:`digitalen Kommunikation <digitale Kommunikation>` der Verwaltungsorgane des Bundes untereinander eingeführt. Dort, wo es inhaltlich sinnvoll erscheint und es ausschreibungskonformmöglich ist, soll eine partnerschaftliche Zusammenarbeit mit der Post angestrebt werden. Länder und Gemeinden sollen bestmöglich eingebunden werden.
 
 - Ö-Cloud einführen: Schaffung eines nationalen Netzwerks an Servern, auf dem Nutzerinnen und Nutzer in Österreich ihre Daten benutzerfreundlich in der Cloud abspeichern können. Dabei soll garantiert sein, dass unsere hohen heimischen Datenschutzbestimmungen zu jeder Zeit gelten.
 
 - Aufbau des Once-Only-Prinzips für Unternehmen sowie für Bürgerinnen und Bürger bei Verwaltungsverfahren: Alle relevanten Daten sollen Verwaltungsbehörden nur einmal bereitgestellt werden müssen und ab dann bei unterschiedlichen Behördenwegen automatisiert abrufbar sein. Das Prinzip der bereichsspezifischen Trennung der Bürgerdaten ist aufrechtzuerhalten.
 
-- Digital-Check neuer Gesetze: Wo immer möglich, sollen Verwaltungsprozesse, die aus neuen Gesetzen entstehen, digital – wenn möglich auch automatisiert – vollzogen werden können. Bereits bestehende Verwaltungsprozesse sollen hinsichtlich der Möglichkeiten zur Digitalisierung durchforstet werden.
+- :index:`Digital-Check neuer Gesetze`: Wo immer möglich, sollen Verwaltungsprozesse, die aus neuen Gesetzen entstehen, :index:`digital` – wenn möglich auch automatisiert – vollzogen werden können. Bereits bestehende Verwaltungsprozesse sollen hinsichtlich der Möglichkeiten zur :index:`Digitalisierung` durchforstet werden.
 
-  * Datenschutz ist ein wichtiger Teil dieses Digital-Checks.
+  * Datenschutz ist ein wichtiger Teil dieses :index:`Digital-Checks <Digital-Check neuer Gesetze>`.
   * Strukturierter Ansatz zur Evaluierung von RPA-Potenzial (robotic process automization), um Kosten in der Verwaltung zu reduzieren
   * Weitere Pilotprojekte zur möglichen Automatisierung von Anträgen und Bewilligungen, aufbauend auf bestehende Erfahrung im Bundesministerium für Finanzen. Bei der Gestaltung von Entscheidungen, die unmittelbare Auswirkungen auf Menschen haben, wird geprüft, ob diese nach ethischen Gesichtspunkten von Menschen getroffen werden müssen.
 
@@ -97,7 +97,7 @@ Eine staatliche Verwaltung für das 21. Jahrhundert mit den Bürgerinnen und Bü
 
 - Prüfung einer verstärkten Zusammenarbeit des Bundesrechenzentrums (BRZ) und der Statistik Austria
 
-- Weiterentwicklung des BRZ in ein Kompetenzzentrum für Digitalisierung in der Bundesverwaltung.
+- Weiterentwicklung des BRZ in ein Kompetenzzentrum für :index:`Digitalisierung in der Bundesverwaltung`.
 
 - Entwicklung eines Konzeptes für Green IT im Bund: Ziel ist es, den Energieverbrauch der IT des Bundes und seiner Tochterorganisationen durch energiesparende Hardware, Betriebssysteme und Anwendungs-Software abzusenken.
 
@@ -106,21 +106,21 @@ Eine staatliche Verwaltung für das 21. Jahrhundert mit den Bürgerinnen und Bü
 
 - Zugang zu Rechtsinformation erheblich verbessern, indem das Rechtsinformationssystem des Bundes (RIS) zu einer intelligenten Plattform RIS+ weiterentwickelt wird, die intelligente Such-, Aggregations- und Visualisierungsfunktionen bietet (unter Beibehaltung der Gebührenfreiheit)
 
-- Einführung und Weiterentwicklung eines nationalen Referenzrahmens, der, aufbauend auf das EU-Standardmodell DigComp, digitale Fähigkeiten mess- und vergleichbar macht
+- Einführung und Weiterentwicklung eines nationalen Referenzrahmens, der, aufbauend auf das EU-Standardmodell DigComp, :index:`digitale Fähigkeiten <digitale Fähigkeit>` mess- und vergleichbar macht
 
 - Die Einrichtung einer Kommission für ethische Fragestellungen im Bundeskanzleramt ist zu prüfen – unter Berücksichtigung bestehender Kompetenzen (z.B. Bioethikkommission, Robotikrat/KI-Rat).
 
-- Schaffung eines Digitalrates als High-Level-Beratungsgremium der Bundesregierung und der Landesregierungen
+- Schaffung eines :index:`Digitalrates <Digitalrat>` als High-Level-Beratungsgremium der Bundesregierung und der Landesregierungen
 
-- Digitalisierungsagentur als Kompetenzzentrum für digitale Innovation ausbauen: Die in der letzten Legislaturperiode geschaffene Digitalisierungsagentur wird ein unabhängiger Servicedienstleister für Bewusstseinsbildung, technische Beratung und Umsetzung. Ein weiterer besonderer Fokus liegt auf der Entwicklung von E-Government-Anwendungen.
+- :index:`Digitalisierungsagentur` als Kompetenzzentrum für :index:`digitale Innovation` ausbauen: Die in der letzten Legislaturperiode geschaffene :index:`Digitalisierungsagentur` wird ein unabhängiger Servicedienstleister für Bewusstseinsbildung, technische Beratung und Umsetzung. Ein weiterer besonderer Fokus liegt auf der Entwicklung von E-Government-Anwendungen.
 
 - Prüfung der bestehenden Einzelgebühren für Registerabfragen, Möglichkeit zur Pauschalierung prüfen
 
 - Kostenlose Registernutzung innerhalb der Verwaltung für alle Bundesbehörden bzw. Gebietskörperschaften prüfen
 
-- Umsetzung der Barrierefreiheit gemäß Webzugänglichkeitsgesetz bei neuen Digital-Anwendungen bzw. bei öffentlichen Beschaffungen
+- Umsetzung der Barrierefreiheit gemäß Webzugänglichkeitsgesetz bei neuen :index:`Digital-Anwendungen <digitale Anwendung>` bzw. bei öffentlichen Beschaffungen
 
-- Schaffung eines „Digital Leadership“-Lehrgangs, ähnlich dem Strategischen Führungslehrgang des Bundes
+- Schaffung eines :index:`„Digital Leadership“-Lehrgangs <Digital-Leadership-Lehrgang>`, ähnlich dem Strategischen Führungslehrgang des Bundes
 
 - Weiterentwicklung des Unternehmensserviceportals (USP) zu einer umfassenden Plattform für die Interaktion zwischen Unternehmen und Verwaltung (inkl. Förderansuchen etc.)
 
@@ -130,11 +130,11 @@ Eine staatliche Verwaltung für das 21. Jahrhundert mit den Bürgerinnen und Bü
   * Erhöhung der Transparenz für die Bevölkerung sicherstellen
   * Das Prinzip der bereichsspezifischen Trennung der Bürgerdaten ist aufrechtzuerhalten.
 
-- Digitale Aktivitäten der Bundesinstitutionen abstimmen (CDOs beibehalten, ressortübergreifende Projekte umsetzen)
+- :index:`Digitale Aktivitäten <digitale Aktivität>` der Bundesinstitutionen abstimmen (CDOs beibehalten, ressortübergreifende Projekte umsetzen)
 
 - Building Information Modelling (BIM) verstärkt in der öffentlichen Beschaffung berücksichtigen
 
-- Digitalisierung von Kunstschätzen: Durch virtuelle Darstellung von Sehenswürdigkeiten auf nationalen und europäischen Plattformen sollen in den nächsten Jahren die wertvollsten Teile unseres kulturellen Erbes weiter digitalisiert und so weltweit barrierefrei zugänglich gemacht werden.
+- :index:`Digitalisierung von Kunstschätzen`: Durch virtuelle Darstellung von Sehenswürdigkeiten auf nationalen und europäischen Plattformen sollen in den nächsten Jahren die wertvollsten Teile unseres kulturellen Erbes weiter :index:`digitalisiert <Digitalisierung>` und so weltweit barrierefrei zugänglich gemacht werden.
 
 - Die Bundesregierung bekennt sich zur Schaffung europäischer Infrastruktur und Innovation, um europäische Kräfte zu bündeln.
 
@@ -160,9 +160,9 @@ Eine staatliche Verwaltung für das 21. Jahrhundert mit den Bürgerinnen und Bü
 
 - Erstellung eines Masterplans (inklusive Machbarkeitsstudie), um eine Strategie zur Nutzung von :index:`Open Source` Software im Bund zu entwickeln.
 
-- Prüfung der Digitalisierung/Erschließung von Archiven des Bundes
+- Prüfung der :index:`Digitalisierung`/Erschließung von Archiven des Bundes
 
-- Aufbau eines Digital Data Hubs innerhalb der :index:`Open Data` Struktur des Bundes, der kuratierte, aufbereitete und anonymisierte Daten für gemeinwohlorientierte Forschung und Entwicklung zur Verfügung stellt
+- Aufbau eines :index:`Digital Data Hubs <Digital Data Hub>` innerhalb der :index:`Open Data` Struktur des Bundes, der kuratierte, aufbereitete und anonymisierte Daten für gemeinwohlorientierte Forschung und Entwicklung zur Verfügung stellt
 
   * Möglichkeit schaffen, dass Unternehmen hierzu ihre Daten (anonymisiert) miteinander auf freiwilliger Basis teilen können
   * Kriterien zur wirkungsvollen Anonymisierung von personenbezogenen Daten sind zu entwickeln.
@@ -172,11 +172,11 @@ Grundlagen für eine Wirtschaft 4.0 schaffen
 
 - Aufbau eines nationalen staatlich kofinanzierten Technologie-, Innovations- und Wachstums-Fonds, der Risikokapital zur Verfügung stellt und so die nachhaltige Etablierung von europäischen Schlüsseltechnologien unterstützt (aufbauend auf beste hende Mittelstands- und Gründerfonds)
 
-- Digitale Plattformökonomie in Österreich fair gestalten: Innovation aus dem In- und Ausland fördern und zulassen, aber Wettbewerb mit traditionellen Geschäftsmodellen fair gestalten (vor allem regulative und steuerliche Schlupflöcher schließen)
+- :index:`Digitale Plattformökonomie <digitale Plattformökonomie>` in Österreich fair gestalten: Innovation aus dem In- und Ausland fördern und zulassen, aber Wettbewerb mit traditionellen Geschäftsmodellen fair gestalten (vor allem regulative und steuerliche Schlupflöcher schließen)
 
-- KMU-Digital ausbauen: Digitalisierungsoffensive für KMUs in allen Bundesländern anbieten (gemeinsam mit aws und WKÖ). Prüfung einer zusätzlichen Möglichkeit zur Unterstützung der digitalen Weiterbildung von Personal sowie Unternehmerinnen und Unternehmern (Bildungsscheck)
+- :index:`KMU-Digital` ausbauen: :index:`Digitalisierungsoffensive` für KMUs in allen Bundesländern anbieten (gemeinsam mit aws und WKÖ). Prüfung einer zusätzlichen Möglichkeit zur Unterstützung der :index:`digitalen Weiterbildung <digitale Weiterbildung>` von Personal sowie Unternehmerinnen und Unternehmern (Bildungsscheck)
 
-  * Förderungen von Digitalisierungsmaßnahmen im Bereich von produzierenden KMUs („smart factory“)
+  * Förderungen von :index:`Digitalisierungsmaßnahmen <Digitalisierungsmaßnahme>` im Bereich von produzierenden KMUs („smart factory“)
   * Unter anderem Fokus auf datenschutz- und grundrechtsfreundliche Technikgestaltung sowie Maßnahmen zur Reduktion/Optimierung von Ressourcenverbräuchen
 
 Zukunftstechnologien – Chancen nutzen
@@ -209,7 +209,7 @@ Netzpolitik vorausschauend gestalten
 
 - Prüfung der Einrichtung einer Kompetenzstelle für IT-Sicherheit, :index:`Cybersicherheit` sowie Datenschutztechnik und als Prüf- und Beratungsstelle für die öffentliche Verwaltung, Wirtschaft sowie Bürgerinnen und Bürger. Zusammenarbeit mit österreichischen, europäischen und internationalen Datenschutz- und Datensicherheitseinrichtungen
 
-- Durchführung hersteller- bzw. betreiberunabhängiger Technikfolgenabschätzungen bei wesentlichen öffentlichen Digitalisierungsvorhaben sowie verstärkte Durchführung von Technikfolgenabschätzungen bei risikogeneigten Regelungsmaterien (z.B. intelligente Transportsysteme, selbstfahrende Fahrzeuge, Assistenz- und Leitsysteme etc.)
+- Durchführung hersteller- bzw. betreiberunabhängiger Technikfolgenabschätzungen bei wesentlichen öffentlichen :index:`Digitalisierungsvorhaben` sowie verstärkte Durchführung von Technikfolgenabschätzungen bei risikogeneigten Regelungsmaterien (z.B. intelligente Transportsysteme, selbstfahrende Fahrzeuge, Assistenz- und Leitsysteme etc.)
 
 - Freiwilligkeit der Teilnahme von Betroffenen an infrastrukturell vernetzten Anwendungen
 
@@ -220,7 +220,7 @@ Netzpolitik vorausschauend gestalten
 Zukunftssichere Rahmenbedingungen für künstliche Intelligenz schaffen
 ---------------------------------------------------------------------
 
-- Im Zentrum unserer demokratischen Gesellschaft und des technologischen Fortschritts steht der Mensch. Die Digitalisierung wird dabei aktiv genutzt, um die Bedingungen für ein menschenwürdiges und selbstbestimmtes Leben zu stärken.
+- Im Zentrum unserer demokratischen Gesellschaft und des technologischen Fortschritts steht der Mensch. Die :index:`Digitalisierung` wird dabei aktiv genutzt, um die Bedingungen für ein menschenwürdiges und selbstbestimmtes Leben zu stärken.
 
 - Die Entwicklung einer KI-Strategie für Österreich erfolgt basierend auf dem vorliegenden Expertenbericht aus dem Jahr 2019 (erarbeitet durch 150 Expertinnen und Experten).
 
@@ -242,13 +242,13 @@ Zukunftssichere Rahmenbedingungen für künstliche Intelligenz schaffen
 
 - Einsatz mit unseren europäischen Partnerinnen und Partnern, um die Schaffung KI-gesteuerter Waffen („Automated Weapons“) weltweit zu unterbinden bzw. zu regulieren
 
-- Die Einrichtung eines Calls im Bereich Digitaler Humanismus (Erforschung der komplexen Interaktion zwischen Menschen und Maschine inklusive Gestaltungsmöglichkeiten) wird in die österreichische KI-Strategie einfließen.
+- Die Einrichtung eines Calls im Bereich :index:`Digitaler Humanismus <digitaler Humanismus>` (Erforschung der komplexen Interaktion zwischen Menschen und Maschine inklusive Gestaltungsmöglichkeiten) wird in die österreichische KI-Strategie einfließen.
 
-- Universitäten sind als wichtige Themenleader in die Entwicklung der KI-Strategie zentral einzubinden (v.a. im Bereich Digitalisierungsethik).
+- Universitäten sind als wichtige Themenleader in die Entwicklung der KI-Strategie zentral einzubinden (v.a. im Bereich :index:`Digitalisierungsethik`).
 
 - Eine verstärkte Forschungszusammenarbeit der IT-Forschenden mit Geistes-, Sozial- und Kulturwissenschaften ist zu stimulieren.
 
-- Der gesellschaftliche Diskurs zu ethischen Fragen u.a. auch der Digitalisierung soll gebündelt und institutionalisiert werden, um eine strukturierte Auseinandersetzung mit den ethischen Herausforderungen unter Einbeziehung umfassender Interessensgruppen zu ermöglichen.
+- Der gesellschaftliche Diskurs zu ethischen Fragen u.a. auch der :index:`Digitalisierung` soll gebündelt und institutionalisiert werden, um eine strukturierte Auseinandersetzung mit den ethischen Herausforderungen unter Einbeziehung umfassender Interessensgruppen zu ermöglichen.
 
 - Zusammenführung der relevanten Beiräte (Roboter-Beirat, KI-Beirat)
 

@@ -67,7 +67,7 @@ Teilhabe am Kapitalmarkt und private Altersvorsorge stärken
   * Ziel der Teilnahme Österreichs am entsprechenden Modul der PISA-Tests
   * Lebenslange, berufsbegleitende Lehrangebote zum Kapitalmarkt mit privaten Partnern, um gesamtgesellschaftliche Teilhabe zu ermöglichen
 
-- Digitalisierung im österreichischen Kapitalmarkt vorantreiben: z.B. digitale Schuldverschreibung (für Wertpapiere, Anleihen, Zertifikate etc.) und Bekämpfung Finanzkriminalität (z.B. pattern recognition und Einsatz von KI) bzw. Fortsetzung der Tätigkeit des FinTech-Beirats
+- :index:`Digitalisierung` im österreichischen Kapitalmarkt vorantreiben: z.B. :index:`digitale Schuldverschreibung` (für Wertpapiere, Anleihen, Zertifikate etc.) und Bekämpfung Finanzkriminalität (z.B. pattern recognition und Einsatz von KI) bzw. Fortsetzung der Tätigkeit des FinTech-Beirats
 
 Einsatz auf EU-Ebene für einen starken Kapitalmarkt
 ---------------------------------------------------

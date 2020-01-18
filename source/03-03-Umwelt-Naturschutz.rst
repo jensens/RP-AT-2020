@@ -248,7 +248,7 @@ Umweltverfahren verbessern
 
 - Zur Vermeidung eines EuGH-Verfahrens und im Sinne der Rechtssicherheit werden verbindliche strategische Umweltprüfungen in den vom Vertragsverletzungsverfahren 2017/4072 abgedeckten Bereichen eingeführt.
 
-- Schaffung einer zentralen, digitalen Plattform für die Kundmachung von (umweltrechtlichen) bereits jetzt veröffentlichungspflichtigen Genehmigungsbescheiden; diese Veröffentlichung soll die Rechtsmittelfrist und Stellungnahmefrist in (den umweltrechtlichen) Verfahren auslösen.
+- Schaffung einer zentralen, :index:`digitalen Plattform für die Kundmachung von (umweltrechtlichen) bereits jetzt veröffentlichungspflichtigen Genehmigungsbescheiden <digitale Genehmigungsbescheide>`; diese Veröffentlichung soll die Rechtsmittelfrist und Stellungnahmefrist in (den umweltrechtlichen) Verfahren auslösen.
 
 - Eine solche Kundmachungsplattform bringt für Behörden und Projektwerber Kosteneinsparungen und ermöglicht es Bürgerinnen und Bürgern, zeitnah Informationen für sie relevante Verfahren zu erhalten; die Verpflichtungen zur Auflage bleiben unberührt.
 

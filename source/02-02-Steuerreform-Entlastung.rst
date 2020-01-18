@@ -151,11 +151,11 @@ Vereinfachung und moderne Services
 
 - Schaffung einer automatisierten Vorprüfung mit vorgelagerten Kontrollalgorithmen für die Umsatzsteuer, Einkommensteuer und Körperschaftsteuer, um im Rahmen der Selbstveranlagung das Verfahren zu beschleunigen
 
-- Neue digitale Angebote der Finanzverwaltung: z.B. Apps für Terminerinnerungen oder mobile Zahlungsmöglichkeiten, Einziehungsauftrag für Abgabenschulden
+- Neue :index:`digitale Angebote <digitales Angebot>` der Finanzverwaltung: z.B. Apps für Terminerinnerungen oder mobile Zahlungsmöglichkeiten, Einziehungsauftrag für Abgabenschulden
 
-- Weitere Modernisierung der Steuer- und Zollverwaltung (strukturelle Reform) unter Berücksichtigung der Möglichkeiten der Digitalisierung (effizientere elektronische Abwicklung)
+- Weitere Modernisierung der Steuer- und Zollverwaltung (strukturelle Reform) unter Berücksichtigung der Möglichkeiten der :index:`Digitalisierung` (effizientere elektronische Abwicklung)
 
-- Digitaler Datenaustausch auf Basis international anerkannter Standards: Für Unternehmen (insbesondere KMU) wird die technische Möglichkeit zur Übermittlung der Daten des Rechnungswesens für digitale Prüfung geschaffen (auf freiwilliger Basis und unter Wahrung des Datenschutzes).
+- :index:`Digitaler Datenaustausch <digitaler Datenaustausch>` auf Basis international anerkannter Standards: Für Unternehmen (insbesondere KMU) wird die technische Möglichkeit zur Übermittlung der Daten des Rechnungswesens für digitale Prüfung geschaffen (auf freiwilliger Basis und unter Wahrung des Datenschutzes).
 
 - Festhalten an Jahressteuergesetzen (einmal im Jahr) – statt wie bisher mehrere Abgabengesetze pro Jahr
 

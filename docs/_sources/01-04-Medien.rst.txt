@@ -5,20 +5,20 @@ Medien
 :download:`Kapitel als PDF <../split/01-04-Medien.pdf>` (Teil des :download:`Originals <../original/RP2020.pdf>`).
 
 Wir bekennen uns zu einer Medienpolitik, die Grundwerte wie Pluralismus, Unabhängigkeit, Medien- und Pressefreiheit sowie Innovation sicherstellt und fördert. 
-Zusätzlich sehen wir es als zentrale Aufgabe, auf die veränderten Rahmenbedingungen durch die fortschreitende Digitalisierung und Globalisierung zu reagieren. 
-Digitale Technologien verändern die Art und Weise, wie Inhalte produziert, verbreitet und konsumiert werden. 
+Zusätzlich sehen wir es als zentrale Aufgabe, auf die veränderten Rahmenbedingungen durch die fortschreitende :index:`Digitalisierung` und Globalisierung zu reagieren. 
+:index:`Digitale Technologien <digitale Technologie>` verändern die Art und Weise, wie Inhalte produziert, verbreitet und konsumiert werden. 
 Das birgt Chancen, aber auch große Herausforderungen, die völlig neue Antworten und Ansätze erfordern.
 
 Österreichische Medien sehen sich einem ungleichen Wettbewerb mit international agierenden Plattformen ausgesetzt. 
 Hier braucht es dringend faire Rahmenbedingungen, damit österreichische Medienunternehmen konkurrenzfähig bleiben. 
-Klar ist: In der digitalen Welt müssen die gleichen Prinzipien gelten wie in der realen Welt! 
+Klar ist: In der :index:`digitalen Welt <digitale Welt>` müssen die gleichen Prinzipien gelten wie in der realen Welt! 
 Gerade auch im Kampf gegen Hass und Gewalt im Netz müssen international agierende Plattformen stärker in die Verantwortung genommen werden.
 
 Medien tragen zur Information und Aufklärung maßgeblich bei. 
 Wir sehen es als unsere Aufgabe, ein Medienangebot mit österreichischen und internationalen Inhalten für unser Land und seine Bevölkerung, unter anderem durch Berücksichtigung und Stärkung des „Public Value“, sicherzustellen. 
-Österreich ist dabei mit einem zehnmal so großen, gleichsprachigen Nachbarn und digitalen Weltmarktführer konfrontiert. 
+Österreich ist dabei mit einem zehnmal so großen, gleichsprachigen Nachbarn und :index:`digitalen Weltmarktführer <digitaler Weltmarktführer>` konfrontiert. 
 Die Tragfähigkeit und der kreative Output österreichischer Medien sowie Produzentinnen und Produzenten muss daher in seiner Vielfalt erhalten und gefördert werden, um eigenständige österreichische Inhalte weiter entwickeln zu können. 
-Dafür braucht es eine Stärkung des dualen Rundfunksystems unter Berücksichtigung des nichtkommerziellen Sektors, zum Beispiel durch Kooperation zwischen Öffentlich-Rechtlichem Rundfunk und privaten Rundfunkund Fernsehunternehmen im Zusammenhang mit Internetplattformen sowie anderen digitalen Angeboten. 
+Dafür braucht es eine Stärkung des dualen Rundfunksystems unter Berücksichtigung des nichtkommerziellen Sektors, zum Beispiel durch Kooperation zwischen Öffentlich-Rechtlichem Rundfunk und privaten Rundfunkund Fernsehunternehmen im Zusammenhang mit Internetplattformen sowie anderen :index:`digitalen Angeboten <digitales Angebot>`. 
 Der Öffentlich- Rechtliche Rundfunk muss dabei an die medialen Anforderungen der Zeit angepasst und die dafür notwendige, unabhängige Finanzierung erhalten.
 
 Österreichischen und Europäischen Medienstandort stärken
@@ -29,7 +29,7 @@ Der Öffentlich- Rechtliche Rundfunk muss dabei an die medialen Anforderungen de
   * Schaffung eines Medienfonds (AVMD-Richtlinie nutzen), Ziele der Mittelverwendung definieren
   * Umsetzung Copyright-Richtlinie - Schutz geistigen Eigentums
   * Reform der Verwertungsgesellschaften im Interesse der Künstlerinnen und Künstler sowie anderer Urheberinnen und Urheber
-  * Digitalisierungsförderung – Geld für Wandel: projektbezogene Förderung nach festgelegten Kriterien
+  * :index:`Digitalisierungsförderung` – Geld für Wandel: projektbezogene Förderung nach festgelegten Kriterien
   * Prüfung aller medienrelevanten Gesetze mit dem Ziel einer Harmonisierung und Vereinfachung
   * Überprüfung der derzeitigen Vergabeund Förderkriterien
   * Überprüfung der Kriterien der Inseratenvergabe der öffentlichen Verwaltung und staatsnaher Unternehmen
@@ -51,7 +51,7 @@ Der Öffentlich- Rechtliche Rundfunk muss dabei an die medialen Anforderungen de
 Kooperation der dualen Medienlandschaft – Medienstandort Österreich stärken
 ---------------------------------------------------------------------------
 
-- Wir stehen für einen unabhängig finanzierten öffentlich-rechtlichen Rundfunk. Notwendig ist die gesetzliche Verankerung der stärkeren Zusammenarbeit zwischen ORF und Privaten sowie die Anpassung des öffentlich-rechtlichen Auftrags an das digitale Zeitalter unter Berücksichtigung der europarechtlichen Rahmenbedingungen, wobei ein besonderer Schwerpunkt auf regionale Vielfalt gelegt werden soll.
+- Wir stehen für einen unabhängig finanzierten öffentlich-rechtlichen Rundfunk. Notwendig ist die gesetzliche Verankerung der stärkeren Zusammenarbeit zwischen ORF und Privaten sowie die Anpassung des öffentlich-rechtlichen Auftrags an das :index:`digitale Zeitalter <digitales Zeitalter>` unter Berücksichtigung der europarechtlichen Rahmenbedingungen, wobei ein besonderer Schwerpunkt auf regionale Vielfalt gelegt werden soll.
 
 - Gemeinsamer ORF-Player zwischen ORF und Privaten mit öffentlich-rechtlich relevanten Inhalten und nach Etablierung der Plattform Einbeziehung weiterer öffentlicher Einrichtungen
 
@@ -61,7 +61,7 @@ Kooperation der dualen Medienlandschaft – Medienstandort Österreich stärken
 
 - Überprüfung und Überarbeitung des Fernseh- Exklusivrechtegesetzes
 
-- ORF-Archiv öffentlich sowie digital zugänglich machen unter Klärung der rechtlichen Rahmenbedingungen und Erstellung einer Benutzerordnung nach dem Bundesarchivgesetz
+- ORF-Archiv öffentlich sowie :index:`digital <digitales ORF-Archiv>` zugänglich machen unter Klärung der rechtlichen Rahmenbedingungen und Erstellung einer Benutzerordnung nach dem Bundesarchivgesetz
 
 - Ausbau und Stärkung der Ausbildung von Journalistinnen und Journalisten
 

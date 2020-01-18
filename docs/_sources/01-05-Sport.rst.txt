@@ -17,7 +17,7 @@ Struktur- und Organisationsentwicklung im österreichischen Sport
 
 - Professionalisierung des Fachverbandswesens: Zusammenführung von Aufgaben unterschiedlicher Aufgabenträger, Nutzung von Shared Services über Förder-Spielregeln und der Anreiz eines „Hauses des Sports“ als Serviceinstitution
 
-- Stärkung der Autonomie des organisierten Sports über Leistungsvereinbarungen durch mehrjährige Förderungen unter Koordination und Führung der Österreichischen Bundes-Sportorganisation. Zentrale Kriterien sind dabei beispielsweise das Zusammenwirken Ehrenamt/bezahlte Mitarbeiterinnen und Mitarbeiter, Nachwuchsarbeit, Gendergerechtigkeit, Inklusion, Nachhaltigkeit, Digitalisierung etc.
+- Stärkung der Autonomie des organisierten Sports über Leistungsvereinbarungen durch mehrjährige Förderungen unter Koordination und Führung der Österreichischen Bundes-Sportorganisation. Zentrale Kriterien sind dabei beispielsweise das Zusammenwirken Ehrenamt/bezahlte Mitarbeiterinnen und Mitarbeiter, Nachwuchsarbeit, Gendergerechtigkeit, Inklusion, Nachhaltigkeit, :index:`Digitalisierung` etc.
 
 - Aufwertung und Absicherung des Ehrenamtes
 

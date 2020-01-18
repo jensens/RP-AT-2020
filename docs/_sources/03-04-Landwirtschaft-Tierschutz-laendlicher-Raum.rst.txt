@@ -285,12 +285,12 @@ Die hohen Tierschutz- und Lebensmittelstandards schützen
   * Mehrgleisigkeiten bei Kontrollen vermeiden und Entwicklung eines Kontroll-Informationssystems vom Betriebsmittel bis zum Lebensmittel
   * Effektive Zusammenarbeit der zuständigen Behörden stärken
 
-Die Digitalisierung steigert die Ressourceneffizienz und verbessert den Umweltschutz
-------------------------------------------------------------------------------------
+Die :index:`Digitalisierung` steigert die Ressourceneffizienz und verbessert den Umweltschutz
+---------------------------------------------------------------------------------------------
 
-- Ausarbeitung und Umsetzung einer Digitalisierungsstrategie in der Landwirtschaft im Einklang mit den Zielen der GAP-Strategie
+- Ausarbeitung und Umsetzung einer :index:`Digitalisierungsstrategie` in der Landwirtschaft im Einklang mit den Zielen der GAP-Strategie
 
-- Finanzielle Unterstützung zur Forcierung der Digitalisierung, von zukunftsorientierten automationsunterstützten Methoden und des Datenmanagements in der österreichischen Land- und Forstwirtschaft
+- Finanzielle Unterstützung zur Forcierung der :index:`Digitalisierung`, von zukunftsorientierten automationsunterstützten Methoden und des Datenmanagements in der österreichischen Land- und Forstwirtschaft
 
 - Rechtliche Absicherung der Nutzung von Farmmanagement- und Informationssystemen in der Land- und Forstwirtschaft (z.B. Datenkompatibilität und Datenportabilität)
 
@@ -298,7 +298,7 @@ Die Digitalisierung steigert die Ressourceneffizienz und verbessert den Umweltsc
 
 - Anpassung der rechtlichen Rahmenbedingungen für autonome Geräte
 
-- Einführung eines Digitalbonus Agrar (Förderung der digitalen Kompetenzen/Unterstützung beim Ankauf von Software)
+- Einführung eines :index:`Digitalbonus Agrar` (Förderung der digitalen Kompetenzen/Unterstützung beim Ankauf von Software)
 
 Forstwirtschaft
 ---------------

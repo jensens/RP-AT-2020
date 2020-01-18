@@ -48,17 +48,17 @@ Forcierung eines wettbewerbsfähigen und verantwortungsvollen Tourismusstandorts
   * Erweiterung um Indikatoren der gesamten Wertschöpfungskette und Auswirkungen auf Bevölkerung/Natur/Landschaft und :index:`Klimawandel`
   * Stehen die für die Entwicklung solcher Indikatoren notwendigen Daten aktuell nicht zur Verfügung, müssen auch neue / erweiterte Erhebungen durch Statistik Austria ins Auge gefasst werden, wofür entsprechende Finanzmittel zur Verfügung zu stellen sind.
 
-- Schwerpunktsetzung im Bereich Digitalisierung
+- Schwerpunktsetzung im Bereich :index:`Digitalisierung`
 
-  * Touristische Unternehmen beim Umstieg und beim Einsatz digitaler Anwendungen unterstützen
+  * Touristische Unternehmen beim Umstieg und beim Einsatz :index:`digitaler Anwendungen <digitale Anwendung>` unterstützen
   * Verstärkt Datenallianzen bilden zwischen Einrichtungen im Einfluss des Bundes zur strategischen Weiterentwicklung und gemeinsamen Problemlösung im Rahmen der aktuellen rechtlichen Rahmenbedingungen
   * E-Government-Services ausbauen, um bürokratische Prozesse zu vereinfachen
   * Rahmenbedingungen für einen engen, sektorübergreifenden Austausch schaffen
 
-- Umsetzung einer Digitalisierungsstrategie
+- Umsetzung einer :index:`Digitalisierungsstrategie`
 
   * Flächendeckendes Datennetz
-  * Nutzung der Digitalisierung für Entbürokratisierung
+  * Nutzung der :index:`Digitalisierung` für Entbürokratisierung
   * Schulungen im Direkt- und Plattformbetrieb
   * Tourismus-:index:`Open Data-Leuchtturmprojekt` der ÖW
 
@@ -68,10 +68,10 @@ Forcierung eines wettbewerbsfähigen und verantwortungsvollen Tourismusstandorts
 
   * Das ÖW-Netz im Ausland wird immer wichtiger für das Funktionieren des österreichischen Tourismussystems und um die Marke „Urlaub in Österreich“ in die Welt zu tragen. Um Synergien zu nutzen, sollen ÖW und AWO zukünftig ein weltweites Netz für die österreichischen Destinationen und Betriebe bilden.
   * Die ÖW soll ihr Know-how verstärkt den österreichischen Betrieben zugänglich machen, um Produktinnovationen und Markenerlebnisse anzuregen.
-  * Die ÖW soll die digitale Kommunikation und Gestaltung von Reiseerlebnissen forcieren und der Branche digitale Kooperationsmöglichkeiten anbieten.
+  * Die ÖW soll die :index:`digitale Kommunikation` und Gestaltung von Reiseerlebnissen forcieren und der Branche :index:`digitale Kooperationsmöglichkeiten <digitale Kooperationsmöglichkeit>` anbieten.
   * Urlaub der Österreicherinnen und Österreicher im eigenen Land stärker bewerben
   * Werbung in der Tourismusbranche soll auf Basis des Ethikkodex des österreichischen Werberates erstellt werden.
-  * Sonderbudgets in Zukunft vorranging für nachhaltigen Tourismus, im Sinne von :index:`Klima- und Umweltschutz` sowie Digitalisierung (Data Hub)
+  * Sonderbudgets in Zukunft vorranging für nachhaltigen Tourismus, im Sinne von :index:`Klima- und Umweltschutz` sowie :index:`Digitalisierung` (Data Hub)
 
 - Österreichische Hotel- und Tourismusbank (ÖHT)
 
@@ -118,7 +118,7 @@ Mehr Gerechtigkeit für den heimischen Tourismus
 Entlastungen für die Tourismuswirtschaft
 ----------------------------------------
 
-- Digitalisierung von Verwaltungsprozessen
+- :index:`Digitalisierung` von Verwaltungsprozessen
 
 - Vorschlag zur Neuregelung der Abschreibungsdauer: Abschreibungszeiträume an tatsächliche Nutzungsdauern anpassen
 
@@ -151,7 +151,7 @@ Qualitätsvoller und regionaler Tourismus
 Bekämpfung des Fachkräftemangels im Tourismus
 ---------------------------------------------
 
-- Adaptierung der Lehrberufe und Weiterbildungsmaßnahmen – Attraktivierung der Tourismusberufe mit Fokus auf die Digitalisierung in der Berufsausbildung
+- Adaptierung der Lehrberufe und Weiterbildungsmaßnahmen – Attraktivierung der Tourismusberufe mit Fokus auf die :index:`Digitalisierung` in der Berufsausbildung
 
 - Bestehende Jahreskontingente für Saisonniers für den Tourismus sollen bedarfsgerecht angepasst werden, unter Einhaltung aller arbeitsrechtlichen und kollektivvertraglichen Bestimmungen.
 
@@ -161,7 +161,7 @@ Bekämpfung des Fachkräftemangels im Tourismus
 
 - Bekämpfung des Fachkräftemangels
 
-  * Attraktivierung der Ausbildung unter Berücksichtigung neuer Erkenntnisse (Digitalisierung)
+  * Attraktivierung der Ausbildung unter Berücksichtigung neuer Erkenntnisse (:index:`Digitalisierung`)
   * Ausbildung und Entwicklung neuer Berufsbilder, wie z.B. das eines Revenue Managers
   * Attraktivierung der Lehrberufe im touristischen Bereich, insbesondere in der Gastronomie
   * Förderung der Durchlässigkeit von dualen Ausbildungen bis in den tertiären Bereich

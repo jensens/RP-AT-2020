@@ -85,7 +85,7 @@ Starke Schulen brauchen gute Organisation, bedarfsgerechte Ressourcen und modern
 
   * Fokussierung der neuen Lehrpläne auf Kompetenzvermittlung und klare Unterrichtsziele: Als wesentliche Ziele werden das verbindliche Beherrschen der Grundkompetenzen erachtet, die Förderung der Interessen und (Hoch-)Begabungen und die Berücksichtigung von zeitgemäßen Lehr- und Lerninhalten wie :index:`Klimawandel` und ökologisch verantwortungsbewusstes Handeln, sprachliche Bildung, Wirtschaftsbildung und Financial Literacy, politische Bildung inklusive Staatskunde und Medienkompetenz. Dabei steht die Persönlichkeitsbildung der jungen Menschen immer im Mittelpunkt.
   * Überarbeitung der bestehenden Stunden- und Lerntafeln der einzelnen Schulstufen und Schultypen und der im Einsatz stehenden Lehr- und Lernmittel auf Basis der neuen Lehrpläne
-  * Schülerinnen und Schüler sollen sich in allen Fächern digitaler Technologie für ihren individuellen Lernfortschritt bedienen können. Dazu sollen facheinschlägige Kompetenzen (z.B. Coding/Programmieren) in die betreffenden Lehrpläne eingearbeitet werden.
+  * Schülerinnen und Schüler sollen sich in allen Fächern :index:`digitaler Technologie <digitale Technologie>` für ihren individuellen Lernfortschritt bedienen können. Dazu sollen facheinschlägige Kompetenzen (z.B. Coding/Programmieren) in die betreffenden Lehrpläne eingearbeitet werden.
   * Der Grundsatzerlass zum Unterrichtsprinzip Politische Bildung wird evaluiert (z.B. hinsichtlich umweltpolitischer Bildung). Um den Stellenwert der Politischen Bildung und der Vermittlung der Grundlagen unseres Staates zu erhöhen, wird dies verstärkt im Fach Geschichte/Sozialkunde/Politische Bildung verankert.
 
 - Die österreichische Bundesregierung bekennt sich zur Fortführung der aktiven Erinnerungspolitik im Bildungsbereich: Ein besonderer Schwerpunkt wird der konsequenten und langfristigen Sicherung der Erinnerungsarbeit an die Opfer des Nationalsozialismus sowie der Bildungsarbeit gegen Antisemitismus und Rassismus in allen Schultypen gewidmet sein. Die Maßnahmen werden evaluiert.
@@ -98,16 +98,17 @@ Starke Schulen brauchen gute Organisation, bedarfsgerechte Ressourcen und modern
 
 - Die Bundesregierung hat eine positive Sicht auf die Konzepte der flexiblen Schuleingangsphase sowie der Mehrstufenklassen und unterstützt die Umsetzung im Rahmen der Schulautonomie.
 
-- Österreichs Schulbildung digitalisieren
+- Österreichs :index:`Schulbildung digitalisieren <digitalisierte Schulbildung>`
 
-  * Digitale Endgeräte für jeden Schüler/jede Schülerin in der Sekundarstufe I: Schrittweise werden Schülerinnen und Schüler jeweils ab der 5. Schulstufe (AHS, Mittelschule, sonstige Pflichtschulen) mit digitalen Endgeräten ausgestattet. So können diese digitalen Endgeräte im Unterricht sowie außerhalb der Schule – den lokalen und persönlichen Bedürfnissen entsprechend – verwendet werden. Die Vergabe soll an die Qualität schulbezogener Digitalisierungskonzepte gekoppelt werden. Für die digitalen Endgeräte ist ein privater Finanzierungsanteil vorzusehen (sozial abgefedert).
-  * Praxisschulen der Pädagogischen Hochschulen als digitale Pilotschulen ausstatten, um für die Aus-, Fort- und Weiterbildung der Lehrerinnen und Lehrer optimale Bedingungen zu ermöglichen sowie den pädagogischen Mehrwert neuer Technologien zu testen und zu beforschen
+  * :index:`Digitale Endgeräte <digitales Endgerät>` für jeden Schüler/jede Schülerin in der Sekundarstufe I: Schrittweise werden Schülerinnen und Schüler jeweils ab der 5. Schulstufe (AHS, Mittelschule, sonstige Pflichtschulen) mit :index:`digitalen Endgeräten <digitales Endgerät>` ausgestattet. So können diese :index:`digitalen Endgeräte <digitales Endgerät>` im Unterricht sowie außerhalb der Schule – den lokalen und persönlichen Bedürfnissen entsprechend – verwendet werden. 
+    Die Vergabe soll an die Qualität schulbezogener :index:`Digitalisierungskonzepte <Digitalisierungskonzept>` gekoppelt werden. Für die :index:`digitalen Endgeräte <digitales Endgerät>` ist ein privater Finanzierungsanteil vorzusehen (sozial abgefedert).
+  * Praxisschulen der Pädagogischen Hochschulen als :index:`digitale Pilotschulen` ausstatten, um für die Aus-, Fort- und Weiterbildung der Lehrerinnen und Lehrer optimale Bedingungen zu ermöglichen sowie den pädagogischen Mehrwert neuer Technologien zu testen und zu beforschen
   * Österreichische Bildungscloud installieren: ein zuverlässiger und sicherer Speicher, von dem jeder Lerncontent einfach und schnell ortsunabhängig abrufbar ist (in Verbindung mit und in Anlehnung an die Schulbuchaktion)
-  * Serviceportal Digitale Schule entwickeln: Das Serviceportal soll eine vereinfachte Kommunikation zwischen Lehrkräften, Schülerinnen und Schülern sowie Eltern ermöglichen und administrative und unterrichtsbezogene Aufwän de vereinfachen (bei Gewährleistung datenschutzrechtlicher Standards).
-  * Erweiterung der digitalen Kompetenzen von Pädagoginnen und Pädagogen: digitale Fachdidaktik in allen Lehramtsstudien verankern sowie Aus-, Fort- und Weiterbildung für alle Lehrerinnen und Lehrer
-  * „Digitale Kompetenzen“ werden als Unterrichtsprinzip verankert
-  * Flächendeckende Evaluierung der „Digitalen Grundbildung“
-  * Schulinterne Fortbildungen werden ausgebaut, damit die Lehrenden ihre Schülerinnen und Schüler in möglichst kompetenter Weise beim Erwerb von digitalen Kompetenzen begleiten können.
+  * Serviceportal :index:`Digitale Schule <digitale Schule>` entwickeln: Das Serviceportal soll eine vereinfachte Kommunikation zwischen Lehrkräften, Schülerinnen und Schülern sowie Eltern ermöglichen und administrative und unterrichtsbezogene Aufwän de vereinfachen (bei Gewährleistung datenschutzrechtlicher Standards).
+  * Erweiterung der :index:`digitalen Kompetenzen <digitale Kompetenz>` von Pädagoginnen und Pädagogen: :index:`digitale Fachdidaktik` in allen Lehramtsstudien verankern sowie Aus-, Fort- und Weiterbildung für alle Lehrerinnen und Lehrer
+  * „:index:`Digitale Kompetenzen <digitale Kompetenz>`“ werden als Unterrichtsprinzip verankert
+  * Flächendeckende Evaluierung der „:index:`Digitalen Grundbildung <digitale Grundbildung>`“
+  * Schulinterne Fortbildungen werden ausgebaut, damit die Lehrenden ihre Schülerinnen und Schüler in möglichst kompetenter Weise beim Erwerb von :index:`digitalen Kompetenzen <digitale Kompetenz>` begleiten können.
 
 - Schulen brauchen qualifizierte Quereinsteigerinnen und -einsteiger
 
@@ -228,8 +229,8 @@ Schulorganisation verbessern
 - Ausbildung von MINT-Fachkräften ausbauen
 
   * Erstellung einer MINT-Bedarfslandkarte in Zusammenarbeit mit den regionalen Stakeholdern und darauf aufbauend eine bedarfsgerechte Erhöhung der derzeitigen Ausbildungsplätze im höher qualifizierten MINT-Bereich
-  * Reform des Mathematik-Unterrichts unter Berücksichtigung international anerkannter Beispiele und bereits bestehender Programme in Österreich. Mathematik soll auch ohne digitale Rechenhilfen beherrscht werden.
-  * Prüfung der Entwicklung einer :index:`Cyber-HTL-Fachrichtung` und IT-HTL mit Schwerpunkt auf :index:`Cyber Security`
+  * Reform des Mathematik-Unterrichts unter Berücksichtigung international anerkannter Beispiele und bereits bestehender Programme in Österreich. Mathematik soll auch ohne :index:`digitale Rechenhilfen <digitale Rechenhilfe>` beherrscht werden.
+  * Prüfung der Entwicklung einer :index:`Cyber-HTL-Fachrichtung` und IT-HTL mit Schwerpunkt auf :index:`Cyber Security <Cybersecurity>`
 
 - Auslandserfahrung und europäische Vernetzung fördern: Stärkere Nutzung von Erasmus+
 
@@ -276,7 +277,7 @@ Stärkung der dualen Ausbildung
 
 - Berufsbildung aufwerten und Berufsausbildungsgesetz modernisieren
 
-  * Überarbeitung der mehr als 200 bestehenden Lehrberufe, mit Hinblick auf digitale Inhalte, MINT sowie regionale und ökologische Schwerpunkte
+  * Überarbeitung der mehr als 200 bestehenden Lehrberufe, mit Hinblick auf :index:`digitale Inhalte <digitaler Inhalt>`, MINT sowie regionale und ökologische Schwerpunkte
   * Verpflichtende Evaluierung und Modernisierung aller Lehrberufe alle fünf Jahre
   * Lenkungsmaßnahmen erarbeiten, um mehr Frauen in technische Lehrberufe zu bringen
   * Möglichkeit zur „Flexi-Lehre“ für Wiedereinsteigerinnen und Wiedereinsteiger sowie betreuende Angehörige prüfen

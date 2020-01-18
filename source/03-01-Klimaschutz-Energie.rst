@@ -5,12 +5,12 @@
 :download:`Kapitel als PDF <../split/03-01-Klimaschutz-Energie.pdf>` (Teil des :download:`Originals <../original/RP2020.pdf>`).
 
 Die besorgniserregende Veränderung unseres Klimas ist eine der größten Herausforderungen unserer Generation – in ökologischer, ökonomischer und sozialer Hinsicht.
-Die österreichische Bundesregierung bekennt sich zu ihrer Verantwortung, die notwendigen Schritte und Weichenstellungen vorzunehmen, um dieser Herausforderung auf allen Ebenen gerecht zu werden und die Ziele des Pariser :index:`Klimaschutzabkommen`s zu erfüllen.
+Die österreichische Bundesregierung bekennt sich zu ihrer Verantwortung, die notwendigen Schritte und Weichenstellungen vorzunehmen, um dieser Herausforderung auf allen Ebenen gerecht zu werden und die Ziele des Pariser :index:`Klimaschutzabkommens` zu erfüllen.
 Wir betrachten :index:`Klimaschutzmaßnahmen` als bedeutende Chance für Gerechtigkeit sowie für die zukunftsfähige Entwicklung von Wirtschaft und Arbeitsplätzen in Österreich.
 Diese Chancen gilt es zu nutzen - Österreich hat die besten Voraussetzungen dafür. Gemeinsam können wir das Ziel eines :index:`klimaneutralen Österreichs` bis spätestens 2040 erreichen und in Europa zum Vorreiter im :index:`Klimaschutz` werden.
 Für uns bedeutet das selbstverständlich, dass Atomkraft keine Alternative ist, sondern, dass wir ausschließlich auf Erneuerbare Energieträger setzen.
 
-Der :index:`klimagerechte Umbau` aller Sektoren, insbesondere des Energiesystems und der Infrastruktur, erfolgt unter Berücksichtigung der Kosten für Haushalte und Unternehmen.
+Der :index:`klimagerechte Umbau <klimagerechter Umbau>` aller Sektoren, insbesondere des Energiesystems und der Infrastruktur, erfolgt unter Berücksichtigung der Kosten für Haushalte und Unternehmen.
 Soziale Härtefälle werden jedenfalls vermieden und auch Unternehmen werden bei der Transformation und den notwendigen Anpassungsmaßnahmen unterstützt.
 
 Auf europäischer Ebene wird die Bundesregierung dazu beitragen, dass die EU das Pariser :index:`Klimaschutzabkommen` in die Tat umsetzt und eine globale Führungsrolle im Klimaschutz einnimmt.
@@ -54,7 +54,7 @@ So sichern wir langfristig diesen wichtigen Sektor am Standort Österreich und s
   * Einsatz für ein wirkungsvolles ETS-System und einen CO2-Mindestpreis auf europäischer Ebene
   * Erhöhung der Internationalen :index:`Klimafinanzierung`: Signifikante Erhöhung des österreichischen Beitrags zum Green Climate Fund
 
-- Unmittelbare Nachbesserung und Konkretisierung des Nationalen Energie- und :index:`Klimaplan`s (NEKP)
+- Unmittelbare Nachbesserung und Konkretisierung des Nationalen Energie- und :index:`Klimaplans <Klimaplan>` (NEKP)
 
   * Erfüllung der Effort-Sharing-Ziele im Non-ETS-Bereich sichern (derzeit minus 36%), mit Blick auf die zu erwartende Erhöhung der EU-Ziele
   * Eine unabhängige und wissenschaftlich fundierte Wirkungsfolgenabschätzung, welche die Zielerreichung belegt, ist Voraussetzung für den Beschluss des NEKP
@@ -72,12 +72,12 @@ Die Weichen richtig stellen: notwendige horizontale Maßnahmen
   * Verantwortlichkeitsmechanismus zwischen Bund und Ländern für die Zielerreichung und bei Zielverfehlung
   * Verbesserter Mechanismus zum Ergreifen von zusätzlichen Maßnahmen bei Zielverfehlung
   * Zeitnäheres und laufendes unabhängiges Monitoring der :index:`Klimapolitik` durch das UBA
-  * Erarbeitung eines :index:`Klimaschutzaktionsplan`s der Bundesregierung zur konkreten Umsetzung der Maßnahmen
+  * Erarbeitung eines :index:`Klimaschutzaktionsplans <Klimaschutzaktionsplan>` der Bundesregierung zur konkreten Umsetzung der Maßnahmen
 
 - Neue ebenen-übergreifende Governance für den :index:`Klimaschutz`
 
   * Auf bestehenden Bundeskompetenzen basierend wird die Zusammenarbeit mit den Bundesländern und Gemeinden forciert, um die Zielerreichung zu steuern.
-  * Innerösterreichisches Effort-Sharing anhand :index:`klimaschutzrelevanter Indikatoren`
+  * Innerösterreichisches Effort-Sharing anhand :index:`klimaschutzrelevanter Indikatoren <klimaschutzrelevante Indikatoren>`
   * Steuerungsmaßnahmen bei Abweichungen vom Zielpfad ergreifen
   * Die gesamte Bundesregierung übernimmt Verantwortung für den :index:`Klimaschutz`, und der :index:`Klimaschutzaktionsplan` wird durch ein :index:`Klimakabinett` umgesetzt.
   * Weiterentwicklung und Aufwertung des NKK
@@ -99,7 +99,7 @@ Die Weichen richtig stellen: notwendige horizontale Maßnahmen
 
 - Erhöhung der Budgets des :index:`Klima- und Energiefonds` und der UFI
 
-  * Ausreichende Finanzierung als zentrale Tools zur Umsetzung des Nationalen :index:`Klima- und Energieplans`
+  * Ausreichende Finanzierung als zentrale Tools zur Umsetzung des Nationalen :index:`Klima- und Energieplans <Klima- und Energieplan>`
   * Fortführung wichtiger Klimaschutzprogramme wie klima.aktiv, :index:`Klima- und Energiemodellregionen`, e5-Programme und :index:`Klimabündnis-Gemeinden`
 
 - Umweltbundesamt
@@ -124,7 +124,7 @@ Die öffentliche Hand zeigt‘s vor! :index:`Klimaneutrale Verwaltung`
   * Aus für Neuzulassungen von Kfz (PKW) mit Verbrennungsmotoren in der öffentlichen Beschaffung (mit Ausnahme der Sonderfahrzeuge, Einsatzfahrzeuge und Fahrzeuge des Bundesheers) ab 2027
   * Flächendeckende Einführung von Umweltmanagementsystemen
   * Ziel ist eine 100% regionale und saisonale Beschaffung in Verbindung mit einer Bio-Quote von 30% bis 2025 und 55% bis 2030.
-  * Angebot eines täglichen :index:`Klimateller`s in Österreichs öffentlichen Küchen
+  * Angebot eines täglichen :index:`Klimatellers` in Österreichs öffentlichen Küchen
 
 - Nachhaltige und innovationsfreundliche Beschaffung wird Standard:
 
@@ -145,7 +145,7 @@ Umsetzung einer „Green Finance Agenda“
   * Prüfung einer „Bürger-Stiftung :index:`Klimaschutz`“: Anreize schaffen, Private dazu zu bewegen, in den Klimaschutz zu investieren. Gelingen soll das mithilfe einer „Bürger-Stiftung Klimaschutz“, die Bürger-Anleihen vergeben soll.
   * Die Bundesregierung bekennt sich zur Auflage von Green Bonds durch die ÖBFA. Institutionelle Investoren und die Bevölkerung können sich damit an der :index:`Klimawende` beteiligen.
   * KEST-Befreiung für ökologische / ethische Investitionen (Ausarbeitung eines Konzepts mit klarem Kriterien-Set durch die zuständigen Ministerien für Finanzen und :index:`Klima`)
-  * „Green Supporting Factor“ auf europäischer Ebene: Im Kampf gegen den :index:`Klimawandel` werden wir auch den tatkräftigen Beitrag von Start-Ups und KMUs brauchen, die jene Innovationen beschleunigen, die uns ein CO2-neutrales Leben und Wirtschaften ermöglichen. Die Bundesregierung wird sich daher auf europäischer Ebene dafür einsetzen, dass Banken für Kredite, die effektiv dazu beitragen, den Übergang zu einer nachhaltigen, :index:`klimaneutralen Wirtschaft` zu beschleunigen, weniger Eigenkapital hinterlegen müssen. Ein solcher „Green Supporting Factor“ würde die Vergabe von „grünen Krediten“ erleichtern und somit einen wertvollen Beitrag zur Erreichung unserer europäischen :index:`Klimaziele` leisten.
+  * „Green Supporting Factor“ auf europäischer Ebene: Im Kampf gegen den :index:`Klimawandel` werden wir auch den tatkräftigen Beitrag von Start-Ups und KMUs brauchen, die jene Innovationen beschleunigen, die uns ein CO2-neutrales Leben und Wirtschaften ermöglichen. Die Bundesregierung wird sich daher auf europäischer Ebene dafür einsetzen, dass Banken für Kredite, die effektiv dazu beitragen, den Übergang zu einer nachhaltigen, :index:`klimaneutralen Wirtschaft <klimaneutrale Wirtschaft>` zu beschleunigen, weniger Eigenkapital hinterlegen müssen. Ein solcher „Green Supporting Factor“ würde die Vergabe von „grünen Krediten“ erleichtern und somit einen wertvollen Beitrag zur Erreichung unserer europäischen :index:`Klimaziele` leisten.
   * Die Bundesregierung setzt sich für die Veranlagung öffentlicher Mittel (z.B. bei Beteiligungen des Bundes im Rahmen der gesellschaftsrechtlichen Möglichkeiten) in nachhaltige und ökologische Anlagenformen ein.
   * Erarbeitung eines Modells zur aktiven Beratung von Gemeinden und Ländern hinsichtlich ökologischer und nachhaltiger Infrastrukturprojekte und Sanierungsmaßnahmen und deren Finanzierung unter Einhaltung des inner-österreichischen Stabilitätspaktes
 
@@ -200,7 +200,7 @@ Phase-out-Plan für fossile Energieträger in der Raumwärme
 
 - Forcierung der Nah- und Fernwärme. Fernwärme wird in Räumen mit ausreichender Wärmedichte in der Wärmeversorgung der Zukunft an Bedeutung gewinnen. Sie leistet einen großen Beitrag zur Erreichung des österreichischen CO2-Reduktionsziels im Non-ETS-Sektor.
 
-- Zur Priorisierung der Anwendungsbereiche im Sinne eines größtmöglichen :index:`Klimaschutznutzen`s wird eine Mobilisierungsstrategie Grünes Gas erarbeitet. Klare Rahmenbedingungen und Zeitpläne schaffen Planungssicherheit und vermeiden Lock-in-Effekte. Grünes Gas ist ein hochwertiger Energieträger, der quantitativ begrenzt ist und soll daher bevorzugt in Anwendungen eingesetzt werden, in denen die Hochwertigkeit notwendig ist.
+- Zur Priorisierung der Anwendungsbereiche im Sinne eines größtmöglichen :index:`Klimaschutznutzens <Klimaschutznutzen>` wird eine Mobilisierungsstrategie Grünes Gas erarbeitet. Klare Rahmenbedingungen und Zeitpläne schaffen Planungssicherheit und vermeiden Lock-in-Effekte. Grünes Gas ist ein hochwertiger Energieträger, der quantitativ begrenzt ist und soll daher bevorzugt in Anwendungen eingesetzt werden, in denen die Hochwertigkeit notwendig ist.
 
 - Im Dialog mit den Bundesländern, Energieversorgern und Gasnetzbetreibern ist ein Fahrplan zur stufenweisen Entflechtung der Wärmenetze zu entwickeln.
 
@@ -232,7 +232,7 @@ Phase-out-Plan für fossile Energieträger in der Raumwärme
 Erneuerbare Energie für eine saubere Zukunft
 --------------------------------------------
 
-- Aufbauend auf die bisherige Arbeit – die #mission2030 und den Nationalen Energie- und :index:`Klima-Plan` – sollen folgende Maßnahmen gesetzt werden:
+- Aufbauend auf die bisherige Arbeit – die #mission2030 und den Nationalen Energie- und :index:`Klima-Plan <Klimaplan>` – sollen folgende Maßnahmen gesetzt werden:
 
   * Klare Zieldefinition für die Steigerung des Anteils von erneuerbaren Energien am nationalen Gesamtverbrauch: 100% (national bilanziell) Strom aus erneuerbaren Energiequellen bis 2030
   * Verstärkte Nutzung und Koppelung von in Österreich vorhandenen Ressourcen zur nachhaltigen Erzeugung von erneuerbarer Energie in allen Anwendungsbereichen (Strom, Wärme und Kälte, Mobilität)
@@ -343,8 +343,8 @@ Den österreichischen Anti-Atom-kraft-Weg konsequent fortsetzen und Einsatz gege
 
   * Einen europaweiten Kohleausstieg forcieren, um dem Import von billigem Kohlestrom nach Österreich entgegenzuwirken und die Wettbewerbsfähigkeit heimischer Stromer- zeuger zu gewährleisten
 
-Technologieoffensive, Digitalisierung und Innovation
-----------------------------------------------------
+Technologieoffensive, :index:`Digitalisierung` und Innovation
+-------------------------------------------------------------
 
 - Integrierte Energiesysteme (Sektorkopplung): Gesamthafte Betrachtung der Systeme für Strom, Wärme und Mobilität
 
@@ -358,14 +358,14 @@ Technologieoffensive, Digitalisierung und Innovation
 
 - Innovation – von Start-ups bis Energie-Cluster & :index:`Open Energy` Innovation Industrie.
 
-- Digitalisierung: Vorteile nutzen, Datenschutz sicherstellen
+- :index:`Digitalisierung`: Vorteile nutzen, Datenschutz sicherstellen
 
 - Strategie zur Verwendung alternativer Energieträger in der Mobilität (E-Mobilität, Wasserstoff, synthetische Treibstoffe) mit Fokus auf Gesamt-:index:`Klimabilanz`
 
 - Neue Österreichische Wasserstoffstrategie: Wasserstofftechnologie speziell für den Wirtschafts- und Verkehrsbereich entwickeln
 
   * Damit soll Österreich zur Wasserstoffnation Nummer 1 werden.
-  * :index:`Klimaschutz- und Wasserstoffzentrum` als Cluster für Forschung, Innovation und Technologie umsetzen
+  * :index:`Klimaschutz`- und :index:`Wasserstoffzentrum <Wasserstoff>` als Cluster für Forschung, Innovation und Technologie umsetzen
 
 - Internationale Positionierung Österreichs als Vorreiter im Bereich der erneuerbaren Energie als Unterstützung der österreichischen Exportwirtschaft
 
@@ -388,15 +388,19 @@ Industrie und Gewerbe: ein Green Deal für Österreichs Wirtschaft
 :index:`Klimaschutz` durch Bioökonomie
 --------------------------------------
 
-- Entwicklung geeigneter Instrumente zur Forcierung von erneuerbaren Rohstoffen in allen Produktbereichen bzw. Wirtschaftssektoren unter Berücksichtigung der Verfügbarkeit von Flächen und :index:`Klimaziel`en in der Landwirtschaft
+- Entwicklung geeigneter Instrumente zur Forcierung von erneuerbaren Rohstoffen in allen Produktbereichen bzw. Wirtschaftssektoren unter Berücksichtigung der Verfügbarkeit von Flächen und :index:`Klimazielen <Klimaziel>` in der Landwirtschaft
 
 - Vorbildwirkung der öffentlichen Hand (Nachhaltige Beschaffung)
 
-- Umsetzung der Bioökonomiestrategie des Bundes samt zugehörigem Aktionsplan, Etablierung des Bioökonomieclusters und zugehöriger Geschäftsstelle mit den bestehenden Ressourcen in der Verwaltung
+- Umsetzung der Bioökonomiestrategie des Bundes samt zugehörigem Aktionsplan,
+  Etablierung des Bioökonomieclusters und zugehöriger Geschäftsstelle mit den bestehenden Ressourcen in der Verwaltung
 
 - Sicherstellung der regionalen Verfügbarkeit von nachwachsenden Rohstoffen für die Bioökonomie; die Importabhängigkeit von natürlichen Ressourcen muss minimiert werden
 
-- Aufstockung der Grundlagenforschung zu Ressourcen-Verfügbarkeit, ökologischen Funktionen (Boden, Biodiversität etc.), Standortbedingungen und sozialen Rahmenbedingungen biobasierter Wirtschaft, (physikalische, chemische, biologische) Analytik von Materialeigenschaften
+- Aufstockung der Grundlagenforschung zu Ressourcen-Verfügbarkeit,
+  ökologischen Funktionen (Boden, Biodiversität etc.),
+  Standortbedingungen und sozialen Rahmenbedingungen biobasierter Wirtschaft,
+  (physikalische, chemische, biologische) Analytik von Materialeigenschaften
 
 - Erhöhung der Anstrengungen im Bereich Produkt- und Prozessentwicklungen bei stofflicher und energetischer Verwertung biogener Materialien in der angewandten Forschung
 

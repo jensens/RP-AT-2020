@@ -23,7 +23,7 @@ copyright = '2020, erstellt und publiziert durch "Die neue Volkspartei/Die Grün
 author = 'Die neue Volkspartei/Die Grünen – Die Grüne Alternative - nachbearbeitet durch Jens Klein, Robert Harm und Helfern'
 
 # The full version, including alpha/beta/rc tags
-release = '1.0'
+release = '1.1'
 
 
 # -- General configuration ---------------------------------------------------
@@ -33,7 +33,6 @@ release = '1.0'
 # ones.
 extensions = [
     'sphinx.ext.githubpages',
-    'sphinx.ext.todo',
 ]
 
 # Add any paths that contain templates here, relative to this directory.
@@ -75,13 +74,18 @@ html_static_path = ['_static']
 todo_include_todos = True
 html_theme_options = {
     # https://github.com/myyasuda/sphinx_materialdesign_theme#html-theme-options
+    # 'primary_color': 'blue',
     'accent_color': 'deep_purple',
-    'header_links' : [
+    'header_links': [
         ('Regierungsprogramm 2020-2024', 'index', False, 'home'),
+        ('Suche', 'search', False, 'search'),
         ('Stichwortverzeichnis', 'genindex', False, 'sort_by_alpha'),
         ("Open3", "https://www.open3.at", True, 'group'),
         ("GitHub", "https://github.com/jensens/RP-AT-2020", True, 'link')
     ],
+    'twitter_site': "@open3",
+    'twitter_creator': "@yenzenz",
+    'og_description': project + ' #opendata #open-by-default #a11y'
 }
 
 # -- Additional config -------------------------------------------------------
@@ -101,3 +105,4 @@ html_logo = 'open3-logo.png'
 html_add_permalinks = True
 html_split_index = True
 
+# html_sidebars = {}

@@ -4,13 +4,24 @@ Justiz & Konsumentenschutz
 
 :download:`Kapitel als PDF <../split/01-02-Justiz-Konsumentenschutz.pdf>` (Teil des :download:`Originals <../original/RP2020.pdf>`).
 
-Die österreichische Justiz mit all ihren Mitarbeiterinnen und Mitarbeitern trägt entscheidend zu einem funktionierenden Rechtstaat bei. Eine effiziente und qualitätsvolle Justiz sorgt für Rechtssicherheit und Rechtsfrieden in Österreich und ermöglicht dadurch das nötige Vertrauen seitens der Bürgerinnen und Bürger. Sie ist somit der Grundpfeiler eines jeden Rechtsstaates und jeder Demokratie. Vor diesem Hintergrund bekennen wir uns als Bundesregierung zu einer ausreichend ausgestatteten Justiz. Dies ist die Voraussetzung für eine Absicherung der unabhängigen Gerichtsbarkeit und für die Stärkung der Rechtsstaatlichkeit.
+Die österreichische Justiz mit all ihren Mitarbeiterinnen und Mitarbeitern trägt entscheidend zu einem funktionierenden Rechtstaat bei. 
+Eine effiziente und qualitätsvolle Justiz sorgt für Rechtssicherheit und Rechtsfrieden in Österreich und ermöglicht dadurch das nötige Vertrauen seitens der Bürgerinnen und Bürger. 
+Sie ist somit der Grundpfeiler eines jeden Rechtsstaates und jeder Demokratie. Vor diesem Hintergrund bekennen wir uns als Bundesregierung zu einer ausreichend ausgestatteten Justiz. 
+Dies ist die Voraussetzung für eine Absicherung der unabhängigen Gerichtsbarkeit und für die Stärkung der Rechtsstaatlichkeit.
 
-Die Justiz muss sich dabei den wechselnden Herausforderungen unserer Zeit stetig anpassen. Sie soll rasch, zuverlässig und bürgernah handeln. Dazu ist es etwa notwendig, die Digitalisierung weiter voranzutreiben und das Service für die Bürgerinnen und Bürger sowie Unternehmen weiter auszubauen. Diese und andere innovative Lösungen sollen insgesamt den Zugang der Bürgerinnen und Bürger zur Justiz erleichtern. Weiters sind insbesondere die Beschleunigung von Verfahren, die Optimierung von Arbeitsabläufen und die Nutzung von Synergieeffekten wesentliche Bausteine einer leistungsfähigen Justiz, die somit zu einem starken Wirtschaftsstandorts und einer lebendigen Zivilgesellschaft beiträgt.
+Die Justiz muss sich dabei den wechselnden Herausforderungen unserer Zeit stetig anpassen. 
+Sie soll rasch, zuverlässig und bürgernah handeln. 
+Dazu ist es etwa notwendig, die :index:`Digitalisierung` weiter voranzutreiben und das Service für die Bürgerinnen und Bürger sowie Unternehmen weiter auszubauen. 
+Diese und andere innovative Lösungen sollen insgesamt den Zugang der Bürgerinnen und Bürger zur Justiz erleichtern. 
+Weiters sind insbesondere die Beschleunigung von Verfahren, die Optimierung von Arbeitsabläufen und die Nutzung von Synergieeffekten wesentliche Bausteine einer leistungsfähigen Justiz, die somit zu einem starken Wirtschaftsstandorts und einer lebendigen Zivilgesellschaft beiträgt.
 
-Im Rahmen des Straf- und Maßnahmenvollzugs sorgt die österreichische Justiz auch wesentlich für die Sicherheit unserer Bevölkerung. In allen Vollzugsanstalten sollen daher die notwendigen und zeitgemäßen Sicherheitsstandards gewährleistet und die Resozialisierung der Inhaftierten gefördert werden.
+Im Rahmen des Straf- und Maßnahmenvollzugs sorgt die österreichische Justiz auch wesentlich für die Sicherheit unserer Bevölkerung. 
+In allen Vollzugsanstalten sollen daher die notwendigen und zeitgemäßen Sicherheitsstandards gewährleistet und die Resozialisierung der Inhaftierten gefördert werden.
 
-Darüber hinaus muss der Rechtsbestand auf Basis wissenschaftlicher Erkenntnisse stetig evaluiert und im Hinblick auf die gesellschaftlichen und wirtschaftlichen Entwicklungen modernisiert werden. So muss beispielsweise das Strafrecht neue Bedrohungslagen abbilden, um die Bevölkerung effektiv zu schützen und die Korruptionsbekämpfung effektiv voranzutreiben. Der Opferschutz soll gestärkt und auf neue Phänomene, wie beispielsweise „Hass im Netz“, muss wirkungsvoll reagiert werden. Im Wirtschaftsrecht und Konsumentenschutz gilt es, durch einen klugen Interessensausgleich Rahmenbedingungen zu schaffen, die sich positiv auf das tägliche Leben der Menschen auswirken. Und im Bereich Wohnen wollen wir leistbare Mieten, die Bildung von Eigentum, Nachhaltigkeit und Fairness fördern.
+Darüber hinaus muss der Rechtsbestand auf Basis wissenschaftlicher Erkenntnisse stetig evaluiert und im Hinblick auf die gesellschaftlichen und wirtschaftlichen Entwicklungen modernisiert werden. 
+So muss beispielsweise das Strafrecht neue Bedrohungslagen abbilden, um die Bevölkerung effektiv zu schützen und die Korruptionsbekämpfung effektiv voranzutreiben. 
+Der Opferschutz soll gestärkt und auf neue Phänomene, wie beispielsweise „Hass im Netz“, muss wirkungsvoll reagiert werden. 
+Im Wirtschaftsrecht und Konsumentenschutz gilt es, durch einen klugen Interessensausgleich Rahmenbedingungen zu schaffen, die sich positiv auf das tägliche Leben der Menschen auswirken. Und im Bereich Wohnen wollen wir leistbare Mieten, die Bildung von Eigentum, Nachhaltigkeit und Fairness fördern.
 
 Justizverwaltung
 ----------------
@@ -42,9 +53,9 @@ Sachverständigen- und Dolmetscherrecht – Qualität erhöhen
 Bürger-/Bürgerinnen- und Unternehmensservice
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-- Umsetzung eines modernen und zeitgemäßen Bürger-/Bürgerinnen- und Unternehmensservice, Anliegen in digitaler Form herantragen sowie rasche und unbürokratische Auskunft für Bürgerinnen und Bürger.
+- Umsetzung eines modernen und zeitgemäßen Bürger-/Bürgerinnen- und Unternehmensservice, :index:`Anliegen in digitaler Form <digitales Anliegen>` herantragen sowie rasche und unbürokratische Auskunft für Bürgerinnen und Bürger.
 
-  * Schaffung einer digitalen Plattform für Bürgerinnen und Bürger bzw. Unternehmerinnen und Unternehmer zur nutzerzentrierten Bündelung zur Bereitstellung der erforderlichen Verfahrensinformationen (allen voran Akteneinsicht, Verfahrensstand, Verhandlungstermine, Edikte) samt verbesserten Möglichkeiten zur Einbringung und zum Empfang von justiziellen Schriftstücken
+  * Schaffung einer :index:`digitalen Plattform <digitale Plattform>` für Bürgerinnen und Bürger bzw. Unternehmerinnen und Unternehmer zur nutzerzentrierten Bündelung zur Bereitstellung der erforderlichen Verfahrensinformationen (allen voran Akteneinsicht, Verfahrensstand, Verhandlungstermine, Edikte) samt verbesserten Möglichkeiten zur Einbringung und zum Empfang von justiziellen Schriftstücken
   * Implementierung von regionalen Justiz-Servicecentern (Helpdesk), die über eine entsprechende personelle Ausstattung verfügen, um einen Großteil der Bürgeranfragen rasch und unbürokratisch erledigen zu können
   * Einrichtung eines zentralen Telefoncenters mit dem Ziel, als First-Level-Support sämtliche eingehende Telefonate entgegenzunehmen und einen Großteil der Anfragen rasch und unbürokratisch zu erledigen
   * Bekenntnis zum und Erhalt des Amtstages
@@ -66,17 +77,17 @@ Zugang zur Justiz für alle Bürgerinnen und Bürger erleichtern
 
 - Evaluierung und Novellierung des Privatbeteiligtenanschlusses (sollte „bürgerfreundlicher“ werden, wo einfach möglich; Staatsanwaltschaft sollte Schadenersatzanspruch für Geschädigten übernehmen können)
 
-Ausbau der Digitalisierung
-^^^^^^^^^^^^^^^^^^^^^^^^^^
+Ausbau der :index:`Digitalisierung`
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-- Weiterführung der Initiastrategischentive „Justiz 3.0“ zur Digitalisierung der Aktenführung
+- Weiterführung der Initiastrategischentive „Justiz 3.0“ zur :index:`Digitalisierung der Aktenführung <digitale Aktenführung>`
 
-  * Verpflichtendes digitales Verfahrensmanagement für die gesamte Gerichtsbarkeit bis Ende 2022 bei Berücksichtigung des nötigen Ressourcenbedarfs
+  * Verpflichtendes :index:`digitales Verfahrensmanagement` für die gesamte Gerichtsbarkeit bis Ende 2022 bei Berücksichtigung des nötigen Ressourcenbedarfs
   * Orts- und zeitunabhängige Akteneinsicht samt Information zum Verfahrensstand, unter Beibehaltung physischer Akteneinsicht
   * Strukturierte personenbezogene Übersicht zu Verhandlungsterminen sowie der Möglichkeit zur Mitteilung von Terminpräferenzen für Verfahrensbeteiligte
   * Ausweitung des elektronischen Rechtsverkehrs insbesondere zur Strukturierung von Anträgen im Firmen- und Grundbuch
   * Ressortübergreifende Nutzung moderner Analysewerkzeuge in Großstrafverfahren
-  * Einsatz von künstlicher Intelligenz zur Unterstützung gerichtlicher Entscheidungen durch automatisierte Literaturrecherche und Aufbereitung von digitalen Akten sowie zur Schaffung von Transparenz und Rechtssicherheit durch öffentliche Zurver fügungstellung von anonymisierten rechtskräftigen gerichtlichen Entscheidungen
+  * Einsatz von künstlicher Intelligenz zur Unterstützung gerichtlicher Entscheidungen durch automatisierte Literaturrecherche und Aufbereitung von :index:`digitalen Akten <digitale Akte>` sowie zur Schaffung von Transparenz und Rechtssicherheit durch öffentliche Zurver fügungstellung von anonymisierten rechtskräftigen gerichtlichen Entscheidungen
 
 - Einführung der elektronischen Akteneinsicht im Strafverfahren analog zum Zivilverfahren(webERV)
 
@@ -158,7 +169,7 @@ Reform des Unterbringungsrechts
 Zivil- und Wirtschaftsrecht
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-- Weitere Beschleunigung und Vereinfachung von Unternehmensgründungen, z.B. durch einen Ausbau der Digitalisierung im Gesellschaftsrecht, Einführung einer strukturierten Eingabe in das Firmenbuch und die Ermöglichung von Firmenbuch-Eingaben.
+- Weitere Beschleunigung und Vereinfachung von Unternehmensgründungen, z.B. durch einen Ausbau der :index:`Digitalisierung` im Gesellschaftsrecht, Einführung einer strukturierten Eingabe in das Firmenbuch und die Ermöglichung von Firmenbuch-Eingaben.
 
 - Flexibilisierung des Kapitalgesellschaftsrechts (GmbH, AG): Die bestehenden Regelungen sollen insbesondere in Hinsicht auf Familienunternehmen und Start-ups flexibilisiert werden (unter Berücksichtigung des Anlegerschutzes und der Gläubiger).
 
@@ -244,10 +255,10 @@ Strafrecht an aktuelle Herausforderungen anpassen
   * Evaluierung und allfällige legistische Überarbeitung des VerbotsG unter dem Aspekt der inländischen Gerichtsbarkeit, insbesondere in Hinblick auf die Äußerungsdelikte der §§ 3g und 3f VerbotsG und Schließen weiterer Lücken (z.B. Teilleugnung).
   * Prüfung einer Möglichkeit der Einziehung von NS-Devotionalien unabhängig von der Verwirklichung einer mit Strafe bedrohten Handlung und Evaluierung des Abzeichengesetzes
 
-- Stärkung von Sicherheit, Rechtsfrieden und des Schutzes der höchsten Rechtsgüter, nicht nur in der analogen Welt, sondern auch in der digitalen Welt:
+- Stärkung von Sicherheit, Rechtsfrieden und des Schutzes der höchsten Rechtsgüter, nicht nur in der analogen Welt, sondern auch in der :index:`digitalen Welt <digitale Welt>`:
 
   * Erarbeitung zeitgemäßer und Erweiterung bzw. Präzisierung vorhandener Straftatbestände zur Bekämpfung aller Arten von :index:`Cyberkriminalität` sowie Prüfung der Erhöhung der derzeit in Geltung stehenden Strafrahmen.
-  * Bündelung staatsanwaltlicher Ermittlungskompetenzen zur Bekämpfung digitaler Verbrechen
+  * Bündelung staatsanwaltlicher Ermittlungskompetenzen zur Bekämpfung :index:`digitaler Verbrechen <digitales Verbrechen>`
 
 - Kampf gegen Umweltkriminalität:
 
@@ -391,12 +402,12 @@ Schutz vor Gewalt und Hass im Netz
   * Entwicklung von rechtlichen Instrumenten und Möglichkeiten für Betroffene von Hass im Netz, sich effektiv gegen Hass im Netz zur Wehr zu setzen.
   * Forcierung von bundesweiter Vernetzung von damit befassten Stellen.
 
-- Prüfung auf Effizienz in der Rechtsumsetzung eines digitalen Gewaltschutz-Gesetzes.
+- Prüfung auf Effizienz in der Rechtsumsetzung eines :index:`digitalen Gewaltschutz-Gesetzes <digitales Gewaltschutz-Gesetz>`.
 
   * Effektive Instrumente, mit denen Betroffene Sperren gegen Accounts beantragen können, die für festgestellte rechtswidrige Äußerungen missbraucht werden.
   * Zwingende Nennung eines Zustellbevollmächtigten für Betreiber internationaler sozialer Netzwerke.
 
-- Einsetzung einer ressortübergreifenden Task Force zur effizienten Bekämpfung von Hass im Netz und anderer digitaler Kriminalitätsformen.
+- Einsetzung einer ressortübergreifenden Task Force zur effizienten Bekämpfung von Hass im Netz und anderer :index:`digitaler Kriminalitätsformen <digitale Kriminalitätsform>`.
 
 Konsumentenschutz
 -----------------
@@ -410,9 +421,9 @@ Konsumentenschutz
 
 - Effektive Umsetzung des Europäischen Verbraucherrechts zur Herstellung fairer Bedingungen.
 
-  * Vermeidung von Rechtszersplitterung durch Integration von EU-Rechtsakten weitgehend in bestehende Gesetze (aktu- ell: EU-RL Waren und digitale Inhalte).
+  * Vermeidung von Rechtszersplitterung durch Integration von EU-Rechtsakten weitgehend in bestehende Gesetze (aktu- ell: EU-RL Waren und :index:`digitale Inhalte <digitaler Inhalt>`).
   * Forcierung der Zusammenarbeit der mit Konsumentenschutzangelegenheiten befassten Ministerien unter größtmöglicher Bündelung.
-  * Förderung der Nachhaltigkeit von Produkten, Maßnahmen gegen geplante Obsoleszenz (u.a. Haltbarkeit, Reparaturfreundlichkeit) durch rasche Umsetzung der RL Waren und digitale Inhalte.
+  * Förderung der Nachhaltigkeit von Produkten, Maßnahmen gegen geplante Obsoleszenz (u.a. Haltbarkeit, Reparaturfreundlichkeit) durch rasche Umsetzung der RL Waren und :index:`digitale Inhalte <digitaler Inhalt>`.
 
 - Instrumente der Rechtsdurchsetzung rasch an die modernen Geschäftspraktiken anpassen.
 
@@ -483,7 +494,7 @@ Wohnungseigentum: Modern, sinnvoll und klar verständlich
 
 - Novellierung und Modernisierung des WEG: Durchsetzbarkeit von notwendigen Erhaltungsmaßnahmen erhöhen (u.a. Überprüfung der verfahrensrechtlichen Vorschriften), Analyse der Zustellvorschriften und Zustimmungsvoraussetzungen, Erleichterung der Beschlussfassung, Schaffung von neuen Mehrheitsverhältnissen (z.B. Elektro-Tank-stellen und Photovoltaik-Anlage) unter Wahrung berechtigter Minderheitsrechte.
 
-- Grundbuchsnovelle: Ausweitung der Automatisierung/Digitalisierung, Reduktion der Medienbrüche.
+- Grundbuchsnovelle: Ausweitung der Automatisierung/:index:`Digitalisierung`, Reduktion der Medienbrüche.
 
 - Maßnahmen zur Dekarbonisierung sind nicht mehr unter „Verbesserung“, sondern unter „Erhaltung“ zu subsumieren.
 

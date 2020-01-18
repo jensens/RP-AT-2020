@@ -47,7 +47,7 @@ Familien stärken, Partnerschaftlichkeit und Gleichstellung fördern
 - FLAF-Reform
 
   * Anheben der Einkommensgrenze für Studierende (von € 10.000 auf € 15.000)
-  * FABIAN: digitale Weiterentwicklung zur Auszahlung der Familienbeihilfe
+  * FABIAN: :index:`digitale Weiterentwicklung zur Auszahlung der Familienbeihilfe <digitale Familienbeihilfe>`
   * Schülerfreifahrt und Öffi-Ticket ressortübergreifend denken
   * Abbau bürokratischer Hürden bei Kinderbetreuungsgeld und Papamonat
   * Reform Väterkarenz und Papamonat zur Verbesserung der Vereinbarkeit

@@ -45,7 +45,7 @@ Gewaltschutz
 Gleichstellung von Frauen am Arbeitsmarkt
 -----------------------------------------
 
-- Chancen für Frauen im ländlichen Raum erhöhen (Stichwort Digitalisierung)
+- Chancen für Frauen im ländlichen Raum erhöhen (Stichwort :index:`Digitalisierung`)
 
 - Aus- und Weiterbildungsmöglichkeiten
 

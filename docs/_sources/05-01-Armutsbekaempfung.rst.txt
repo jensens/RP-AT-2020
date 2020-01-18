@@ -111,7 +111,7 @@ Gemeinnützigkeit, ehrenamtliches Engagement, Freiwilligentätigkeit und Zivilge
 
 - Evaluierung des Freiwilligengesetzes in Hinblick auf die Relevanz für alle Freiwilligen in Österreich
 
-- Gleichberechtigter Zugang gemeinnütziger Organisationen bei Start-up-, Innovations- und Digitalisierungsförderung
+- Gleichberechtigter Zugang gemeinnütziger Organisationen bei :index:`Start-up- <Startupförderung>`, :index:`Innovations- <Innovationsförderung>` und :index:`Digitalisierungsförderung`
 
 - Anerkennung der Gemeinnützigkeit bei der Vergabe öffentlicher Aufträge und Förderungen
 

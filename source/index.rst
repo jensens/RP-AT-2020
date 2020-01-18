@@ -12,8 +12,13 @@
 - inoffizielle Veröffentlichung
 - Quelle ist dieses :download:`Original PDF <../original/RP2020.pdf>` (lokale Kopie).
 
-Regierungsprogramm
-==================
+Wortwolke des Regierungsprogramms; häufige Wörter sind größer und dunkler dargestellt.
+
+.. image:: rp2020-2024_wordcloud.png
+    :width: 80%
+    :align: center
+    :alt: Wordcloud des Regierungsprogramms. Erstellt von Erich Neuwirth
+
 
 .. toctree::
    :maxdepth: 3
@@ -26,11 +31,4 @@ Regierungsprogramm
    04-00-Europa-Integration-Migration-Sicherheit
    05-00-Soziale-Sicherheit-neue-Gerechtigkeit-Armutsbekaempfung
    06-00-Bildung
-
-.. include:: ../README.rst
-
-Index und Suche
-===============
-
-* :ref:`genindex`
-* :ref:`search`
+   README.rst
