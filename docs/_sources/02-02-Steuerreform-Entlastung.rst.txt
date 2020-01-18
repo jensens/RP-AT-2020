@@ -8,7 +8,7 @@ Steuern und Abgaben sind die wichtigsten Einkommensquellen des Staates, mit dene
 
 Die Bundesregierung bekennt sich dazu, im Zuge einer geplanten Steuerstrukturreform die Menschen in Österreich spürbar zu entlasten und unser Steuersystem zu vereinfachen. Dabei geht es besonders darum, dass Haushalte mit kleinen und mittleren Einkommen am Ende des Monats wieder mehr zum Leben haben und sich Eigentum schaffen können. Bei der bevorstehenden Reform steht neben dieser Entlastung besonders die ökologischsoziale Umsteuerung im Vordergrund – ökologisch-nachhaltiges Verhalten soll künftig stärker attraktiviert werden, während es bei ökologisch-schädlichem Verhalten einer stärkeren Kostenwahrheit bedarf (unter Rücksicht auf die soziale Verträglichkeit bzw. die Wettbewerbsfähigkeit unserer Wirtschaft).
 
-Die Bundesregierung ändert die Steuerund Abgabenstruktur. Ziele sind: eine Entlastung der Menschen, eine Senkung der Steuer- und Abgabenquote in Richtung 40%, eine ökologisch-soziale Reform mit Lenkungseffekten zur erfolgreichen Bekämpfung des :index:`Klimawandels` und der Erhalt und Ausbau von Innovationskraft, Nachhaltigkeit und Wettbewerbsfähigkeit der österreichischen Wirtschaft.
+Die Bundesregierung ändert die Steuerund Abgabenstruktur. Ziele sind: eine Entlastung der Menschen, eine Senkung der Steuer- und Abgabenquote in Richtung 40%, eine ökologisch-soziale Reform mit Lenkungseffekten zur erfolgreichen Bekämpfung des :index:`Klimawandels <Klimawandel>` und der Erhalt und Ausbau von Innovationskraft, Nachhaltigkeit und Wettbewerbsfähigkeit der österreichischen Wirtschaft.
 
 Steuerentlastung
 ----------------

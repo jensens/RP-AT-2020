@@ -5,7 +5,7 @@
 :download:`Kapitel als PDF <../split/03-01-Klimaschutz-Energie.pdf>` (Teil des :download:`Originals <../original/RP2020.pdf>`).
 
 Die besorgniserregende Veränderung unseres Klimas ist eine der größten Herausforderungen unserer Generation – in ökologischer, ökonomischer und sozialer Hinsicht.
-Die österreichische Bundesregierung bekennt sich zu ihrer Verantwortung, die notwendigen Schritte und Weichenstellungen vorzunehmen, um dieser Herausforderung auf allen Ebenen gerecht zu werden und die Ziele des Pariser :index:`Klimaschutzabkommens` zu erfüllen.
+Die österreichische Bundesregierung bekennt sich zu ihrer Verantwortung, die notwendigen Schritte und Weichenstellungen vorzunehmen, um dieser Herausforderung auf allen Ebenen gerecht zu werden und die Ziele des Pariser :index:`Klimaschutzabkommens <Klimaschutzabkommen>` zu erfüllen.
 Wir betrachten :index:`Klimaschutzmaßnahmen` als bedeutende Chance für Gerechtigkeit sowie für die zukunftsfähige Entwicklung von Wirtschaft und Arbeitsplätzen in Österreich.
 Diese Chancen gilt es zu nutzen - Österreich hat die besten Voraussetzungen dafür. Gemeinsam können wir das Ziel eines :index:`klimaneutralen Österreichs` bis spätestens 2040 erreichen und in Europa zum Vorreiter im :index:`Klimaschutz` werden.
 Für uns bedeutet das selbstverständlich, dass Atomkraft keine Alternative ist, sondern, dass wir ausschließlich auf Erneuerbare Energieträger setzen.
@@ -124,7 +124,7 @@ Die öffentliche Hand zeigt‘s vor! :index:`Klimaneutrale Verwaltung`
   * Aus für Neuzulassungen von Kfz (PKW) mit Verbrennungsmotoren in der öffentlichen Beschaffung (mit Ausnahme der Sonderfahrzeuge, Einsatzfahrzeuge und Fahrzeuge des Bundesheers) ab 2027
   * Flächendeckende Einführung von Umweltmanagementsystemen
   * Ziel ist eine 100% regionale und saisonale Beschaffung in Verbindung mit einer Bio-Quote von 30% bis 2025 und 55% bis 2030.
-  * Angebot eines täglichen :index:`Klimatellers` in Österreichs öffentlichen Küchen
+  * Angebot eines täglichen :index:`Klimatellers <Klimateller>` in Österreichs öffentlichen Küchen
 
 - Nachhaltige und innovationsfreundliche Beschaffung wird Standard:
 
@@ -343,8 +343,8 @@ Den österreichischen Anti-Atom-kraft-Weg konsequent fortsetzen und Einsatz gege
 
   * Einen europaweiten Kohleausstieg forcieren, um dem Import von billigem Kohlestrom nach Österreich entgegenzuwirken und die Wettbewerbsfähigkeit heimischer Stromer- zeuger zu gewährleisten
 
-Technologieoffensive, :index:`Digitalisierung` und Innovation
--------------------------------------------------------------
+Technologieoffensive, Digitalisierung und Innovation
+----------------------------------------------------
 
 - Integrierte Energiesysteme (Sektorkopplung): Gesamthafte Betrachtung der Systeme für Strom, Wärme und Mobilität
 
@@ -358,7 +358,7 @@ Technologieoffensive, :index:`Digitalisierung` und Innovation
 
 - Innovation – von Start-ups bis Energie-Cluster & :index:`Open Energy` Innovation Industrie.
 
-- :index:`Digitalisierung`: Vorteile nutzen, Datenschutz sicherstellen
+- Digitalisierung: Vorteile nutzen, Datenschutz sicherstellen
 
 - Strategie zur Verwendung alternativer Energieträger in der Mobilität (E-Mobilität, Wasserstoff, synthetische Treibstoffe) mit Fokus auf Gesamt-:index:`Klimabilanz`
 

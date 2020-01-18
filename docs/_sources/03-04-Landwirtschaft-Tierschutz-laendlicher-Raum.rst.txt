@@ -189,7 +189,7 @@ Sicherstellung einer wettbewerbsfähigen, multifunktionalen und flächendeckende
   * Weiterführung der Prüfung von GAP-Maßnahmen auf :index:`Klimatauglichkeit` sowie Umweltfolgenabschätzung
   * Ausschöpfen der Möglichkeiten zur ökonomischen und ökologischen Treffsicherheit der GAP-Maßnahmen in Hinblick auf den Erhalt der regionstypischen agrarischen Strukturen
   * Bodengebundene Tierhaltung unter Einhaltung des Aktionsprogramms Nitrat verankern
-  * Ökologische, :index:`klimagerechte` und Tierwohl-Kriterien für Investitionsförderungen im Rahmen der Ländlichen Entwicklung forcieren, z.B. Förderungen primär für Investitionen, die der Marktentwicklung und den gesellschaftlichen Anforderungen entsprechen, wie Tierwohlgerechter Stallbau
+  * Ökologische, :index:`klimagerechte und Tierwohl-Kriterien` für Investitionsförderungen im Rahmen der Ländlichen Entwicklung forcieren, z.B. Förderungen primär für Investitionen, die der Marktentwicklung und den gesellschaftlichen Anforderungen entsprechen, wie Tierwohlgerechter Stallbau
   * Keine Einführung von Zuzahlungen zu Risikoversicherungsprämien (insbesondere Einkommensversicherung) im Rahmen der GAP
   * Die Bedeckung von allenfalls seitens der Europäischen Kommission vorgenommenen Finanzkorrekturen in der GAP erfolgt im Rahmen des Budgetvollzugs durch zusätzlich zur Verfügung gestellte Mittel
 

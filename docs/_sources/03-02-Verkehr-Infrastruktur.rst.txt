@@ -35,7 +35,7 @@ Wir wollen die Rahmenbedingungen für neue Mobilitätsdienste optimieren und dab
 
 - Mobilitätsmasterplan 2030 für eine wirkungsorientierte integrierte Strategie für Luft-, Wasser-, Schienen- und Straßenverkehr, von der sich konkrete Maßnahmen für einzelne Sektoren ableiten, die Österreichs :index:`Klima- und Wirtschaftsziele` unterstützen
 
-  * Langfristige strategische Ausrichtung des Mobilitätssektors in Richtung Erfüllung des Pariser :index:`Klimaabkommens`
+  * Langfristige strategische Ausrichtung des Mobilitätssektors in Richtung Erfüllung des Pariser :index:`Klimaabkommens <Klimaabkommen>`
   * Das gesamtstaatliche :index:`Klimaziel` für den Bereich Verkehr fungiert als übergeordnete verbindliche Handlungsanleitung, an der sich die strategische Planung für alle Verkehrsträger ausrichten muss.
   * Der Mobilitätsmasterplan 2030 adressiert die Transformationstreiber Dekarbonisierung und :index:`Digitalisierung`. 
     Er nutzt die Potentiale der :index:`Digitalisierung` (Daten als Grundlage für modiübergreifende Steuerung und Nutzung neuer Geschäftsmodelle zur Erreichung der :index:`Klimaziele`). 
@@ -68,7 +68,7 @@ Umweltfreundliche, leistbare Mobilität für alle in Stadt und Land
   * Gesetzliche Festlegung der Gesamthöhe der Mittel und des Verteilungsschlüssels, orientiert an den ÖV-Mindeststandards (Beschlüsse 2014) sowie Zweckbindung für ÖPNV
   * Prüfung einer Neuorganisation (Integration in die Linienverkehre etc.) des Schüler-Gelegenheitsverkehrs, um eine Steigerung der Planungseffizienz und eine faire Ausfinanzierung zu erreichen
 
-- 1-2-3-Österreich-Ticket zur Erreichung der :index:`Klimaziele` – eine :index:`klimaschonende` Alternative zum motorisierten Individualverkehr, breit leistbar und zugleich unkompliziert zugänglich
+- 1-2-3-Österreich-Ticket zur Erreichung der :index:`Klimaziele` – eine :index:`klimaschonende Alternative` zum motorisierten Individualverkehr, breit leistbar und zugleich unkompliziert zugänglich
 
   * Umsetzung durch österreichweite Jahresnetzkarte für den öffentlichen Verkehr
   * Um 1 Euro pro Tag in einem Bundesland, um 2 Euro pro Tag in einem und im Nachbarbundesland, um 3 Euro pro Tag das gesamte Bundesgebiet
