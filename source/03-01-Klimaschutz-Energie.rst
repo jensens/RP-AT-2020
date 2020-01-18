@@ -124,7 +124,7 @@ Die öffentliche Hand zeigt‘s vor! :index:`Klimaneutrale Verwaltung`
   * Aus für Neuzulassungen von Kfz (PKW) mit Verbrennungsmotoren in der öffentlichen Beschaffung (mit Ausnahme der Sonderfahrzeuge, Einsatzfahrzeuge und Fahrzeuge des Bundesheers) ab 2027
   * Flächendeckende Einführung von Umweltmanagementsystemen
   * Ziel ist eine 100% regionale und saisonale Beschaffung in Verbindung mit einer Bio-Quote von 30% bis 2025 und 55% bis 2030.
-  * Angebot eines täglichen :index:`Klimateller`s in Österreichs öffentlichen Küchen
+  * Angebot eines täglichen :index:`Klimatellers <Klimateller>` in Österreichs öffentlichen Küchen
 
 - Nachhaltige und innovationsfreundliche Beschaffung wird Standard:
 
