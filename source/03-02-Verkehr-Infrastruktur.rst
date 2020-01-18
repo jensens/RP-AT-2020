@@ -35,7 +35,7 @@ Wir wollen die Rahmenbedingungen für neue Mobilitätsdienste optimieren und dab
 
 - Mobilitätsmasterplan 2030 für eine wirkungsorientierte integrierte Strategie für Luft-, Wasser-, Schienen- und Straßenverkehr, von der sich konkrete Maßnahmen für einzelne Sektoren ableiten, die Österreichs :index:`Klima- und Wirtschaftsziele` unterstützen
 
-  * Langfristige strategische Ausrichtung des Mobilitätssektors in Richtung Erfüllung des Pariser :index:`Klimaabkommen`s
+  * Langfristige strategische Ausrichtung des Mobilitätssektors in Richtung Erfüllung des Pariser :index:`Klimaabkommens <Klimaabkommen>`
   * Das gesamtstaatliche :index:`Klimaziel` für den Bereich Verkehr fungiert als übergeordnete verbindliche Handlungsanleitung, an der sich die strategische Planung für alle Verkehrsträger ausrichten muss.
   * Der Mobilitätsmasterplan 2030 adressiert die Transformationstreiber Dekarbonisierung und :index:`Digitalisierung`. 
     Er nutzt die Potentiale der :index:`Digitalisierung` (Daten als Grundlage für modiübergreifende Steuerung und Nutzung neuer Geschäftsmodelle zur Erreichung der :index:`Klimaziele`). 

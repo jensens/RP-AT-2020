@@ -54,7 +54,7 @@ Auf dieser Basis wollen die neue Volkspartei und die Grünen eine gemeinsame Reg
 Dafür haben wir gemeinsame Ziele definiert – im vollen Bewusstsein, dass es in allen politischen Feldern neue Wege braucht:
 
 1. Eine spürbare Entlastung für arbeitende Menschen
-2. Die Bekämpfung des :index:`Klimawandel`s und die Einhaltung der :index:`Klimaziele` von Paris
+2. Die Bekämpfung des :index:`Klimawandels <Klimawandel>` und die Einhaltung der :index:`Klimaziele` von Paris
 3. Einen nachhaltigen und wettbewerbsfähigen Wirtschaftsstandort
 4. Die soziale Sicherheit und Armutsbekämpfung
 5. Ein konsequenter Kurs im Bereich Migration und Integration
