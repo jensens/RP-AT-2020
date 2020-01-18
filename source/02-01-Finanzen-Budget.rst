@@ -17,7 +17,7 @@ Stabile wirtschaftliche Rahmenbedingungen sicherstellen
 
 - Die Bundesregierung verfolgt mit ihrer Budgetpolitik ökonomische, ökologische und soziale Ziele. Als Handlungsgrundlage dienen auch europäische und internationale Verpflichtungen, insbesondere das Pariser :index:`Klimaabkommen`.
 
-- Die Bundesregierung ändert die Steuer- und Abgabenstruktur. Ziele sind: eine Entlastung der Menschen, eine Senkung der Steuer- und Abgabenquote, eine ökologisch-soziale Reform mit Lenkungseffekten zur erfolgreichen Bekämpfung des :index:`Klimawandel`s sowie der Erhalt und Ausbau von Innovationskraft, Nachhaltigkeit und Wettbewerbsfähigkeit der österreichischen Wirtschaft.
+- Die Bundesregierung ändert die Steuer- und Abgabenstruktur. Ziele sind: eine Entlastung der Menschen, eine Senkung der Steuer- und Abgabenquote, eine ökologisch-soziale Reform mit Lenkungseffekten zur erfolgreichen Bekämpfung des :index:`Klimawandels <Klimawandel>` sowie der Erhalt und Ausbau von Innovationskraft, Nachhaltigkeit und Wettbewerbsfähigkeit der österreichischen Wirtschaft.
 
 - Die Bundesregierung setzt sich für die Veranlagung öffentlicher Mittel (z.B. bei Beteiligungen des Bundes im Rahmen der gesellschaftsrechtlichen Möglichkeiten) in nachhaltige und ökologische Anlagenformen ein.
 
