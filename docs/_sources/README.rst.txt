@@ -73,8 +73,8 @@ Das ist ein offenes Projekt, jede/r kann mitmachen.
 Wer mithelfen mag:
 Das `Projekt liegt auf Github <https://github.com/jensens/RP-AT-2020>`_, einer kollaborativen Plattform zur Quellcode-Verwaltung.
 
-Grundsätzlich kann man dort eine/n Benutzer/in anlegen und im `/source/` Ordner auf der zu ändernden Datei auf bearbeiten (edit) klicken.
-Es wird eine Kopie im eigenen Ordner (Clone) gespeichert und dann über einen Pull-Request fragt ihr mich an, um die Änderungen zum übernehmen.
+Grundsätzlich kann man dort eine/n Benutzer/in anlegen und im `/source/` Ordner auf der zu ändernden Datei auf Bearbeiten (edit) klicken.
+Es wird eine Kopie im eigenen Ordner (Clone) gespeichert. Dann fragt ihr mich über einen Pull-Request an die Änderungen zu Übernehmen.
 Sobald ich den Pull-Request übernommen (merged) habe, werde ich das HTML neu generieren und die Änderungen kommen so online.
 
 Wer GIT kennt, kann sich auch eine lokale Arbeitskopie erstellen.
