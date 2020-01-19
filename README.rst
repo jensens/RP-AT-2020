@@ -99,7 +99,7 @@ Stichworte markieren
 
      Die ist ein sinnloser :index:`Beispiel` Text. 
      In dem wird eines :index:`Stichwortes <Stichwort>` gewürdigt.
-     Für :index:`:index:`Extra- und Spezialworte <Extrawort, Spezialwort>` braucht man mehr als ein Stichwort.
+     Für :index:`Extra- und Spezialworte <Extrawort, Spezialwort>` braucht man mehr als ein Stichwort.
 
   Im ersten Fall wird das Wort direkt so genommen wie es da steht.
   Im zweiten Fall wird es anders als angezeigt aufgenommen, so wie in den Spitzklammern.
