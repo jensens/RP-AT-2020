@@ -97,11 +97,14 @@ Stichworte markieren
   Stichworte im Code markieren ist auch eine wichtige Aufgabe.
   Stichworte werden im Quelltext so markiert::
 
-     Die ist ein sinnloser :index:`Beispiel` Text, in dem eines :index:`Stichwortes <Stichwort>` gewürdigt wird.
+     Die ist ein sinnloser :index:`Beispiel` Text. 
+     In dem wird eines :index:`Stichwortes <Stichwort>` gewürdigt.
+     Für :index:`:index:`Extra- und Spezialworte <Extrawort, Spezialwort>` braucht man mehr als ein Stichwort.
 
   Im ersten Fall wird das Wort direkt so genommen wie es da steht.
   Im zweiten Fall wird es anders als angezeigt aufgenommen, so wie in den Spitzklammern.
   In dem Fall hier wird die Grundform des Wortes übernommen.
+  Im dritten Fall treffen auf eine Markierung mehrere Stichworte zu.
 
 
 ----------
@@ -124,3 +127,4 @@ Disclaimer
 Die Erstellung des barrierefreien und maschinenlesbaren Regierungsprogramms erfolgte nach bestem Wissen und Gewissen.
 Durch die vielen manuellen Übertragungsschritte kann es passiert sein, dass sich eventuell Fehler (zB. in der Anordnung von Unterpunkten) eingeschlichen haben, für die wir keine Gewähr übernehmen. 
 Wenn derartiges auffällt, bitte einen `Issue auf github.com/jensens/RP-AT-2020/issues <https://github.com/jensens/RP-AT-2020/issues>`_ erstellen und wir werden dies umgehend korrigieren.
+mobi
