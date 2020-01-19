@@ -26,6 +26,7 @@ all:
 clean:
 	rm -r $(BUILDDIR)/epub/* || echo "no epub directory"
 	rm -r $(BUILDDIR)/html/* || echo no html
+	rm -r $(BUILDDIR)/doctrees || echo no doctrees
 	rm "$(BUILDDIR)"/regierungsprogramm-2020-2014.epub || echo "no epub file"
 	rm "$(BUILDDIR)"/regierungsprogramm-2020-2014.mobi || echo "no mobi file"
 
